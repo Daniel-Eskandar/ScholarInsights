@@ -9,11 +9,12 @@ file_path = 'Data/articles_PhilippHennig.csv'
 df = pd.read_csv(file_path)
 
 # Display the first few rows of the DataFrame
-print(df.head())
 
+
+
+#get oredered dict of coauthors by number of occurances
 all_authors = list(df['authors'])
 all_authors_flattened = flattened_list = [name.strip() for item in all_authors for name in item.split(',')]
-
 
 name_counts = Counter(all_authors_flattened)
 
@@ -23,4 +24,8 @@ sorted_name_counts = sorted(name_counts.items(), key=lambda item: item[1], rever
 # Convert sorted tuples back to dictionary
 sorted_name_counts_dict = dict(sorted_name_counts)
 
-print(sorted_name_counts_dict)
+
+
+paper_titles = list(df['title'])
+
+print(paper_titles)
