@@ -1,0 +1,179 @@
+author_name,title,authors,publication,cited_by_value,year
+Andreas Geiger,Are we ready for Autonomous Driving? The KITTI Vision Benchmark Suite,"A Geiger, P Lenz, R Urtasun","Computer Vision and Pattern Recognition (CVPR),(Providence, USA), 2012",12941,2012
+Andreas Geiger,Vision meets robotics: The KITTI dataset,"A Geiger, P Lenz, C Stiller, R Urtasun","The International Journal of Robotics Research 32 (11), 1231-1237, 2013",8282,2013
+Andreas Geiger,Object Scene Flow for Autonomous Vehicles,"M Menze, A Geiger","Proceedings of the IEEE Conference on Computer Vision and Pattern …, 2015",2164,2015
+Andreas Geiger,Occupancy networks: Learning 3d reconstruction in function space,"L Mescheder, M Oechsle, M Niemeyer, S Nowozin, A Geiger","Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2019",2162,2019
+Andreas Geiger,Octnet: Learning deep 3d representations at high resolutions,"G Riegler, A Osman Ulusoy, A Geiger","Proceedings of the IEEE Conference on Computer Vision and Pattern …, 2017",1596,2017
+Andreas Geiger,Which Training Methods for GANs do actually Converge?,"L Mescheder, A Geiger, S Nowozin","International Conference on Machine Learning, 3478-3487, 2018",1393,2018
+Andreas Geiger,Stereoscan: Dense 3d reconstruction in real-time,"A Geiger, J Ziegler, C Stiller","Intelligent Vehicles Symposium (IV), 2011 IEEE, 963-968, 2011",1354,2011
+Andreas Geiger,Efficient large-scale stereo matching,"A Geiger, M Roser, R Urtasun","Computer Vision–ACCV 2010, 25-38, 2011",1069,2011
+Andreas Geiger,"Computer Vision for Autonomous Vehicles: Problems, Datasets and State of the Art","J Janai, F Güney, A Behl, A Geiger","Foundations and Trends® in Computer Graphics and Vision 12 (1–3), 1-308, 2020",876,2020
+Andreas Geiger,Sparsity invariant cnns,"J Uhrig, N Schneider, L Schneider, U Franke, T Brox, A Geiger","2017 International Conference on 3D Vision (3DV), 11-20, 2017",826,2017
+Andreas Geiger,A new performance measure and evaluation benchmark for road detection algorithms,"J Fritsch, T Kuehnl, A Geiger","16th International IEEE Conference on Intelligent Transportation Systems …, 2013",756,2013
+Andreas Geiger,Differentiable volumetric rendering: Learning implicit 3d representations without 3d supervision,"M Niemeyer, L Mescheder, M Oechsle, A Geiger","Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2020",743,2020
+Andreas Geiger,Convolutional occupancy networks,"S Peng, M Niemeyer, L Mescheder, M Pollefeys, A Geiger","European Conference on Computer Vision, 523-540, 2020",698,2020
+Andreas Geiger,Automatic camera and range sensor calibration using a single shot,"A Geiger, F Moosmann, Ö Car, B Schuster","2012 IEEE International Conference on Robotics and Automation, 3936-3943, 2012",672,2012
+Andreas Geiger,Giraffe: Representing scenes as compositional generative neural feature fields,"M Niemeyer, A Geiger","Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2021",652,2021
+Andreas Geiger,A multi-view stereo benchmark with high-resolution images and multi-camera videos,"T Schops, JL Schonberger, S Galliani, T Sattler, K Schindler, M Pollefeys, ...","Proceedings of the IEEE Conference on Computer Vision and Pattern …, 2017",633,2017
+Andreas Geiger,GRAF: Generative Radiance Fields for 3D-Aware Image Synthesis,"K Schwarz, Y Liao, M Niemeyer, A Geiger","Advances in Neural Information Processing Systems 33, 2020",607,2020
+Andreas Geiger,Adversarial variational bayes: Unifying variational autoencoders and generative adversarial networks,"L Mescheder, S Nowozin, A Geiger","Proceedings of the 34th International Conference on Machine Learning-Volume …, 2017",597,2017
+Andreas Geiger,Visual odometry based on stereo image sequences with RANSAC-based outlier rejection scheme,"B Kitt, A Geiger, H Lategahn","Intelligent Vehicles Symposium (IV), 2010 IEEE, 486-492, 2010",586,2010
+Andreas Geiger,3d traffic scene understanding from movable platforms,"A Geiger, M Lauer, C Wojek, C Stiller, R Urtasun","IEEE transactions on pattern analysis and machine intelligence 36 (5), 1012-1025, 2014",508,2014
+Andreas Geiger,The numerics of gans,"L Mescheder, S Nowozin, A Geiger","Advances in Neural Information Processing Systems, 1825-1835, 2017",481,2017
+Andreas Geiger,Mots: Multi-object tracking and segmentation,"P Voigtlaender, M Krause, A Osep, J Luiten, BBG Sekar, A Geiger, ...","Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2019",476,2019
+Andreas Geiger,Kilonerf: Speeding up neural radiance fields with thousands of tiny mlps,"C Reiser, S Peng, Y Liao, A Geiger","Proceedings of the IEEE/CVF International Conference on Computer Vision …, 2021",450,2021
+Andreas Geiger,Unisurf: Unifying neural implicit surfaces and radiance fields for multi-view reconstruction,"M Oechsle, S Peng, A Geiger","Proceedings of the IEEE/CVF International Conference on Computer Vision …, 2021",423,2021
+Andreas Geiger,Tensorf: Tensorial radiance fields,"A Chen, Z Xu, A Geiger, J Yu, H Su","European Conference on Computer Vision, 333-350, 2022",422,2022
+Andreas Geiger,Augmented reality meets computer vision: Efficient data generation for urban driving scenes,"HA Alhaija, SK Mustikovela, L Mescheder, A Geiger, C Rother","International Journal of Computer Vision 126 (9), 961-972, 2018",412,2018
+Andreas Geiger,Hota: A higher order metric for evaluating multi-object tracking,"J Luiten, A Osep, P Dendorfer, P Torr, A Geiger, L Leal-Taixé, B Leibe","International journal of computer vision 129, 548-578, 2021",371,2021
+Andreas Geiger,Multi-Modal Fusion Transformer for End-to-End Autonomous Driving,"A Prakash, K Chitta, A Geiger","Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2021",346,2021
+Andreas Geiger,Joint 3d estimation of vehicles and scene flow,"M Menze, C Heipke, A Geiger","ISPRS annals of the photogrammetry, remote sensing and spatial information …, 2015",337,2015
+Andreas Geiger,Spherenet: Learning spherical representations for detection and classification in omnidirectional images,"B Coors, AP Condurache, A Geiger","Proceedings of the European Conference on Computer Vision (ECCV), 518-533, 2018",324,2018
+Andreas Geiger,Semantic visual localization,"JL Schönberger, M Pollefeys, A Geiger, T Sattler","Proceedings of the IEEE Conference on Computer Vision and Pattern …, 2018",286,2018
+Andreas Geiger,Displets: Resolving stereo ambiguities using object knowledge,"F Guney, A Geiger","Proceedings of the IEEE Conference on Computer Vision and Pattern …, 2015",283,2015
+Andreas Geiger,Texture fields: Learning texture representations in function space,"M Oechsle, L Mescheder, M Niemeyer, T Strauss, A Geiger","Proceedings of the IEEE/CVF International Conference on Computer Vision …, 2019",254,2019
+Andreas Geiger,Deep marching cubes: Learning explicit surface representations,"Y Liao, S Donne, A Geiger","Proceedings of the IEEE Conference on Computer Vision and Pattern …, 2018",239,2018
+Andreas Geiger,Occupancy flow: 4d reconstruction by learning particle dynamics,"M Niemeyer, L Mescheder, M Oechsle, A Geiger","Proceedings of the IEEE/CVF International Conference on Computer Vision …, 2019",238,2019
+Andreas Geiger,KITTI-360: A novel dataset and benchmarks for urban scene understanding in 2d and 3d,"Y Liao, J Xie, A Geiger","IEEE Transactions on Pattern Analysis and Machine Intelligence 45 (3), 3292-3310, 2022",234,2022
+Andreas Geiger,Team AnnieWAY’s entry to the Grand Cooperative Driving Challenge 2011,"A Geiger, M Lauer, F Moosmann, B Ranft, H Rapp, C Stiller, J Ziegler","IEEE Transactions on Intelligent Transportation Systems (in print), 2012",234,2012
+Andreas Geiger,Regnerf: Regularizing neural radiance fields for view synthesis from sparse inputs,"M Niemeyer, JT Barron, B Mildenhall, MSM Sajjadi, A Geiger, N Radwan","Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2022",226,2022
+Andreas Geiger,Learning 3D Shape Completion from Laser Scan Data with Weak Supervision,"D Stutz, A Geiger","Proceedings of the IEEE Conference on Computer Vision and Pattern …, 2018",217,2018
+Andreas Geiger,On the integration of optical flow and action recognition,"L Sevilla-Lara, Y Liao, F Güney, V Jampani, A Geiger, MJ Black","German Conference on Pattern Recognition, 281-297, 2018",215,2018
+Andreas Geiger,Octnetfusion: Learning depth fusion from data,"G Riegler, AO Ulusoy, H Bischof, A Geiger","2017 International Conference on 3D Vision (3DV), 57-66, 2017",210,2017
+Andreas Geiger,Stylegan-xl: Scaling stylegan to large diverse datasets,"A Sauer, K Schwarz, A Geiger","ACM SIGGRAPH 2022 Conference Proceedings, 1-10, 2022",208,2022
+Andreas Geiger,Object scene flow,"M Menze, C Heipke, A Geiger","ISPRS Journal of Photogrammetry and Remote Sensing 140, 60-76, 2018",202,2018
+Andreas Geiger,Visual SLAM for autonomous ground vehicles,"H Lategahn, A Geiger, B Kitt","Robotics and Automation (ICRA), 2011 IEEE International Conference on, 1732-1737, 2011",198,2011
+Andreas Geiger,Lost! leveraging the crowd for probabilistic visual self-localization,"MA Brubaker, A Geiger, R Urtasun","Proceedings of the IEEE Conference on Computer Vision and Pattern …, 2013",196,2013
+Andreas Geiger,Conditional affordance learning for driving in urban environments,"A Sauer, N Savinov, A Geiger","Conference on Robot Learning, 237-252, 2018",195,2018
+Andreas Geiger,Semantic instance annotation of street scenes by 3D to 2D label transfer,"J Xie, M Kiefel, MT Sun, A Geiger","Proceedings of the IEEE Conference on Computer Vision and Pattern …, 2016",192,2016
+Andreas Geiger,Unsupervised learning of multi-frame optical flow with occlusions,"J Janai, F Guney, A Ranjan, M Black, A Geiger","Proceedings of the European Conference on Computer Vision (ECCV), 690-706, 2018",186,2018
+Andreas Geiger,Sparse scene flow segmentation for moving object detection in urban environments,"P Lenz, J Ziegler, A Geiger, M Roser","Intelligent Vehicles Symposium (IV), 2011 IEEE, 926-932, 2011",185,2011
+Andreas Geiger,Topologically-constrained latent variable models,"R Urtasun, DJ Fleet, A Geiger, J Popović, TJ Darrell, ND Lawrence","Proceedings of the 25th international conference on Machine learning, 1080-1087, 2008",181,2008
+Andreas Geiger,Video-based raindrop detection for improved image registration,"M Roser, A Geiger","Computer Vision Workshops (ICCV Workshops), 2009 IEEE 12th International …, 2009",163,2009
+Andreas Geiger,Superquadrics revisited: Learning 3d shape parsing beyond cuboids,"D Paschalidou, AO Ulusoy, A Geiger","Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2019",158,2019
+Andreas Geiger,"Bounding boxes, segmentations and object coordinates: How important is recognition for 3d scene flow estimation in autonomous driving scenarios?","A Behl, O Hosseini Jafari, S Karthik Mustikovela, H Abu Alhaija, C Rother, ...","Proceedings of the IEEE International Conference on Computer Vision, 2574-2583, 2017",158,2017
+Andreas Geiger,Joint 3d estimation of objects and scene layout,"A Geiger, C Wojek, R Urtasun","Advances in Neural Information Processing Systems 24, 2011",156,2011
+Andreas Geiger,SNARF: Differentiable forward skinning for animating non-rigid neural implicit shapes,"X Chen, Y Zheng, MJ Black, O Hilliges, A Geiger","Proceedings of the IEEE/CVF International Conference on Computer Vision …, 2021",151,2021
+Andreas Geiger,Monosdf: Exploring monocular geometric cues for neural implicit surface reconstruction,"Z Yu, S Peng, M Niemeyer, T Sattler, A Geiger","Advances in neural information processing systems 35, 25018-25032, 2022",145,2022
+Andreas Geiger,Discrete optimization for optical flow,"M Menze, C Heipke, A Geiger","German Conference on Pattern Recognition, 16-28, 2015",145,2015
+Andreas Geiger,Map-based probabilistic visual self-localization,"MA Brubaker, A Geiger, R Urtasun","IEEE transactions on pattern analysis and machine intelligence 38 (4), 652-665, 2016",144,2016
+Andreas Geiger,Robust Dense Mapping for Large-Scale Dynamic Environments,"IA Bârsan, P Liu, M Pollefeys, A Geiger","Proceedings of the IEEE International Conference on Robotics and Automation …, 2018",138,2018
+Andreas Geiger,Projected gans converge faster,"A Sauer, K Chitta, J Müller, A Geiger","Advances in Neural Information Processing Systems 34, 17480-17492, 2021",136,2021
+Andreas Geiger,Understanding high-level semantics by modeling traffic patterns,"H Zhang, A Geiger, R Urtasun","Proceedings of the IEEE International Conference on Computer Vision, 3056-3063, 2013",129,2013
+Andreas Geiger,FollowMe: Efficient online min-cost flow tracking with bounded memory and computation,"P Lenz, A Geiger, R Urtasun","Proceedings of the IEEE International Conference on Computer Vision, 4364-4372, 2015",127,2015
+Andreas Geiger,Towards unsupervised learning of generative models for 3d controllable image synthesis,"Y Liao, K Schwarz, L Mescheder, A Geiger","Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2020",120,2020
+Andreas Geiger,Shape as points: A differentiable poisson solver,"S Peng, C Jiang, Y Liao, M Niemeyer, M Pollefeys, A Geiger","Advances in Neural Information Processing Systems 34, 13032-13044, 2021",116,2021
+Andreas Geiger,NEAT: Neural Attention Fields for End-to-End Autonomous Driving,"K Chitta, A Prakash, A Geiger","Proceedings of the IEEE/CVF International Conference on Computer Vision …, 2021",113,2021
+Andreas Geiger,Project autovision: Localization and 3d scene perception for an autonomous vehicle with a multi-camera system,"L Heng, B Choi, Z Cui, M Geppert, S Hu, B Kuan, P Liu, R Nguyen, ...","2019 International Conference on Robotics and Automation (ICRA), 4695-4702, 2019",113,2019
+Andreas Geiger,Pointflownet: Learning representations for rigid motion estimation from point clouds,"A Behl, D Paschalidou, S Donné, A Geiger","Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2019",109,2019
+Andreas Geiger,Counterfactual Generative Networks,"A Sauer, A Geiger","arXiv preprint arXiv:2101.06046, 2021",104,2021
+Andreas Geiger,Transfuser: Imitation with transformer-based sensor fusion for autonomous driving,"K Chitta, A Prakash, B Jaeger, Z Yu, K Renz, A Geiger","IEEE Transactions on Pattern Analysis & Machine Intelligence 45 (11), 12878 …, 2023",95,2023
+Andreas Geiger,Learning Unsupervised Hierarchical Part Decomposition of 3D Objects from a Single RGB Image,"D Paschalidou, L van Gool, A Geiger","Proc. IEEE Conf. on Computer Vision and Pattern Recognition (CVPR) 3, 2020",94,2020
+Andreas Geiger,RayNet: Learning Volumetric 3D Reconstruction with Ray Potentials,"D Paschalidou, O Ulusoy, C Schmitt, L Van Gool, A Geiger","Proceedings of the IEEE Conference on Computer Vision and Pattern …, 2018",94,2018
+Andreas Geiger,"Simultaneous underwater visibility assessment, enhancement and improved stereo","M Roser, M Dunbabin, A Geiger","2014 IEEE International Conference on Robotics and Automation (ICRA), 3840-3847, 2014",92,2014
+Andreas Geiger,Attacking optical flow,"A Ranjan, J Janai, A Geiger, MJ Black","Proceedings of the IEEE/CVF International Conference on Computer Vision …, 2019",91,2019
+Andreas Geiger,Learning 3d shape completion under weak supervision,"D Stutz, A Geiger","International Journal of Computer Vision, 1-20, 2018",90,2018
+Andreas Geiger,A generative model for 3d urban scene understanding from movable platforms,"A Geiger, M Lauer, R Urtasun","Computer Vision and Pattern Recognition (CVPR), 2011 IEEE Conference on …, 2011",90,2011
+Andreas Geiger,Category Level Object Pose Estimation via Neural Analysis-by-Synthesis,"X Chen, Z Dong, J Song, A Geiger, O Hilliges","European Conference on Computer Vision, 139-156, 2020",88,2020
+Andreas Geiger,Omnidirectional 3d reconstruction in augmented manhattan worlds,"M Schönbein, A Geiger","2014 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2014",88,2014
+Andreas Geiger,Augmented reality meets deep learning for car instance segmentation in urban scenes,"HA Alhaija, SK Mustikovela, L Mescheder, A Geiger, C Rother","British machine vision conference 1 (2), 2017",87,2017
+Andreas Geiger,Deep discrete flow,"F Güney, A Geiger","Asian Conference on Computer Vision, 207-224, 2016",84,2016
+Andreas Geiger,Neural Parts: Learning expressive 3D shape abstractions with invertible neural networks,"D Paschalidou, A Katharopoulos, A Geiger, S Fidler","Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2021",78,2021
+Andreas Geiger,Slow flow: Exploiting high-speed cameras for accurate and diverse optical flow reference data,"J Janai, F Güney, J Wulff, M Black, A Geiger","Conference on Computer Vision and Pattern Recognition (CVPR), 2017",78,2017
+Andreas Geiger,Realistic modeling of water droplets for monocular adherent raindrop recognition using bezier curves,"M Roser, J Kurz, A Geiger","Computer Vision–ACCV 2010 Workshops, 235-244, 2010",78,2010
+Andreas Geiger,Panoptic nerf: 3d-to-2d label transfer for panoptic urban scene segmentation,"X Fu, S Zhang, T Chen, Y Lu, L Zhu, X Zhou, A Geiger, Y Liao","2022 International Conference on 3D Vision (3DV), 1-11, 2022",73,2022
+Andreas Geiger,Exploring Data Aggregation in Policy Learning for Vision-based Urban Autonomous Driving,"A Prakash, A Behl, E Ohn-Bar, K Chitta, A Geiger","Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2020",71,2020
+Andreas Geiger,Towards Probabilistic Volumetric Reconstruction using Ray Potentials,"AO Ulusoy, A Geiger, MJ Black",,71,
+Andreas Geiger,Step: Segmenting and tracking every pixel,"M Weber, J Xie, M Collins, Y Zhu, P Voigtlaender, H Adam, B Green, ...","arXiv preprint arXiv:2102.11859, 2021",70,2021
+Andreas Geiger,Voxgraf: Fast 3d-aware image synthesis with sparse voxel grids,"K Schwarz, A Sauer, M Niemeyer, Y Liao, A Geiger","Advances in Neural Information Processing Systems 35, 33999-34011, 2022",69,2022
+Andreas Geiger,Metaavatar: Learning animatable clothed human models from few depth images,"S Wang, M Mihajlovic, Q Ma, A Geiger, S Tang","Advances in Neural Information Processing Systems 34, 2810-2822, 2021",69,2021
+Andreas Geiger,Learning Situational Driving,"E Ohn-Bar, A Prakash, A Behl, K Chitta, A Geiger","Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2020",66,2020
+Andreas Geiger,Joint 3d object and layout inference from a single rgb-d image,"A Geiger, C Wang","German Conference on Pattern Recognition, 183-195, 2015",65,2015
+Andreas Geiger,StyleGAN-T: Unlocking the Power of GANs for Fast Large-Scale Text-to-Image Synthesis,"A Sauer, T Karras, S Laine, A Geiger, T Aila","arXiv preprint arXiv:2301.09515, 2023",60,2023
+Andreas Geiger,Taking a deeper look at the inverse compositional algorithm,"Z Lv, F Dellaert, JM Rehg, A Geiger","Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2019",60,2019
+Andreas Geiger,Campari: Camera-aware decomposed generative neural radiance fields,"M Niemeyer, A Geiger","2021 International Conference on 3D Vision (3DV), 951-961, 2021",59,2021
+Andreas Geiger,SLIM: Self-Supervised LiDAR Scene Flow and Motion Segmentation,"SA Baur, DJ Emmerichs, F Moosmann, P Pinggera, B Ommer, A Geiger","Proceedings of the IEEE/CVF International Conference on Computer Vision …, 2021",58,2021
+Andreas Geiger,Atiss: Autoregressive transformers for indoor scene synthesis,"D Paschalidou, A Kar, M Shugrina, K Kreis, A Geiger, S Fidler","Advances in Neural Information Processing Systems 34, 12013-12026, 2021",56,2021
+Andreas Geiger,NeRFPlayer: A streamable dynamic scene representation with decomposed neural radiance fields,"L Song, A Chen, Z Li, Z Chen, L Chen, J Yuan, Y Xu, A Geiger","IEEE Transactions on Visualization and Computer Graphics, 2023",50,2023
+Andreas Geiger,ARAH: Animatable volume rendering of articulated human sdfs,"S Wang, K Schwarz, A Geiger, S Tang","Proceedings of the European Conference on Computer Vision (ECCV) 3, 2022",49,2022
+Andreas Geiger,SMD-Nets: Stereo Mixture Density Networks,"F Tosi, Y Liao, C Schmitt, A Geiger","Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2021",47,2021
+Andreas Geiger,Rank priors for continuous non-linear dimensionality reduction,"A Geiger, R Urtasun, T Darrell","2009 IEEE Conference on Computer Vision and Pattern Recognition, 880-887, 2009",46,2009
+Andreas Geiger,Rank priors for continuous non-linear dimensionality reduction,"A Geiger, R Urtasun, T Darrell","2009 IEEE Conference on Computer Vision and Pattern Recognition, 880-887, 2009",46,2009
+Andreas Geiger,An all-in-one solution to geometric and photometric calibration,"J Pilet, A Geiger, P Lagger, V Lepetit, P Fua","Mixed and Augmented Reality, 2006. ISMAR 2006. IEEE/ACM International …, 2006",46,2006
+Andreas Geiger,Learning priors for semantic 3D reconstruction,"I Cherabier, JL Schonberger, MR Oswald, M Pollefeys, A Geiger","Proceedings of the European Conference on Computer Vision (ECCV), 314-330, 2018",45,2018
+Andreas Geiger,gDNA: Towards Generative Detailed Neural Avatars,"X Chen, T Jiang, J Song, J Yang, MJ Black, A Geiger, O Hilliges","Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2022",44,2022
+Andreas Geiger,Geometric image synthesis,"H Abu Alhaija, SK Mustikovela, A Geiger, C Rother","Asian Conference on Computer Vision, 85-100, 2018",43,2018
+Andreas Geiger,Towards robust visual odometry with a multi-camera system,"P Liu, M Geppert, L Heng, T Sattler, A Geiger, M Pollefeys","2018 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2018",42,2018
+Andreas Geiger,Semantic multi-view stereo: Jointly estimating objects and voxels,"AO Ulusoy, MJ Black, A Geiger","Proc. IEEE Conf. on Computer Vision and Pattern Recognition (CVPR) 2, 2017",42,2017
+Andreas Geiger,Label efficient visual abstractions for autonomous driving,"A Behl, K Chitta, A Prakash, E Ohn-Bar, A Geiger","2020 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2020",40,2020
+Andreas Geiger,Direct visual odometry for a fisheye-stereo camera,"P Liu, L Heng, T Sattler, A Geiger, M Pollefeys","2017 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2017",40,2017
+Andreas Geiger,Calibrating and centering quasi-central catadioptric cameras,"M Schönbein, T Strauß, A Geiger","2014 IEEE International Conference on Robotics and Automation (ICRA), 4443-4450, 2014",40,2014
+Andreas Geiger,Learning implicit surface light fields,"M Oechsle, M Niemeyer, C Reiser, L Mescheder, T Strauss, A Geiger","2020 International Conference on 3D Vision (3DV), 452-462, 2020",39,2020
+Andreas Geiger,Locally Aware Piecewise Transformation Fieldsr for 3D Human Mesh Registration,"S Wang, A Geiger, S Tang","2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2021), 2021",38,2021
+Andreas Geiger,On the frequency bias of generative models,"K Schwarz, Y Liao, A Geiger","Advances in Neural Information Processing Systems 34, 18126-18136, 2021",37,2021
+Andreas Geiger,Real-time dense mapping for self-driving vehicles using fisheye cameras,"Z Cui, L Heng, YC Yeo, A Geiger, M Pollefeys, T Sattler","2019 International Conference on Robotics and Automation (ICRA), 6087-6093, 2019",37,2019
+Andreas Geiger,"Unifying flow, stereo and depth estimation","H Xu, J Zhang, J Cai, H Rezatofighi, F Yu, D Tao, A Geiger","IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023",35,2023
+Andreas Geiger,"On Joint Estimation of Pose, Geometry and svBRDF From a Handheld Scanner","C Schmitt, S Donné, G Riegler, V Koltun, A Geiger","Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2020",34,2020
+Andreas Geiger,Learning non-volumetric depth fusion using successive reprojections,"S Donne, A Geiger","Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2019",34,2019
+Andreas Geiger,Connecting the dots: Learning representations for active monocular depth estimation,"G Riegler, Y Liao, S Donne, V Koltun, A Geiger","Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2019",34,2019
+Andreas Geiger,Toroidal constraints for two-point localization under high outlier ratios,"F Camposeco, T Sattler, A Cohen, A Geiger, M Pollefeys","Proceedings of the IEEE Conference on Computer Vision and Pattern …, 2017",32,2017
+Andreas Geiger,"Patches, Planes and Probabilities: A Non-Local Prior for Volumetric 3D Reconstruction","A Osman Ulusoy, MJ Black, A Geiger","Proceedings of the IEEE Conference on Computer Vision and Pattern …, 2016",32,2016
+Andreas Geiger,King: Generating safety-critical driving scenarios for robust imitation via kinematics gradients,"N Hanselmann, K Renz, K Chitta, A Bhattacharyya, A Geiger","European Conference on Computer Vision, 335-352, 2022",31,2022
+Andreas Geiger,PINA: Learning a personalized implicit neural avatar from a single RGB-D video sequence,"Z Dong, C Guo, J Song, X Chen, A Geiger, O Hilliges","Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2022",30,2022
+Andreas Geiger,Monocular road mosaicing for urban environments,A Geiger,"Intelligent Vehicles Symposium, 2009 IEEE, 140-145, 2009",30,2009
+Andreas Geiger,Merf: Memory-efficient radiance fields for real-time view synthesis in unbounded scenes,"C Reiser, R Szeliski, D Verbin, P Srinivasan, B Mildenhall, A Geiger, ...","ACM Transactions on Graphics (TOG) 42 (4), 1-12, 2023",29,2023
+Andreas Geiger,NICER-SLAM: Neural Implicit Scene Encoding for RGB SLAM,"Z Zhu, S Peng, V Larsson, Z Cui, MR Oswald, A Geiger, M Pollefeys","arXiv preprint arXiv:2302.03594, 2023",29,2023
+Andreas Geiger,Self-Supervised Linear Motion Deblurring,"P Liu, J Janai, M Pollefeys, T Sattler, A Geiger","IEEE Robotics and Automation Letters 5 (2), 2475-2482, 2020",29,2020
+Andreas Geiger,Learning Steering Kernels for Guided Depth Completion,"L Liu, Y Liao, Y Wang, A Geiger, Y Liu","IEEE Transactions on Image Processing 30, 2850-2861, 2021",27,2021
+Andreas Geiger,Object flow: A descriptor for classifying traffic motion,"A Geiger, B Kitt","2010 IEEE Intelligent Vehicles Symposium, 287-293, 2010",26,2010
+Andreas Geiger,Probabilistic models for 3D urban scene understanding from movable platforms,A Geiger,"KIT Scientific Publishing, 2013",24,2013
+Andreas Geiger,PlanT: Explainable Planning Transformers via Object-Level Representations,"K Renz, K Chitta, OB Mercea, A Koepke, Z Akata, A Geiger","arXiv preprint arXiv:2210.14222, 2022",22,2022
+Andreas Geiger,Maschinelles Sehen,"C Stiller, A Bachmann, A Geiger","Handbuch Fahrerassistenzsysteme, 369-393, 2015",21,2015
+Andreas Geiger,Motion-without-Structure: Real-time Multipose Optimization for Accurate Visual Odometry,"H Lategahn, A Geiger, B Kitt, C Stiller",,20,
+Andreas Geiger,Exploiting Object Similarity in 3D Reconstruction,"C Zhou, F Guney, Y Wang, A Geiger","Proceedings of the IEEE International Conference on Computer Vision, 2201-2209, 2015",19,2015
+Andreas Geiger,End-to-end Autonomous Driving: Challenges and Frontiers,"L Chen, P Wu, K Chitta, B Jaeger, A Geiger, H Li","arXiv preprint arXiv:2306.16927, 2023",15,2023
+Andreas Geiger,Deep generative models on 3d representations: A survey,"Z Shi, S Peng, Y Xu, A Geiger, Y Liao, Y Shen","arXiv preprint arXiv:2210.15663, 2022",15,2022
+Andreas Geiger,Unmasking the Inductive Biases of Unsupervised Object Representations for Video Sequences,"MA Weis, K Chitta, Y Sharma, W Brendel, M Bethge, A Geiger, AS Ecker","arXiv preprint arXiv:2006.07034, 2020",15,2020
+Andreas Geiger,Parting with Misconceptions about Learning-based Vehicle Motion Planning,"D Dauner, M Hallgarten, A Geiger, K Chitta","arXiv preprint arXiv:2306.07962, 2023",13,2023
+Andreas Geiger,Factor Fields: A Unified Framework for Neural Fields and Beyond,"A Chen, Z Xu, X Wei, S Tang, H Su, A Geiger","arXiv preprint arXiv:2302.01226, 2023",13,2023
+Andreas Geiger,NoVA: Learning to See in Novel Viewpoints and Domains,"B Coors, AP Condurache, A Geiger","2019 International Conference on 3D Vision (3DV), 116-125, 2019",13,2019
+Andreas Geiger,Benchmarking Unsupervised Object Representations for Video Sequences,"MA Weis, K Chitta, Y Sharma, W Brendel, M Bethge, A Geiger, AS Ecker","Journal of Machine Learning Research 22 (183), 1-61, 2021",12,2021
+Andreas Geiger,Pointflownet: Learning representations for 3d scene flow estimation from point clouds,"A Behl, D Paschalidou, S Donné, A Geiger","arXiv preprint arXiv:1806.02170 2, 2018",12,2018
+Andreas Geiger,AG3D: Learning to Generate 3D Avatars from 2D Image Collections,"Z Dong, X Chen, J Yang, MJ Black, O Hilliges, A Geiger","arXiv preprint arXiv:2305.02312, 2023",8,2023
+Andreas Geiger,Learning Neural Light Transport,"P Sanzenbacher, L Mescheder, A Geiger","arXiv preprint arXiv:2006.03427, 2020",7,2020
+Andreas Geiger,Fundamentals of Machine Vision,"C Stiller, A Bachmann, A Geiger","Handbook of Driver Assistance Systems, 461-493, 2016",7,2016
+Andreas Geiger,Algorithmic Mechanism Design,"P Dütting, A Geiger, P Sanders, R van Stee, I Sanders","Seminar Report (May 9), 2007",7,2007
+Andreas Geiger,Fast-SNARF: A Fast Deformer for Articulated Neural Fields,"X Chen, T Jiang, J Song, M Rietmann, A Geiger, MJ Black, O Hilliges","IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023",6,2023
+Andreas Geiger,Team AnnieWAY’s Entry to GCDC (2011),"A Geiger, F Moosmann, M Lauer, B Ranft, H Rapp, J Ziegler","Gcdc, 2011",6,2011
+Andreas Geiger,Learning Transformation Invariant Representations with Weak Supervision,"B Coors, A Condurache, A Mertins, A Geiger",,6,
+Andreas Geiger,Augmented reality meets deep learning for car instance segmentation in urban scenes,"H Abu Alhaija, SK Mustikovela, L Mescheder, A Geiger, C Rother","Proceedings of BMVC 2017 and Workshops, 2017",5,2017
+Andreas Geiger,Hidden Biases of End-to-End Driving Models,"B Jaeger, K Chitta, A Geiger","arXiv preprint arXiv:2306.07957, 2023",3,2023
+Andreas Geiger,GOOD: Exploring Geometric Cues for Detecting Objects in an Open World,"H Huang, A Geiger, D Zhang","arXiv preprint arXiv:2212.11720, 2022",3,2022
+Andreas Geiger,Intrinsic autoencoders for joint neural rendering and intrinsic image decomposition,"HA Alhaija, SK Mustikovela, J Thies, V Jampani, M Nießner, A Geiger, ...","arXiv preprint arXiv:2006.16011, 2020",3,2020
+Andreas Geiger,Computer Vision and Pattern Recognition 2020,"Z Akata, A Geiger, T Sattler","International Journal of Computer Vision 129 (12), 3169-3170, 2021",2,2021
+Andreas Geiger,Intrinsic Autoencoders for Joint Deferred Neural Rendering and Intrinsic Image Decomposition,"HA Alhaija, SK Mustikovela, J Thies, V Jampani, M Nießner, A Geiger, ...","2020 International Conference on 3D Vision (3DV), 1176-1185, 2020",2,2020
+Andreas Geiger,PanopticNeRF-360: Panoramic 3D-to-2D Label Transfer in Urban Scenes,"X Fu, S Zhang, T Chen, Y Lu, X Zhou, A Geiger, Y Liao","arXiv preprint arXiv:2309.10815, 2023",1,2023
+Andreas Geiger,Dictionary Fields: Learning a Neural Basis Decomposition,"A Chen, Z Xu, X Wei, S Tang, H Su, A Geiger","ACM Transactions on Graphics (TOG) 42 (4), 1-12, 2023",1,2023
+Andreas Geiger,gDNA: Towards generative detailed neural avatars,"C Xu, T Jiang, J Song, J Yang, MJ Black, A Geiger, O Hilliges","2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022",1,2022
+Andreas Geiger,Learning Cascaded Detection Tasks with Weakly-Supervised Domain Adaptation,"N Hanselmann, N Schneider, B Ortelt, A Geiger","2021 IEEE Intelligent Vehicles Symposium (IV), 532-539, 2021",1,2021
+Andreas Geiger,Semantic Multi-View Stereo: Jointly Estimating Objects and Voxels,"A Osman Ulusoy, MJ Black, A Geiger","Proceedings of the IEEE Conference on Computer Vision and Pattern …, 2017",1,2017
+Andreas Geiger,WildFusion: Learning 3D-Aware Latent Diffusion Models in View Space,"K Schwarz, SW Kim, J Gao, S Fidler, A Geiger, K Kreis","arXiv preprint arXiv:2311.13570, 2023",,2023
+Andreas Geiger,GTA: A Geometry-Aware Attention Mechanism for Multi-View Transformers,"T Miyato, B Jaeger, M Welling, A Geiger","arXiv preprint arXiv:2310.10375, 2023",,2023
+Andreas Geiger,Towards Scalable Multi-View Reconstruction of Geometry and Materials,"C Schmitt, B Antić, A Neculai, JH Lee, A Geiger","IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023",,2023
+Andreas Geiger,Factor Fields: A Unified Framework for Neural Fields and Beyond,"A Geiger, H Su, S Tang, X Wei, Z Xu, A Chen","arXiv, 2023",,2023
+Andreas Geiger,Towards Scalable Multi-View Reconstruction of Geometry and Materials,"A Geiger, JH Lee, A Neculai, B Antić, C Schmitt","arXiv, 2023",,2023
+Andreas Geiger,Self-Supervised Occupancy Grid Map Completion for Automated Driving,"J Stojcheski, T Nürnberg, M Ulrich, T Michalke, C Gläser, A Geiger","2023 IEEE Intelligent Vehicles Symposium (IV), 1-7, 2023",,2023
+Andreas Geiger,AG3D: Learning to Generate 3D Avatars from 2D Image Collections,"A Geiger, O Hilliges, MJ Black, J Yang, X Chen, Z Dong","arXiv, 2023",,2023
+Andreas Geiger,On Offline Evaluation of 3D Object Detection for Autonomous Driving,"T Schreier, K Renz, A Geiger, K Chitta","Proceedings of the IEEE/CVF International Conference on Computer Vision …, 2023",,2023
+Andreas Geiger,MonoSDF: Exploring Monocular Geometric Cues for Neural Implicit Surface Reconstruction,"Y Zehao, S Peng, M Niemeyer, T Sattler, A Geiger","arXiv, 2022",,2022
+Andreas Geiger,Shape As Points: A Differentiable Poisson Solver,"M Pollefeys, A Geiger","arXiv preprint arXiv:2106.03452, 2021",,2021
+Andreas Geiger,"Pattern Recognition: 42nd DAGM German Conference, DAGM GCPR 2020, Tübingen, Germany, September 28–October 1, 2020, Proceedings","Z Akata, A Geiger, T Sattler","Springer Nature, 2021",,2021
+Andreas Geiger,HOTA: A Higher Order Metric for Evaluating Multi-object Tracking,"L Jonathon, O Aljos̆a, P Dendorfer, P Torr, A Geiger, L Leal-Taixé, ...","International Journal of Computer Vision 129 (2), 548-578, 2021",,2021
+Andreas Geiger,SLIM: Self-Supervised LiDAR Scene Flow and Motion Segmentation,"S Andreas Baur, D Josef Emmerichs, F Moosmann, P Pinggera, B Ommer, ...","IEEE, 2021",,2021
+Andreas Geiger,HOTA: A Higher Order Metric for Evaluating Multi-Object Tracking,"J Luiten, A Osep, P Dendorfer, P Torr, A Geiger, L Leal-Taixé, B Leibe","International Journal of Computer Vision, 1-31, 2020",,2020
+Andreas Geiger,Geometric Image Synthesis,"H Abu Alhaija, S Karthik Mustikovela, A Geiger, C Rother","arXiv preprint arXiv:1809.04696, 2018",,2018
+Andreas Geiger,Probabilistic Duality for Parallel Gibbs Sampling without Graph Coloring,"L Mescheder, S Nowozin, A Geiger","arXiv preprint arXiv:1611.06684, 2016",,2016
+Andreas Geiger,Predictive Driver Model: A Technical Report,"D Dauner, M Hallgarten, A Geiger, K Chitta",,,
+Andreas Geiger,Learning an Explainable Planner for Autonomous Driving,"K Renz, K Chitta, OB Mercea, AS Koepke, Z Akata, A Geiger","6th Annual Conference on Robot Learning, 0",,
+Andreas Geiger,Geometric Image Synthesis Download PDF,"HA Alhaija, SK Mustikovela, A Geiger, C Rother",,,
+Andreas Geiger,Are we ready for autonomous driving?,"A Geiger, P Lenz, R Urtasun","Proc. CVPR, 3354-3361, 0",,

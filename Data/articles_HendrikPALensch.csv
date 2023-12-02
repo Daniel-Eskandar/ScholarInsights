@@ -1,0 +1,239 @@
+author_name,title,authors,publication,cited_by_value,year
+Hendrik P. A. Lensch,Image-based reconstruction of spatial appearance and geometric detail,"HPA Lensch, J Kautz, M Goesele, W Heidrich, HP Seidel","ACM Transactions on Graphics (TOG) 22 (2), 234-257, 2003",440,2003
+Hendrik P. A. Lensch,Dual photography,"P Sen, B Chen, G Garg, SR Marschner, M Horowitz, M Levoy, ...","ACM SIGGRAPH 2005 Papers, 745-755, 2005",439,2005
+Hendrik P. A. Lensch,Nerd: Neural reflectance decomposition from image collections,"M Boss, R Braun, V Jampani, JT Barron, C Liu, H Lensch","Proceedings of the IEEE/CVF International Conference on Computer Vision …, 2021",317,2021
+Hendrik P. A. Lensch,Polarization and phase-shifting for 3D scanning of translucent objects,"T Chen, HPA Lensch, C Fuchs, HP Seidel","2007 IEEE conference on computer vision and pattern recognition, 1-8, 2007",256,2007
+Hendrik P. A. Lensch,Optimal HDR reconstruction with linear digital cameras,"M Granados, B Ajdin, M Wand, C Theobalt, HP Seidel, HPA Lensch","2010 IEEE computer society conference on computer vision and pattern …, 2010",243,2010
+Hendrik P. A. Lensch,Transparent and specular object reconstruction,"I Ihrke, KN Kutulakos, HPA Lensch, M Magnor, W Heidrich","Computer Graphics Forum 29 (8), 2400-2426, 2010",228,2010
+Hendrik P. A. Lensch,Image-based reconstruction of spatially varying materials,"HPA Lensch, J Kautz, M Goesele, W Heidrich, HP Seidel","Rendering Techniques 2001: Proceedings of the Eurographics Workshop in …, 2001",224,2001
+Hendrik P. A. Lensch,The Frankencamera: an experimental platform for computational photography,"A Adams, EV Talvala, SH Park, DE Jacobs, B Ajdin, N Gelfand, J Dolson, ...","ACM SIGGRAPH 2010 papers, 1-12, 2010",215,2010
+Hendrik P. A. Lensch,Disco: acquisition of translucent objects,"M Goesele, HPA Lensch, J Lang, C Fuchs, HP Seidel","ACM SIGGRAPH 2004 Papers, 835-844, 2004",205,2004
+Hendrik P. A. Lensch,Automated texture registration and stitching for real world models,"HPA Lensch, W Heidrich, HP Seidel","Proceedings the Eighth Pacific Conference on Computer Graphics and …, 2000",188,2000
+Hendrik P. A. Lensch,A silhouette-based algorithm for texture registration and stitching,"HPA Lensch, W Heidrich, HP Seidel","Graphical Models 63 (4), 245-262, 2001",185,2001
+Hendrik P. A. Lensch,Principles of appearance acquisition and representation,"T Weyrich, J Lawrence, HPA Lensch, S Rusinkiewicz, T Zickler","Foundations and Trends® in Computer Graphics and Vision 4 (2), 75-191, 2009",184,2009
+Hendrik P. A. Lensch,Edge-avoiding a-trous wavelet transform for fast global illumination filtering,"H Dammertz, D Sewtz, J Hanika, HPA Lensch","Proceedings of the Conference on High Performance Graphics, 67-75, 2010",161,2010
+Hendrik P. A. Lensch,3D acquisition of mirroring objects using striped patterns,"M Tarini, HPA Lensch, M Goesele, HP Seidel","Graphical Models 67 (4), 233-259, 2005",155,2005
+Hendrik P. A. Lensch,Flex-Convolution: Million-scale point-cloud learning beyond grid-worlds,"F Groh, P Wieschollek, HPA Lensch","Asian Conference on Computer Vision, 105-122, 2018",144,2018
+Hendrik P. A. Lensch,Learning blind motion deblurring,"P Wieschollek, M Hirsch, B Scholkopf, H Lensch","Proceedings of the IEEE international conference on computer vision, 231-240, 2017",141,2017
+Hendrik P. A. Lensch,Infrared colorization using deep convolutional neural networks,"M Limmer, HPA Lensch","2016 15th IEEE International Conference on Machine Learning and Applications …, 2016",141,2016
+Hendrik P. A. Lensch,Tempest in a teapot: Compromising reflections revisited,"M Backes, T Chen, M Dürmuth, HPA Lensch, M Welk","2009 30th IEEE Symposium on Security and Privacy, 315-327, 2009",140,2009
+Hendrik P. A. Lensch,State of the art in transparent and specular object reconstruction,I Ihrke,"Eurographics-STAR, 2008",138,2008
+Hendrik P. A. Lensch,Interactive rendering of translucent objects,"HPA Lensch, M Goesele, P Bekaert, J Kautz, MA Magnor, J Lang, ...","10th Pacific Conference on Computer Graphics and Applications, 2002 …, 2002",133,2002
+Hendrik P. A. Lensch,Modulated phase-shifting for 3D scanning,"T Chen, HP Seidel, HPA Lensch","2008 IEEE Conference on Computer Vision and Pattern Recognition, 1-8, 2008",125,2008
+Hendrik P. A. Lensch,Relighting objects from image collections,"T Haber, C Fuchs, P Bekaer, HP Seidel, M Goesele, HPA Lensch","2009 IEEE Conference on Computer Vision and Pattern Recognition, 627-634, 2009",122,2009
+Hendrik P. A. Lensch,Printing spatially-varying reflectance,"W Matusik, B Ajdin, J Gu, J Lawrence, HPA Lensch, F Pellacini, ...","ACM Transactions on Graphics (TOG) 28 (5), 1-9, 2009",119,2009
+Hendrik P. A. Lensch,Fluorescent immersion range scanning,"MB Hullin, M Fuchs, I Ihrke, HP Seidel, HPA Lensch","ACM Trans. Graph. 27 (3), 87, 2008",118,2008
+Hendrik P. A. Lensch,Symmetric Photography: Exploiting Data-sparseness in Reflectance Fields.,"G Garg, EV Talvala, M Levoy, HPA Lensch","Rendering Techniques, 251-262, 2006",110,2006
+Hendrik P. A. Lensch,Real-time temporal shaping of high-speed video streams,"M Fuchs, T Chen, O Wang, R Raskar, HP Seidel, HPA Lensch","Computers & Graphics 34 (5), 575-584, 2010",106,2010
+Hendrik P. A. Lensch,Light field techniques for reflections and refractions,"W Heidrich, H Lensch, MF Cohen, HP Seidel","Rendering Techniques’ 99: Proceedings of the Eurographics Workshop in …, 1999",104,1999
+Hendrik P. A. Lensch,Efficient cloth modeling and rendering,"K Daubert, HPA Lensch, W Heidrich, HP Seidel","Rendering Techniques 2001: Proceedings of the Eurographics Workshop in …, 2001",103,2001
+Hendrik P. A. Lensch,Neural-pil: Neural pre-integrated lighting for reflectance decomposition,"M Boss, V Jampani, R Braun, C Liu, J Barron, H Lensch","Advances in Neural Information Processing Systems 34, 10691-10704, 2021",98,2021
+Hendrik P. A. Lensch,Scale robust multi view stereo,"C Bailer, M Finckh, HPA Lensch","Computer Vision–ECCV 2012: 12th European Conference on Computer Vision …, 2012",87,2012
+Hendrik P. A. Lensch,Acquisition and analysis of bispectral bidirectional reflectance and reradiation distribution functions,"MB Hullin, J Hanika, B Ajdin, HP Seidel, J Kautz, HPA Lensch","ACM SIGGRAPH 2010 papers, 1-7, 2010",86,2010
+Hendrik P. A. Lensch,Efficient large-scale approximate nearest neighbor search on the gpu,"P Wieschollek, O Wang, A Sorkine-Hornung, H Lensch","Proceedings of the IEEE Conference on Computer Vision and Pattern …, 2016",85,2016
+Hendrik P. A. Lensch,Product importance sampling for light transport path guiding,"S Herholz, O Elek, J Vorba, H Lensch, J Křivánek","Computer Graphics Forum 35 (4), 67-77, 2016",79,2016
+Hendrik P. A. Lensch,"Seeing people in different light-joint shape, motion, and reflectance capture","C Theobalt, N Ahmed, H Lensch, M Magnor, HP Seidel","IEEE transactions on visualization and computer graphics 13 (4), 663-674, 2007",79,2007
+Hendrik P. A. Lensch,Adaptive sampling of reflectance fields,"M Fuchs, V Blanz, HPA Lensch, HP Seidel","ACM Transactions on Graphics (TOG) 26 (2), 10-es, 2007",66,2007
+Hendrik P. A. Lensch,Two-shot spatially-varying brdf and shape estimation,"M Boss, V Jampani, K Kim, H Lensch, J Kautz","Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2020",65,2020
+Hendrik P. A. Lensch,Will people like your image? learning the aesthetic space,"K Schwarz, P Wieschollek, HPA Lensch","2018 IEEE winter conference on applications of computer vision (WACV), 2048-2057, 2018",61,2018
+Hendrik P. A. Lensch,Towards passive 6D reflectance field displays,"M Fuchs, R Raskar, HP Seidel, HPA Lensch","ACM Transactions on Graphics (TOG) 27 (3), 1-8, 2008",61,2008
+Hendrik P. A. Lensch,Planned sampling of spatially varying BRDFs,"HPA Lensch, J Lang, AM Sá, HP Seidel","Computer graphics forum 22 (3), 473-482, 2003",60,2003
+Hendrik P. A. Lensch,Geometry construction from caustic images,"M Finckh, H Dammertz, HPA Lensch","Computer Vision–ECCV 2010: 11th European Conference on Computer Vision …, 2010",56,2010
+Hendrik P. A. Lensch,"Method, system, and computer program product for efficient ray tracing of micropolygon geometry","J Hanika, A Keller, H Lensch","US Patent 8,570,322, 2013",50,2013
+Hendrik P. A. Lensch,Background estimation from non-time sequence images,"M Granados, HP Seidel, HPA Lensch","Proceedings of graphics interface 2008, 33-40, 2008",49,2008
+Hendrik P. A. Lensch,General spectral camera lens simulation,"B Steinert, H Dammertz, J Hanika, HPA Lensch","Computer Graphics Forum 30 (6), 1643-1654, 2011",47,2011
+Hendrik P. A. Lensch,Automatic Multiperspective Images.,"A Román, HPA Lensch","Rendering Techniques 2 (2006), 161-171, 2006",46,2006
+Hendrik P. A. Lensch,Combining confocal imaging and descattering,"C Fuchs, M Heinz, M Levoy, HP Seidel, HPA Lensch","Computer Graphics Forum 27 (4), 1245-1253, 2008",44,2008
+Hendrik P. A. Lensch,End-to-end learning for image burst deblurring,"P Wieschollek, B Schölkopf, HPA Lensch, M Hirsch","Computer Vision–ACCV 2016: 13th Asian Conference on Computer Vision, Taipei …, 2017",43,2017
+Hendrik P. A. Lensch,Multi-View Depth Map Estimation With Cross-View Consistency.,"J Wei, B Resch, HPA Lensch","BMVC, 2014",41,2014
+Hendrik P. A. Lensch,Samurai: Shape and material from unconstrained real-world arbitrary image collections,"M Boss, A Engelhardt, A Kar, Y Li, D Sun, J Barron, H Lensch, V Jampani","Advances in Neural Information Processing Systems 35, 26389-26403, 2022",39,2022
+Hendrik P. A. Lensch,Reflectance from images: A model-based approach for human faces,"M Fuchs, V Blanz, H Lensch, HP Seidel","IEEE Transactions on Visualization and Computer Graphics 11 (3), 296-305, 2005",38,2005
+Hendrik P. A. Lensch,Dynamic display of BRDFs,"MB Hullin, HPA Lensch, R Raskar, HP Seidel, I Ihrke","Computer Graphics Forum 30 (2), 475-483, 2011",34,2011
+Hendrik P. A. Lensch,Multivideo compression in texture space,"G Ziegler, HPA Lensch, N Ahmed, M Magnor, HP Seidel","2004 International Conference on Image Processing, 2004. ICIP'04. 4, 2467-2470, 2004",34,2004
+Hendrik P. A. Lensch,Robust deep-learning-based road-prediction for augmented reality navigation systems at night,"M Limmer, J Forster, D Baudach, F Schüle, R Schweiger, HPA Lensch","2016 IEEE 19th international conference on intelligent transportation …, 2016",33,2016
+Hendrik P. A. Lensch,Two-level ray tracing with recordering for highly complex scenes,"J Hanika, H Lensch, A Keller","Universität Ulm, 2011",33,2011
+Hendrik P. A. Lensch,Volume path guiding based on zero-variance random walk theory,"S Herholz, Y Zhao, O Elek, D Nowrouzezahrai, HPA Lensch, J Křivánek","ACM Transactions on Graphics (TOG) 38 (3), 1-19, 2019",32,2019
+Hendrik P. A. Lensch,Scalable structure from motion for densely sampled videos,"B Resch, H Lensch, O Wang, M Pollefeys, A Sorkine-Hornung","Proceedings of the IEEE Conference on Computer Vision and Pattern …, 2015",32,2015
+Hendrik P. A. Lensch,Realistic materials in computer graphics,"HPA Lensch, M Goesele, YY Chuang, T Hawkins, S Marschner, ...","ACM SIGGRAPH 2005 Courses, 1-es, 2005",30,2005
+Hendrik P. A. Lensch,Building a Photo Studio for Measurement Purposes.,"M Goesele, W Heidrich, HPA Lensch, HP Seidel","VMV, 231-238, 2000",30,2000
+Hendrik P. A. Lensch,Multi-video compression in texture space using 4D SPIHT,"G Ziegler, HPA Lensch, M Magnor, HP Seidel","IEEE 6th Workshop on Multimedia Signal Processing, 2004., 39-42, 2004",26,2004
+Hendrik P. A. Lensch,Simultaneous Estimation of Spectral Reflectance and Normal from a Small Number of Images.,"M Kitahara, T Okabe, C Fuchs, HPA Lensch","VISAPP (1), 303-313, 2015",24,2015
+Hendrik P. A. Lensch,A context-aware light source,"O Wang, M Fuchs, C Fuchs, HPA Lensch, J Davis, HP Seidel","2010 IEEE international conference on computational photography (ICCP), 1-8, 2010",24,2010
+Hendrik P. A. Lensch,Edge‐Optimized À‐Trous Wavelets for Local Contrast Enhancement with Robust Denoising,"J Hanika, H Dammertz, H Lensch","Computer Graphics Forum 30 (7), 1879-1886, 2011",23,2011
+Hendrik P. A. Lensch,"Efficient, image-based appearance acquisition of real-world objects",HPA Lensch,"Cuvillier Verlag, 2004",23,2004
+Hendrik P. A. Lensch,Progressive point‐light‐based global illumination,"H Dammertz, A Keller, HPA Lensch","Computer Graphics Forum 29 (8), 2504-2515, 2010",22,2010
+Hendrik P. A. Lensch,Text-to-video: Story illustration from online photo collections,"K Schwarz, P Rojtberg, J Caspar, I Gurevych, M Goesele, HPA Lensch","Knowledge-Based and Intelligent Information and Engineering Systems: 14th …, 2010",22,2010
+Hendrik P. A. Lensch,Clevr-x: A visual reasoning dataset for natural language explanations,"L Salewski, AS Koepke, HPA Lensch, Z Akata","International Workshop on Extending Explainable AI Beyond Deep Models and …, 2020",21,2020
+Hendrik P. A. Lensch,Superresolution reflectance fields: Synthesizing images for intermediate light directions,"M Fuchs, HPA Lensch, V Blanz, HP Seidel","Computer Graphics Forum 26 (3), 447-456, 2007",21,2007
+Hendrik P. A. Lensch,Textures revisited,"H Yamauchi, HPA Lensch, J Haber, HP Seidel","The Visual Computer 21, 217-241, 2005",20,2005
+Hendrik P. A. Lensch,Ggnn: Graph-based gpu nearest neighbor search,"F Groh, L Ruppert, P Wieschollek, HPA Lensch","IEEE Transactions on Big Data 9 (1), 267-279, 2022",19,2022
+Hendrik P. A. Lensch,Transfer learning for material classification using convolutional networks,"P Wieschollek, H Lensch","arXiv preprint arXiv:1609.06188, 2016",18,2016
+Hendrik P. A. Lensch,Robust three-dimensional shape acquisition method and system,"M Hullin, M Fuchs, I Ihrke, H Lensch, HP Seidel","US Patent 8,427,656, 2013",18,2013
+Hendrik P. A. Lensch,Interactive semi-transparent volumetric textures,"H Lensch, K Daubert, HP Seidel, G Greiner, H Niemann, T Ertl, B Girod","VMV 2002, 505-512, 2002",18,2002
+Hendrik P. A. Lensch,Compressive higher-order sparse and low-rank acquisition with a hyperspectral light stage,"B Ajdin, M Finckh, C Fuchs, J Hanika, H Lensch","Universität Tübingen, 2012",17,2012
+Hendrik P. A. Lensch,Robust fitting of parallax-aware mixtures for path guiding,"L Ruppert, S Herholz, HPA Lensch","ACM Transactions on Graphics (TOG) 39 (4), 147: 1-147: 15, 2020",16,2020
+Hendrik P. A. Lensch,Learning zero-shot multifaceted visually grounded word embeddings via multi-task training,"H Shahmohammadi, H Lensch, RH Baayen","arXiv preprint arXiv:2104.07500, 2021",15,2021
+Hendrik P. A. Lensch,"Intuitive visualization of vehicle distance, velocity and risk potential in rear-view camera applications","C Roessing, A Reker, M Gabb, K Dietmayer, HPA Lensch","2013 IEEE Intelligent Vehicles Symposium (IV), 579-585, 2013",15,2013
+Hendrik P. A. Lensch,Light source interpolation for sparsely sampled reflectance fields,"B Chen, HPA Lensch","Proc. Vision, Modeling and Visualization, 461-469, 2005",15,2005
+Hendrik P. A. Lensch,Validation of color managed 3d appearance acquisition,"M Goesele, HPA Lensch, HP Seidel","Color and Imaging Conference 12, 265-270, 2004",15,2004
+Hendrik P. A. Lensch,Joint motion and reflectance capture for creating relightable 3d videos,"C Theobalt, N Ahmed, E de Aguiar, G Ziegler, H Lensch, M Magnor, ...",,14,2005
+Hendrik P. A. Lensch,Jan Kautz,"HPA Lensch, M Goesele","Hans-Peter Seidel, 0",14,
+Hendrik P. A. Lensch,Learning robust video synchronization without annotations,"P Wieschollek, I Freeman, HPA Lensch","2017 16th IEEE International Conference on Machine Learning and Applications …, 2017",13,2017
+Hendrik P. A. Lensch,Demosaicing by smoothing along 1d features,"B Ajdin, MB Hullin, C Fuchs, HP Seidel, HPA Lensch","2008 IEEE Conference on Computer Vision and Pattern Recognition, 1-8, 2008",13,2008
+Hendrik P. A. Lensch,3D Reconstruction of Emission and Absorption in Planetary Nebulae.,"A Lintu, HPA Lensch, MA Magnor, S El-Abed, HP Seidel","VG@ Eurographics, 9-16, 2007",13,2007
+Hendrik P. A. Lensch,Digital focusing and refocusing with thin multi-aperture cameras,"A Oberdörster, A Brückner, F Wippermann, A Bräuer, HPA Lensch","Digital Photography VIII 8299, 58-68, 2012",12,2012
+Hendrik P. A. Lensch,AVDT-Automatic Visualization of Descriptive Texts.,"C Spika, K Schwarz, H Dammertz, HPA Lensch","VMV, 129-136, 2011",12,2011
+Hendrik P. A. Lensch,Spatialdetr: Robust scalable transformer-based 3d object detection from multi-view camera images with global cross-sensor attention,"S Doll, R Schulz, L Schneider, V Benzin, M Enzweiler, HPA Lensch","European Conference on Computer Vision, 230-245, 2022",11,2022
+Hendrik P. A. Lensch,A Unified Manifold Framework for Efficient BRDF Sampling based on Parametric Mixture Models.,"S Herholz, O Elek, J Schindel, J Krivánek, HPA Lensch","EGSR (EI&I), 41-52, 2018",11,2018
+Hendrik P. A. Lensch,Hardwareaccelerated silhouette matching,"H Lensch, W Heidrich, HP Seidel","SIGGRAPH Sketches 211, 2000",11,2000
+Hendrik P. A. Lensch,Learning to adapt multi-view stereo by self-supervision,"A Mallick, J Stückler, H Lensch","arXiv preprint arXiv:2009.13278, 2020",10,2020
+Hendrik P. A. Lensch,A distributed neural network architecture for robust non-linear spatio-temporal prediction,"M Karlbauer, S Otte, H Lensch, T Scholten, V Wulfmeyer, MV Butz","arXiv preprint arXiv:1912.11141, 2019",10,2019
+Hendrik P. A. Lensch,3D Reconstruction of Reflection Nebulae from a Single Image.,"A Lintu, L Hoffman, MA Magnor, HPA Lensch, HP Seidel","VMV, 109-116, 2007",9,2007
+Hendrik P. A. Lensch,The frankencamera: An experimental platform for computational photography,"A Adams, DE Jacobs, J Dolson, M Tico, K Pulli, EV Talvala, B Ajdin, ...","Communications of the ACM 55 (11), 90-98, 2012",8,2012
+Hendrik P. A. Lensch,"Multi-video compression in texture space using 4D SPIHT, IEEE Int'l","G Ziegler, H Lensch, M Magnor, HP Seidel","Workshop on Multimedia and Signal Processing,(MMSP'04), 2004",8,2004
+Hendrik P. A. Lensch,"A framework for the acquisition, processing, transmission, and interactive display of high quality 3D models on the web","HPA Lensch, M Goesele, J Kautz, HP Seidel","MAX PLANCK INSTITUT FUR INFORMATIK-REPORT-MPI I, 2001",8,2001
+Hendrik P. A. Lensch,"A Framework for the Acquisition, Processing, Transmission, and Interactive Display of High Quality 3D Models on the Web","HP Seidel, HPA Lensch, M Goesele, J Kautz","Techical Report MPI-I-2001-4-002, Max-Planck-Institut ḟur Informatik, 2001",8,2001
+Hendrik P. A. Lensch,At‐Most‐Hexa Meshes,"DR Bukenberger, M Tarini, HPA Lensch","Computer Graphics Forum 41 (1), 7-28, 2022",7,2022
+Hendrik P. A. Lensch,Applying visual analytics to physically based rendering,"G Simons, S Herholz, V Petitjean, T Rapp, M Ament, H Lensch, ...","Computer Graphics Forum 38 (1), 197-208, 2019",7,2019
+Hendrik P. A. Lensch,Stereo‐Consistent Contours in Object Space,"DR Bukenberger, K Schwarz, HPA Lensch","Computer Graphics Forum 37 (1), 301-312, 2018",7,2018
+Hendrik P. A. Lensch,Dense and occlusion-robust multi-view stereo for unstructured videos,"J Wei, B Resch, HPA Lensch","2016 13th Conference on Computer and Robot Vision (CRV), 69-76, 2016",7,2016
+Hendrik P. A. Lensch,Real‐Time Disparity Map‐Based Pictorial Depth Cue Enhancement,"C Rößing, J Hanika, H Lensch","Computer Graphics Forum 31 (2pt1), 275-284, 2012",7,2012
+Hendrik P. A. Lensch,Direct visualization of real-world light transport,"MB Hullin, M Fuchs, B Ajdin, I Ihrke, HP Seidel, HPA Lensch","Proceedings of Vision, Modeling, and Visualization (VMV), 363-371, 2008",7,2008
+Hendrik P. A. Lensch,A Multi-wavelength-based Method to de-project Gas and Dust Distributions of several Planetary Nebulae,"A Lintu, HPA Lensch, M Magnor, TH Lee, S El-Abed, HP Seidel","Asymmetrical Planetary Nebulae IV 5, 2007",7,2007
+Hendrik P. A. Lensch,A phase-coded aperture camera with programmable optics,"J Chen, M Hirsch, R Heintzmann, B Eberhardt, HPA Lensch","Electronic Imaging 29, 70-75, 2017",6,2017
+Hendrik P. A. Lensch,Interactive alignment and image reconstruction for wafer-level multi-aperture camera systems,"A Oberdörster, A Brückner, HPA Lensch","Applications of Digital Image Processing XXXVII 9217, 301-308, 2014",6,2014
+Hendrik P. A. Lensch,A hierarchical automatic stopping condition for Monte Carlo global illumination,"H Dammertz, J Hanika, A Keller, H Lensch","Václav Skala-UNION Agency, 2010",6,2010
+Hendrik P. A. Lensch,Shape from distortion: 3d range scanning of mirroring objects,"M Tarini, H Lensch, M Goesele, HP Seidel","ACM SIGGRAPH 2002 conference abstracts and applications, 248-248, 2002",6,2002
+Hendrik P. A. Lensch,Single image brdf parameter estimation with a conditional adversarial network,"M Boss, H Lensch","arXiv preprint arXiv:1910.05148, 2019",5,2019
+Hendrik P. A. Lensch,Reflective and fluorescent separation under narrow-band illumination,"K Koyamatsu, D Hidaka, T Okabe, H Lensch","Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2019",5,2019
+Hendrik P. A. Lensch,Backpropagation training for fisher vectors within neural networks,"P Wieschollek, F Groh, H Lensch","arXiv preprint arXiv:1702.02549, 2017",5,2017
+Hendrik P. A. Lensch,Exposure control for HDR video,"M Bürker, C Rößing, HPA Lensch","Optics, Photonics, and Digital Technologies for Multimedia Applications III …, 2014",5,2014
+Hendrik P. A. Lensch,View planning for BRDF acquisition,"J Lang, HP Seidel, HPA Lensch","ACM SIGGRAPH 2003 Sketches & Applications, 1-1, 2003",5,2003
+Hendrik P. A. Lensch,Acquiring material models using inverse rendering,"R Ramamoorthi, S Marschner, S Boivin, G Drettakis, HPA Lensch, Y Yu","SIGGRAPH Course 39, 2002",5,2002
+Hendrik P. A. Lensch,An open-source smartphone app for the quantitative evaluation of thin-layer chromatographic analyses in medicine quality screening,"C Hauk, M Boss, J Gabel, S Schäfermann, HPA Lensch, L Heide","Scientific Reports 12 (1), 13433, 2022",4,2022
+Hendrik P. A. Lensch,Deep Dual Loss BRDF Parameter Estimation.,"M Boss, F Groh, S Herholz, HPA Lensch","MAM@ EGSR, 41-44, 2018",4,2018
+Hendrik P. A. Lensch,Systems and methods for facilitating three-dimensional reconstruction of scenes from videos,"B Resch, H Lensch, M Pollefeys, O Wang, AS Hornung","US Patent 9,648,303, 2017",4,2017
+Hendrik P. A. Lensch,Multi-view continuous structured light scanning,"F Groh, B Resch, HPA Lensch","Pattern Recognition: 39th German Conference, GCPR 2017, Basel, Switzerland …, 2017",4,2017
+Hendrik P. A. Lensch,Acquiring 4D light fields of self-luminous light sources using programmable filter,"M Nakamura, T Okabe, HPA Lensch","Computer Vision-ECCV 2014 Workshops: Zurich, Switzerland, September 6-7 and …, 2015",4,2015
+Hendrik P. A. Lensch,Resolution and sensitivity of wafer-level multi-aperture cameras,"A Oberdörster, HPA Lensch","Journal of Electronic Imaging 22 (1), 011001-011001, 2013",4,2013
+Hendrik P. A. Lensch,High-performance iterated function systems,"C Schied, J Hanika, H Dammertz, HPA Lensch","GPU Computing Gems Emerald Edition, 263-273, 2011",4,2011
+Hendrik P. A. Lensch,Massively Parallel Multiclass Object Recognition.,"HA Sedding, F Deger, H Dammertz, J Bouecke, HPA Lensch","VMV, 251-257, 2010",4,2010
+Hendrik P. A. Lensch,Projectors for Graphics,"R Raskar, A Majumder, HPA Lensch, O Bimber","SIGGRAPH Course Notes, SIGGRAPH, LA, 2008",4,2008
+Hendrik P. A. Lensch,Capturing reflectance-from theory to practice,"H Lensch, M Goesele","The Eurographics Association, 2007",4,2007
+Hendrik P. A. Lensch,Modeling the world: the virtualization pipeline,"J Kautz, HPA Lensch, M Goesele, J Lang, HP Seidel","12th International Conference on Image Analysis and Processing, 2003 …, 2003",4,2003
+Hendrik P. A. Lensch,Shape from distortion: 3d range scanning of mirroring objects,"MT Hendrik, H Lensch, M Goesele, H peter Seidel","Proc. SIGGRAPH Conf. Abstracts Appl, 2002",4,2002
+Hendrik P. A. Lensch,Techniques for hardware-accelerated light field rendering,H Lensch,"Friedrich-Alexander-Universität Erlangen-Nürnberg Erlangen, 1999",4,1999
+Hendrik P. A. Lensch,Language with vision: a study on grounded word and sentence embeddings,"H Shahmohammadi, M Heitmeier, E Shafaei-Bajestan, H Lensch, ...","arXiv preprint arXiv:2206.08823, 2022",3,2022
+Hendrik P. A. Lensch,A Generative Model Reveals the Influence of Patient Attributes on Fundus Images,"S Müller, LM Koch, H Lensch, P Berens","Medical Imaging with Deep Learning, 2022",3,2022
+Hendrik P. A. Lensch,Latent state inference in a spatiotemporal generative model,"M Karlbauer, T Menge, S Otte, HPA Lensch, T Scholten, V Wulfmeyer, ...","International Conference on Artificial Neural Networks, 384-395, 2021",3,2021
+Hendrik P. A. Lensch,Tetrahedra of varying density and their applications,"DR Bukenberger, HPA Lensch","The Visual Computer 37, 2447-2460, 2021",3,2021
+Hendrik P. A. Lensch,"Inferring, predicting, and denoising causal wave dynamics","M Karlbauer, S Otte, HPA Lensch, T Scholten, V Wulfmeyer, MV Butz","Artificial Neural Networks and Machine Learning–ICANN 2020: 29th …, 2020",3,2020
+Hendrik P. A. Lensch,A computational camera with programmable optics for snapshot high-resolution multispectral imaging,"J Chen, M Hirsch, B Eberhardt, HPA Lensch","Computer Vision–ACCV 2018: 14th Asian Conference on Computer Vision, Perth …, 2019",3,2019
+Hendrik P. A. Lensch,Hierarchical quad meshing of 3D scanned surfaces,"DR Bukenberger, HPA Lensch","Computer graphics forum 37 (5), 135-145, 2018",3,2018
+Hendrik P. A. Lensch,Improved IR-Colorization using Adversarial Training and current Deep Learning Design Patterns,"M Limmer, HPA Lensch","BMVC 2017, 2017",3,2017
+Hendrik P. A. Lensch,Auto-illustrating poems and songs with style,"K Schwarz, TL Berg, HPA Lensch","Computer Vision–ACCV 2016: 13th Asian Conference on Computer Vision, Taipei …, 2017",3,2017
+Hendrik P. A. Lensch,Real Time Direct Visual Odometry for Flexible Multi-camera Rigs,"B Resch, J Wei, HPA Lensch","Computer Vision–ACCV 2016: 13th Asian Conference on Computer Vision, Taipei …, 2017",3,2017
+Hendrik P. A. Lensch,Learning where to search using visual attention,"A Kloss, D Kappler, HPA Lensch, MV Butz, S Schaal, J Bohg","2016 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2016",3,2016
+Hendrik P. A. Lensch,Local image feature matching improvements for omnidirectional camera systems,"B Resch, J Lang, HPA Lensch","2014 22nd International Conference on Pattern Recognition, 918-923, 2014",3,2014
+Hendrik P. A. Lensch,A dynamic BRDF display,"MB Hullin, HPA Lensch, R Raskar, HP Seidel, I Ihrke","ACM SIGGRAPH 2011 Emerging Technologies, 1-1, 2011",3,2011
+Hendrik P. A. Lensch,Optimal hdr reconstruction with linear digital cameras,"MWCTHP Seidel, M Granados, B Ajdin, HPA Lensch","CVPR, 2010",3,2010
+Hendrik P. A. Lensch,Textures on Rank‐1 Lattices,"S Dammertz, H Dammertz, A Keller, HPA Lensch","Computer Graphics Forum 28 (7), 1945-1954, 2009",3,2009
+Hendrik P. A. Lensch,Enhanced dynamic reflectometry for relightable free-viewpoint video,"C Theobalt, N Ahmed, H Lensch, MA Magnor, HP Seidel","Max-Planck-Institut für Informatik, 2006",3,2006
+Hendrik P. A. Lensch,Joint motion and reflectance capture for relightable 3d video,"C Theobalt, N Ahmed, E de Aguiar, G Ziegler, H Lensch, M Magnor, ...","ACM SIGGRAPH 2005 Sketches, 73-es, 2005",3,2005
+Hendrik P. A. Lensch,Be water my friend: mesh assimilation,"DR Bukenberger, HPA Lensch","The Visual Computer 37 (9-11), 2725-2739, 2021",2,2021
+Hendrik P. A. Lensch,On Near Optimal Lattice Quantization of Multi‐Dimensional Data Points,"M Finckh, H Dammertz, HPA Lensch","Computer Graphics Forum 33 (1), 271-281, 2014",2,2014
+Hendrik P. A. Lensch,Adaptive DOF for plenoptic cameras,"A Oberdörster, HPA Lensch","Multimedia Content and Mobile Devices 8667, 528-539, 2013",2,2013
+Hendrik P. A. Lensch,A shaped temporal filter camera,"M Fuchs, T Chen, O Wang, R Raskar, H Lensch, HP Seidel","Max-Planck-Institut für Informatik, 2009",2,2009
+Hendrik P. A. Lensch,Transparent and reflective scene reconstruction,"MI Ihrke, K Kutulakos, H Lensch, M Magnor, W Heidrich","EUROGRAPHICS STAR–State of The Art Report 2, 2008",2,2008
+Hendrik P. A. Lensch,Massively Parallel Computing with Cuda,"H Lensch, R Strzodka",,2,2008
+Hendrik P. A. Lensch,Virtualizing real-world objects,"HPA Lensch, J Kautz, M Goesele, J Lang, HP Seidel","Proceedings Computer Graphics International 2003, 134-141, 2003",2,2003
+Hendrik P. A. Lensch,Measuring spatial variation with complex BRDFs,HPA Lensch,"Acquiring Material Models Using Inverse Rendering, 2002",2,2002
+Hendrik P. A. Lensch,Digital collections of real world objects,"HPA Lensch, M Goesele, HP Seidel","D-Lib Magazine 8 (2), 2002",2,2002
+Hendrik P. A. Lensch,Beiträge der Computergraphik zur Realisierung eines verallgemeinerten Dokumentbegriffs,"W Straßer, HP Seidel, R Schneider, I Peter, G Müller, HPA Lensch, ...","it-Information Technology 42 (6), 8-16, 2000",2,2000
+Hendrik P. A. Lensch,Zero-shot Translation of Attention Patterns in VQA Models to Natural Language,"L Salewski, A Koepke, H Lensch, Z Akata","arXiv preprint arXiv:2311.05043, 2023",1,2023
+Hendrik P. A. Lensch,Dual-Query Multiple Instance Learning for Dynamic Meta-Embedding based Tumor Classification,"S Holdenried-Krafft, P Somers, IA Montes-Majarro, D Silimon, C Tarín, ...","arXiv preprint arXiv:2307.07482, 2023",1,2023
+Hendrik P. A. Lensch,Diverse Video Captioning by Adaptive Spatio-temporal Attention,"Z Ghaderi, L Salewski, HPA Lensch","DAGM German Conference on Pattern Recognition, 409-425, 2022",1,2022
+Hendrik P. A. Lensch,An unstructured lumigraph based approach to the SVBRDF estimation problem,"BT Andrade, B Resch, HPA Lensch, ORP Bellon, L Silva","Computers & Graphics 93, 95-107, 2020",1,2020
+Hendrik P. A. Lensch,Dense and scalable reconstruction from unstructured videos with occlusions,"J Wei, B Resch, HPA Lensch","Proceedings of the conference on Vision, Modeling and Visualization, 53-60, 2017",1,2017
+Hendrik P. A. Lensch,EmoTune-Changing Emotional Response to Images,"K Schwarz, C Fuchs, M Finckh, HPA Lensch","Color and Imaging Conference 25, 317-323, 2017",1,2017
+Hendrik P. A. Lensch,Acquiring 4D light fields of self-luminous extended light sources using programmable filter,"M Nakamura, S Oya, T Okabe, HPA Lensch","IEICE TRANSACTIONS on Information and Systems 99 (9), 2360-2367, 2016",1,2016
+Hendrik P. A. Lensch,On Practical Sampling of Bidirectional Reflectance,JB Nielsen,"Technical University of Denmark, 2016",1,2016
+Hendrik P. A. Lensch,Anamorphic pixels for multi-channel superresolution,"A Oberdörster, P Favaro, HPA Lensch","2014 IEEE International Conference on Computational Photography (ICCP), 1-10, 2014",1,2014
+Hendrik P. A. Lensch,Projectors for graphics,"O Bimber, R Raskar, A Majumder, HPA Lensch","ACM SIGGRAPH 2008 classes, 1-4, 2008",1,2008
+Hendrik P. A. Lensch,"Efficient cloth modeling and rendering, in ‘Rendering techniques 2001: proceedings of the Eurographics workshop in London, United Kingdom, June 25-27, 2001’","K Daubert, H Lensch, W Heidrich","Springer Verlag Wien, 2001",1,2001
+Hendrik P. A. Lensch,ViPE: Visualise Pretty-much Everything,"H Shahmohammadi, A Ghosh, H Lensch","arXiv preprint arXiv:2310.10543, 2023",,2023
+Hendrik P. A. Lensch,Dual-Query Multiple Instance Learning for Dynamic Meta-Embedding based Tumor Classification,"H Lensch, S Holdenried-Krafft, P Somers, IA Montes-Mojarro, D Silimon, ...","ar, 2023",,2023
+Hendrik P. A. Lensch,STAR-Track: Latent Motion Models for End-to-End 3D Object Tracking with Adaptive Spatio-Temporal Appearance Representations,"H Lensch, S Doll, N Hanselmann, L Schneider, R Schulz, M Enzweiler","arXiv, 2023",,2023
+Hendrik P. A. Lensch,STAR-Track: Latent Motion Models for End-to-End 3D Object Tracking with Adaptive Spatio-Temporal Appearance Representations,"S Doll, N Hanselmann, L Schneider, R Schulz, M Enzweiler, H Lensch","arXiv preprint arXiv:2306.17602, 2023",,2023
+Hendrik P. A. Lensch,CANDID: Correspondence AligNment for Deep-burst Image Denoising,"A Mallick, R Braun, HPA Lensch","2023 20th Conference on Robots and Vision (CRV), 241-247, 2023",,2023
+Hendrik P. A. Lensch,Cystoscopic depth estimation using gated adversarial domain adaptation,"P Somers, S Holdenried-Krafft, J Zahn, J Schüle, C Veil, N Harland, ...","Biomedical Engineering Letters, 1-11, 2023",,2023
+Hendrik P. A. Lensch,Supplementary material: Dual-Query Multiple Instance Learning for Dynamic Meta-Embedding based Tumor Classification,"S Holdenried-Krafft, P Somers, IA Montes-Majarro, D Silimon, C Tarín, ...",,,2023
+Hendrik P. A. Lensch,Visual Grounding of Inter-lingual Word-Embeddings,"M Wafaa, H Shahmohammadi, H Lensch, RH Baayen","arXiv, 2022",,2022
+Hendrik P. A. Lensch,Visual Grounding of Inter-lingual Word-Embeddings,"W Mohammed, H Shahmohammadi, H Lensch, RH Baayen","arXiv preprint arXiv:2209.03714, 2022",,2022
+Hendrik P. A. Lensch,"Visual grounding of abstract and concrete words: A response to G\"" unther et al.(2020)","H Shahmohammadi, M Heitmeier, E Shafaei-Bajestan, H Lensch, ...","arXiv preprint arXiv:2206.15381, 2022",,2022
+Hendrik P. A. Lensch,GGNN: Graph-Based GPU Nearest Neighbor Search,"H Lensch, F Groh, L Ruppert, P Wieschollek","IEEE Transactions on Big Data 9 (1), 2022",,2022
+Hendrik P. A. Lensch,Local Attention Guided Joint Depth Upsampling,"A Mallick, A Engelhardt, R Braun, HPA Lensch","Vision, Modeling, and Visualization, 135-1439, 2022",,2022
+Hendrik P. A. Lensch,Organoide zur Weiterentwicklung der intraoperativen Diagnostik,"N Harland, B Amend, N Lipke, SY Brucker, F Fend, A Herkommer, ...","Der Urologe. Ausg. A. 60 (9), 1159-1166, 2021",,2021
+Hendrik P. A. Lensch,Organoids for the advancement of intraoperative diagnostic procedures,"N Harland, B Amend, N Lipke, SY Brucker, F Fend, A Herkommer, ...","Der Urologe 60, 1159-1166, 2021",,2021
+Hendrik P. A. Lensch,Tetrahedra of varying density and their applications,"H Lensch, DR Bukenberger","The Visual Computer, 2021",,2021
+Hendrik P. A. Lensch,EMCA: Explorer of Monte Carlo based Algorithms.,"L Ruppert, C Kreisl, N Blank, S Herholz, HPA Lensch","VMV, 109-116, 2021",,2021
+Hendrik P. A. Lensch,Systems and methods for facilitating three-dimensional reconstruction of scenes from videos,"B Resch, H Lensch, M Pollefeys, O Wang, AS Hornung","US Patent 10,057,561, 2018",,2018
+Hendrik P. A. Lensch,Backscattering elimination in fog for advanced driver assistance systems with LED matrix headlights,"M Bürker, HPA Lensch","2016 IEEE 19th International Conference on Intelligent Transportation …, 2016",,2016
+Hendrik P. A. Lensch,Scene-Based Non-Uniformity Correction with Readout Noise Compensation,"M Bürker, HPA Lensch","Image and Video Technology: 7th Pacific-Rim Symposium, PSIVT 2015, Auckland …, 2016",,2016
+Hendrik P. A. Lensch,Rotoscoping on Stereoscopic Images and Videos.,"DR Bukenberger, K Schwarz, F Groh, HPA Lensch","VMV, 111-118, 2015",,2015
+Hendrik P. A. Lensch,Illumination and Light Transport.,"M Fuchs, HPA Lensch","Digital Representations of the Real World, 79-89, 2015",,2015
+Hendrik P. A. Lensch,Camera Sensor Pipeline.,"J Kautz, HPA Lensch, C Loscos, P Bekaert","Digital Representations of the Real World, 3-22, 2015",,2015
+Hendrik P. A. Lensch,Recording light fields with microoptical systems,"A Oberdörster, A Brückner, HPA Lensch","Technical Digest of the Eighteenth Microoptics Conference, 1-2, 2013",,2013
+Hendrik P. A. Lensch,An efficient parallel strategy for matching visual self-similarities in large image databases,"K Schwarz, T Häußler, HPA Lensch","Computer Vision–ECCV 2012. Workshops and Demonstrations: Florence, Italy …, 2012",,2012
+Hendrik P. A. Lensch,Graphical Interface Models for Procedural Mesh Growing.,"S Menz, H Dammertz, J Hanika, M Weber, HPA Lensch","VMV, 17-24, 2010",,2010
+Hendrik P. A. Lensch,Proceedings of the Twentieth Eurographics conference on Rendering,"HPA Lensch, PP Sloan","Eurographics Association, 2009",,2009
+Hendrik P. A. Lensch,"Eurographics Symposium on Rendering 2009 Girona, Spain June 29th-July 1st, 2009 Preface","H Lensch, PP Sloan","COMPUTER GRAPHICS FORUM 28 (4), 2009",,2009
+Hendrik P. A. Lensch,Capturing and Reconstructing the Appearance of Complex 3D Scenes,C Fuchs,"Fuchs, Christian, 2009",,2009
+Hendrik P. A. Lensch,Acquisition and analysis of bispectral bidirectional reflectance distribution functions,"MB Hullin, B Ajdin, J Hanika, HP Seidel, J Kautz, H Lensch","Max-Planck-Institut für Informatik, 2009",,2009
+Hendrik P. A. Lensch,The Use of Precomputed Triangle Clusters for Accelerated Ray Tracing in Dynamic Scenes,"HPA Lensch, PP Sloan",,,2009
+Hendrik P. A. Lensch,Session details: SIGGRAPH Core: Projectors for graphics,"R Raskar, A Majumder, HPA Lensch, O Bimber","ACM SIGGRAPH 2008 classes, 2008",,2008
+Hendrik P. A. Lensch,Projector-based illumination for 3D scene modeling,HPA Lensch,"ACM SIGGRAPH 2008 classes, 1-85, 2008",,2008
+Hendrik P. A. Lensch,"Eurographics Symposium on Rendering 2008: Sarajevo, Bosnia and Herzegovina, June 23rd-June 25th, 2008","Symposium on Rendering. 19, 2008, Sarajevo","Blackwell, 2008",,2008
+Hendrik P. A. Lensch,Graphics Interface,"MA Granados Velásquez, HP Seidel, H Lensch","Untitled Event, 33-40, 2008",,2008
+Hendrik P. A. Lensch,Tutorial Notes EUROGRAPHICS 2007 Tutorial 6,"HPA Lensch, M Goesele, G Müller",,,2007
+Hendrik P. A. Lensch,"Vision, Modeling, and Visualization 2007","H Lensch, B Rosenhahn, HP Seidel, P Slusallek, J Weickert","Vision, Modeling, and Visualization 2007, 2007",,2007
+Hendrik P. A. Lensch,Appearance capture & editing,H Lensch,"ACM Transactions on Graphics, 2007",,2007
+Hendrik P. A. Lensch,Session details: Realistic materials in computer graphics,"HPA Lensch, M Goesele","ACM SIGGRAPH 2005 Courses, 2005",,2005
+Hendrik P. A. Lensch,"Akkouche, Samir, 166","P Alliez, NI Badler, A Barbier, B Barsky, A Bartesaghi, A Baumberg, ...","Graphical Models 67, 622, 2005",,2005
+Hendrik P. A. Lensch,"of Proceedings: EUROGRAPHICS 2003 (EUROGRAPHICS-03): the European Association for Computer Graphics, 24th Annual Conference","H Lensch, J Lang, AM Sá, HP Seidel","Blackwell, 2003",,2003
+Hendrik P. A. Lensch,"The 3D Object Pipeline–Capturing, Processing and Interactive Display of Objects with Complex Appearance (Die 3D-Objekt-Pipeline–Akquisition, Verarbeitung und interaktive …","HPA Lensch, M Goesele, J Kautz, HP Seidel","it-Information Technology 44 (6), 322-330, 2002",,2002
+Hendrik P. A. Lensch,"Tutorial notes ACM SM 02: a framework for the acquisition, processing and interactive display of high quality 3D models","M Goesele, J Kautz, J Lang, H Lensch, HP Seidel","Max-Planck-Institut für Informatik, 2002",,2002
+Hendrik P. A. Lensch,"7th ACM Symposium on Solid Modeling and Applications; Tutorial T2: A Framework for the Acquisition, Processing and Interactive Display of High Quality 3D Models","M Goesele, J Kautz, J Lang, H Lensch, HP Seidel","Untitled Event, 2002",,2002
+Hendrik P. A. Lensch,3D Data Acquisition-Eurographics 2002 Tutorial Notes,"R Scopigno, C Andujar, M Goesele, H Lensch","Untitled Event, 2002",,2002
+Hendrik P. A. Lensch,7th ACM Symposium on Solid Modeling and Applications; Tutorial T1: Geometric Algorithms for Planning and Simulation Tasks in Virtual Prototyping,"M Goesele, J Kautz, J Lang, H Lensch, HP Seidel, E Schömer, J Reichel, ...","7th ACM Symposium on Solid Modeling and Applications, 2002",,2002
+Hendrik P. A. Lensch,"Die 3D-Objekt-Pipeline--Akquisition, Verarbeitung und interaktive Darstellung von Objekten mit komplexem Aussehen","HPA Lensch, M Goesele, J Kautz, HP Seidel","Informationstechnik und Technische Informatik 44 (6), 322-330, 2002",,2002
+Hendrik P. A. Lensch,"Digital Preservation and Deep Infrastructure; Dublin Core Metadata Initiative Progress Report and Workplan for 2002; Video Gaming, Education and Digital Learning Technologies …","S Granger, M Dekkers, SL Weibel, J Kirriemuir, H Lensch, M Goesele, ...","D-Lib Magazine 8 (2), n2, 2002",,2002
+Hendrik P. A. Lensch,of Proceedings: Rendering Techniques 2001: Proceedings of the 12th Eurographics Workshop on Rendering,"H Lensch, J Kautz, M Goesele, W Heidrich, HP Seidel","Springer, 2001",,2001
+Hendrik P. A. Lensch,"Grammalidis, Nikos, 333","J Gregor, V Adzhiev, NI Badler, B Barsky, B Bashforth, MP Cani, C Chen, ...","Graphical Models 63, 480, 2001",,2001
+Hendrik P. A. Lensch,3D model acquisition including reflection properties,"HPA Lensch, J Kautz, M Goesele, HP Seidel","Proceedings of the ECDL Workshop Generalized Documents, 1-6, 2001",,2001
+Hendrik P. A. Lensch,"Tutorial Notes for the DAGM 2001 A Framework for the Acquisition, Processing and Interactive Display of High Quality 3D Models","HPA Lensch, M Goesele, HP Seidel","MPI Informatik, Bibliothek & Dokumentation, 2001",,2001
+Hendrik P. A. Lensch,Beitrage-Papers-Computer Graphics Research Contributing to the Development of Truly'Generalized Documents',"DW Fellner, J Haber, S Havemann, L Kobbelt, HPA Lensch, G Muller, ...","Informationstechnik und Technische Informatik 42 (6), 8-16, 2000",,2000
+Hendrik P. A. Lensch,of Proceedings: Rendering Techniques' 99: Proceedings of the 10th Eurographics Workshop on Rendering (EGRW-99),"W Heidrich, H Lensch, M Cohen, HP Seidel","Springer, 1999",,1999
+Hendrik P. A. Lensch,"ACM SIGCOMM'98 Proceedings: Applications, Technologies, Architectures, and Protocols for Computer Communication, Vancouver, British Columbia, Canada, September 2 to September 4 …",Association for Computing Machinery. Special Interest Group on Data ...,"Association for Computing Machinery (ACM) 28 (4-5), 1998",,1998
+Hendrik P. A. Lensch,Zero-shot Translation of Attention Patterns in VQA Models to Natural Language,HPA Lensch,,,
+Hendrik P. A. Lensch,"“A reflectance display” by Glasner, Zickler and Levin",HPA Lensch,,,
+Hendrik P. A. Lensch,"“A compressive light field projection system” by Hirsch, Wetzstein and Raskar",HPA Lensch,,,
+Hendrik P. A. Lensch,"“Cascaded displays: spatiotemporal superresolution using offset pixel layers” by Heide, Lanman, Reddy, Kautz, Pulli, et al.…",HPA Lensch,,,
+Hendrik P. A. Lensch,"“Eyeglasses-free display: towards correcting visual aberrations with computational light field displays” by Huang, Wetzstein, Barsky and Raskar",HPA Lensch,,,
+Hendrik P. A. Lensch,Supplementary Material for SAMURAI: Shape And Material from Unconstrained Real-world Arbitrary Image collections,"M Boss, A Engelhardt, A Kar, Y Li, D Sun, JT Barron, HPA Lensch, ...",,,
+Hendrik P. A. Lensch,Supplementary Material for Neural-PIL: Neural Pre-Integrated Lighting for Reflectance Decomposition,"M Boss, V Jampani, R Braun, C Liu, JT Barron, HPA Lensch",,,
+Hendrik P. A. Lensch,Session details: Deblurring & dehazing,H Lensch,,,
+Hendrik P. A. Lensch,Session details: Appearance capture & editing,H Lensch,,,
+Hendrik P. A. Lensch,Supplementary Material for NeRD: Neural Reflectance Decomposition from Image Collections,"M Boss, R Braun, V Jampani, JT Barron, C Liu, HPA Lensch",,,
+Hendrik P. A. Lensch,Real-time Room Reverb in Large Scenes Using Transport Path Precomputation,"G Mückl, C Dachsbacher",,,
+Hendrik P. A. Lensch,Supplementary Document for Two-shot Spatially-varying BRDF and Shape Estimation,"M Boss, V Jampani, K Kim, HPA Lensch, J Kautz",,,
+Hendrik P. A. Lensch,Textures Revisited (REVISED paper number 357),"H Yamauchi, HPA Lensch, J Haber, HP Seidel",,,
+Hendrik P. A. Lensch,Robust Large-scale Video Synchronization without Annotations,"P Wieschollek, I Freeman, HPA Lensch",,,
+Hendrik P. A. Lensch,Current Research Groups,"S Panel, C Stoll, R Strzodka, T Thormählen, T Weinkauf, M Müller, ...",,,
+Hendrik P. A. Lensch,Jongmin Baek (Ph. D.),"J Baek, AB Adams, J Dolson, E Talvala, SH Park, DE Jacobs, B Ajdin, ...",,,
+Hendrik P. A. Lensch,Interactive Light Field Editing and Compositing,"B Chen, D Horn, G Ziegler, HPA Lensch",,,
+Hendrik P. A. Lensch,Tutorial Notes for ACM Solid Modeling 2002,"M Goesele, J Kautz, J Lang, HPA Lensch, HP Seidel",,,
+Hendrik P. A. Lensch,"Marcus A. Magnor Jochen Lang Hans-Peter Seidel Max-Planck-Institut für Informatik Saarbrücken, Germany lensch, goesele, bekaert, jnkautz, magnor, lang, hpseidel@ mpi-sb. mpg. de",HPA Lensch,,,
+Hendrik P. A. Lensch,Revolutionary Panoramas,"H Lensch, PP Sloan",,,
+Hendrik P. A. Lensch,Background estimation from photographs,"M Granados, HP Seidel, HPA Lensch",,,
+Hendrik P. A. Lensch,Bounded Radiosity with A ne Arithmetic,H Lensch,,,

@@ -1,0 +1,167 @@
+author_name,title,authors,publication,cited_by_value,year
+Ulrike von Luxburg,A tutorial on spectral clustering,U Von Luxburg,"Statistics and computing 17, 395-416, 2007",12024,2007
+Ulrike von Luxburg,Advances in neural information processing systems,"P Wang, L Liu, Y Liu, C Theobalt, T Komura, WP Wang","Curran Associates., 2021",3764,2021
+Ulrike von Luxburg,Consistency of spectral clustering,"U Von Luxburg, M Belkin, O Bousquet","The Annals of Statistics, 555-586, 2008",729,2008
+Ulrike von Luxburg,Curran Associates,"I Guyon, UV Luxburg, S Bengio, H Wallach, R Fergus, S Vishwanathan, ...","Inc.: Red Hook, NY, USA 30, 3149-3157, 2017",427,2017
+Ulrike von Luxburg,From graphs to manifolds–weak and strong pointwise consistency of graph Laplacians,"M Hein, JY Audibert, U Von Luxburg","International Conference on Computational Learning Theory, 470-485, 2005",394,2005
+Ulrike von Luxburg,Clustering stability: an overview,U Von Luxburg,"Foundations and Trends® in Machine Learning 2 (3), 235-274, 2010",372,2010
+Ulrike von Luxburg,Graph laplacians and their convergence on random neighborhood graphs.,"M Hein, JY Audibert, U Luxburg","Journal of Machine Learning Research 8 (6), 2007",317,2007
+Ulrike von Luxburg,Clustering: Science or art?,"U Von Luxburg, RC Williamson, I Guyon","Proceedings of ICML workshop on unsupervised and transfer learning, 65-79, 2012",301,2012
+Ulrike von Luxburg,A sober look at clustering stability,"S Ben-David, U Von Luxburg, D Pál","Learning Theory: 19th Annual Conference on Learning Theory, COLT 2006 …, 2006",300,2006
+Ulrike von Luxburg,"Statistical learning theory: Models, concepts, and results","U Von Luxburg, B Schölkopf","Handbook of the History of Logic 10, 651-706, 2011",266,2011
+Ulrike von Luxburg,Distance-Based Classification with Lipschitz Functions.,"U von Luxburg, O Bousquet","J. Mach. Learn. Res. 5 (Jun), 669-695, 2004",222,2004
+Ulrike von Luxburg,Influence of graph construction on graph-based clustering measures,"M Maier, U Luxburg, M Hein","Advances in neural information processing systems 21, 2008",218,2008
+Ulrike von Luxburg,Getting lost in space: Large sample analysis of the resistance distance,"U Luxburg, A Radl, M Hein","Advances in neural information processing systems 23, 2010",173,2010
+Ulrike von Luxburg,"Advanced Lectures on Machine Learning: ML Summer Schools 2003, Canberra, Australia, February 2-14, 2003, Tübingen, Germany, August 4-16, 2003, Revised Lectures","O Bousquet, U von Luxburg, G Rätsch","Springer, 2011",167,2011
+Ulrike von Luxburg,Limits of spectral clustering,"U Luxburg, O Bousquet, M Belkin","Advances in neural information processing systems 17, 2004",154,2004
+Ulrike von Luxburg,Explaining the explainer: A first theoretical analysis of LIME,"D Garreau, U Luxburg","International conference on artificial intelligence and statistics, 1287-1296, 2020",153,2020
+Ulrike von Luxburg,Clustering: Science or art,"I Guyon, U Von Luxburg, RC Williamson","NIPS 2009 workshop on clustering theory, 1-11, 2009",153,2009
+Ulrike von Luxburg,Hitting and commute times in large random neighborhood graphs,"U Von Luxburg, A Radl, M Hein","The Journal of Machine Learning Research 15 (1), 1751-1798, 2014",151,2014
+Ulrike von Luxburg,Optimal construction of k-nearest-neighbor graphs for identifying noisy clusters,"M Maier, M Hein, U Von Luxburg","Theoretical Computer Science 410 (19), 1749-1764, 2009",148,2009
+Ulrike von Luxburg,Curran Associates,"DD Lee, M Sugiyama, UV Luxburg, I Guyon, R Garnett","Inc.: Red Hook, NY, USA 29, 4134-4142, 2016",144,2016
+Ulrike von Luxburg,Towards a statistical theory of clustering,"U Von Luxburg, S Ben-David","Pascal workshop on statistics and optimization of clustering, 20-26, 2005",114,2005
+Ulrike von Luxburg,Design and analysis of the NIPS 2016 review process,"N Shah, B Tabibian, K Muandet, I Guyon, U Von Luxburg","Journal of machine learning research 19, 1-34, 2018",101,2018
+Ulrike von Luxburg,When do random forests fail?,"C Tang, D Garreau, U von Luxburg","Advances in neural information processing systems 31, 2018",93,2018
+Ulrike von Luxburg,Local ordinal embedding,"Y Terada, U Luxburg","International Conference on Machine Learning, 847-855, 2014",84,2014
+Ulrike von Luxburg,Phase transition in the family of p-resistances,"M Alamgir, U von Luxburg","Advances in Neural Information Processing Systems 24, 379-387, 2011",81,2011
+Ulrike von Luxburg,Consistent procedures for cluster tree estimation and pruning,"K Chaudhuri, S Dasgupta, S Kpotufe, U Von Luxburg","IEEE Transactions on Information Theory 60 (12), 7900-7912, 2014",80,2014
+Ulrike von Luxburg,Relating clustering stability to properties of cluster boundaries,"S Ben-David, U Von Luxburg","21St annual conference on learning theory (COLT 2008), 379-390, 2008",80,2008
+Ulrike von Luxburg,Nearest neighbor clustering: A baseline method for consistent clustering with arbitrary objective functions,"S Bubeck, U Luxburg","The Journal of Machine Learning Research 10, 657-698, 2009",77,2009
+Ulrike von Luxburg,A compression approach to support vector model selection,"U Von Luxburg, O Bousquet, B Schölkopf","J. Mach. Learn. Res. 5, 293-323, 2004",73,2004
+Ulrike von Luxburg,Uniqueness of ordinal embedding,"M Kleindessner, U Luxburg","Conference on Learning Theory, 40-67, 2014",69,2014
+Ulrike von Luxburg,On the convergence of spectral clustering on random samples: the normalized case,"U Von Luxburg, O Bousquet, M Belkin","Learning Theory: 17th Annual Conference on Learning Theory, COLT 2004, Banff …, 2004",67,2004
+Ulrike von Luxburg,Pruning nearest neighbor cluster trees,"S Kpotufe, U Von Luxburg","arXiv preprint arXiv:1105.0540, 2011",64,2011
+Ulrike von Luxburg,Advances in Neural Information Processing Systems 30,"KT Schütt, PJ Kindermans, HE Sauceda, S Chmiela, A Tkatchenko, ...","Guyon, I., Luxburg, UV, Bengio, S., Wallach, H., Fergus, R., Vishwanathan, S …, 2017",62,2017
+Ulrike von Luxburg,Too relaxed to be fair,"M Lohaus, M Perrot, U Von Luxburg","International Conference on Machine Learning, 6360-6369, 2020",57,2020
+Ulrike von Luxburg,Multi-agent random walks for local clustering on graphs,"M Alamgir, U Von Luxburg","2010 IEEE International Conference on Data Mining, 18-27, 2010",57,2010
+Ulrike von Luxburg,Cluster identification in nearest-neighbor graphs,"M Maier, M Hein, U Von Luxburg","Algorithmic Learning Theory: 18th International Conference, ALT 2007, Sendai …, 2007",57,2007
+Ulrike von Luxburg,How the result of graph clustering methods depends on the construction of the graph,"M Maier, U Von Luxburg, M Hein","ESAIM: Probability and Statistics 17, 370-418, 2013",55,2013
+Ulrike von Luxburg,How the initialization affects the stability of the қ-means algorithm∗,"S Bubeck, M Meilă, U von Luxburg","ESAIM: Probability and Statistics 16, 436-452, 2012",55,2012
+Ulrike von Luxburg,Two-sample hypothesis testing for inhomogeneous random graphs,"D Ghoshdastidar, M Gutzeit, A Carpentier, U Von Luxburg",,50,2020
+Ulrike von Luxburg,No evidence for unconscious lie detection: A significant difference does not imply accurate classification,"VH Franz, U von Luxburg","Psychological science 26 (10), 1646-1648, 2015",50,2015
+Ulrike von Luxburg,Shortest path distance in random k-nearest neighbor graphs,"M Alamgir, U Von Luxburg","arXiv preprint arXiv:1206.6381, 2012",50,2012
+Ulrike von Luxburg,Generalized clustering via kernel embeddings,"S Jegelka, A Gretton, B Schölkopf, BK Sriperumbudur, U Von Luxburg","KI 2009: Advances in Artificial Intelligence: 32nd Annual German Conference …, 2009",49,2009
+Ulrike von Luxburg,Curran Associates,"UV Luxburg, S Bengio, H Wallach, R Fergus, S Vishwanathan, R Garnett","Inc.: Red Hook, NY, USA 30, 2017",48,2017
+Ulrike von Luxburg,Two-sample tests for large random graphs using network statistics,"D Ghoshdastidar, M Gutzeit, A Carpentier, U von Luxburg","Conference on Learning Theory, 954-977, 2017",47,2017
+Ulrike von Luxburg,Peer grading in a course on algorithms and data structures: Machine learning algorithms do not improve over simple baselines,"MSM Sajjadi, M Alamgir, U von Luxburg","Proceedings of the third (2016) ACM conference on Learning@ Scale, 369-378, 2016",46,2016
+Ulrike von Luxburg,Feasibility of active machine learning for multiclass compound classification,"T Lang, F Flachsenberg, U von Luxburg, M Rarey","Journal of chemical information and modeling 56 (1), 12-20, 2016",45,2016
+Ulrike von Luxburg,Hitting and commute times in large graphs are often misleading,"U Von Luxburg, A Radl, M Hein","arXiv preprint arXiv:1003.1266, 2010",42,2010
+Ulrike von Luxburg,"A geometric approach to confidence sets for ratios: Fieller's theorem, generalizations and bootstrap","U Von Luxburg, VH Franz","Statistica Sinica, 1095-1117, 2009",42,2009
+Ulrike von Luxburg,Lens depth function and k-relative neighborhood graph: versatile tools for ordinal data analysis,"M Kleindessner, U Von Luxburg","The Journal of Machine Learning Research 18 (1), 1889-1940, 2017",41,2017
+Ulrike von Luxburg,Statistical learning with similarity and dissimilarity functions,U Von Luxburg,"Technische Universität Berlin Berlin, Germany, 2004",41,2004
+Ulrike von Luxburg,Comparison-based nearest neighbor search,"S Haghiri, D Ghoshdastidar, U von Luxburg","Artificial Intelligence and Statistics, 851-859, 2017",40,2017
+Ulrike von Luxburg,Density estimation from unweighted k-nearest neighbor graphs: a roadmap,"U Von Luxburg, M Alamgir","Advances in Neural Information Processing Systems 26, 2013",40,2013
+Ulrike von Luxburg,Post-hoc explanations fail to achieve their purpose in adversarial contexts,"S Bordt, M Finck, E Raidl, U von Luxburg","Proceedings of the 2022 ACM Conference on Fairness, Accountability, and …, 2022",38,2022
+Ulrike von Luxburg,Practical methods for graph two-sample testing,"D Ghoshdastidar, U Von Luxburg","Advances in Neural Information Processing Systems 31, 2018",37,2018
+Ulrike von Luxburg,Kernel functions based on triplet comparisons,"M Kleindessner, U von Luxburg","Advances in neural information processing systems 30, 2017",35,2017
+Ulrike von Luxburg,Equality of opportunity in supervised learning,"H Moritz, P Eric, S Nati, DD Lee, M Sugiyama, UV Luxburg, I Guyon, ...","Advances in neural information processing systems 29, 3315-3323, 2016",35,2016
+Ulrike von Luxburg,Comparison-based random forests,"S Haghiri, D Garreau, U Luxburg","International Conference on Machine Learning, 1871-1880, 2018",33,2018
+Ulrike von Luxburg,Dimensionality estimation without distances,"M Kleindessner, U Luxburg","Artificial Intelligence and Statistics, 471-479, 2015",33,2015
+Ulrike von Luxburg,Looking deeper into tabular LIME,"D Garreau, U von Luxburg","arXiv preprint arXiv:2008.11092, 2020",31,2020
+Ulrike von Luxburg,Advances in neural information processing systems,"M Hardt, E Price, N Srebro, D Lee, M Sugiyama, U Luxburg, I Guyon, ...","Curran, Red Hook, NY 29, 3315-3323, 2016",31,2016
+Ulrike von Luxburg,"Curran Associates, Inc., 2017","I Guyon, UV Luxburg, S Bengio, H Wallach, R Fergus, S Vishwanathan, ...","Google Scholar There is no corresponding record for this reference, 4765-4774, 0",30,
+Ulrike von Luxburg,Foundations of comparison-based hierarchical clustering,"D Ghoshdastidar, M Perrot, U von Luxburg","Advances in neural information processing systems 32, 2019",28,2019
+Ulrike von Luxburg,Construction of tight frames on graphs and application to denoising,"F Göbel, G Blanchard, U Luxburg","Handbook of big data analytics, 503-522, 2018",27,2018
+Ulrike von Luxburg,Advancing research on unconscious priming: When can scientists claim an indirect task advantage?,"S Meyen, IA Zerweck, C Amado, U von Luxburg, VH Franz","Journal of Experimental Psychology: General 151 (1), 65, 2022",26,2022
+Ulrike von Luxburg,Confidence sets for ratios: a purely geometric approach to Fieller's theorem,"U von Luxburg, VH Franz","Max Planck Institute for Biological Cybernetics, 2004",25,2004
+Ulrike von Luxburg,Advances in Neural Information Processing Systems,"A Barreto, W Dabney, R Munos, JJ Hunt, T Schaul, HP v Hasselt, I Guyon, ...",,23,2017
+Ulrike von Luxburg,Advances in neural information processing systems,"K Kawaguchi, D Lee, M Sugiyama, U Luxburg, I Guyon, R Garnett","Curran, Red Hook, NY 29, 586-594, 2016",23,2016
+Ulrike von Luxburg,NetGAN without GAN: From random walks to low-rank approximations,"L Rendsburg, H Heidrich, U Von Luxburg","International Conference on Machine Learning, 8073-8082, 2020",20,2020
+Ulrike von Luxburg,Measures of distortion for machine learning,"L Chennuru Vankadara, U von Luxburg","Advances in Neural Information Processing Systems 31, 2018",18,2018
+Ulrike von Luxburg,How the initialization affects the stability of the k-means algorithm,"S Bubeck, M Meila, U von Luxburg","arXiv preprint arXiv:0907.5494, 2009",17,2009
+Ulrike von Luxburg,Consistent minimization of clustering objective functions,"U Von Luxburg, S Bubeck, S Jegelka, M Kaufmann","Neural Information Processing Systems, 2007",17,2007
+Ulrike von Luxburg,Distance-based classification with Lipschitz functions,"U von Luxburg, O Bousquet","Learning Theory and Kernel Machines: 16th Annual Conference on Learning …, 2003",17,2003
+Ulrike von Luxburg,Chatgpt participates in a computer science exam,"S Bordt, U von Luxburg","arXiv preprint arXiv:2303.09461, 2023",16,2023
+Ulrike von Luxburg,"Advances in neural information processing systems, 29","T Bolukbasi, KW Chang, JY Zou, V Saligrama, AT Kalai, D Lee, ...","Curran, Red Hook, NY, 2016",16,2016
+Ulrike von Luxburg,Density-preserving quantization with application to graph downsampling,"M Alamgir, G Lugosi, U Luxburg","Conference on Learning Theory, 543-559, 2014",16,2014
+Ulrike von Luxburg,Risk-based generalizations of f-divergences,"D García-García, U Von Luxburg, R Santos-Rodriguez","OmniPress, 2011",16,2011
+Ulrike von Luxburg,Advanced Lectures on Machine Learning: ML Summer Schools 2003,"O Bousquet, U von Luxburg, G Rätsch","Canberra, Australia, February, 2-14, 2003",16,2003
+Ulrike von Luxburg,The f-adjusted graph Laplacian: A diagonal modification with a geometric interpretation,"S Kurras, U Luxburg, G Blanchard","International Conference on Machine Learning, 1530-1538, 2014",12,2014
+Ulrike von Luxburg,"Hitting times, commute distances, and the spectral gap for large random geometric graphs","U von Luxburg, A Radl, M Hein","Preprint available at Arxiv, 2010",12,2010
+Ulrike von Luxburg,Group decisions based on confidence weighted majority voting,"S Meyen, DMB Sigg, U Luxburg, VH Franz","Cognitive research: principles and implications 6, 1-13, 2021",11,2021
+Ulrike von Luxburg,"Advances in neural information processing systems, 29","J Foerster, IA Assael, N de Freitas, S Whiteson, DD Lee, M Sugiyama, ...","Google Scholar Google Scholar Digital Library Digital Library, 2016",11,2016
+Ulrike von Luxburg,"Curran Associates, Inc., 2017; Vol. 30","I Guyon, UV Luxburg, S Bengio, H Wallach, R Fergus, S Vishwanathan, ...","Google Scholar There is no corresponding record for this reference, 0",11,
+Ulrike von Luxburg,When humans and machines make joint decisions: A non-symmetric bandit model,"S Bordt, U von Luxburg","arXiv preprint arXiv:2007.04800, 2020",10,2020
+Ulrike von Luxburg,From Shapley values to generalized additive models and back,"S Bordt, U von Luxburg","International Conference on Artificial Intelligence and Statistics, 709-745, 2023",9,2023
+Ulrike von Luxburg,Uncertainty estimates for ordinal embeddings,"M Lohaus, P Hennig, U von Luxburg","arXiv preprint arXiv:1906.11655, 2019",9,2019
+Ulrike von Luxburg,Advances in Neural Information Processing Systems 30,"M Eickenberg, G Exarchakis, M Hirn, S Mallat, I Guyon, UV Luxburg, ...","Curran Associates, Inc., 2017",9,2017
+Ulrike von Luxburg,Advances in neural information processing systems,"N Apthorpe, A Riordan, R Aguilar, J Homann, Y Gu, D Tank, HS Seung, ...","Curran, Red Hook, NY, 2016",9,2016
+Ulrike von Luxburg,Estimation of perceptual scales using ordinal embedding,"S Haghiri, FA Wichmann, U von Luxburg","Journal of vision 20 (9), 14-14, 2020",8,2020
+Ulrike von Luxburg,Advances in neural information processing systems,"I Osband, C Blundell, A Pritzel, B Van Roy, D Lee, M Sugiyama, ...","Curran, Red Hook, NY 29, 4026-4034, 2016",8,2016
+Ulrike von Luxburg,Advances in neural information processing systems,"K Kandasamy, G Dasarathy, JB Oliva, J Schneider, B Póczos, D Lee, ...","Red Hook, New York, United States of America: Current Associates Inc 29, 992, 2016",8,2016
+Ulrike von Luxburg,Advances in Neural Information Processing Systems 29 (NIPS 2016),"M Pachitariu, N Steinmetz, S Kadir, M Carandini, K Harris, DD Lee, ...","NIPS, 2016",8,2016
+Ulrike von Luxburg,Advances in neural information processing systems,"CK Sønderby, T Raiko, L Maaløe, SK Sønderby, O Winther, D Lee, ...","Neural Information Processing Systems 29, 3738-3746, 2016",8,2016
+Ulrike von Luxburg,Tangles: from weak to strong clustering,"C Elbracht, D Fioravanti, S Klepper, J Kneip, L Rendsburg, M Teegen, ...","arXiv e-prints, arXiv: 2006.14444, 2020",7,2020
+Ulrike von Luxburg,Comparison-based framework for psychophysics: Lab versus crowdsourcing,"S Haghiri, P Rubisch, R Geirhos, F Wichmann, U von Luxburg","arXiv preprint arXiv:1905.07234, 2019",7,2019
+Ulrike von Luxburg,Boosting for comparison-based learning,"M Perrot, U Von Luxburg","arXiv preprint arXiv:1810.13333, 2018",7,2018
+Ulrike von Luxburg,Advances in neural information processing systems 30,"U Von Luxburg, I Guyon, S Bengio, H Wallach, R Fergus, ...","31st annual conference on neural information processing systems (NIPS 2017 …, 2017",7,2017
+Ulrike von Luxburg,Adv Neural Inf Process Syst,"SM Lundberg, SI Lee, I Guyon, UV Luxburg, S Bengio, H Wallach, ...","Curran Associates, Inc, Red Hook, Newyork, USA, 2017",7,2017
+Ulrike von Luxburg,Advances in neural information processing systems,"A Nøkland, D Lee, M Sugiyama, U Luxburg, I Guyon, R Garnett","Curran, Red Hook, NY 29, 1037-1045, 2016",7,2016
+Ulrike von Luxburg,"Curran Associates, Inc., 2016","DD Lee, M Sugiyama, UV Luxburg, I Guyon, R Garnett","Google Scholar There is no corresponding record for this reference, 5040-5048, 0",7,
+Ulrike von Luxburg,Insights into ordinal embedding algorithms: A systematic evaluation,"LC Vankadara, M Lohaus, S Haghiri, FU Wahab, U von Luxburg","Journal of Machine Learning Research 24 (191), 1-83, 2023",6,2023
+Ulrike von Luxburg,A bandit model for human-machine decision making with private information and opacity,"S Bordt, U Von Luxburg","International Conference on Artificial Intelligence and Statistics, 7300-7319, 2022",5,2022
+Ulrike von Luxburg,Advances in neural information processing systems 29 (NIPS 2016),"M Bellemare, S Srinivasan, G Ostrovski, T Schaul, D Saxton, R Munos, ...",,5,2016
+Ulrike von Luxburg,Proceedings of the 30th International Conference on Neural Information Processing Systems,"T Bolukbasi, KW Chang, J Zou, V Saligrama, A Kalai, I Guyon, ...",,5,2016
+Ulrike von Luxburg,Nach der Exzellenzinitiative: Personalstruktur als Schlüssel zu leistungsfähigeren Universitäten,"C Menke, M Schularick, S Baumbach, R Wolf, J Macke, W Pernice, ...",,5,2013
+Ulrike von Luxburg,Advanced lectures on machine learning,"OBU von Luxburg, G Rätsch","Lecture, 2004",5,2004
+Ulrike von Luxburg,The unconscious priming fallacy: When can scientists truly claim an indirect task advantage,"S Meyen, IA Zerweck, C Amado, U von Luxburg, VH Franz","arXiv preprint arXiv:2004.14987, 2020",4,2020
+Ulrike von Luxburg,MIT Press: Cambridge,"I Guyon, UV Luxburg, S Bengio, H Wallach, R Fergus, S Vishwanathan, ...","MA, USA 2017, 2017",4,2017
+Ulrike von Luxburg,Similarity graphs in machine learning,"M Hein, U Luxburg","Mach. Learn. Summ. Sch. MPI Biological Cybernetics 1, 1-1, 2007",4,2007
+Ulrike von Luxburg,A consistent estimator for confounding strength,"L Rendsburg, LC Vankadara, D Ghoshdastidar, U von Luxburg","arXiv preprint arXiv:2211.01903, 2022",3,2022
+Ulrike von Luxburg,Recovery guarantees for kernel-based clustering under non-parametric mixture models,"LC Vankadara, S Bordt, U von Luxburg, D Ghoshdastidar","International Conference on Artificial Intelligence and Statistics, 3817-3825, 2021",3,2021
+Ulrike von Luxburg,Kernel functions based on triplet similarity comparisons,"M Kleindessner, U von Luxburg","CoRR, 2016",3,2016
+Ulrike von Luxburg,Unconscious lie detection as an example of a widespread fallacy in the Neurosciences,"VH Franz, U von Luxburg","arXiv preprint arXiv:1407.4240, 2014",3,2014
+Ulrike von Luxburg,AI for Science: An Emerging Agenda,"P Berens, K Cranmer, ND Lawrence, U von Luxburg, J Montgomery","arXiv preprint arXiv:2303.04217, 2023",2,2023
+Ulrike von Luxburg,Interpolation and regularization for causal learning,"L Chennuru Vankadara, L Rendsburg, U Luxburg, D Ghoshdastidar","Advances in Neural Information Processing Systems 35, 36627-36639, 2022",2,2022
+Ulrike von Luxburg,Discovering inductive bias with Gibbs priors: A diagnostic tool for approximate Bayesian inference,"L Rendsburg, A Kristiadi, P Hennig, U Von Luxburg","International Conference on Artificial Intelligence and Statistics, 1503-1526, 2022",2,2022
+Ulrike von Luxburg,Brain network science needs to become predictive. Comment on “Understanding brain networks and brain organization” by Luiz Pessoa,"CC Hilgetag, U von Luxburg","Physics of Life Reviews 11 (3), 446-447, 2014",2,2014
+Ulrike von Luxburg,Influence of graph construction on graph-based quality measures-technical supplement,"M Maier, U von Luxburg, M Hein",,2,2008
+Ulrike von Luxburg,Stochastic Learning,"O Bousquet, U von Luxburg","Advanced Lectures on Machine Learning, 146-168, 0",2,
+Ulrike von Luxburg,Pitfalls of Climate Network Construction—A Statistical Perspective,"M Haas, B Goswami, U von Luxburg","Journal of Climate 36 (10), 3321-3342, 2023",1,2023
+Ulrike von Luxburg,The Manifold Hypothesis for Gradient-Based Explanations,"S Bordt, U Upadhyay, Z Akata, U von Luxburg","Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2023",1,2023
+Ulrike von Luxburg,Specialists Outperform Generalists in Ensemble Classification,"S Meyen, F Göppert, H Alber, U von Luxburg, VH Franz","arXiv preprint arXiv:2107.04381, 2021",1,2021
+Ulrike von Luxburg,Relation between classification accuracy and mutual information in equally weighted classification tasks,U Luxburg,"Universität Hamburg, 2016",1,2016
+Ulrike von Luxburg,"Technical comment on Gunderson, ten Brinke, and Sokol-Hessner (2023). When the body knows: Interoceptive accuracy enhances physiological but not explicit differentiation …","VH Franz, S Meyen, U von Luxburg","Personality and Individual Differences 217, 112439, 2024",,2024
+Ulrike von Luxburg,Mind the spikes: Benign overfitting of kernels and neural networks in fixed dimension,"I Steinwart, U von Luxburg, D Holzmüller, M Haas","arXiv, 2023",,2023
+Ulrike von Luxburg,No evidence for contextual cueing beyond explicit recognition,"U von Luxburg, V Franz, MA Vadillo, S Meyen","Psychonomic Bulletin & Review, 2023",,2023
+Ulrike von Luxburg,No evidence for contextual cueing beyond explicit recognition,"S Meyen, MA Vadillo, U von Luxburg, VH Franz","Psychonomic Bulletin & Review, 1-24, 2023",,2023
+Ulrike von Luxburg,Mind the spikes: Benign overfitting of kernels and neural networks in fixed dimension,"M Haas, D Holzmüller, U von Luxburg, I Steinwart","arXiv preprint arXiv:2305.14077, 2023",,2023
+Ulrike von Luxburg,From Shapley Values to Generalized Additive Models and back,"U von Luxburg, S Bordt","arXiv, 2023",,2023
+Ulrike von Luxburg,Empirical Distortions in Climate Networks,"M Haas, B Goswami, U von Luxburg","EGU23, 2023",,2023
+Ulrike von Luxburg,Machine Learning for Science: Bridging Data-Driven and Mechanistic Modelling (Dagstuhl Seminar 22382),"P Berens, K Cranmer, ND Lawrence, U von Luxburg, J Montgomery","Dagstuhl Reports 12 (9), 2023",,2023
+Ulrike von Luxburg,Clustering with Tangles: Algorithmic Framework and Theoretical Guarantees,"S Klepper, C Elbracht, D Fioravanti, J Kneip, L Rendsburg, M Teegen, ...","Journal of Machine Learning Research 24 (190), 1-56, 2023",,2023
+Ulrike von Luxburg,Estimating the perceived dimensionality of psychophysical stimuli using a triplet accuracy and hypothesis testing procedure,"DE Künstle, U von Luxburg, FA Wichmann","Journal of Vision 22 (14), 3331-3331, 2022",,2022
+Ulrike von Luxburg,Estimating the perceived dimension of psychophysical stimuli using triplet accuracy and hypothesis testing,"DE Künstle, U von Luxburg, FA Wichmann","Journal of Vision 22 (13), 5-5, 2022",,2022
+Ulrike von Luxburg,Clustering with Tangles: Algorithmic Framework and Theoretical Guarantees,"U von Luxburg, M Teegen, L Rendsburg, J Kneip, D Fioravanti, C Elbracht, ...","arXiv, 2022",,2022
+Ulrike von Luxburg,Relating graph auto-encoders to linear models,"U von Luxburg, S Klepper","arXiv, 2022",,2022
+Ulrike von Luxburg,Relating graph auto-encoders to linear models,"S Klepper, U von Luxburg","arXiv preprint arXiv:2211.01858, 2022",,2022
+Ulrike von Luxburg,The Manifold Hypothesis for Gradient-Based Explanations,"Z Akata, U Luxburg, U Upadhyay, S Bordt","IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2022",,2022
+Ulrike von Luxburg,A Bandit Model for Human-Machine Decision Making with Private Information and Opacity,U Luxburg,"arXiv, 2022",,2022
+Ulrike von Luxburg,Spurious Behaviour in Networks from Spatio-temporal Data,"M Haas, B Goswami, U von Luxburg","EGU General Assembly Conference Abstracts, EGU22-11667, 2022",,2022
+Ulrike von Luxburg,Estimating the perceived dimension of psychophysical stimuli,"DE Künstle, U von Luxburg, FA Wichmann",,,2022
+Ulrike von Luxburg,Contextual Cueing May Not Be Unconscious,"S Meyen, U von Luxburg, VH Franz","PERCEPTION 50 (1_ SUPPL), 51-51, 2021",,2021
+Ulrike von Luxburg,Insights into Ordinal Embedding Algorithms: A Systematic Evaluation,"U von Luxburg, FU Wahab, M Lohaus, S Haghiri, LC Vankadara","arXiv, 2021",,2021
+Ulrike von Luxburg,Recovery Guarantees for Kernel-based Clustering under Non-parametric Mixture Models,"L Chennuru Vankadara, S Bordt, U von Luxburg, D Ghoshdastidar","arXiv e-prints, arXiv: 2110.09476, 2021",,2021
+Ulrike von Luxburg,Is Contextual Cueing Unconscious? The Indirect Task Advantage in Implicit Learning,"S Meyen, U von Luxburg, VH Franz","Journal of Vision 21 (9), 1831-1831, 2021",,2021
+Ulrike von Luxburg,Group decisions based on confidence weighted majority voting,"M Sascha, S Dorothee, U von Luxburg, VH Franz","Cognitive Research 6 (1), 2021",,2021
+Ulrike von Luxburg,Insights into Ordinal Embedding Algorithms: A Systematic Evaluation,"L Chennuru Vankadara, S Haghiri, M Lohaus, FU Wahab, U von Luxburg","arXiv e-prints, arXiv: 1912.01666, 2019",,2019
+Ulrike von Luxburg,Re-analyzing unconscious priming: Is there really an indirect task advantage?,"S Meyen, I Zerweck, C Amado, U von Luxburg, V Franz","Journal of Vision 19 (10), 275b-275b, 2019",,2019
+Ulrike von Luxburg,Metric Embeddings for Machine Learning,"U Luxburg, V Uc-Cetina, LC Vankadara",,,2018
+Ulrike von Luxburg,"Dagstuhl Reports, Vol. 6, Issue 9 ISSN 2192-5283","MC Dacier, S Dietrich, F Kargl, H König, M Fränzle, J Kapinski, ...",,,2017
+Ulrike von Luxburg,Foundations of Unsupervised Learning (Dagstuhl Seminar 16382),"MF Balcan, S Ben-David, R Urner, U von Luxburg","Dagstuhl Reports 6 (9), 2017",,2017
+Ulrike von Luxburg,Detecting unconscious processes: Demonstrating the flaws of a frequently used reasoning,"V Franz, U von Luxburg","Journal of Vision 15 (12), 618-618, 2015",,2015
+Ulrike von Luxburg,Possibilities and limitations of machine learning on unweighted graphs--From the viewpoint of random geometric graph theory,"Y Terada, U Luxburg","IEICE Technical Report; IEICE Tech. Rep. 114 (306), 57-64, 2014",,2014
+Ulrike von Luxburg,"24th Annual Conference on Learning Theory, 9-11 June 2011, Budapest, Hungary","SM Kakade, U von Luxburg","24th Annual Conference on Learning Theory (COLT 2011), 2011",,2011
+Ulrike von Luxburg,"COLT 2011, 24th Annual Conference on Learning Theory","SM Kakade, U von Luxburg","COLT 2011. 24th Annual Conference on Learning Theory, 2011",,2011
+Ulrike von Luxburg,Weak and Strong Pointwise Consistency of Graph Laplacians,"M Hein¹, JY Audibert, U von Luxburg","Learning Theory:... Annual Conference on Learning Theory, COLT …, 2005",,2005
+Ulrike von Luxburg,Distance-Based Classification with Lipschitz Functions (Special Topic on Learning Theory),"U von Luxburg, O Bousquet","JOURNAL OF MACHINE LEARNING RESEARCH 5 (1), 669, 2005",,2005
+Ulrike von Luxburg,cblearn: Comparison-based Machine Learning in,"DE Künstle, U von Luxburg",,,
+Ulrike von Luxburg,Maximum Likelihood vs. Sequential Normalized Maximum Likelihood in On-line Density Estimation,P Grünwald,,,
+Ulrike von Luxburg,THE ANNALS,"G BLANCHARD, O BOUSQUET, P MASSART, U VON LUXBURG, ...",,,
+Ulrike von Luxburg,https://github. com/baidu-research/baidu-allreduce.,"U von Luxburg, S Bengio, HM Wallach, R Fergus, SVN Vishwanathan, ...",,,
+Ulrike von Luxburg,Eigen-Distortions of Hierarchical Representations,"EI Guyon, UV Luxburg, S Bengio, H Wallach, R Fergus, S Vishwanathan, ...",,,
+Ulrike von Luxburg,TESTING THE EQUALITY IN DISTRIBUTION OF TWO RANDOM GRAPHS,"M Gutzeit, OGU Magdeburg, U von Luxburg, D Ghoshdastidar",,,
+Ulrike von Luxburg,Supplementary material for the article: Comparison-Based Random Forests,"S Haghiri, D Garreau, U von Luxburg",,,
+Ulrike von Luxburg,MergingVertexWeightsinto SimilarityGraphs,"S Kurras, U von Luxburg, G Blanchard",,,
+Ulrike von Luxburg,"Advanced lectures on machine learning (Canberra, 2-14 February 2003; Tübingen, 4-16 August 2003, revised lectures)","O Bousquet, U von Luxburg, G Rätsch","Lecture notes in computer science, 0",,
+Ulrike von Luxburg,Supplementary material to “Consistent Minimization of Clustering Objective Functions”,"U von Luxburg, S Bubeck, S Jegelka, M Kaufmann",,,
