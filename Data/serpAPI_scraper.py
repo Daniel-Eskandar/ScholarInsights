@@ -13,9 +13,7 @@ load_dotenv()
 # Hein, Lensch, Macke, Pons-Moll
 # Zell, Schilling, Wichmann, Williamson
 # Schölkopf
-AUTHOR_ID_LIST=['SrVnrPcAAAAJ', 'UeG5w08AAAAJ', 'mMifMdoAAAAJ', 'dIcpfzAAAAAJ',
-                '0ZAb3tsAAAAJ', '2R22h84AAAAJ', 'FKOqtF8AAAAJ', 'OpXMNnMAAAAJ',
-                'u7w1MYcAAAAJ', '0uEkSPQAAAAJ', 'NxrQ794AAAAJ', 'G4MBruQAAAAJ',
+AUTHOR_ID_LIST=['u7w1MYcAAAAJ', '0uEkSPQAAAAJ', 'NxrQ794AAAAJ', 'G4MBruQAAAAJ',
                 'DZ-fHPgAAAAJ' ]
 
 

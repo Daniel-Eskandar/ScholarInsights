@@ -1,0 +1,232 @@
+author_name,title,authors,publication,cited_by_value,year
+Felix Wichmann,"The psychometric function: I. Fitting, sampling, and goodness of fit","FA Wichmann, NJ Hill","Perception & psychophysics 63 (8), 1293-1313, 2001",2678,2001
+Felix Wichmann,ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness,"R Geirhos, P Rubisch, C Michaelis, M Bethge, FA Wichmann, W Brendel","arXiv preprint arXiv:1811.12231, 2018",2471,2018
+Felix Wichmann,Shortcut learning in deep neural networks,"R Geirhos, JH Jacobsen, C Michaelis, R Zemel, W Brendel, M Bethge, ...","Nature Machine Intelligence 2 (11), 665-673, 2020",1376,2020
+Felix Wichmann,The psychometric function: II. Bootstrap-based confidence intervals and sampling,"FA Wichmann, NJ Hill","Perception & psychophysics 63, 1314-1329, 2001",961,2001
+Felix Wichmann,Generalisation in humans and deep neural networks,"R Geirhos, CRM Temme, J Rauber, HH Schütt, M Bethge, FA Wichmann","Advances in neural information processing systems 31, 2018",582,2018
+Felix Wichmann,The contributions of color to recognition memory for natural scenes.,"FA Wichmann, LT Sharpe, KR Gegenfurtner","Journal of Experimental Psychology: Learning, Memory, and Cognition 28 (3), 509, 2002",396,2002
+Felix Wichmann,Painfree and accurate Bayesian estimation of psychometric functions for (potentially) overdispersed data,"HH Schütt, S Harmeling, JH Macke, FA Wichmann","Vision research 122, 105-123, 2016",311,2016
+Felix Wichmann,Inference for psychometric functions in the presence of nonstationary behavior,"I Fründ, NV Haenel, FA Wichmann","Journal of vision 11 (6), 16-16, 2011",291,2011
+Felix Wichmann,Comparing deep neural networks against humans: object recognition when the signal gets weaker,"R Geirhos, DHJ Janssen, HH Schütt, J Rauber, M Bethge, FA Wichmann","arXiv preprint arXiv:1706.06969, 2017",274,2017
+Felix Wichmann,A nonparametric approach to bottom-up visual saliency,"W Kienzle, FA Wichmann, M Franz, B Schölkopf","Advances in neural information processing systems 19, 2006",264,2006
+Felix Wichmann,Center-surround patterns emerge as optimal predictors for human saccade targets,"W Kienzle, MO Franz, B Schölkopf, FA Wichmann","Journal of vision 9 (5), 7-7, 2009",191,2009
+Felix Wichmann,Quantifying the effect of intertrial dependence on perceptual decisions,"I Fründ, FA Wichmann, JH Macke","Journal of vision 14 (7), 9-9, 2014",190,2014
+Felix Wichmann,Bayesian inference for psychometric functions,"M Kuss, F Jäkel, FA Wichmann","Journal of Vision 5 (5), 8-8, 2005",183,2005
+Felix Wichmann,Spatial four-alternative forced-choice method is the preferred psychophysical method for naïve observers,"F Jäkel, FA Wichmann","Journal of Vision 6 (11), 13-13, 2006",158,2006
+Felix Wichmann,Texture and haptic cues in slant discrimination: reliability-based cue weighting without statistically optimal cue combination,"P Rosas, J Wagemans, MO Ernst, FA Wichmann","JOSA A 22 (5), 801-809, 2005",130,2005
+Felix Wichmann,Partial success in closing the gap between human and machine vision,"R Geirhos, K Narayanappa, B Mitzkus, T Thieringer, M Bethge, ...","Advances in Neural Information Processing Systems 34, 23885-23899, 2021",129,2021
+Felix Wichmann,Animal detection in natural scenes: Critical features revisited,"FA Wichmann, J Drewes, P Rosas, KR Gegenfurtner","Journal of Vision 10 (4), 6-6, 2010",124,2010
+Felix Wichmann,Phase noise and the classification of natural images,"FA Wichmann, DI Braun, KR Gegenfurtner","Vision research 46 (8-9), 1520-1529, 2006",112,2006
+Felix Wichmann,Transcranial magnetic stimulation in the visual system.<? A3B2 show $6#?> I. The psychophysics of visual suppression,"T Kammer, K Puls, H Strasburger, NJ Hill, FA Wichmann","Experimental brain research 160, 118-128, 2005",108,2005
+Felix Wichmann,Gender classification of human faces,"ABA Graf, FA Wichmann","Biologically Motivated Computer Vision: Second International Workshop, BMCV …, 2002",106,2002
+Felix Wichmann,Spatial statistics and attentional dynamics in scene viewing,"R Engbert, HA Trukenbrod, S Barthelmé, FA Wichmann","Journal of vision 15 (1), 14-14, 2015",103,2015
+Felix Wichmann,An overview of quantitative approaches in Gestalt perception,"F Jäkel, M Singh, FA Wichmann, MH Herzog","Vision research 126, 3-8, 2016",92,2016
+Felix Wichmann,Generalization and similarity in exemplar models of categorization: Insights from machine learning,"F Jäkel, B Schölkopf, FA Wichmann","Psychonomic Bulletin & Review 15, 256-271, 2008",89,2008
+Felix Wichmann,A tutorial on kernel methods for categorization,"F Jäkel, B Schölkopf, FA Wichmann","Journal of Mathematical Psychology 51 (6), 343-358, 2007",86,2007
+Felix Wichmann,How sensitive is the human visual system to the local statistics of natural images?,"HE Gerhard, FA Wichmann, M Bethge","PLoS computational biology 9 (1), e1002873, 2013",78,2013
+Felix Wichmann,Beyond accuracy: quantifying trial-by-trial behaviour of CNNs and humans by measuring error consistency,"R Geirhos, K Meding, FA Wichmann","Advances in Neural Information Processing Systems 33, 13890-13902, 2020",77,2020
+Felix Wichmann,How to find interesting locations in video: a spatiotemporal interest point detector learned from human eye movements,"W Kienzle, B Schölkopf, FA Wichmann, MO Franz","Pattern Recognition: 29th DAGM Symposium, Heidelberg, Germany, September 12 …, 2007",77,2007
+Felix Wichmann,Does cognitive science need kernels?,"F Jäkel, B Schölkopf, FA Wichmann","Trends in cognitive sciences 13 (9), 381-388, 2009",76,2009
+Felix Wichmann,Texture and object motion in slant discrimination: Failure of reliability-based weighting of cues may be evidence for strong fusion,"P Rosas, FA Wichmann, J Wagemans","Journal of vision 7 (6), 3-3, 2007",67,2007
+Felix Wichmann,Contrast discrimination with sinusoidal gratings of different spatial frequency,"CM Bird, GB Henning, FA Wichmann","JOSA A 19 (7), 1267-1273, 2002",65,2002
+Felix Wichmann,A parametric texture model based on deep convolutional features closely matches texture appearance for humans,"TSA Wallis, CM Funke, AS Ecker, LA Gatys, FA Wichmann, M Bethge","Journal of vision 17 (12), 5-5, 2017",58,2017
+Felix Wichmann,Modeling fixation locations using spatial point processes,"S Barthelmé, H Trukenbrod, R Engbert, F Wichmann","Journal of vision 13 (12), 1-1, 2013",55,2013
+Felix Wichmann,A neural population model for visual pattern detection.,"RLT Goris, T Putzeys, J Wagemans, FA Wichmann","Psychological review 120 (3), 472, 2013",55,2013
+Felix Wichmann,"Similarity, kernels, and the triangle inequality","F Jäkel, B Schölkopf, FA Wichmann","Journal of Mathematical Psychology 52 (5), 297-303, 2008",54,2008
+Felix Wichmann,Classification of faces in man and machine,"ABA Graf, FA Wichmann, HH Bülthoff, B Schölkopf","Neural Computation 18 (1), 143-165, 2006",53,2006
+Felix Wichmann,Testing models of peripheral encoding using metamerism in an oddity paradigm,"TSA Wallis, M Bethge, FA Wichmann","Journal of vision 16 (2), 4-4, 2016",51,2016
+Felix Wichmann,Image content is more important than Bouma’s Law for scene metamers,"TSA Wallis, CM Funke, AS Ecker, LA Gatys, FA Wichmann, M Bethge","ELife 8, e42512, 2019",46,2019
+Felix Wichmann,Learning an interest operator from human eye movements,"W Kienzle, FA Wichmann, B Scholkopf, MO Franz","2006 Conference on Computer Vision and Pattern Recognition Workshop (CVPRW …, 2006",45,2006
+Felix Wichmann,Likelihood-based parameter estimation and comparison of dynamical cognitive models.,"HH Schütt, LOM Rothkegel, HA Trukenbrod, S Reich, FA Wichmann, ...","Psychological review 124 (4), 505, 2017",44,2017
+Felix Wichmann,Modelling contrast discrimination data suggest both the pedestal effect and stochastic resonance to be caused by the same mechanism,"RLT Goris, J Wagemans, FA Wichmann","Journal of Vision 8 (15), 17-17, 2008",44,2008
+Felix Wichmann,Cue combination: Beyond optimality,"P Rosas, FA Wichmann","Sensory cue integration, 144-52, 2011",43,2011
+Felix Wichmann,On the surprising similarities between supervised and self-supervised models,"R Geirhos, K Narayanappa, B Mitzkus, M Bethge, FA Wichmann, ...","arXiv preprint arXiv:2010.08377, 2020",42,2020
+Felix Wichmann,An image-computable psychophysical spatial vision model,"HH Schütt, FA Wichmann","Journal of vision 17 (12), 12-12, 2017",40,2017
+Felix Wichmann,Some observations on the pedestal effect,"GB Henning, FA Wichmann","Journal of Vision 7 (1), 3-3, 2007",39,2007
+Felix Wichmann,Disentangling bottom-up versus top-down and low-level versus high-level influences on eye movements over time,"HH Schütt, LOM Rothkegel, HA Trukenbrod, R Engbert, FA Wichmann","Journal of vision 19 (3), 1-1, 2019",37,2019
+Felix Wichmann,Psignifit 4: Pain-free Bayesian inference for psychometric functions,"H Schütt, S Harmeling, J Macke, F Wichmann","Journal of vision 15 (12), 474-474, 2015",37,2015
+Felix Wichmann,Machine learning applied to perception: Decision images for gender classification,"FA Wichmann, A Graf, H Bülthoff, E Simoncelli, B Schölkopf","Advances in neural information processing systems 17, 2004",36,2004
+Felix Wichmann,Some aspects of modelling human spatial vision: contrast discrimination.,FA Wichmann,"University of Oxford, 1999",36,1999
+Felix Wichmann,Methods in psychophysics,"FA Wichmann, F Jäkel, J Wixted","Stevens handbook of experimental psychology and cognitive neuroscience 5 …, 2018",34,2018
+Felix Wichmann,A neurophysiologically plausible population code model for human contrast discrimination,"RLT Goris, FA Wichmann, GB Henning","Journal of Vision 9 (7), 15-15, 2009",34,2009
+Felix Wichmann,Temporal evolution of the central fixation bias in scene viewing,"LOM Rothkegel, HA Trukenbrod, HH Schütt, FA Wichmann, R Engbert","Journal of vision 17 (13), 3-3, 2017",33,2017
+Felix Wichmann,Estimating predictive stimulus features from psychophysical data: The decision image technique applied to human faces,"JH Macke, FA Wichmann","Journal of vision 10 (5), 22-22, 2010",33,2010
+Felix Wichmann,Visual perception I: Basic principles,"J Wagemans, FA Wichmann, HO de Beeck","H and boo ko f, 1, 2004",32,2004
+Felix Wichmann,Some observations on the effects of slant and texture type on slant-from-texture,"P Rosas, FA Wichmann, J Wagemans","Vision Research 44 (13), 1511-1535, 2004",31,2004
+Felix Wichmann,Determining the cortical target of transcranial magnetic stimulation,"A Thielscher, FA Wichmann","Neuroimage 47 (4), 1319-1330, 2009",29,2009
+Felix Wichmann,The contribution of color to visual memory in X-chromosome-linked dichromats,"KR Gegenfurtner, FA Wichmann, LT Sharpe","Vision research 38 (7), 1041-1045, 1998",29,1998
+Felix Wichmann,Contrast discrimination with pulse trains in pink noise,"GB Henning, CM Bird, FA Wichmann","JOSA A 19 (7), 1259-1266, 2002",26,2002
+Felix Wichmann,Influence of initial fixation position in scene viewing,"LOM Rothkegel, HA Trukenbrod, HH Schütt, FA Wichmann, R Engbert","Vision research 129, 33-49, 2016",20,2016
+Felix Wichmann,Trivial or impossible--dichotomous data difficulty masks model differences (on ImageNet and beyond),"K Meding, LMS Buschoff, R Geirhos, FA Wichmann","arXiv preprint arXiv:2110.05922, 2021",19,2021
+Felix Wichmann,Noise masking of White's illusion exposes the weakness of current spatial filtering models of lightness perception,"T Betz, R Shapley, FA Wichmann, M Maertens","Journal of vision 15 (14), 1-1, 2015",19,2015
+Felix Wichmann,Comparing sensitivity estimates from MLDS and forced-choice methods in a slant-from-texture experiment,"G Aguilar, FA Wichmann, M Maertens","Journal of Vision 17 (1), 37-37, 2017",18,2017
+Felix Wichmann,Searchers adjust their eye-movement dynamics to target characteristics in natural scenes,"LOM Rothkegel, HH Schütt, HA Trukenbrod, FA Wichmann, R Engbert","Scientific reports 9 (1), 1635, 2019",17,2019
+Felix Wichmann,Methods and measurements to compare men against machines,"FA Wichmann, DHJ Janssen, R Geirhos, G Aguilar, HH Schütt, ...","Electronic Imaging 2017 (14), 36-45, 2017",17,2017
+Felix Wichmann,BOiS—Berlin object in scene database: controlled photographic images for visual search experiments with quantified contextual priors,"J Mohr, J Seyfarth, A Lueschow, JE Weber, FA Wichmann, K Obermayer","Frontiers in psychology 7, 749, 2016",16,2016
+Felix Wichmann,Inducing metric violations in human similarity judgements,"J Laub, KR Müller, FA Wichmann, JH Macke","Advances in neural information processing systems 19, 2006",15,2006
+Felix Wichmann,Sparse regularized regression identifies behaviorally-relevant stimulus features from psychophysical data,"VH Schönfelder, FA Wichmann","The Journal of the Acoustical Society of America 131 (5), 3953-3969, 2012",14,2012
+Felix Wichmann,Identification of stimulus cues in narrow-band tone-in-noise detection using sparse observer models,"VH Schönfelder, FA Wichmann","The Journal of the Acoustical Society of America 134 (1), 447-463, 2013",13,2013
+Felix Wichmann,When luminance increment thresholds depend on apparent lightness,"M Maertens, FA Wichmann","Journal of Vision 13 (6), 21-21, 2013",13,2013
+Felix Wichmann,Testing the role of luminance edges in White's illusion with contour adaptation,"T Betz, R Shapley, FA Wichmann, M Maertens","Journal of vision 15 (11), 14-14, 2015",12,2015
+Felix Wichmann,Are Deep Neural Networks Adequate Behavioral Models of Human Visual Perception?,"FA Wichmann, R Geirhos","Annual Review of Vision Science 9, 2023",11,2023
+Felix Wichmann,Insights from Machine Learning Applied to Human Visual Classification.,"ABA Graf, FA Wichmann","NIPS, 905-912, 2003",11,2003
+Felix Wichmann,Deep neural models for color classification and color constancy,"A Flachot, A Akbarinia, HH Schütt, RW Fleming, FA Wichmann, ...","Journal of Vision 22 (4), 17-17, 2022",10,2022
+Felix Wichmann,Context affects lightness at the level of surfaces,"M Maertens, FA Wichmann, R Shapley","Journal of vision 15 (1), 15-15, 2015",10,2015
+Felix Wichmann,Spatial statistics for gaze patterns in scene viewing: Effects of repeated viewing,"HA Trukenbrod, S Barthelmé, FA Wichmann, R Engbert","Journal of vision 19 (6), 5-5, 2019",9,2019
+Felix Wichmann,A new perceptual bias reveals suboptimal population decoding of sensory responses,"T Putzeys, M Bethge, F Wichmann, J Wagemans, R Goris","PLoS Computational Biology 8 (4), e1002453, 2012",9,2012
+Felix Wichmann,The importance of phase information for recognizing natural images,"KR Gegenfurtner, DI Braun, FA Wichmann","Journal of Vision 3 (9), 519-519, 2003",9,2003
+Felix Wichmann,No role for motion blur in either motion detection or motion-based image segmentation,"FA Wichmann, GB Henning","JOSA A 15 (2), 297-306, 1998",9,1998
+Felix Wichmann,Estimation of perceptual scales using ordinal embedding,"S Haghiri, FA Wichmann, U von Luxburg","Journal of vision 20 (9), 14-14, 2020",8,2020
+Felix Wichmann,Phenomenal causality and sensory realism,"K Meding, SA Bruijns, B Schölkopf, P Berens, FA Wichmann","i-Perception 11 (3), 2041669520927038, 2020",8,2020
+Felix Wichmann,Comparison-based framework for psychophysics: Lab versus crowdsourcing,"S Haghiri, P Rubisch, R Geirhos, F Wichmann, U von Luxburg","arXiv preprint arXiv:1905.07234, 2019",7,2019
+Felix Wichmann,The independent components of natural images are perceptually dependent,"M Bethge, TV Wiecki, FA Wichmann","Human Vision and Electronic Imaging XII 6492, 112-123, 2007",7,2007
+Felix Wichmann,Classification of natural scenes: Critical features revisited,"J Drewes, FA Wichmann, KR Gegenfurtner","Journal of Vision 6 (6), 561-561, 2006",7,2006
+Felix Wichmann,The developmental trajectory of object recognition robustness: children are like small adults but unlike big deep neural networks,"LS Huber, R Geirhos, FA Wichmann","arXiv preprint arXiv:2205.10144, 2022",6,2022
+Felix Wichmann,Towards matching peripheral appearance for arbitrary natural images using deep features,"T Wallis, C Funke, A Ecker, L Gatys, F Wichmann, M Bethge","Journal of Vision 17 (10), 786-786, 2017",6,2017
+Felix Wichmann,A four-year-old can outperform resnet-50: out-of-distribution robustness may not require large-scale experience,"LS Huber, R Geirhos, FA Wichmann","SVRHM 2021 Workshop@ NeurIPS, 2021",4,2021
+Felix Wichmann,Rapid animal detection in natural scenes: Critical features are local,"FA Wichmann, P Rosas, KR Gegenfurtner","Journal of Vision 5 (8), 376-376, 2005",4,2005
+Felix Wichmann,Classification of natural scenes using global image statistics,"J Drewes, F Wichmann, KR Gegenfurtner","Journal of Vision 5 (8), 602-602, 2005",4,2005
+Felix Wichmann,Approximate Bayesian inference for psychometric functions using MCMC sampling,"M Kuss, F Jäkel, FA Wichmann","Max Planck Institute for Biological Cybernetics, 2005",4,2005
+Felix Wichmann,The contribution of colour to recognition memory in normal and colour-deficient observers,"KR Gegenfurtner, FA Wichmann, LT Sharpe","Max Planck Institute for Biological Cybernetics, 1996",4,1996
+Felix Wichmann,Imagenet suffers from dichotomous data difficulty,"K Meding, LMS Buschoff, R Geirhos, FA Wichmann","NeurIPS 2021 Workshop on ImageNet: Past, Present, and Future, 2021",3,2021
+Felix Wichmann,Neural signatures of motor skill in the resting brain,"O Özdenizci, T Meyer, F Wichmann, J Peters, B Schölkopf, M Çetin, ...","2019 IEEE International Conference on Systems, Man and Cybernetics (SMC …, 2019",3,2019
+Felix Wichmann,To View More...,"CP Benton, EC Burgess, JK Dionne, DYP Henriques, KA Schneider, ...","Journal of Vision 8, 1, 2008",3,2008
+Felix Wichmann,‘Nonlinearities and the pedestal effect,"FA Wichmann, GB Henning, AC Ploghaus","Perception 27 (Suppl.), S86, 1998",3,1998
+Felix Wichmann,"Masking by plaid patterns is not explained by adaption, simple contrast gain-control or distortion products",FA Wichmann,"INVESTIGATIVE OPHTHALMOLOGY & VISUAL SCIENCE 38 (4), 2949-2949, 1997",3,1997
+Felix Wichmann,The bittersweet lesson: data-rich models narrow the behavioural gap to human vision,"R Geirhos, K Narayanappa, B Mitzkus, T Thieringer, M Bethge, ...","Journal of Vision 22 (14), 3273-3273, 2022",2,2022
+Felix Wichmann,"The developmental trajectory of object recognition robustness: comparing children, adults, and CNNs","LS Huber, R Geirhos, FA Wichmann","Journal of Vision 21 (9), 1967-1967, 2021",2,2021
+Felix Wichmann,Inducing a human-like shape bias leads to emergent human-level distortion robustness in CNNs,"R Geirhos, P Rubisch, J Rauber, CRM Temme, C Michaelis, W Brendel, ...","Journal of Vision 19 (10), 209c-209c, 2019",2,2019
+Felix Wichmann,Color constancy in deep neural networks,"AC Flachot, HH Schuett, RW Fleming, F Wichmann, KR Gegenfurtner","Journal of Vision 19 (10), 298-298, 2019",2,2019
+Felix Wichmann,Perceiving the arrow of time in autoregressive motion,"K Meding, D Janzing, B Schölkopf, FA Wichmann","Advances in Neural Information Processing Systems 32, 2019",2,2019
+Felix Wichmann,Of human observers and deep neural networks: A detailed psychophysical comparison,"R Geirhos, D Janssen, H Schütt, M Bethge, F Wichmann","Journal of Vision 17 (10), 806-806, 2017",2,2017
+Felix Wichmann,Detecting distortions of peripherally presented letter stimuli under crowded conditions,"TS A. Wallis, S Tobias, M Bethge, FA Wichmann","Attention, Perception, & Psychophysics 79, 850-862, 2017",2,2017
+Felix Wichmann,Oblique-and plaid-masking re-visited,"C Wiebel, FA Wichmann","Pabst, 2007",2,2007
+Felix Wichmann,7th Tubingen Perception Conference,"HH Bülthoff, HA Mallot, RD Ulrich, FA Wichmann","9th Tübinger Wahrnehmungskonferenz (TWK 2006), 2006",2,2006
+Felix Wichmann,Classification and memory behaviour of man revisited by machine,"ABA Graf, FA Wichmann, HH Bülthoff, B Schölkopf","Computational and Systems Neuroscience Meeting (COSYNE 2004), 72, 2004",2,2004
+Felix Wichmann,Surface slant and surface curvature from texture,"P Rosas, J Schepers, FA Wichmann, J Wagemans","25th European Conference on Visual Perception (ECVP 2002), 27, 2002",2,2002
+Felix Wichmann,Is edge sensitivity more than contrast sensitivity?,"L Schmittwilken, FA Wichmann, M Maertens","Journal of Vision 23 (9), 4932-4932, 2023",1,2023
+Felix Wichmann,Psychophysical Estimation of Early and Late Noise,"JJ Esteve-Taboada, G Aguilar, M Maertens, FA Wichmann, J Malo","arXiv preprint arXiv:2012.06608, 2020",1,2020
+Felix Wichmann,Unintended cue learning: Lessons for deep learning from experimental psychology,"R Geirhos, JH Jacobsen, C Michaelis, R Zemel, W Brendel, M Bethge, ...","Journal of Vision 20 (11), 652-652, 2020",1,2020
+Felix Wichmann,A divisive model of midget and parasol ganglion cells explains the contrast sensitivity function,"HH Schütt, FA Wichmann","Journal of Vision 19 (10), 79a-79a, 2019",1,2019
+Felix Wichmann,An image-based model for early visual processing,"HH Schütt, FA Wichmann",,1,2016
+Felix Wichmann,Special issue quantitative approaches in gestalt perception,"F Jaekel, M Singh, F Wichmann, MH Herzog","Vision Research, 2016",1,2016
+Felix Wichmann,Pain-free Bayesian inference of psychometric functions,"H Schütt, S Harmeling, J Macke, F Wichmann","2014 European Mathematical Psychology Group Meeting (EMPG), 38-39, 2014",1,2014
+Felix Wichmann,Testing the ODOG brightness model with narrowband noise stimuli,"T Betz, FA Wichmann, R Shapley, M Maertens","PERCEPTION 43 (1), 164-164, 2014",1,2014
+Felix Wichmann,Dealing with sequential dependencies in psychophysical data,"I Fründ, F Wichmann, J Macke","Journal of Vision 12 (9), 1143-1143, 2012",1,2012
+Felix Wichmann,On the relationship between luminanc increment thresholds and apparent brightness,"M Maertens, FA Wichmann","Journal of Vision 10 (7), 424-424, 2010",1,2010
+Felix Wichmann,Non-linear system identification: Visual saliency inferred from eye-movement data,"FA Wichmann, W Kienzle, B Schölkopf, M Franz","Journal of Vision 9 (8), 32-32, 2009",1,2009
+Felix Wichmann,Center-surround filters emerge from optimizing predictivity in a free-viewing task,"W Kienzle, FA Wichmann, B Schölkopf, MO Franz","Computational and Systems Neuroscience Meeting (COSYNE 2007), 207, 2007",1,2007
+Felix Wichmann,About the Triangle Inequality in Perceptual Spaces,"F Jäkel, B Schölkopf, FA Wichmann","Computational and Systems Neuroscience Meeting (COSYNE 2007), 308, 2007",1,2007
+Felix Wichmann,Nonlinear receptive field analysis: Making kernel methods interpretable,"W Kienzle, JH Macke, FA Wichmann, B Schölkopf, MO Franz","Computational and Systems Neuroscience Meeting (COSYNE 2007), 16, 2007",1,2007
+Felix Wichmann,"The pedestal effect is caused by off-frequency looking, not nonlinear transduction or contrast gain-control","FA Wichmann, GB Henning","Journal of Vision 6 (6), 194-194, 2006",1,2006
+Felix Wichmann,Masking by plaid patterns revisited,F Wichmann,"46. Tagung Experimentell Arbeitender Psychologen (TeaP 2004), 285, 2004",1,2004
+Felix Wichmann,Texture and haptic cues in slant discrimination: Measuring the effect of texture type on cue combination,"P Rosas, FA Wichmann, MO Ernst, J Wagemans","Journal of Vision 3 (12), 26-26, 2003",1,2003
+Felix Wichmann,Study of human classification using psychophysics and machine learning,"ABA GrAF, FA Wichmann, HH Bülthoff, B Schölkopf","6. Tübinger Wahrnehmungskonferenz (TWK 2003), 149, 2003",1,2003
+Felix Wichmann,Modelling contrast transfer in spatial vision,FA Wichmann,"Journal of Vision 2 (10), 7-7, 2002",1,2002
+Felix Wichmann,Combining sensory information to improve visualization,"M Ernst, M Banks, F Wichmann, L Maloney, H Bülthoff","Proceedings of the conference on Visualization'02, 571-574, 2002",1,2002
+Felix Wichmann,‘Plaid maskers revisited: asymmetric plaids,FA Wichmann,"Visuelle Wahrnehmung. Beiträ ge zur 3. Tü binger Wahrnehmungskonferenz, 57, 2001",1,2001
+Felix Wichmann,‘Contrast discrimination using periodic pulse trains,"FA Wichmann, GB Henning","Visuelle Wahrnehmung. Beiträge zur 3. Tübinger Wahrnehmungskonferenz, 74, 2000",1,2000
+Felix Wichmann,‘Implications of the pedestal effect for models of contrast-processing and gaincontrol,"FA Wichmann, GB Henning","OSA Annual Meeting, September, 1999",1,1999
+Felix Wichmann,‘Pedestal effects with periodic pulse trains,"GB Henning, FA Wichmann","Perception 28 (Suppl.), S137, 1999",1,1999
+Felix Wichmann,Colour in Recognition Memory and Image Understanding,"FA Wichmann, KR Gegenfurtner","Association for Research in Vision and Ophthalmology, etc., 1995",1,1995
+Felix Wichmann,Image segmentation from motion: just a loss of high-spatial-frequency content?,"FA Wichmann, GB Henning","PERCEPTION 24, 19-19, 1995",1,1995
+Felix Wichmann,Seeing the future of progressive glasses: a new perceptual approach to spectacle lens design,"Y Sauer, DE Künstle, F Wichmann, S Wahl","PsyArXiv, 2023",,2023
+Felix Wichmann,Measuring lightness constancy with varying realism,"DE Künstle, FA Wichmann","Journal of Vision 23 (9), 5281-5281, 2023",,2023
+Felix Wichmann,Psychophysical scale of optical distortions of multifocal spectacle lenses,"Y Sauer, DE Künstle, F Wichmann, S Wahl","Journal of Vision 23 (9), 5215-5215, 2023",,2023
+Felix Wichmann,Feature Visualizations do not sufficiently explain hidden units of Artificial Neural Networks,"T Klein, W Brendel, F Wichmann","Journal of Vision 23 (9), 5062-5062, 2023",,2023
+Felix Wichmann,"Using an Odd-One-Out Design Affects Consistency, Agreement and Decision Criteria in Similarity Judgement Tasks Involving Natural Images.","I Schönmann, DE Künstle, FA Wichmann","Journal of Vision 22 (14), 3232-3232, 2022",,2022
+Felix Wichmann,Estimating the perceived dimensionality of psychophysical stimuli using a triplet accuracy and hypothesis testing procedure,"DE Künstle, U von Luxburg, FA Wichmann","Journal of Vision 22 (14), 3331-3331, 2022",,2022
+Felix Wichmann,Estimating the perceived dimension of psychophysical stimuli using triplet accuracy and hypothesis testing,"DE Künstle, U von Luxburg, FA Wichmann","Journal of Vision 22 (13), 5-5, 2022",,2022
+Felix Wichmann,Estimating the perceived dimension of psychophysical stimuli,"DE Künstle, U von Luxburg, FA Wichmann",,,2022
+Felix Wichmann,Psychophysical Estimation of Early and Late Noise,"J Juan Esteve-Taboada, G Aguilar, M Maertens, FA Wichmann, J Malo","arXiv e-prints, arXiv: 2012.06608, 2020",,2020
+Felix Wichmann,""" Detecting distortions of peripherally presented letter stimuli under crowded conditions"": Correction.","TSA Wallis, S Tobias, M Bethge, FA Wichmann","Springer, 2019",,2019
+Felix Wichmann,Correction to: Detecting distortions of peripherally presented letter stimuli under crowded conditions,"TSA Wallis, S Tobias, M Bethge, FA Wichmann","Attention, Perception, & Psychophysics 81, 2968-2970, 2019",,2019
+Felix Wichmann,The influence of observer lapses on maximum-likelihood difference scaling,"B Lang, G Aguilar, M Maertens, FA Wichmann","Journal of Vision 19 (10), 87b-87b, 2019",,2019
+Felix Wichmann,Object Recognition in Man and Machine,FA Wichmann,"PERCEPTION 48, 5-5, 2019",,2019
+Felix Wichmann,Comparing Scaling Methods in Lightness Perception,"S Li, B Lang, G Aguilar, M Maertens, FA Wichmann","PERCEPTION 48, 129-130, 2019",,2019
+Felix Wichmann,Modelling Early Influences on Visual Perception,"F Wichmann, H Schuett","PERCEPTION 48, 8-8, 2019",,2019
+Felix Wichmann,Perception of Temporal Dependencies in Autoregressive Motion,"K Meding, B Schölkopf, FA Wichmann","Pion Ltd., 2019",,2019
+Felix Wichmann,"An image-computable psychophysical spatial vision model (vol 17, pg 1, 2017)","HH Schutt, FA Wichmann","JOURNAL OF VISION 18 (11), 2018",,2018
+Felix Wichmann,Predicting fixation densities over time from early visual processing,"H Schütt, L Rothkegel, H Trukenbrod, R Engbert, F Wichmann","Journal of Vision 18 (10), 1210-1210, 2018",,2018
+Felix Wichmann,wººd wº c07. tex V1-01/02/2018 6: 39 AM Page 265,"FA WICHMANN, F JAKEL","Stevens' Handbook of Experimental Psychology and Cognitive Neuroscience …, 2018",,2018
+Felix Wichmann,Predicting the fixation density over time,"HH Schütt, LOM Rothkegel, HA Trukenbrod, R Engbert, FA Wichmann",,,2018
+Felix Wichmann,Corrections to: An image-computable psychophysical spatial,"HH Schütt, FA Wichmann",,,2018
+Felix Wichmann,We know what we can see-peripheral visibility of search targets shapes eye movement behavior in natural scenes,"L Rothkegel, H Schütt, H Trukenbrod, F Wichmann, R Engbert","Journal of Vision 17 (10), 1120-1120, 2017",,2017
+Felix Wichmann,Testing an Early Vision Model on Natural Image Stimuli,"H Schütt, L Rothkegel, H Trukenbrod, R Engbert, F Wichmann","Journal of Vision 17 (10), 783-783, 2017",,2017
+Felix Wichmann,foveated_model_cueing_experiment,"TSA Wallis, C Funke, A Ecker, L Gatys, F Wichmann, M Bethge","OSF, 2017",,2017
+Felix Wichmann,Comparing sensitivity estimates from MLDS and forced-choice,"G Aguilar, FA Wichmann, M Maertens",,,2017
+Felix Wichmann,Reducing the central fixation bias in scene viewing,"LOM Rothkegel, HA Trukenbrod, HH Schütt, FA Wichmann",,,2016
+Felix Wichmann,Seeking summary statistics that match peripheral visual appearance using naturalistic textures generated by Deep Neural Networks,"T Wallis, A Ecker, L Gatys, C Funke, F Wichmann, M Bethge","Journal of Vision 16 (12), 230-230, 2016",,2016
+Felix Wichmann,An Image-Based Multi-Channel Model for Light Adaptation,"F Wichmann, N Eichert, H Schott","Journal of Vision 16 (12), 566-566, 2016",,2016
+Felix Wichmann,Reducing the central fixation bias: The influence of scene preview,"L Rothkegel, H Trukenbrod, H Schott, F Wichmann, R Engbert","Journal of Vision 16 (12), 331-331, 2016",,2016
+Felix Wichmann,Some observations on the psychophysics of Deep Neural Networks,"D Janssen, H Schuett, F Wichmann","Journal of Vision 16 (12), 963-963, 2016",,2016
+Felix Wichmann,Towards matching the peripheral visual appearance of arbitrary scenes using deep convolutional neural networks,"TS Wallis, CM Funke, AS Ecker, LA Gatys, FA Wichmann, M Bethge",,,2016
+Felix Wichmann,Metamers of the ventral stream revisited,"T Wallis, M Bethge, F Wichmann","Journal of Vision 15 (12), 554-554, 2015",,2015
+Felix Wichmann,Comparing sensitivity estimates from MLDS and forced-choice methods in a slant-from-texture experiment,"G Aguilar, F Wichmann, M Maertens","Journal of Vision 15 (12), 731-731, 2015",,2015
+Felix Wichmann,Noise masking of White’s illusion exposes the weakness,"T Betz, R Shapley, FA Wichmann, M Maertens",,,2015
+Felix Wichmann,Spatial statistics and attentional dynamics in,"R Engbert, HA Trukenbrod, S Barthelmé, FA Wichmann",,,2015
+Felix Wichmann,On the role of two-dimensional cues for perceived differences in slant,"G Aguilar, FA Wichmann, M Maertens","PERCEPTION 43 (1), 50-50, 2014",,2014
+Felix Wichmann,Improving models of early vision through Bayesian analysis,"DHJ Janssen, FA Wichmann","PERCEPTION 43 (1), 162-162, 2014",,2014
+Felix Wichmann,Quantifying the effect of intertrial dependence on perceptual,"I Fründ, FA Wichmann, JH Macke",,,2014
+Felix Wichmann,Using spatial statistics to investigate within-trial correlations of human gaze positions,"HA Trukenbrod, S Barthelmé, F Wichmann, R Engbert","SAGA-International Workshop on Solutions for Automatic Gaze Data Analysis …, 2013",,2013
+Felix Wichmann,Context affects lightness at the level of surfaces,"M Maertens, F Wichmann, R Shapley","Journal of Vision 13 (15), T28-T28, 2013",,2013
+Felix Wichmann,THE IMPACT OF PRIOR KNOWLEDGE ON OBJECT SEARCH IN REAL-WORLD SCENES,"J Seyfarth, JE Weber, J Mohr, K Obermayer, FA Wichmann, A Lueschow","JOURNAL OF COGNITIVE NEUROSCIENCE, 206-206, 2013",,2013
+Felix Wichmann,Spatial filtering vs edge integration: comparing two computational models of lightness perception,"T Betz, M Maertens, FA Wichmann","PERCEPTION 42, 68-69, 2013",,2013
+Felix Wichmann,When luminance increment thresholds depend on apparent lightness,"M Maertens, F Wichmann","Journal of Vision 12 (9), 1213-1213, 2012",,2012
+Felix Wichmann,A neural population code model for human visual pattern detection,FA Wichmann,"Osnabrück Computational Cognition Alliance Meeting on"" The Brain as an …, 2012",,2012
+Felix Wichmann,A new perceptual bias reveals suboptimal Bayesian decoding of sensory responses,"T Putzeys, F Wichmann, J Wagemans, R Goris","Pion Ltd., 2011",,2011
+Felix Wichmann,Perceptual Sensitivity to Statistical Regularities in Natural Images,"H Gerhard, TV Wiecki, FA Wichmann, M Bethge","9th Göttingen Meeting of the German Neuroscience Society, 33rd Göttingen …, 2011",,2011
+Felix Wichmann,How to identify a model for spatial vision?,"HMH Dold, FA Wichmann","Computational and Systems Neuroscience Meeting (COSYNE 2011), 2011",,2011
+Felix Wichmann,Sequential dependencies in perceptual decisions,"I Fründ, FA Wichmann, J Macke","Front. Comput. Neurosci. Conference Abstract: BC11: Computational …, 2011",,2011
+Felix Wichmann,Effects of arbitrary structural choices on the parameters of early spatial vision models,"HMH Dold, S Dähne, FA Wichmann","Journal of Vision 10 (7), 1370-1370, 2010",,2010
+Felix Wichmann,Estimating psychometric functions in nonstationary observers,"I Fründ, NV Haenel, FA Wichmann","Journal of Vision 10 (7), 1135-1135, 2010",,2010
+Felix Wichmann,Neural population code model for pattern detection,"RLT Goris, T Putzeys, J Wagemans, FA Wichmann","Proceedings, 63, 2010",,2010
+Felix Wichmann,Predicting psychophysical responses from stimulus features: A statistical evaluation of human gender categorization models,"JH Macke, FA Wichmann","Journal of Vision 9 (8), 519-519, 2009",,2009
+Felix Wichmann,Spatial-frequency tuning develops over time,"FA Wichmann, GB Henning","Journal of Vision 9 (8), 970-970, 2009",,2009
+Felix Wichmann,Estimating Critical Stimulus Features from Psychophysical Data: The Decision-Image Technique Applied to Human Faces,"JH Macke, FA Wichmann","Journal of Vision 9 (8), 31-31, 2009",,2009
+Felix Wichmann,372 The Neurocircuitry of Impaired Insight in Drug Addiction,"AR Childress, MP Paulus, ND Volkow, F Jäkel, B Schölkopf, ...","Sciences 13, 282-287, 2009",,2009
+Felix Wichmann,Cue combination is sensitive to the reliability of cues but generally not in a statistically optimal way,"P Rosas, F Wichmann",,,2008
+Felix Wichmann,Identifying critical features from psychophysical data,FA Wichmann,"International Workshop: Aspects of Adaptive Cortex Dynamics, 2008",,2008
+Felix Wichmann,Assessing the role of spatial-frequency content on slant-from-texture,"P Rosas, F Wichmann","INTERNATIONAL JOURNAL OF PSYCHOLOGY 43 (3-4), 59-59, 2008",,2008
+Felix Wichmann,Visual saliency re-visited: Center-surround patterns emerge as optimal predictors for human fixation targets,"F Wichmann, W Kienzle, B Schölkopf, M Franz","Journal of Vision 8 (6), 635-635, 2008",,2008
+Felix Wichmann,Center-surround patterns emerge as optimal predictors for human saccade targets,"FA Wichmann, W Kienzle, B Schölkopf, MO Franz","Pabst, 2008",,2008
+Felix Wichmann,Flow natural are natural images?,"J Drewes, G Huebner, FA Wichmann, KR Gegenfurtner","PERCEPTION 37, 160-160, 2008",,2008
+Felix Wichmann,Depth-cue combination within and across modalities reflects the reliability of texture information but not in a statistically optimal way,"P Rosas, J Wagemans, FA Wichmann","Pion Ltd., 2007",,2007
+Felix Wichmann,Learning the Influence of Spatio-Temporal Variations in Local Image Structure on Visual Saliency,"W Kienzle, FA Wichmann, B Schölkopf, MO Franz","10th Tübinger Wahrnehmungskonferenz (TWK 2007), 63, 2007",,2007
+Felix Wichmann,Some observations on the pedestal effect or dipper function,"GB Henning, FA Wichmann","Journal of Vision 6 (13), 50-50, 2006",,2006
+Felix Wichmann,Learning Eye Movements,"W Kienzle, FA Wichmann, B Schölkopf, MO Franz","Gordon Research Conference: Sensory Coding & the Natural Environment, 2006",,2006
+Felix Wichmann,Ähnlichkeitsmasse in Modellen zur Kategorienbildung,"F Jäkel, FA Wichmann","Pabst Science Publishers, 2006",,2006
+Felix Wichmann,Texture and haptic cues in slant discrimination: combination is sensitive to reliability but not statistically optimal,"P Rosas, J Wagemans, MO Ernst, FA Wichmann","Beiträge zur 48. Tagung experimentell arbeitender Psychologen (TeaP 2006), 2006",,2006
+Felix Wichmann,Learning an Interest Operator from Eye Movements,"W Kienzle, MO Franz, FA Wichmann, B Schölkopf","International Workshop on Bioinspired Information Processing (BIP 2005), 2005",,2005
+Felix Wichmann,"Kernel-Methods, Similarity, and Exemplar Theories of Categorization","F Jäkel, F Wichmann","Fourth Annual Summer Interdisciplinary Conference (ASIC 2005), 2005",,2005
+Felix Wichmann,The human brain as a large margin classifier,"ABA Graf, F Wichmann, H Bülthoff, B Schölkopf","Computational and Systems Neuroscience Meeting (COSYNE 2005), 125, 2005",,2005
+Felix Wichmann,8th Tübingen Perception Conference: TWK 2005,"HH Bülthoff, HA Mallot, R Ulrich, FA Wichmann","8th Tübinger Wahrnehmungskonferenz (TWK 2005), 2005",,2005
+Felix Wichmann,Global image statistics of natural scenes,"J Drewes, F Wichmann, K Gegenfurtner","Poster presented at International Workshop on Bioinspired Information …, 2005",,2005
+Felix Wichmann,Does a paradoxical perception of motion in-depth simply reflect sensitivity?,"A Welchman, HH Bulthoff, HA Mallot, R Ulrich, FA Wichmann","Proceedings of 5th Tuebinger Perception Conference, 2005",,2005
+Felix Wichmann,"Early visual processing: data, theory, models",F Wichmann,"Pabst, 2004",,2004
+Felix Wichmann,m-Alternative-Forced-Choice: Improving the Efficiency of the Method of Constant Stimuli,"F Jäkel, J Hill, FA Wichmann","7th Tübingen Perception Conference (TWK 2004), 118, 2004",,2004
+Felix Wichmann,Human Classification Behaviour Revisited by Machine Learning,"ABA Graf, FA Wichmann, HH Bülthoff, B Schölkopf","7th Tübingen Perception Conference (TWK 2004), 134, 2004",,2004
+Felix Wichmann,Models of contrast transfer as a function of presentation time and spatial frequency,FA Wichmann,"Journal of Vision 3 (12), 82-82, 2003",,2003
+Felix Wichmann,Models of Early Spatial Vision,FA Wichmann,"University of Glasgow: Seminar Series in Psychology, 2003",,2003
+Felix Wichmann,"6. Tübinger Wahrnehmungskonferenz: Sixth Perception Conference at Tübingen, TWK 2003","HH Bülthoff, K Gegenfurtner, HA Mallot, R Ulrich, FA Wichmann","6. Tübinger Wahrnehmungskonferenz (TWK 2003), 2003",,2003
+Felix Wichmann,Insights from Machine Learning Applied to Human Visual Classification,"FA Wichmann, A Graf","Advances in Neural Information Processing Systems 16, 2003",,2003
+Felix Wichmann,Surface-slant-from-texture discrimination: Effects of slant level and texture type,"P Rosas, FA Wichmann, J Wagemans","Journal of Vision 2 (7), 300-300, 2002",,2002
+Felix Wichmann,Pulse train detection and discrimination in pink noise,"GB Henning, FA Wichmann, CM Bird","Journal of Vision 2 (7), 229-229, 2002",,2002
+Felix Wichmann,Phase information in the recognition of natural images,"DI Braun, FA Wichmann, KR Gegenfurtner","25th European Conference on Visual Perception (ECVP 2002), 133, 2002",,2002
+Felix Wichmann,Application of Monte Carlo Methods to Psychometric Function Fitting,FA Wichmann,,,2002
+Felix Wichmann,Detection and discrimination in pink noise,"FA Wichmann, GB Henning","5. Tübinger Wahrnehmungskonferenz (TWK 2002), 100, 2002",,2002
+Felix Wichmann,Perception of planar shapes in depth,"FA Wichmann, B Willems, P Rosas, J Wagemans","Journal of Vision 1 (3), 176-176, 2001",,2001
+Felix Wichmann,The pedestal effect with a pulse train and its constituent sinusoids,"G Henning, F Wichmann, C Bird",,,2001
+Felix Wichmann,Unexpected and anticipated pain: identification of specific brain activations by correlation with reference functions derived form conditioning theory,"A Ploghaus, S Clare, F Wichmann, I Tracey","Poster presented at 29th Annual Meeting of the Society for Neuroscience …, 1999",,1999
+Felix Wichmann,A bootstrap method for testing hypotheses concerning psychometric functions,"NJ Hill, FA Wichmann","Computers in Psychology, York, UK, 1998",,1998
+Felix Wichmann,Masking by plaid patterns: effects of presentation time and mask contrast,F Wichmann,"Poster presented at 1, 1998",,1998
+Felix Wichmann,Masking by plaid patterns: Spatial frequency tuning and contrast dependency,"FA Wichmann, DJ Tollin","OSA Conference Program 97, 1997",,1997
+Felix Wichmann,‘Does motion-blur facilitate motion detection?,"FA Wichmann, GB Henning","OSA Annual Meeting, Rochester, New York, 1996",,1996
+Felix Wichmann,Is edge sensitivity more than contrast sensitivity? Modeling details,"L Schmittwilken, FA Wichmann, M Maertens",,,
+Felix Wichmann,Separate Bayesian inference reveals model properties shared between multiple experimental conditions,"HM Dold, I Fründ, FA Wichmann",,,
+Felix Wichmann,Inferring intrinsic saliency from free-viewing data,"S Barthelme, H Trukenbrod, R Engbert, FA Wichmann","Frontiers in Computational Neuroscience, 76, 0",,
+Felix Wichmann,Appendix to ‘Quantifying the effect of inter-trial dependence on perceptual decisions’,"I Fründ, FA Wichmann, JH Macke",,,
+Felix Wichmann,Biologische und Kognitive Psychologie: Lernen (VL10),FA Wichmann,,,
+Felix Wichmann,Seminar Psychophysische Methoden,"V Franz, T Hansen, F Wichmann, G NeuroAct",,,
+Felix Wichmann,‘Wichmann and Hill (2000)< $ paranumonly,FA Wichmann,,,
+Felix Wichmann,Extracting Auditory Cues in Tone-in-Noise detection with a Sparse Feature Selection Algorithm,"VH Schönfelder, FA Wichmann",,,

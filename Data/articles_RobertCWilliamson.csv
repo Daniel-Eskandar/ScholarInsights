@@ -1,0 +1,276 @@
+author_name,title,authors,publication,cited_by_value,year
+Robert C. Williamson,Estimating the support of a high-dimensional distribution,"B Schölkopf, JC Platt, J Shawe-Taylor, AJ Smola, RC Williamson","Neural computation 13 (7), 1443-1471, 2001",6873,2001
+Robert C. Williamson,New support vector algorithms,"B Schölkopf, AJ Smola, RC Williamson, PL Bartlett","Neural computation 12 (5), 1207-1245, 2000",3454,2000
+Robert C. Williamson,Support vector method for novelty detection,"B Schölkopf, RC Williamson, A Smola, J Shawe-Taylor, J Platt","Advances in neural information processing systems 12, 1999",2279,1999
+Robert C. Williamson,A Generalized Representer Theorem,"B Scholkopf, R Herbrich, A Smola, R Williamson",,2143,2000
+Robert C. Williamson,Online learning with kernels,"J Kivinen, AJ Smola, RC Williamson","IEEE transactions on signal processing 52 (8), 2165-2176, 2004",1326,2004
+Robert C. Williamson,Structural risk minimization over data-dependent hierarchies,"J Shawe-Taylor, PL Bartlett, RC Williamson, M Anthony","IEEE transactions on Information Theory 44 (5), 1926-1940, 1998",724,1998
+Robert C. Williamson,Support vector method for novelty detection,"B Scholkopf, R Williamson, A Smola, J Shawe-Taylor, J Platt","Advances in neural information processing systems 12 (3), 582-588, 2000",598,2000
+Robert C. Williamson,Probabilistic arithmetic. I. Numerical methods for calculating convolutions and dependency bounds,"RC Williamson, T Downs","International journal of approximate reasoning 4 (2), 89-158, 1990",528,1990
+Robert C. Williamson,Learning the kernel with hyperkernels,"CS Ong, A Smola, B Williamson","Journal of Machine Learning Research 6, 1045-1071, 2005",459,2005
+Robert C. Williamson,Clustering: Science or art?,"U von Luxburg, R Williamson, I Guyon","Journal of Machine Learning Research 27, 65-80, 2012",447,2012
+Robert C. Williamson,Particle filtering algorithms for tracking an acoustic source in a reverberant environment,"DB Ward, EA Lehmann, RC Williamson","IEEE Transactions on speech and audio processing 11 (6), 826-836, 2003",432,2003
+Robert C. Williamson,Theory and design of broadband sensor arrays with frequency invariant far‐field beam patterns,"DB Ward, RA Kennedy, RC Williamson","The Journal of the Acoustical Society of America 97 (2), 1023-1034, 1995",392,1995
+Robert C. Williamson,The cost of fairness in binary classification,"AK Menon, RC Williamson","Conference on Fairness, accountability and transparency, 107-118, 2018",390,2018
+Robert C. Williamson,Learning with symmetric label noise: The importance of being unhinged,"B Van Rooyen, A Menon, RC Williamson","Advances in neural information processing systems 28, 2015",302,2015
+Robert C. Williamson,The need for open source software in machine learning,"S Sonnenburg, ML Braun, CS Ong, S Bengio, L Bottou, G Holmes, ...","JMLR 8, 2443-2466, 2007",264,2007
+Robert C. Williamson,A PAC analysis of a Bayesian estimator,"J Shawe-Taylor, RC Williamson","Proceedings of the tenth annual conference on Computational learning theory, 2-9, 1997",262,1997
+Robert C. Williamson,Shrinking the tube: a new support vector regression algorithm,"B Schölkopf, P Bartlett, A Smola, RC Williamson","Advances in neural information processing systems 11, 1998",255,1998
+Robert C. Williamson,Learning from corrupted binary labels via class-probability estimation,"A Menon, B Van Rooyen, CS Ong, B Williamson","International conference on machine learning, 125-134, 2015",241,2015
+Robert C. Williamson,Composite binary losses,"MD Reid, RC Williamson","The Journal of Machine Learning Research 11, 2387-2422, 2010",224,2010
+Robert C. Williamson,Generalization performance of regularization networks and support vector machines via entropy numbers of compact operators,"RC Williamson, AJ Smola, B Scholkopf","IEEE transactions on Information Theory 47 (6), 2516-2532, 2001",223,2001
+Robert C. Williamson,Fat shattering and the learnability of real-valued functions,"PL Bartlett, PM Long, RC Williamson","Journal of Computer and System Sciences 52 (3), 434-452, 1996",211,1996
+Robert C. Williamson,Efficient agnostic learning of neural networks with bounded fan-in,"WS Lee, PL Bartlett, RC Williamson","IEEE Transactions on Information Theory 42 (6), 2118-2132, 1996",209,1996
+Robert C. Williamson,"Information, divergence and risk for binary experiments","M Reid, R Williamson","MIT Press, 2011",206,2011
+Robert C. Williamson,Support vector regression with automatic accuracy control,"B Schölkopf, P Bartlett, A Smola, R Williamson","ICANN 98: Proceedings of the 8th International Conference on Artificial …, 1998",192,1998
+Robert C. Williamson,Equalization in an acoustic reverberant environment: Robustness results,"BD Radlovic, RC Williamson, RA Kennedy","IEEE Transactions on Speech and Audio Processing 8 (3), 311-319, 2000",174,2000
+Robert C. Williamson,The statistical performance of some instantaneous frequency estimators,"BC Lovell, RC Williamson","IEEE Transactions on Signal Processing 40 (7), 1708-1723, 1992",174,1992
+Robert C. Williamson,FIR filter design for frequency invariant beamformers,"DB Ward, RA Kennedy, RC Williamson","IEEE Signal Processing Letters 3 (3), 69-71, 1996",168,1996
+Robert C. Williamson,Exploiting sparsity in adaptive filters,"RK Martin, WA Sethares, RC Williamson, CR Johnson","IEEE Transactions on Signal Processing 50 (8), 1883-1894, 2002",160,2002
+Robert C. Williamson,Particle filter beamforming for acoustic source localization in a reverberant environment,"DB Ward, RC Williamson","2002 IEEE International Conference on Acoustics, Speech, and Signal …, 2002",147,2002
+Robert C. Williamson,The importance of convexity in learning with squared loss,"WS Lee, PL Bartlett, RC Williamson","Proceedings of the Ninth Annual Conference on Computational Learning Theory …, 1996",142,1996
+Robert C. Williamson,Regularization with dot-product kernels,"A Smola, Z Ovári, RC Williamson","Advances in neural information processing systems 13, 2000",131,2000
+Robert C. Williamson,Fairness risk measures,"R Williamson, A Menon","International conference on machine learning, 6786-6797, 2019",124,2019
+Robert C. Williamson,Probabilistic arithmetic,RC Williamson,"University of Queensland, 1989",123,1989
+Robert C. Williamson,SV estimation of a distribution’s support,"B SchölkopfÜ, RC Williamson, A SmolaÜ, J Shawe-TaylorÝ","Adv. Neural Inf. Process. Syst 41, 582-588, 2000",120,2000
+Robert C. Williamson,Classification on proximity data with LP-machines,"T Graepel, R Herbrich, B Scholkopf, A Smola, P Bartlett, KR Muller, ...","IET Digital Library, 1999",119,1999
+Robert C. Williamson,Regularized principal manifolds,"A Smola, S Mika, B Schölkopf, R Williamson","MIT Press, 2001",110,2001
+Robert C. Williamson,Fast rates in statistical and online learning,"T Van Erven, P Grunwald, NA Mehta, M Reid, R Williamson","MIT Press, 2015",104,2015
+Robert C. Williamson,FIR approximation of fractional sample delay systems,"PJ Kootsookos, RC Williamson","IEEE Transactions on Circuits and Systems II: Analog and Digital Signal …, 1996",101,1996
+Robert C. Williamson,A framework for structural risk minimisation,"J Shawe-Taylor, PL Bartlett, RC Williamson, M Anthony","Proceedings of the ninth annual conference on Computational learning theory …, 1996",101,1996
+Robert C. Williamson,Loop removal from LDPC codes,"JA McGowan, RC Williamson","Proceedings 2003 IEEE Information Theory Workshop (Cat. No. 03EX674), 230-233, 2003",100,2003
+Robert C. Williamson,Elicitation and identification of properties,"I Steinwart, C Pasin, R Williamson, S Zhang","Conference on Learning Theory, 482-526, 2014",88,2014
+Robert C. Williamson,Hyperkernels,"C Ong, RC Williamson, A Smola","Advances in neural information processing systems 15, 2002",87,2002
+Robert C. Williamson,A Theory of Learning with Corrupted Labels.,"B Van Rooyen, RC Williamson","J. Mach. Learn. Res. 18 (1), 8501-8550, 2017",80,2017
+Robert C. Williamson,Constant directivity beamforming,"DB Ward, RA Kennedy, RC Williamson","Microphone arrays: Signal processing techniques and applications, 3-17, 2001",80,2001
+Robert C. Williamson,Algorithmic luckiness,"R Herbrich, RC Williamson","Advances in neural information processing systems 14, 2001",80,2001
+Robert C. Williamson,The relationship between instantaneous frequency and time-frequency representations,"BC Lovell, RC Williamson, B Boashash","IEEE Transactions on signal Processing 41 (3), 1458-1461, 1993",77,1993
+Robert C. Williamson,Covering numbers for support vector machines,"Y Guo, PL Bartlett, J Shawe-Taylor, RC Williamson","Proceedings of the twelfth annual conference on Computational learning …, 1999",76,1999
+Robert C. Williamson,Existence and uniqueness results for neural network approximations,"RC Williamson, U Helmke","IEEE Transactions on Neural Networks 6 (1), 2-13, 1995",66,1995
+Robert C. Williamson,From margin to sparsity,"T Graepel, R Herbrich, RC Williamson","Advances in neural information processing systems 13, 2000",65,2000
+Robert C. Williamson,Generalised pinsker inequalities,"MD Reid, RC Williamson","arXiv preprint arXiv:0906.1244, 2009",60,2009
+Robert C. Williamson,The circular nature of discrete-time frequency estimates.,"BC Lovell, PJ Kootsookos, RC Williamson","ICASSP, 3369-3372, 1991",60,1991
+Robert C. Williamson,Surrogate regret bounds for proper losses,"MD Reid, RC Williamson","Proceedings of the 26th Annual International Conference on Machine Learning …, 2009",59,2009
+Robert C. Williamson,Generalization bounds via eigenvalues of the gram matrix,"B Schölkopf, J Shawe-Taylor, AJ Smola, RC Williamson","University of London: Royal Holloway College: NeuroCOLT 2, 1999",58,1999
+Robert C. Williamson,Composite multiclass losses,"E Vernet, MD Reid, RC Williamson","Advances in Neural Information Processing Systems 24, 2011",57,2011
+Robert C. Williamson,Costs and benefits of fair representation learning,"D McNamara, CS Ong, RC Williamson","Proceedings of the 2019 AAAI/ACM Conference on AI, Ethics, and Society, 263-270, 2019",55,2019
+Robert C. Williamson,Provably fair representations,"D McNamara, CS Ong, RC Williamson","arXiv preprint arXiv:1710.04394, 2017",55,2017
+Robert C. Williamson,Regularized principal manifolds,"AJ Smola, RC Williamson, S Mika, B Schölkopf","European Conference on Computational Learning Theory, 214-229, 1999",54,1999
+Robert C. Williamson,Finite sample properties of linear model identification,"E Weyer, RC Williamson, IMY Mareels","IEEE Transactions on Automatic Control 44 (7), 1370-1383, 1999",52,1999
+Robert C. Williamson,Nearfield broadband array design using a radially invariant modal expansion,"TD Abhayapala, RA Kennedy, RC Williamson","The Journal of the Acoustical Society of America 107 (1), 392-403, 2000",50,2000
+Robert C. Williamson,Composite multiclass losses,"R Williamson, E Vernet, M Reid","MIT Press, 2016",49,2016
+Robert C. Williamson,Bipartite ranking: a risk-theoretic perspective,"AK Menon, RC Williamson","The Journal of Machine Learning Research 17 (1), 6766-6867, 2016",49,2016
+Robert C. Williamson,Particle filter design using importance sampling for acoustic source localisation and tracking in reverberant environments,"EA Lehmann, RC Williamson","EURASIP Journal on Advances in Signal Processing 2006, 1-9, 2006",48,2006
+Robert C. Williamson,Characterization of threshold for single tone maximum likelihood frequency estimation,"B James, BDO Anderson, RC Williamson","IEEE transactions on signal processing 43 (4), 817-821, 1995",45,1995
+Robert C. Williamson,Conditional mean and maximum likelihood approaches to multiharmonic frequency estimation,"B James, BDO Anderson, RC Williamson","IEEE Transactions on Signal Processing 42 (6), 1366-1375, 1994",42,1994
+Robert C. Williamson,Convergence of exponentiated gradient algorithms,"SI Hill, RC Williamson","IEEE Transactions on Signal Processing 49 (6), 1208-1215, 2001",40,2001
+Robert C. Williamson,e-Entropy and the complexity of feedforward neural networks,RC Williamson,"Advances in Neural Information Processing Systems 3, 1990",40,1990
+Robert C. Williamson,Prior knowledge and preferential structures in gradient descent learning algorithms,"R Mahony, R Williamson","MIT Press, 2001",38,2001
+Robert C. Williamson,"Entropy numbers, operators and support vector kernels","RC Williamson, AJ Smola, B Schölkopf","European Conference on Computational Learning Theory, 285-299, 1999",38,1999
+Robert C. Williamson,Kernel-dependent support vector error bounds,"B Scholkopf, J Shawe-Taylor, AJ Smola, RC Williamson","IET Digital Library, 1999",38,1999
+Robert C. Williamson,Generalization performance of classifiers in terms of observed covering numbers,"J Shawe-Taylor, RC Williamson","European Conference on Computational Learning Theory, 274-285, 1999",37,1999
+Robert C. Williamson,The VC dimension and pseudodimension of two-layer neural networks with discrete inputs,"PL Bartlett, RC Williamson","Neural computation 8 (3), 625-628, 1996",36,1996
+Robert C. Williamson,Experimental comparison of particle filtering algorithms for acoustic source localization in a reverberant room,"EA Lehmann, DB Ward, RC Williamson","2003 IEEE International Conference on Acoustics, Speech, and Signal …, 2003",31,2003
+Robert C. Williamson,Divergences and Risks for Multiclass Experiments,"D Garcia, RC Williamson","Conference on Learning Theory, 2012",30,2012
+Robert C. Williamson,Divergences and risks for multiclass experiments,"D Garcia-Garcia, RC Williamson","Conference on Learning Theory, 28.1-28.20, 2012",30,2012
+Robert C. Williamson,Nearfield broadband frequency invariant beamforming,"RA Kennedy, T Abhayapala, DB Ward, RC Williamson","1996 IEEE International Conference on Acoustics, Speech, and Signal …, 1996",29,1996
+Robert C. Williamson,On efficient agnostic learning of linear combinations of basis functions,"WS Lee, PL Bartlett, RC Williamson","Proceedings of the eighth annual conference on Computational learning theory …, 1995",29,1995
+Robert C. Williamson,Lower bounds on the VC-dimension of smoothly parametrized function classes,"WS Lee, PL Bartlett, RC Williamson","Proceedings of the seventh annual conference on Computational learning …, 1994",29,1994
+Robert C. Williamson,"Technology and Australia’s future: New technologies and their role in Australia’s security, cultural, democratic, social and economic systems","R Williamson, M Nic Raghnaill, K Douglas, D Sanchez","Australian Council of Learned Academies, 2015",28,2015
+Robert C. Williamson,Mixability is Bayes risk curvature relative to log loss,"T Erven, MD Reid, RC Williamson","Proceedings of the 24th Annual Conference on Learning Theory, 233-252, 2011",26,2011
+Robert C. Williamson,Reactions to the National Academies/Royal Society Report on Heritable Human Genome Editing,"M Angrist, R Barrangou, F Baylis, C Brokowski, G Burgio, A Caplan, ...","The CRISPR Journal 3 (5), 332-349, 2020",25,2020
+Robert C. Williamson,Online bayes point machines,"E Harrington, R Herbrich, J Kivinen, J Platt, RC Williamson","Advances in Knowledge Discovery and Data Mining: 7th Pacific-Asia Conference …, 2003",25,2003
+Robert C. Williamson,The law of large numbers for fuzzy variables under a general triangular norm extension principle,RC Williamson,"Fuzzy Sets and Systems 41 (1), 55-81, 1991",25,1991
+Robert C. Williamson,Entropy Numbers of Linear Function Classes.,"RC Williamson, AJ Smola, B Schölkopf","COLT, 309-319, 2000",24,2000
+Robert C. Williamson,Kernel machines and boolean functions,"A Kowalczyk, A Smola, RC Williamson","Advances in Neural Information Processing Systems 14, 2001",23,2001
+Robert C. Williamson,Pac-bayesian bound for the conditional value at risk,"Z Mhammedi, B Guedj, RC Williamson","Advances in Neural Information Processing Systems 33, 17919-17930, 2020",22,2020
+Robert C. Williamson,Broadband microphone arrays for speech acquisition,"DB Ward, RC Williamson, RA Kennedy","Acoustics Australia 26, 17-20, 1998",22,1998
+Robert C. Williamson,Imposing pattern nulls on broadband array responses,"PJ Kootsookos, DB Ward, RC Williamson","The Journal of the Acoustical Society of America 105 (6), 3390-3398, 1999",21,1999
+Robert C. Williamson,Sample complexity of least squares identification of FIR models,"E Weyer, RC Williamson, IMY Mareels","IFAC Proceedings Volumes 29 (1), 4664-4669, 1996",21,1996
+Robert C. Williamson,Apparatus and method for using adaptive algorithms to exploit sparsity in target weight vectors in an adaptive channel equalizer,"RK Martin, RC Williamson, WA Sethares","US Patent 7,061,977, 2006",20,2006
+Robert C. Williamson,Investigating the distribution assumptions in the PAC learning model,"PL Bartlett, RC Williamson","Proceedings of the fourth annual workshop on Computational learning theory …, 1991",20,1991
+Robert C. Williamson,Generalized mixability via entropic duality,"MD Reid, RM Frongillo, RC Williamson, N Mehta","Conference on Learning Theory, 1501-1522, 2015",19,2015
+Robert C. Williamson,Learnability of probabilistic automata via oracles,"O Guttman, SVN Vishwanathan, RC Williamson","Algorithmic Learning Theory: 16th International Conference, ALT 2005 …, 2005",19,2005
+Robert C. Williamson,Performance of the maximum likelihood constant frequency estimator for frequency tracking,"M Karan, RC Williamson, BDO Anderson","IEEE transactions on signal processing 42 (10), 2749-2757, 1994",19,1994
+Robert C. Williamson,A primal-dual link between GANs and autoencoders,"H Husain, R Nock, RC Williamson","Advances in Neural Information Processing Systems 32, 2019",18,2019
+Robert C. Williamson,The future of precision medicine in Australia,"R Williamson, W Anderson, S Duckett, I Frazer, C Hillyard, E Kowal, ...","Australian Council of Learned Academies (ACOLA), 2018",18,2018
+Robert C. Williamson,f-GANs in an information geometric nutshell,"R Nock, Z Cranko, AK Menon, L Qu, RC Williamson","Advances in Neural Information Processing Systems 30, 2017",18,2017
+Robert C. Williamson,On the consistency of output code based learning algorithms for multiclass learning problems,"HG Ramaswamy, BS Babu, S Agarwal, RC Williamson","Conference on Learning Theory, 885-902, 2014",18,2014
+Robert C. Williamson,Sample based generalization bounds,"RC Williamson, J Shawe-Taylor, B Schölkopf, AJ Smola","IEEE Transactions on Information Theory, 1999",18,1999
+Robert C. Williamson,Learning in the presence of corruption,"B van Rooyen, RC Williamson","arXiv preprint arXiv:1504.00091, 2015",17,2015
+Robert C. Williamson,Mixability in Statistical Learning,"T van Erven, PD Grünwald, MD Reid, RC Williamson","Neural Information Processing Systems, 2012",17,2012
+Robert C. Williamson,Spatial aliasing for near-field sensor arrays,"TD Abhayapala, R Kennedy, RC Williamson","Electronics Letters 35 (10), 764-765, 1999",17,1999
+Robert C. Williamson,The geometry of losses,RC Williamson,"Conference on Learning Theory, 1078-1108, 2014",16,2014
+Robert C. Williamson,On the poor robustness of sound equalization in reverberant environments,"BD Radlovic, RC Williamson, RA Kennedy","1999 IEEE International Conference on Acoustics, Speech, and Signal …, 1999",16,1999
+Robert C. Williamson,An adaptive algorithm for broadband frequency invariant beamforming,"DB Ward, RA Kennedy, RC Williamson","1997 IEEE International Conference on Acoustics, Speech, and Signal …, 1997",16,1997
+Robert C. Williamson,Design of frequency-invariant broadband far-field sensor arrays,"DB Ward, RA Kennedy, RC Williamson","Proceedings of IEEE Antennas and Propagation Society International Symposium …, 1994",16,1994
+Robert C. Williamson,A loss framework for calibrated anomaly detection,"AK Menon, RC Williamson","Proceedings of the 32nd international conference on neural information …, 2018",15,2018
+Robert C. Williamson,From stochastic mixability to fast rates,"NA Mehta, RC Williamson","Advances in Neural Information Processing Systems 27, 2014",15,2014
+Robert C. Williamson,Degrees of supervision,"D Garcıa-Garcıa, RC Williamson","Proceedings of the 25th Annual Conference on Neural Information Processing …, 2011",15,2011
+Robert C. Williamson,Superkernels,"C Ong, A Smola, R Williamson","Neural Information Processing Systems, 2002",15,2002
+Robert C. Williamson,Noise modeling for nearfield array optimization,"TD Abhayapala, RA Kennedy, RC Williamson","IEEE Signal Processing Letters 6 (8), 210-212, 1999",15,1999
+Robert C. Williamson,Australian National University,"SF Reid, H Spirits","Assoc Prof Alastair Richardson, University of Tasmania, 2010",14,2010
+Robert C. Williamson,"Information, divergence and risk for binary experiments","MD Reid, RC Williamson","arXiv preprint arXiv:0901.0356, 2009",14,2009
+Robert C. Williamson,Large margin classification for moving targets,"J Kivinen, AJ Smola, RC Williamson","Algorithmic Learning Theory: 13th International Conference, ALT 2002 Lübeck …, 2002",14,2002
+Robert C. Williamson,Very low voltage power conversion,"M Shepard, RC Williamson","ISCAS 2001. The 2001 IEEE International Symposium on Circuits and Systems …, 2001",14,2001
+Robert C. Williamson,Smoothing approaches to reconstruction of missing data in array processing,"J Fulton, RR Bitmead, RC Williamson","Defence Applications of Signal Processing. Proceedings of the US/Australia …, 2001",14,2001
+Robert C. Williamson,The cost of fairness in classification,"AK Menon, RC Williamson","arXiv preprint arXiv:1705.09055, 2017",13,2017
+Robert C. Williamson,Bayes-optimal scorers for bipartite ranking,"AK Menon, RC Williamson","Conference on Learning Theory, 68-106, 2014",13,2014
+Robert C. Williamson,Single-class support vector machines,"B Schölkopf, R Williamson, AJ Smola, J Shawe-Taylor","Dagstuhl-Seminar 99121: Unsupervised Learning, 19-20, 1999",13,1999
+Robert C. Williamson,Online learning via congregational gradient descent,"KL Blackmore, RC Williamson, IMY Mareels, WA Sethares","Proceedings of the eighth annual conference on Computational learning theory …, 1995",13,1995
+Robert C. Williamson,Particle filtering algorithms for acoustic source localization,"DB Ward, EA Lehmann, RC Williamson","IEEE Trans. Speech Audio Processing, 2003",12,2003
+Robert C. Williamson,Learning and generalization: theoretical bounds,"R Herbrich, RC Williamson",,11,2002
+Robert C. Williamson,New support vector algorithms,"R Williamson, P Bartlett","Neural Comput 12, 1207-1245, 2000",11,2000
+Robert C. Williamson,Nearfield broadband adaptive beamforming,"TD Abhayapala, RA Kennedy, RC Williamson, DB Ward","ISSPA'99. Proceedings of the Fifth International Symposium on Signal …, 1999",11,1999
+Robert C. Williamson,An average classification algorithm,"B van Rooyen, AK Menon, RC Williamson","arXiv preprint arXiv:1506.01520, 2015",10,2015
+Robert C. Williamson,Acoustic beamforming exploiting directionality of human speech sources,"T Betlehem, RC Williamson","2003 IEEE International Conference on Acoustics, Speech, and Signal …, 2003",10,2003
+Robert C. Williamson,Decision region approximation by polynomials or neural networks,"KL Blackmore, RC Williamson, IMY Mareels","IEEE Transactions on Information Theory 43 (3), 903-907, 1997",10,1997
+Robert C. Williamson,Efficient frequency estimation and time-frequency representations,"BC Lovell, PJ Kootsookos, RC Williamson","the International Symposium of Signal Processing and its Applications, 170-173, 1990",10,1990
+Robert C. Williamson,The inverse and determinant of a 2× 2 uniformly distributed random matrix,"RC Williamson, T Downs","Statistics & probability letters 7 (2), 167-170, 1988",10,1988
+Robert C. Williamson,Learning nonlinearly parametrized decision regions,"KL Blackmore, RC Williamson, IMY Mareels","Journal of Mathematical Systems Estimation and Control 6, 129-132, 1996",9,1996
+Robert C. Williamson,Threshold effects in multiharmonic maximum likelihood frequency estimation,"RC Williamson, B James, BDO Anderson, PJ Kootsookos","Signal processing 37 (3), 309-331, 1994",9,1994
+Robert C. Williamson,"Splines, rational functions and neural networks","RC Williamson, P Bartlett","Advances in Neural Information Processing Systems 4, 1991",9,1991
+Robert C. Williamson,A geometric view of non-linear on-line stochastic gradient descent,"KA Krakowski, RE Mahony, RC Williamson, MK Warmuth","Author website, 2007",8,2007
+Robert C. Williamson,Importance sampling particle filter for robust acoustic source localisation and tracking in reverberant environments,"E Lehmann, RC Williamson","Proceedings of the Joint Workshop on Hands-Free Speech Communication and …, 2005",8,2005
+Robert C. Williamson,Generalization bounds for convex combinations of kernel functions,"AJ Smola, RC Williamson, B Schölkopf","University of London, Royal Holloway College, NeuroCOLT 2, 1998",8,1998
+Robert C. Williamson,An extreme limit theorem for dependency bounds of normalized sums of random variables,RC Williamson,"Information Sciences 56 (1-3), 113-141, 1991",8,1991
+Robert C. Williamson,Lossless or quantized boosting with integer arithmetic,"R Nock, R Williamson","International Conference on Machine Learning, 4829-4838, 2019",7,2019
+Robert C. Williamson,"Constant regret, generalized mixability, and mirror descent","Z Mhammedi, RC Williamson","Advances in Neural Information Processing Systems 31, 2018",7,2018
+Robert C. Williamson,Exp-concavity of proper composite losses,"P Kamalaruban, R Williamson, X Zhang","Conference on Learning Theory, 1035-1065, 2015",7,2015
+Robert C. Williamson,A theory of feature learning,"B van Rooyen, RC Williamson","arXiv preprint arXiv:1504.00083, 2015",7,2015
+Robert C. Williamson,The structure of version space,"R Herbrich, T Graepel, RC Williamson","Innovations in Machine Learning: Theory and Applications, 257-273, 2006",7,2006
+Robert C. Williamson,Removing loops from LDPC codes,"JA McGowan, RC Williamson","Proceedings of the Australian Communications Theory Workshop, 2003",7,2003
+Robert C. Williamson,Agnostic learning nonconvex function classes,"S Mendelson, RC Williamson","International Conference on Computational Learning Theory, 1-13, 2002",7,2002
+Robert C. Williamson,Beamforming for a source located in the interior of a sensor array,"DB Ward, RC Williamson","ISSPA'99. Proceedings of the Fifth International Symposium on Signal …, 1999",7,1999
+Robert C. Williamson,Risk measures and upper probabilities: Coherence and stratification,"C Fröhlich, RC Williamson","arXiv preprint arXiv:2206.03183, 2022",6,2022
+Robert C. Williamson,An analysis of the exponentiated gradient descent algorithm,"SI Hill, RC Williamson","ISSPA'99. Proceedings of the Fifth International Symposium on Signal …, 1999",6,1999
+Robert C. Williamson,Correction to “Lower bounds on VC-dimension of smoothly parameterized function classes”,"WS Lee, PL Bartlett, RC Williamson","Neural computation 9 (4), 765-769, 1997",6,1997
+Robert C. Williamson,Local minima and attractors at infinity for gradient descent learning algorithms,"KL Blackmore, RC Williamson, IMY Mareels","Journal of Mathematical Systems Estimation and Control 6, 231-234, 1996",6,1996
+Robert C. Williamson,Norm-based regularization of boosting,"Y Guo, PL Bartlett, AJ Smola, RC Williamson, J Baxter","Technical ReportAustralian National University, 2002",5,2002
+Robert C. Williamson,Generalization bounds and learning rates for regularized principal manifolds,"AJ Smola, RC Williamson, B Schölkopf","University of London, Royal Holloway College, NeuroCOLT 2, 1998",5,1998
+Robert C. Williamson,Sampling rate versus quantisation in speech coders,"JA Fulton, RR Bitmead, RC Williamson","Signal processing 56 (3), 209-218, 1997",5,1997
+Robert C. Williamson,Non-destructive testing of composites using long waves,"S Thwaites, NH Clark",,5,1997
+Robert C. Williamson,A provably convergent perceptron-like algorithm for learning hypercubic decision regions,"RC Williamson, WA Sethares","Artificial Neural Networks, 1029-1032, 1991",5,1991
+Robert C. Williamson,Interval arithmetic and probabilistic arithmetic,RC Williamson,"Contrib. Comp. Arith. Self-Val, 67-80, 1990",5,1990
+Robert C. Williamson,Tailoring to the Tails: Risk Measures for Fine-Grained Tail Sensitivity,"C Fröhlich, RC Williamson","arXiv preprint arXiv:2208.03066, 2022",4,2022
+Robert C. Williamson,Information Processing Equalities and the Information-Risk Bridge,"RC Williamson, Z Cranko","arXiv preprint arXiv:2207.11987, 2022",4,2022
+Robert C. Williamson,Adversarial networks and autoencoders: The Primal-Dual relationship and generalization bounds,"H Husain, R Nock, RC Williamson","arXiv preprint arXiv:1902.00985, 2019",4,2019
+Robert C. Williamson,A modular theory of feature learning,"D McNamara, CS Ong, RC Williamson","arXiv preprint arXiv:1611.03125, 2016",4,2016
+Robert C. Williamson,Technology and work,"MN Raghnaill, RC Williamson","Enquiries should be addressed to, 99, 2014",4,2014
+Robert C. Williamson,The convexity and design of composite multiclass losses,"P Sun, MD Reid, RC Williamson","Proceedings of the 29th International Conference on Machine Learning (ICML …, 2012",4,2012
+Robert C. Williamson,Riemannian structure of some new gradient descent learning algorithms,"RE Mahoney, RC Williamson","Proceedings of the IEEE 2000 Adaptive Systems for Signal Processing …, 2000",4,2000
+Robert C. Williamson,Learning curves from a modified VC-formalism: a case study.,"A Kowalczyk, J Szymariski, RC Williamson","ICNN, 2939-2943, 1995",4,1995
+Robert C. Williamson,Assessing AI fairness in finance,"L McCalman, D Steinberg, G Abuhamad, ME Brunet, RC Williamson, ...","Computer 55 (1), 94-97, 2022",3,2022
+Robert C. Williamson,Loss functions,RC Williamson,"Empirical Inference: Festschrift in Honor of Vladimir N. Vapnik, 71-80, 2013",3,2013
+Robert C. Williamson,Correction to “The Importance of Convexity in Learning With Squared Loss”[Sep 98 1974-1980],"WS Lee, PL Bartlett, RC Williamson","IEEE Transactions on Information Theory 54 (9), 4395-4395, 2008",3,2008
+Robert C. Williamson,Srm and vc theory (statistical learning theory),R Williamson,,3,2001
+Robert C. Williamson,Error performance of a channel of known impulse response,"PD Teal, RC Williamson, RA Kennedy","IEEE INTERNATIONAL CONFERENCE ON ACOUSTICS SPEECH AND SIGNAL PROCESSING 5, V …, 2000",3,2000
+Robert C. Williamson,Isotropic noise modelling for nearfield array processing,"TD Abhayapala, RA Kennedy, RC Williamson","Proceedings of the 1999 IEEE Workshop on Applications of Signal Processing …, 1999",3,1999
+Robert C. Williamson,Frequency invariant beamforming with exact null design,"PJ Kootsookos, DB Ward, RC Williamson","Proceedings of 8th Workshop on Statistical Signal and Array Processing, 105-108, 1996",3,1996
+Robert C. Williamson,Behavioural oriented identification in a stochastic framework,"E Weyer, IMY Mareels, RC Williamson","IFAC Proceedings Volumes 29 (1), 3933-3938, 1996",3,1996
+Robert C. Williamson,Characterization of threshold for multiharmonic maximum likelihood frequency estimation,"B James, BDO Anderson, RC Williamson","submitted to IEEE Transactions on Signal Processing, 1991",3,1991
+Robert C. Williamson,Random classification noise does not defeat all convex potential boosters irrespective of model choice,"Y Mansour, R Nock, R Williamson","International Conference on Machine Learning, 23706-23742, 2023",2,2023
+Robert C. Williamson,Fairness and Randomness in Machine Learning: Statistical Independence and Relativization,"R Derr, RC Williamson","arXiv preprint arXiv:2207.13596, 2022",2,2022
+Robert C. Williamson,"Bipartite ranking: risk, optimality, and equivalences","AK Menon, RC Williamson","Journal of Machine Learning Research, July, 2014",2,2014
+Robert C. Williamson,Discriminative estimation of f-divergence,"L Song, MD Reid, AJ Smola, RC Williamson","Submitted to AISTATS09, 2008",2,2008
+Robert C. Williamson,Posterior Cramer-Rao bound for acoustic source tracking in reverberant environments,"EA Lehmann, RC Williamson","Technical report, National ICT Australia Technical Reports, 2007",2,2007
+Robert C. Williamson,Introduction to the special issue on kernel methods,"N Cristianini, J Shawe-Taylor, RC Williamson","Journal of Machine Learning Research 2, 95-96, 2001",2,2001
+Robert C. Williamson,The entropy regularization information criterion,"A Smola, J Shawe-Taylor, B Schölkopf, RC Williamson","Advances in Neural Information Processing Systems 12, 1999",2,1999
+Robert C. Williamson,Some results in statistical learning theory with relevance to nonlinear system identification,RC Williamson,"IFAC Proceedings Volumes 31 (17), 431-436, 1998",2,1998
+Robert C. Williamson,On the relationship between behavioural and standard methods for system identification,"E Weyer, RC Williamson, IMY Mareels","Automatica 34 (6), 801-804, 1998",2,1998
+Robert C. Williamson,Broadband beamforming using elementary shape invariant beampatterns,"TD Abhayapala, RA Kennedy, RC Williamson","Proceedings of the 1998 IEEE International Conference on Acoustics, Speech …, 1998",2,1998
+Robert C. Williamson,Frequency Invariant Broadband Beamforming with Exact Null Placement,"PJ Kootsookos, DB Ward, RC Williamson",,2,1996
+Robert C. Williamson,An efficient calculation of the moments of matched and mismatched hidden Markov models,"M Karan, BDO Anderson, RC Williamson","IEEE transactions on signal processing 43 (10), 2422-2425, 1995",2,1995
+Robert C. Williamson,"Neural networks, rational functions, and realization theory","U Helmke, RC Williamson","Mathematics of Control, Signals and Systems 8, 27-49, 1995",2,1995
+Robert C. Williamson,Examples of learning curves from a modified VC-formalism,"A Kowalczyk, J Szymanski, P Bartlett, RC Williamson","Advances in Neural Information Processing Systems 8, 1995",2,1995
+Robert C. Williamson,Fat-shattering and the learnabilityof real-valued functions (extendedabstract),"PL Bartlett, PM Long, RC Williamson","Proceedings of the SeventhAnnual ACM Conference on Computational Learning Theory, 1994",2,1994
+Robert C. Williamson,Learning Nonlinearly Parametrized Decision Regions,"KL Halliwell, RC Williamson, IMV Mareels","IFAC Proceedings Volumes 26 (2), 357-360, 1993",2,1993
+Robert C. Williamson,An approach to system identification based on risk minimization and behaviours,"E Weyer, RC Williamson, IMY Mareels","[1992] Proceedings of the 31st IEEE Conference on Decision and Control, 927-932, 1992",2,1992
+Robert C. Williamson,Rational parametrizations of neural networks,"U Helmke, RC Williamson","Advances in Neural Information Processing Systems 5, 1992",2,1992
+Robert C. Williamson,Probabilistic arithmetic and the distribution of functions of random variables,RC Williamson,"IASTED International Symposium on Signal Processing and its Applications …, 1987",2,1987
+Robert C. Williamson,Towards a strictly frequentist theory of imprecise probability,"C Fröhlich, R Derr, RC Williamson","International Symposium on Imprecise Probability: Theories and Applications …, 2023",1,2023
+Robert C. Williamson,The set structure of precision,"R Derr, RC Williamson","International Symposium on Imprecise Probability: Theories and Applications …, 2023",1,2023
+Robert C. Williamson,The Set Structure of Precision: Coherent Probabilities on Pre-Dynkin-Systems,"R Derr, RC Williamson","arXiv preprint arXiv:2302.03522, 2023",1,2023
+Robert C. Williamson,Strictly Frequentist Imprecise Probability,"C Fröhlich, R Derr, RC Williamson","arXiv preprint arXiv:2302.03520, 2023",1,2023
+Robert C. Williamson,The geometry and calculus of losses,"RC Williamson, Z Cranko","arXiv preprint arXiv:2209.00238, 2022",1,2022
+Robert C. Williamson,What killed the Convex Booster?,"Y Mansour, R Nock, RC Williamson","arXiv preprint arXiv:2205.09628, 2022",1,2022
+Robert C. Williamson,"Process and Purpose, Not Thing and Technique: How to Pose Data Science Research Challenges",R Williamson,"PubPub 2 (3), 2020",1,2020
+Robert C. Williamson,Engineering Circus Enchantment: Automagic Technology and Electrifying Performances in Fiction,"AS Jürgens, RC Williamson","Circus, Science and Technology: Dramatising Innovation, 159-183, 2020",1,2020
+Robert C. Williamson,Minimax lower bounds for cost sensitive classification,"P Kamalaruban, RC Williamson","arXiv preprint arXiv:1805.07723, 2018",1,2018
+Robert C. Williamson,Le cam meets LeCun: Deficiency and generic feature learning,"B van Rooyen, RC Williamson","arXiv preprint arXiv:1402.4884, 2014",1,2014
+Robert C. Williamson,The convexity and design of composite multiclass losses,"M Reid, R Williamson, P Sun","arXiv preprint arXiv:1206.4663, 2012",1,2012
+Robert C. Williamson,Convexity of Proper Composite Binary Losses,"M Reid, R Williamson","Proceedings of the Thirteenth International Conference on Artificial …, 2010",1,2010
+Robert C. Williamson,Intrinsic Geometry of Stochastic Gradient Descent Algorithms,"RE Mahony, K Blackmore, KA Krakowski, RC Williamson","Unpublished, 2006",1,2006
+Robert C. Williamson,Online Learning on Spheres,"KA Krakowski, RE Mahony, RC Williamson, MK Warmuth","Unpublished, 2005",1,2005
+Robert C. Williamson,Hasty Congregational Gradient Descent,"KL Blackmore, SA Salisbury, RC Williamson, IMY Mareels",,1,2005
+Robert C. Williamson,A principle for system identification in the behavioural framework,"E Weyer, RC Williamson, IMY Mareels","IFAC Proceedings Volumes 26 (2), 81-84, 1993",1,1993
+Robert C. Williamson,Systems of Precision: Coherent Probabilities on Pre-Dynkin Systems and Coherent Previsions on Linear Subspaces,"R Derr, RC Williamson","Entropy 25 (9), 1283, 2023",,2023
+Robert C. Williamson,"A General Framework for Learning under Corruption: Label Noise, Attribute Noise, and Beyond","L Iacovissi, N Lu, RC Williamson","arXiv preprint arXiv:2307.08643, 2023",,2023
+Robert C. Williamson,RGB-2-Hyper-Spectral Image Reconstruction for Food Science Using Encoder/Decoder Neural Architectures,"R Williamson, JM Del Rincon, A Koidis, C Reaño","2023 IEEE Symposium on Computers and Communications (ISCC), 872-875, 2023",,2023
+Robert C. Williamson,"Insights From Insurance for Fair Machine Learning: Responsibility, Performativity and Aggregates","C Fröhlich, RC Williamson","arXiv preprint arXiv:2306.14624, 2023",,2023
+Robert C. Williamson,On the Richness of Calibration,"B Höltgen, RC Williamson","Proceedings of the 2023 ACM Conference on Fairness, Accountability, and …, 2023",,2023
+Robert C. Williamson,The Geometry of Mixability,"AJC Pacheco, RC Williamson","arXiv preprint arXiv:2302.11905, 2023",,2023
+Robert C. Williamson,The Geometry of Mixability,"AJ Cabrera Pacheco, RC Williamson","arXiv e-prints, arXiv: 2302.11905, 2023",,2023
+Robert C. Williamson,Tailoring to the Tails: Risk Measures for Fine-Grained Tail Sensitivity,"RC Williamson, C Fröhlich","arXiv, 2023",,2023
+Robert C. Williamson,Fairness and Randomness in Machine Learning: Statistical Independence and Relativization,"RC Williamson, R Derr","arXiv, 2022",,2022
+Robert C. Williamson,Risk Measures and Upper Probabilities: Coherence and Stratification,"RC Williamson, C Fröhlich","arXiv, 2022",,2022
+Robert C. Williamson,What killed the Convex Booster?,"RC Williamson, M Mansour, R Nock","arXiv, 2022",,2022
+Robert C. Williamson,The AI of Ethics,RC Williamson,"The MIT Press, 2021",,2021
+Robert C. Williamson,Proper-Composite Loss Functions in Arbitrary Dimensions,"Z Cranko, RC Williamson, R Nock","arXiv preprint arXiv:1902.06881, 2019",,2019
+Robert C. Williamson,3.22 A Modular Theory of Feature Learning,RC Williamson,"Foundations of Unsupervised Learning, 106, 2016",,2016
+Robert C. Williamson,Technology and Work,"M nic Ragnhail, RC Williamson",,,2014
+Robert C. Williamson,Entropic Duality in Probability & Learning,"R Frongillo, B Williamson, N Mehta, B van Rooyen",,,2014
+Robert C. Williamson,"Generalised Mixability, Constant Regret, and Bayesian Updating","MD Reid, RM Frongillo, RC Williamson","arXiv preprint arXiv:1403.2433, 2014",,2014
+Robert C. Williamson,Strategy-Proof Prediction Markets,"A Ghoneim, RC Williamson","arXiv preprint arXiv:1212.5764, 2012",,2012
+Robert C. Williamson,RESTful Health by Opening Confidential Data and Learning from Hackers,"H Suominen, L Zhu, M Reid, A Liu, B Williamson, L Hanlen",,,2012
+Robert C. Williamson,Mixability is Bayes Risk Curvature Relative to Log Loss,R Williamson,,,2011
+Robert C. Williamson,"The importance of convexity in learning with squared loss (vol 44, pg 1074, 1998)","WS Lee, PL Bartlett, RC Williamson","IEEE TRANSACTIONS ON INFORMATION THEORY 54 (9), 4395-4395, 2008",,2008
+Robert C. Williamson,"Erratum:"" The importance of convexity in learning with squared loss""(IEEE Transactions on Information Theory)","WS Lee, PL Bartlett, RC Williamson",,,2008
+Robert C. Williamson,Particle filter design using importance sampling for environments,"EA Lehmann, R Williamson","Hindawi Publishing Corporation, 2006",,2006
+Robert C. Williamson,Channel equalization and the Bayes point machine,"E Harrington, J Kivinen, RC Williamson","2003 IEEE International Conference on Acoustics, Speech, and Signal …, 2003",,2003
+Robert C. Williamson,Acoustic Beamforming Exploiting Directionality of Human Speech Sources,"R Williamson, T Betlehem","Institute of Electrical and Electronics Engineers (IEEE Inc), 2003",,2003
+Robert C. Williamson,Loop removal form LDPC codes,"J McGowan, R Williamson","Institute of Electrical and Electronics Engineers (IEEE Inc), 2003",,2003
+Robert C. Williamson,Erratum to book review: learning kernel classifiers,R Williamson,"Neural Networks 16 (1), 147-147, 2003",,2003
+Robert C. Williamson,"Learning Kernel Classifiers-R. Herbrich (Ed.); MIT Press, 2002, ISBN: 0-262-08306-X, $40",R Williamson,"Neural Networks 15 (7), 930-930, 2002",,2002
+Robert C. Williamson,Proceedings of the 14th Annual Conference on Computational Learning Theory and and 5th European Conference on Computational Learning Theory,"DP Helmbold, B Williamson","Springer-Verlag, 2001",,2001
+Robert C. Williamson,Computational Learning Theory,DHB Williamson,,,2001
+Robert C. Williamson,Nearfield Broadband Array Design Using a Radially Invariant Modal Expansioin,"R Kennedy, R Williamson, T Abhayapala","Acoustical Society of America, 2000",,2000
+Robert C. Williamson,21 Entropy Numbers for Convex Combinations and MLPs,"AJ Smola, A e Elisseeff, RC Williamson","Advances in Large Margin Classifiers, 369, 2000",,2000
+Robert C. Williamson,Large Margin Classification,"J Shawe-Taylor, B Williamson",,,1999
+Robert C. Williamson,+ GMD FIRST,"B Schölkopf, J Shawe-Taylor, AJ Smola, RC Williamson","ICANN99: Ninth International Conference on Artificial Neural Networks; 7-10 …, 1999",,1999
+Robert C. Williamson,Classification on Proximity Data with LP-Machines,"P Bartlett, KR Müller, K Obermayer, R Williamson","ICANN99: Ninth International Conference on Artificial Neural Networks; 7-10 …, 1999",,1999
+Robert C. Williamson,AN ANALYSIS OF THE EXPONENTIATED GRADIENT DESCENT ALGORITHM,RC Williamson,"Proceedings, 379, 1999",,1999
+Robert C. Williamson,Spatial aliasing for near-field sensor arrays,"R Kennedy, R Williamson, T Abhayapala","Institute of Electrical and Electronics Engineers (IEEE Inc), 1999",,1999
+Robert C. Williamson,Sample Complexity of Stochastic Least Squares System Identification,"I Mareels, R Williamson","Institute of Electrical and Electronics Engineers (IEEE Inc), 1999",,1999
+Robert C. Williamson,Noise Modelling for Nearfield Array gain Optimization,"R Kennedy, R Williamson, T Abhayapala","Institute of Electrical and Electronics Engineers (IEEE Inc), 1999",,1999
+Robert C. Williamson,"Lower bounds on VC-dimension of smoothly parameterized function classes (vol 7, pg 1040, 1995)","WS Lee, PL Bartlett, RC Williamson","Neural Computation 9 (4), 765-769, 1997",,1997
+Robert C. Williamson,"Signals, and Systems","KL Blackmore, RC Williamson, IMY Mareels, WA Sethares","Math. Control Signals Systems 10, 331-363, 1997",,1997
+Robert C. Williamson,AN ADAPTIVE ALGORITHM FOR BROADBAND FREQUENCY INVARIANT,"RA Kennedy, RC Williamson",,,1997
+Robert C. Williamson,article no. 0044,"A Amir, M Andries, E Astesiano, BS Baker, PL Bartlett, C Beeri, G Benson, ...","journal of computer and system sciences 52, 613, 1996",,1996
+Robert C. Williamson,"Proceedings of the Seventh Australian Conference on Neural Networks: ACNN'96, Canberra, 10-12 April 1996","RC Williamson, AN Burkitt, PL Bartlett","Australian National University, 1996",,1996
+Robert C. Williamson,Hasty Congregational Gradient Descent for Online Optimisation,"KL Blackmore, RC Williamson, IMY Mareels","Proceedings of the Second Biennial Australian Engineering Mathematics …, 1996",,1996
+Robert C. Williamson,Sample complexity of stochastic least squares system identification,"E Weyer, RC Williamson, IMY Mareels",,,1995
+Robert C. Williamson,A simple calculation of the joint moments of hidden Markov models,"M Karan, BDO Anderson, RC Williamson","Proceedings of ICASSP'94. IEEE International Conference on Acoustics, Speech …, 1994",,1994
+Robert C. Williamson,Robustness of maximum likelihood frequency estimators under model errors,"M Karan, RC Williamson, RDO Anderson","Proceedings of 32nd IEEE Conference on Decision and Control, 3034-3039, 1993",,1993
+Robert C. Williamson,Perceptron Learning with Reasonable Distributions of Examples,"PL Bartlett, RC Williamson","Artificial Neural Networks, 1033-1036, 1991",,1991
+Robert C. Williamson,EFFICIENT SOFTWARE IMPLEMENTATION OF CYCLIC CONVOLUTION ALGORITHMS BASED ON POLYNOMIAL TRANSFORMS.,"RC Williamson, LC Westphal","IREECON International (Convention Digest)(Institution of Radio and …, 1985",,1985
+Robert C. Williamson,Software implementation of polynomial transform based convolution algorithms,RC Williamson,"University of Queensland, 1985",,1985
+Robert C. Williamson,IV. LOW TEMPERATURE PHYSICS,"E Maxwell, JF Cochran, WM Whitney, M Garber, WH Glenn Jr, ...","Quarterly Progress Report 58, 69, 1960",,1960
+Robert C. Williamson,"Supplementary Material for ‘Constant Regret, Generalized Mixability, and Mirror Descent’","Z Mhammedi, RC Williamson",,,
+Robert C. Williamson,Degrees of Supervision,"DG García, RC Williamson",,,
+Robert C. Williamson,2019 년도 정기총회 및 추계학술대회,RC Williamson,,,
+Robert C. Williamson,Lossless or Quantized Boosting with Integer Arithmetic,"RC Williamson, R Nock",,,
+Robert C. Williamson,Ы бда з в ж а о и гв гйв зЃ,"RC Яilliamsonо, J Shawe-Taylor, AJ Smolaо, S eorge House",,,
+Robert C. Williamson,MAKING SENSE OF DATA VISION,B Williamson,,,
+Robert C. Williamson,Inductive Principles,RC Williamson,,,
+Robert C. Williamson,SESSION L: POSTER SESSION I1-ICASSP’03 PAPERS,"EA Lehmann, RC Williamson",,,
+Robert C. Williamson,Learning from Corrupted Binary Labels via Class-Probability Estimation (Full Version),"AK Menon, B van Rooyen, CS Ong, RC Williamson",,,
+Robert C. Williamson,Rewards for Honesty with Implication for Prediction,"F Lu, B Williamson, M Reid","sign (2η− 1) 1, 2, 0",,
+Robert C. Williamson,"Computational learning theory (Amsterdam, 16-19 July 2001)","D Helmbolt, B Williamson","Lecture notes in computer science, 0",,
+Robert C. Williamson,Frequency-Domain Maximum Likelihood Estimation for Automatic Speech Recognition in Additive and Convolutive,"BD Radlovic, RC Williamson, RA Kennedy",,,
+Robert C. Williamson,Beamformers,"DB Ward, RA Kennedy, RC Williamson",,,
+Robert C. Williamson,"Shrinking the Tube: A New Support Vector Regression Algorithm Ikoma-shi, Nara 630-0101, Japan","B Scholkopf, AJ Smola, PL Bartlett, R Williamson",,,
+Robert C. Williamson,Sample Complexity versus Approximation Error,"PL Bartlett, RC Williamson",,,
+Robert C. Williamson,FARFIELD ARRAY WEIGHT REDESIGN FOR NEARFIELD BEAMFORMING,"TDARA Kennedy, RC Williamson",,,
+Robert C. Williamson,On Distribution Classes Induced by Probabilistic Automata (student submission),"O Guttman, SVN Vishwanathan, RC Williamson",,,
+Robert C. Williamson,"Logic, Trees and Kernels","A Kowalczyk, AJ Smola, RC Williamson",,,

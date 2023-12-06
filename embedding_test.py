@@ -42,7 +42,7 @@ for filename in os.listdir(directory):
         print(f"Processing {file_path}")
 
         df = pd.read_csv(file_path)
-        paper_titles = list(df['title'])
+        paper_titles = list(df[df['year']>=2019]['title'])
 
         vec = np.array(get_professor_embedding(paper_titles, word_vectors))
         
@@ -50,7 +50,7 @@ for filename in os.listdir(directory):
         vec_names.append(filename)
 
 
-""" 2D vector space
+"""# 2D vector space
 print(high_dim_vecs)
 
 high_dim_vecs = np.array(high_dim_vecs)
@@ -66,8 +66,8 @@ for i, name in enumerate(vec_names):
     plt.text(reduced_vectors_pca[i, 0], reduced_vectors_pca[i, 1], name)
 
 plt.title('PCA Reduction')
-plt.show()"""
-
+plt.show()
+"""
 
 # Assuming high_dim_vecs is your list of vectors
 high_dim_vecs = np.array(high_dim_vecs)

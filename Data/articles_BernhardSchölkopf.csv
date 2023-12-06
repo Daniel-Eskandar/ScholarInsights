@@ -1,0 +1,681 @@
+author_name,title,authors,publication,cited_by_value,year
+Bernhard Schölkopf,"Learning with kernels: support vector machines, regularization, optimization, and beyond","B Schölkopf, AJ Smola","MIT press, 2002",23820,2002
+Bernhard Schölkopf,A tutorial on support vector regression,"AJ Smola, B Schölkopf","Statistics and computing 14, 199-222, 2004",14611,2004
+Bernhard Schölkopf,Nonlinear component analysis as a kernel eigenvalue problem,"B Schölkopf, A Smola, KR Müller","Neural computation 10 (5), 1299-1319, 1998",10676,1998
+Bernhard Schölkopf,"Semi-Supervised Learning (Chapelle, O. et al., Eds.; 2006) [Book reviews]","O Chapelle, B Scholkopf, A Zien","IEEE Transactions on Neural Networks 20 (3), 542-542, 2009",7381,2009
+Bernhard Schölkopf,Semi-supervised learning,"O Chapelle, B Schölkopf, A Zien","MIT Press, 2006",7326,2006
+Bernhard Schölkopf,"Semi-Supervised Learning (Chapelle, O. et al., Eds.; 2006) [Book reviews]","O Chapelle, B Scholkopf, A Zien","IEEE Transactions on Neural Networks 20 (3), 542-542, 2009",7268,2009
+Bernhard Schölkopf,Estimating the support of a high-dimensional distribution,"B Schölkopf, JC Platt, J Shawe-Taylor, AJ Smola, RC Williamson","Neural computation 13 (7), 1443-1471, 2001",6876,2001
+Bernhard Schölkopf,Support vector machines,"MA Hearst, ST Dumais, E Osuna, J Platt, B Scholkopf","IEEE Intelligent Systems and their applications 13 (4), 18-28, 1998",5439,1998
+Bernhard Schölkopf,Learning with local and global consistency,"D Zhou, O Bousquet, T Lal, J Weston, B Schölkopf","Advances in neural information processing systems 16, 2003",5288,2003
+Bernhard Schölkopf,An introduction to kernel-based learning algorithms,"KR Muller, S Mika, G Ratsch, K Tsuda, B Scholkopf","IEEE Transactions on Neural Networks 12 (2), 181-201, 2001",4908,2001
+Bernhard Schölkopf,A kernel two-sample test,"A Gretton, KM Borgwardt, MJ Rasch, B Schölkopf, A Smola","The Journal of Machine Learning Research 13 (1), 723-773, 2012",4869,2012
+Bernhard Schölkopf,Advances in kernel methods: support vector learning,"B Schölkopf, A Burges, C.J.C.: Smola","The MIT press, 1999",4438,1999
+Bernhard Schölkopf,Fisher discriminant analysis with kernels,"S Mika, G Rätsch, J Weston, B Schölkopf, K Müller","Neural networks for signal processing IX, 1999",4135,1999
+Bernhard Schölkopf,Kernel principal component analysis,"B Schölkopf, A Smola, KR Müller","International conference on artificial neural networks, 583-588, 1997",3499,1997
+Bernhard Schölkopf,New support vector algorithms,"B Schölkopf, AJ Smola, RC Williamson, PL Bartlett","Neural computation 12 (5), 1207-1245, 2000",3454,2000
+Bernhard Schölkopf,A gene expression map of Arabidopsis thaliana development,"M Schmid, TS Davison, SR Henz, UJ Pape, M Demar, M Vingron, ...","Nature genetics 37 (5), 501-506, 2005",2735,2005
+Bernhard Schölkopf,Kernel methods in machine learning,"T Hofmann, B Schölkopf, AJ Smola","Annals of Statistics 36 (3), 1171-1220, 2008",2622,2008
+Bernhard Schölkopf,Support vector method for novelty detection,"B Schölkopf, RC Williamson, A Smola, J Shawe-Taylor, J Platt","Advances in neural information processing systems 12, 1999",2279,1999
+Bernhard Schölkopf,A kernel method for the two-sample-problem,"A Gretton, K Borgwardt, M Rasch, B Schölkopf, A Smola","Advances in neural information processing systems 19, 2006",2153,2006
+Bernhard Schölkopf,A generalized representer theorem,"B Schölkopf, R Herbrich, AJ Smola","International conference on computational learning theory, 416-426, 2001",2143,2001
+Bernhard Schölkopf,Correcting sample selection bias by unlabeled data,"J Huang, A Gretton, K Borgwardt, B Schölkopf, A Smola","Advances in neural information processing systems 19, 2006",2009,2006
+Bernhard Schölkopf,Comparing support vector machines with Gaussian kernels to radial basis function classifiers,"B Scholkopf, KK Sung, CJC Burges, F Girosi, P Niyogi, T Poggio, ...","IEEE transactions on Signal Processing 45 (11), 2758-2765, 1997",1813,1997
+Bernhard Schölkopf,Measuring statistical dependence with Hilbert-Schmidt norms,"A Gretton, O Bousquet, A Smola, B Schölkopf","International conference on algorithmic learning theory, 63-77, 2005",1792,2005
+Bernhard Schölkopf,Large scale multiple kernel learning,"S Sonnenburg, G Rätsch, C Schäfer, B Schölkopf","The Journal of Machine Learning Research 7, 1531-1565, 2006",1720,2006
+Bernhard Schölkopf,Elements of causal inference: foundations and learning algorithms,"J Peters, D Janzing, B Schölkopf","The MIT Press, 2017",1703,2017
+Bernhard Schölkopf,Input space versus feature space in kernel-based methods,"B Schölkopf, S Mika, CJC Burges, P Knirsch, KR Müller, G Rätsch, ...","IEEE transactions on neural networks 10 (5), 1000-1017, 1999",1684,1999
+Bernhard Schölkopf,"Learning with hypergraphs: Clustering, classification, and embedding","D Zhou, J Huang, B Scholkopf","Advances in Neural Information Processing Systems 19, 1601, 2007",1498,2007
+Bernhard Schölkopf,Integrating structured biological data by kernel maximum mean discrepancy,"KM Borgwardt, A Gretton, MJ Rasch, HP Kriegel, B Schölkopf, AJ Smola","Bioinformatics 22 (14), e49-e57, 2006",1482,2006
+Bernhard Schölkopf,Kernel PCA and de-noising in feature spaces,"S Mika, B Schölkopf, AJ Smola, KR Müller, M Scholz, G Rätsch","Advances in neural information processing systems 11 (1), 536-542, 1999",1419,1999
+Bernhard Schölkopf,Predicting time series with support vector machines,"K Müller, A Smola, G Rätsch, B Schölkopf, J Kohlmorgen, V Vapnik","Artificial Neural Networks—ICANN'97, 999-1004, 1997",1411,1997
+Bernhard Schölkopf,Challenging common assumptions in the unsupervised learning of disentangled representations,"F Locatello, S Bauer, M Lucic, G Raetsch, S Gelly, B Schölkopf, O Bachem","international conference on machine learning, 4114-4124, 2019",1299,2019
+Bernhard Schölkopf,Wasserstein auto-encoders,"I Tolstikhin, O Bousquet, S Gelly, B Schoelkopf","arXiv preprint arXiv:1711.01558, 2017",1126,2017
+Bernhard Schölkopf,Enhancenet: Single image super-resolution through automated texture synthesis,"MSM Sajjadi, B Scholkopf, M Hirsch","Proceedings of the IEEE international conference on computer vision, 4491-4500, 2017",1051,2017
+Bernhard Schölkopf,Use of the zero norm with linear models and kernel methods,"J Weston, A Elisseeff, B Schölkopf, M Tipping","The Journal of Machine Learning Research 3, 1439-1461, 2003",1048,2003
+Bernhard Schölkopf,Nonlinear causal discovery with additive noise models,"P Hoyer, D Janzing, J Mooij, J Peters, B Schölkopf",,1031,2009
+Bernhard Schölkopf,Domain generalization via invariant feature representation,"K Muandet, D Balduzzi, B Schölkopf","International conference on machine learning, 10-18, 2013",1028,2013
+Bernhard Schölkopf,Learning with kernels,"AJ Smola, B Schölkopf","GMD-Forschungszentrum Informationstechnik, 1998",1021,1998
+Bernhard Schölkopf,Kernel methods in computational biology,"B Schölkopf, K Tsuda, JP Vert","The MIT press, 2004",1010,2004
+Bernhard Schölkopf,Ranking on data manifolds,"D Zhou, J Weston, A Gretton, O Bousquet, B Schölkopf","Advances in neural information processing systems 16, 2003",960,2003
+Bernhard Schölkopf,A Hilbert space embedding for distributions,"A Smola, A Gretton, L Song, B Schölkopf","International conference on algorithmic learning theory, 13-31, 2007",956,2007
+Bernhard Schölkopf,A kernel statistical test of independence,"A Gretton, K Fukumizu, CH Teo, L Song, B Schölkopf, AJ Smola","MIT Press, 2008",939,2008
+Bernhard Schölkopf,Extracting support data for a given task,"B Schölkopf, C Burges, V Vapnik","KDD, 1995",927,1995
+Bernhard Schölkopf,The kernel trick for distances,B Schölkopf,"Advances in neural information processing systems 13, 2000",890,2000
+Bernhard Schölkopf,Sparse greedy matrix approximation for machine learning,AJ Smola,"Proceedings of the 17th international conference on machine learning, June …, 2000",885,2000
+Bernhard Schölkopf,Sparse greedy matrix approximation for machine learning,AJ Smola,"Proceedings of the 17th international conference on machine learning, June …, 2000",885,2000
+Bernhard Schölkopf,The connection between regularization operators and support vector kernels,"AJ Smola, B Schölkopf, KR Müller","Neural networks 11 (4), 637-649, 1998",882,1998
+Bernhard Schölkopf,Common Sequence Polymorphisms Shaping Genetic Diversity in Arabidopsis thaliana,"RM Clark, G Schweikert, C Toomajian, S Ossowski, G Zeller, P Shinn, ...","science 317 (5836), 338-342, 2007",838,2007
+Bernhard Schölkopf,Training invariant support vector machines,"D DeCoste, B Schölkopf","Machine learning 46, 161-190, 2002",837,2002
+Bernhard Schölkopf,Toward causal representation learning,"B Schölkopf, F Locatello, S Bauer, NR Ke, N Kalchbrenner, A Goyal, ...","Proceedings of the IEEE 109 (5), 612-634, 2021",836,2021
+Bernhard Schölkopf,Support vector learning,B Scholkopf,"Oldenbourg, Munich, 1997",821,1997
+Bernhard Schölkopf,Support vector learning,B Schölkopf,,820,1997
+Bernhard Schölkopf,Hilbert space embeddings and metrics on probability measures,"BK Sriperumbudur, A Gretton, K Fukumizu, B Schölkopf, GRG Lanckriet","The Journal of Machine Learning Research 11, 1517-1561, 2010",788,2010
+Bernhard Schölkopf,Support vector machines and kernels for computational biology,"A Ben-Hur, CS Ong, S Sonnenburg, B Schölkopf, G Rätsch","PLoS computational biology 4 (10), e1000173, 2008",783,2008
+Bernhard Schölkopf,Covariate shift by kernel mean matching,"A Gretton, A Smola, J Huang, M Schmittfull, K Borgwardt, B Schölkopf","Dataset shift in machine learning, 131-160, 2009",746,2009
+Bernhard Schölkopf,Uncovering the temporal dynamics of diffusion networks,"M Gomez-Rodriguez, D Balduzzi, B Schölkopf","Twenty-eighth International Conference on Machine Learning, Bellevue, Washing, 2011",716,2011
+Bernhard Schölkopf,A kernel view of the dimensionality reduction of manifolds,"J Ham, DD Lee, S Mika, B Schölkopf","Proceedings of the twenty-first international conference on Machine learning, 47, 2004",705,2004
+Bernhard Schölkopf,Kernel mean embedding of distributions: A review and beyond,"K Muandet, K Fukumizu, B Sriperumbudur, B Schölkopf","Foundations and Trends® in Machine Learning 10 (1-2), 1-141, 2017",691,2017
+Bernhard Schölkopf,A tutorial on ν‐support vector machines,"PH Chen, CJ Lin, B Schölkopf","Applied Stochastic Models in Business and Industry 21 (2), 111-136, 2005",690,2005
+Bernhard Schölkopf,Improving the accuracy and speed of support vector machines,"C Burges, B Schölkopf","Advances in Neural Information Processing Systems 9, 375-381, 1997",690,1997
+Bernhard Schölkopf,Kernel measures of conditional dependence,"K Fukumizu, A Gretton, X Sun, B Schölkopf","Advances in neural information processing systems 20, 2007",669,2007
+Bernhard Schölkopf,Cluster kernels for semi-supervised learning,"O Chapelle, J Weston, B Schölkopf","Advances in neural information processing systems 15, 2002",669,2002
+Bernhard Schölkopf,Domain adaptation under target and conditional shift,"K Zhang, B Schölkopf, K Muandet, Z Wang","International conference on machine learning, 819-827, 2013",659,2013
+Bernhard Schölkopf,Engineering support vector machine kernels that recognize translation initiation sites,"A Zien, G Ratsch, S Mika, B Scholkopf, T Lengauer, KR Muller","Bioinformatics-Oxford, GCB'99 PAPERS PRESENTED AT THE GERMAN CONFERENCE ON …, 1999",652,1999
+Bernhard Schölkopf,Avoiding discrimination through causal reasoning,"N Kilbertus, M Rojas Carulla, G Parascandolo, M Hardt, D Janzing, ...","Advances in neural information processing systems 30, 2017",619,2017
+Bernhard Schölkopf,Learning to deblur,"CJ Schuler, M Hirsch, S Harmeling, B Schölkopf","IEEE transactions on pattern analysis and machine intelligence 38 (7), 1439-1451, 2015",610,2015
+Bernhard Schölkopf,Support vector channel selection in BCI,"TN Lal, M Schroder, T Hinterberger, J Weston, M Bogdan, N Birbaumer, ...","IEEE transactions on biomedical engineering 51 (6), 1003-1010, 2004",609,2004
+Bernhard Schölkopf,MRI-based attenuation correction for PET/MRI: a novel approach combining pattern recognition and atlas registration,"M Hofmann, F Steinke, V Scheel, G Charpiat, J Farquhar, P Aschoff, ...","Journal of nuclear medicine 49 (11), 1875-1883, 2008",606,2008
+Bernhard Schölkopf,MRI-based attenuation correction for PET/MRI: a novel approach combining pattern recognition and atlas registration,"M Hofmann, F Steinke, V Scheel, G Charpiat, J Farquhar, P Aschoff, ...","Journal of nuclear medicine 49 (11), 1875-1883, 2008",605,2008
+Bernhard Schölkopf,Kernel-based conditional independence test and application in causal discovery,"K Zhang, J Peters, D Janzing, B Schölkopf","arXiv preprint arXiv:1202.3775, 2012",599,2012
+Bernhard Schölkopf,Support vector method for novelty detection,"B Scholkopf, R Williamson, A Smola, J Shawe-Taylor, J Platt","Advances in neural information processing systems 12 (3), 582-588, 2000",598,2000
+Bernhard Schölkopf,Inferring causation from time series in Earth system sciences,"J Runge, S Bathiany, E Bollt, G Camps-Valls, D Coumou, E Deyle, ...","Nature communications 10 (1), 2553, 2019",574,2019
+Bernhard Schölkopf,On causal and anticausal learning,"B Schölkopf, D Janzing, J Peters, E Sgouritsa, K Zhang, J Mooij","ICML 2012; arXiv preprint arXiv:1206.6471, 2012",565,2012
+Bernhard Schölkopf,A primer on kernel methods,"JP Vert, K Tsuda, B Schölkopf","Kernel methods in computational biology 47, 35-70, 2004",565,2004
+Bernhard Schölkopf,Learning from labeled and unlabeled data on a directed graph,"D Zhou, J Huang, B Schölkopf","Proceedings of the 22nd international conference on Machine learning, 1036-1043, 2005",542,2005
+Bernhard Schölkopf,Predicting structured data,"G BakIr, T Hofmann, B Schölkopf, AJ Smola, B Taskar, ...","The MIT Press, 2007",541,2007
+Bernhard Schölkopf,On the empirical estimation of integral probability metrics,"BK Sriperumbudur, K Fukumizu, A Gretton, B Schölkopf, GRG Lanckriet",,522,2012
+Bernhard Schölkopf,Learning with kernels,"B Schlkopf, AJ Smola","AJ Bernhard Schlkopf, Kernels, 32-48, 2002",513,2002
+Bernhard Schölkopf,Causal discovery with continuous additive noise models,"J Peters, JM Mooij, D Janzing, B Schölkopf",,506,2014
+Bernhard Schölkopf,Distinguishing cause from effect using observational data: methods and benchmarks,"JM Mooij, J Peters, D Janzing, J Zscheischler, B Schölkopf","The Journal of Machine Learning Research 17 (1), 1103-1204, 2016",480,2016
+Bernhard Schölkopf,Advances in large margin classifiers,"Smola, Bartlett, Schölkopf, Schuurmans","MIT press, 2000",479,2000
+Bernhard Schölkopf,Unifying distillation and privileged information,"D Lopez-Paz, L Bottou, B Schölkopf, V Vapnik","arXiv preprint arXiv:1511.03643, 2015",476,2015
+Bernhard Schölkopf,Recording and playback of camera shake: Benchmarking blind deconvolution with a real-world database,"R Köhler, M Hirsch, B Mohler, B Schölkopf, S Harmeling","Computer Vision–ECCV 2012: 12th European Conference on Computer Vision …, 2012",476,2012
+Bernhard Schölkopf,Prior knowledge in support vector kernels,"B Schölkopf, P Simard, A Smola, V Vapnik","Advances in neural information processing systems 10, 1997",462,1997
+Bernhard Schölkopf,Incorporating invariances in support vector learning machines,"B Schölkopf, C Burges, V Vapnik","Artificial Neural Networks—ICANN 96: 1996 International Conference Bochum …, 1996",458,1996
+Bernhard Schölkopf,"On a Kernel-based Method for Pattern Recognition, Regression, Approximation, and Operator Inversion","AJ Smola, B Scholkopf","GMD Technical Report: 1064, 1997",450,1997
+Bernhard Schölkopf,Kernel methods for measuring independence,"A Gretton, R Herbrich, A Smola, O Bousquet, B Schölkopf","The Journal of Machine Learning Research 6, 2075-2129, 2005",445,2005
+Bernhard Schölkopf,Causality for machine learning,B Schölkopf,"Probabilistic and Causal Inference: The Works of Judea Pearl, 765-804, 2022",440,2022
+Bernhard Schölkopf,Towards quantitative PET/MRI: a review of MR-based attenuation correction techniques,"M Hofmann, B Pichler, B Schölkopf, T Beyer","European journal of nuclear medicine and molecular imaging 36, 93-104, 2009",430,2009
+Bernhard Schölkopf,Transfer learning in brain-computer interfaces,"V Jayaram, M Alamgir, Y Altun, B Scholkopf, M Grosse-Wentrup","IEEE Computational Intelligence Magazine 11 (1), 20-31, 2016",417,2016
+Bernhard Schölkopf,Iterative kernel principal component analysis for image modeling,"KI Kim, MO Franz, B Scholkopf","IEEE transactions on pattern analysis and machine intelligence 27 (9), 1351-1366, 2005",396,2005
+Bernhard Schölkopf,Fast removal of non-uniform camera shake,"M Hirsch, CJ Schuler, S Harmeling, B Schölkopf","2011 International Conference on Computer Vision, 463-470, 2011",394,2011
+Bernhard Schölkopf,Comparison of view-based object recognition algorithms using realistic 3D models,"V Blanz, B Schölkopf, H Bülthoff, C Burges, V Vapnik, T Vetter","Artificial Neural Networks—ICANN 96: 1996 International Conference Bochum …, 1996",372,1996
+Bernhard Schölkopf,Advances in kernel methods-support vector learning,T Joachims,"Making large-scale SVM learning practical, 41-56, 1999",359,1999
+Bernhard Schölkopf,Towards total recall in industrial anomaly detection,"K Roth, L Pemula, J Zepeda, B Schölkopf, T Brox, P Gehler","Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2022",357,2022
+Bernhard Schölkopf,Structure and dynamics of information pathways in online media,"M Gomez Rodriguez, J Leskovec, B Schölkopf","Proceedings of the sixth ACM international conference on Web search and data …, 2013",353,2013
+Bernhard Schölkopf,Domain adaptation with conditional transferable components,"M Gong, K Zhang, T Liu, D Tao, C Glymour, B Schölkopf","International conference on machine learning, 2839-2848, 2016",351,2016
+Bernhard Schölkopf,A local learning approach for clustering,"M Wu, B Schölkopf","Advances in neural information processing systems 19, 2006",351,2006
+Bernhard Schölkopf,A machine learning approach for non-blind image deconvolution,"CJ Schuler, H Christopher Burger, S Harmeling, B Scholkopf","Proceedings of the IEEE conference on computer vision and pattern …, 2013",349,2013
+Bernhard Schölkopf,Information-geometric approach to inferring causal directions,"D Janzing, J Mooij, K Zhang, J Lemeire, J Zscheischler, P Daniušis, ...","Artificial Intelligence 182, 1-31, 2012",335,2012
+Bernhard Schölkopf,MRI-based attenuation correction for whole-body PET/MRI: quantitative evaluation of segmentation-and atlas-based methods,"M Hofmann, I Bezrukov, F Mantlik, P Aschoff, F Steinke, T Beyer, ...","Journal of Nuclear Medicine 52 (9), 1392-1399, 2011",332,2011
+Bernhard Schölkopf,Constructing boosting algorithms from SVMs: An application to one-class classification,"G Ratsch, S Mika, B Scholkopf, KR Muller","IEEE Transactions on Pattern Analysis and Machine Intelligence 24 (9), 1184-1199, 2002",328,2002
+Bernhard Schölkopf,Learning view graphs for robot navigation,"MO Franz, B Schölkopf, P Georg, HA Mallot, HH Bülthoff","Proceedings of the first international conference on Autonomous agents, 138-147, 1997",325,1997
+Bernhard Schölkopf,Where did I take that snapshot? Scene-based homing by image matching,"MO Franz, B Schölkopf, HA Mallot, HH Bülthoff","Biological Cybernetics 79, 191-202, 1998",313,1998
+Bernhard Schölkopf,Invariant models for causal transfer learning,"M Rojas-Carulla, B Schölkopf, R Turner, J Peters","The Journal of Machine Learning Research 19 (1), 1309-1342, 2018",308,2018
+Bernhard Schölkopf,Support vector machines and kernel methods: the new generation of learning machines,"N Cristianini, B Scholkopf","Ai Magazine 23 (3), 31-31, 2002",307,2002
+Bernhard Schölkopf,Efficient filter flow for space-variant multiframe blind deconvolution,"M Hirsch, S Sra, B Schölkopf, S Harmeling","2010 IEEE Computer Society Conference on Computer Vision and Pattern …, 2010",297,2010
+Bernhard Schölkopf,Causal inference using the algorithmic Markov condition,"D Janzing, B Schölkopf","IEEE Transactions on Information Theory 56 (10), 5168-5194, 2010",293,2010
+Bernhard Schölkopf,Influence estimation and maximization in continuous-time diffusion networks,"M Gomez-Rodriguez, L Song, N Du, H Zha, B Schölkopf","ACM Transactions on Information Systems (TOIS) 34 (2), 1-33, 2016",289,2016
+Bernhard Schölkopf,Recurrent independent mechanisms,"A Goyal, A Lamb, J Hoffmann, S Sodhani, S Levine, Y Bengio, ...","arXiv preprint arXiv:1909.10893, 2019",284,2019
+Bernhard Schölkopf,Automatic image colorization via multimodal predictions,"G Charpiat, M Hofmann, B Schölkopf","Computer Vision–ECCV 2008: 10th European Conference on Computer Vision …, 2008",284,2008
+Bernhard Schölkopf,A regularization framework for learning from graph data,"D Zhou, B Schölkopf","ICML 2004 Workshop on Statistical Relational Learning and Its Connections to …, 2004",283,2004
+Bernhard Schölkopf,Fast protein classification with multiple networks,"K Tsuda, H Shin, B Schölkopf","Bioinformatics 21 (suppl_2), ii59-ii65, 2005",282,2005
+Bernhard Schölkopf,Dismec: Distributed sparse machines for extreme multi-label classification,"R Babbar, B Schölkopf","Proceedings of the tenth ACM international conference on web search and data …, 2017",279,2017
+Bernhard Schölkopf,Feature selection for support vector machines by means of genetic algorithm,"H Frohlich, O Chapelle, B Scholkopf","Proceedings. 15th IEEE International Conference on Tools with Artificial …, 2003",278,2003
+Bernhard Schölkopf,From variational to deterministic autoencoders,"P Ghosh, MSM Sajjadi, A Vergari, M Black, B Schölkopf","arXiv preprint arXiv:1903.12436, 2019",272,2019
+Bernhard Schölkopf,Semi-supervised learning on directed graphs,"D Zhou, T Hofmann, B Schölkopf","Advances in neural information processing systems 17, 2004",271,2004
+Bernhard Schölkopf,Adagan: Boosting generative models,"IO Tolstikhin, S Gelly, O Bousquet, CJ Simon-Gabriel, B Schölkopf","Advances in neural information processing systems 30, 2017",268,2017
+Bernhard Schölkopf,"Statistical learning theory: models, concepts, and results","U Von Luxburg, B Schölkopf","Arxiv preprint arXiv:0810.4752, 2008",266,2008
+Bernhard Schölkopf,The need for open source software in machine learning,"S Sonnenburg, ML Braun, CS Ong, S Bengio, L Bottou, G Holmes, ...","Journal of Machine Learning Research, 2443-2466, 2007",264,2007
+Bernhard Schölkopf,A nonparametric approach to bottom-up visual saliency,"W Kienzle, FA Wichmann, M Franz, B Schölkopf","Advances in neural information processing systems 19, 2006",264,2006
+Bernhard Schölkopf,Using support vector machines for time series prediction,"KR Muller, A Smola, G Ratsch, B Scholkopf, J Kohlmorgen, V Vapnik","Advances in kernel methods: Support vector learning 253, 1999",264,1999
+Bernhard Schölkopf,Methods towards invasive human brain computer interfaces,"T Lal, T Hinterberger, G Widman, M Schröder, N Hill, W Rosenstiel, ...","Advances in neural information processing systems 17, 2004",263,2004
+Bernhard Schölkopf,Leveraging the crowd to detect and reduce the spread of fake news and misinformation,"J Kim, B Tabibian, A Oh, B Schölkopf, M Gomez-Rodriguez","Proceedings of the eleventh ACM international conference on web search and …, 2018",261,2018
+Bernhard Schölkopf,Weakly-supervised disentanglement without compromises,"F Locatello, B Poole, G Rätsch, B Schölkopf, O Bachem, M Tschannen","International Conference on Machine Learning, 6348-6359, 2020",260,2020
+Bernhard Schölkopf,Learning to find pre-images,"GH Bakır, J Weston, B Schölkopf","Advances in Neural Information Processing Systems 16, 449-456, 2004",259,2004
+Bernhard Schölkopf,A kernel method for the two-sample problem,"A Gretton, K Borgwardt, MJ Rasch, B Scholkopf, AJ Smola","arXiv preprint arXiv:0805.2368, 2008",256,2008
+Bernhard Schölkopf,Shrinking the tube: a new support vector regression algorithm,"B Schölkopf, P Bartlett, A Smola, RC Williamson","Advances in neural information processing systems 11, 1998",255,1998
+Bernhard Schölkopf,Kernel choice and classifiability for RKHS embeddings of probability distributions,"K Fukumizu, A Gretton, G Lanckriet, B Schölkopf, BK Sriperumbudur","Advances in neural information processing systems 22, 2009",253,2009
+Bernhard Schölkopf,Computationally efficient face detection,"S Romdhani, P Torr, B Scholkopf, A Blake","Proceedings Eighth IEEE International Conference on Computer Vision. ICCV …, 2001",252,2001
+Bernhard Schölkopf,Estimating a kernel fisher discriminant in the presence of label noise,"N Lawrence, B Schölkopf","18th international conference on machine learning (ICML 2001), 306-306, 2001",251,2001
+Bernhard Schölkopf,Algorithmic recourse: from counterfactual explanations to interventions,"AH Karimi, B Schölkopf, I Valera","Proceedings of the 2021 ACM conference on fairness, accountability, and …, 2021",250,2021
+Bernhard Schölkopf,Constructing Descriptive and Discriminative Nonlinear Features: Rayleigh Coefficients in Kernel Feature Spaces,"S Mika, G Ratsch, J Weston, B Scholkopf, A Smola, KR Muller","IEEE Transactions on Pattern Analysis and Machine Intelligence 25 (5), 623-627, 2003",250,2003
+Bernhard Schölkopf,Invariant feature extraction and classification in kernel spaces,"S Mika, G Rätsch, J Weston, B Schölkopf, A Smola, KR Müller","Advances in neural information processing systems 12, 1999",250,1999
+Bernhard Schölkopf,Statistical learning and kernel methods,B Schölkopf,"Data fusion and perception, 3-24, 2001",248,2001
+Bernhard Schölkopf,Quantifying information overload in social media and its impact on social contagions,"MG Rodriguez, K Gummadi, B Schoelkopf","Proceedings of the international AAAI conference on web and social media 8 …, 2014",245,2014
+Bernhard Schölkopf,Sampling techniques for kernel methods,"D Achlioptas, F McSherry, B Scholkopf","Advances in Neural Information Processing Systems 14: Proceedings of the …, 2002",240,2002
+Bernhard Schölkopf,Closing the sensorimotor loop: haptic feedback facilitates decoding of motor imagery,"M Gomez-Rodriguez, J Peters, J Hill, B Schölkopf, A Gharabaghi, ...","Journal of neural engineering 8 (3), 036005, 2011",239,2011
+Bernhard Schölkopf,Closing the sensorimotor loop: Haptic feedback facilitates decoding of arm movement imagery,"M Gomez-Rodriguez, J Peters, J Hill, B Schölkopf, A Gharabaghi, ...","Systems Man and Cybernetics (SMC), 2010 IEEE International Conference on …, 2010",239,2010
+Bernhard Schölkopf,Quantifying causal influences,"D Janzing, D Balduzzi, M Grosse-Wentrup, B Schölkopf","Annals of Statistics 41 (5), 2324-2358, 2013",237,2013
+Bernhard Schölkopf,Quantifying causal influences,"D Janzing, D Balduzzi, M Grosse-Wentrup, B Schölkopf",,237,2013
+Bernhard Schölkopf,The randomized dependence coefficient,"D Lopez-Paz, P Hennig, B Schölkopf","Advances in neural information processing systems 26, 2013",236,2013
+Bernhard Schölkopf,Results of the GREAT08 Challenge: an image analysis competition for cosmological lensing,"S Bridle, ST Balan, M Bethge, M Gentile, S Harmeling, C Heymans, ...","Monthly Notices of the Royal Astronomical Society 405 (3), 2044-2061, 2010",233,2010
+Bernhard Schölkopf,View-based cognitive mapping and path planning,"B Schölkopf, HA Mallot","Adaptive Behavior 3 (3), 311-348, 1995",232,1995
+Bernhard Schölkopf,New support vector algorithms,B Scholkopf,"Neural Computation 12, 1083-1121, 2000",229,2000
+Bernhard Schölkopf,Regularization on Discrete Spaces,"D Zhou, B Scholkopf","Lecture Notes in Computer Science (Proceedings DAGM), 361-368, 2005",223,2005
+Bernhard Schölkopf,Generalization performance of regularization networks and support vector machines via entropy numbers of compact operators,"RC Williamson, AJ Smola, B Scholkopf","IEEE Transactions on Information Theory 47 (6), 2516-2532, 2001",223,2001
+Bernhard Schölkopf,Kernel dependency estimation,"J Weston, O Chapelle, V Vapnik, A Elisseeff, B Schölkopf","Advances in neural information processing systems 15, 2002",222,2002
+Bernhard Schölkopf,Methods for feature selection in a learning machine,"JAE Weston, A Elisseeff, B Schoelkopf, F Pérez-Cruz","US Patent 7,318,051, 2008",220,2008
+Bernhard Schölkopf,Learning from distributions via support measure machines,"K Muandet, K Fukumizu, F Dinuzzo, B Schölkopf","Advances in neural information processing systems 25, 2012",219,2012
+Bernhard Schölkopf,Discovering causal signals in images,"D Lopez-Paz, R Nishihara, S Chintala, B Scholkopf, L Bottou","Proceedings of the IEEE conference on computer vision and pattern …, 2017",218,2017
+Bernhard Schölkopf,A few extreme events dominate global interannual variability in gross primary production,"J Zscheischler, MD Mahecha, J Von Buttlar, S Harmeling, M Jung, ...","Environmental Research Letters 9 (3), 035001, 2014",218,2014
+Bernhard Schölkopf,Recovering intrinsic images with a global sparsity prior on reflectance,"C Rother, M Kiefel, L Zhang, B Schölkopf, P Gehler","Advances in neural information processing systems 24, 2011",218,2011
+Bernhard Schölkopf,Experimentally optimal ν in support vector regression for different noise models and parameter settings,"A Chalimourda, B Schölkopf, AJ Smola","Neural Networks 17 (1), 127-141, 2004",215,2004
+Bernhard Schölkopf,Modeling information propagation with survival theory,"M Gomez-Rodriguez, J Leskovec, B Schölkopf","International conference on machine learning, 666-674, 2013",214,2013
+Bernhard Schölkopf,Letter to the editor: Experimentally optimal ν in support vector regression for different noise models and parameter settings,"A Chalimourda, B Schölkopf, AJ Smola","Neural Networks 18 (2), 205, 2005",214,2005
+Bernhard Schölkopf,Randomized nonlinear component analysis,"D Lopez-Paz, S Sra, A Smola, Z Ghahramani, B Schölkopf","International conference on machine learning, 1359-1367, 2014",213,2014
+Bernhard Schölkopf,Transition from the locked in to the completely locked-in state: a physiological analysis,"AR Murguialday, J Hill, M Bensch, S Martens, S Halder, F Nijboer, ...","Clinical Neurophysiology 122 (5), 925-933, 2011",208,2011
+Bernhard Schölkopf,On the fairness of disentangled representations,"F Locatello, G Abbati, T Rainforth, S Bauer, B Schölkopf, O Bachem","Advances in neural information processing systems 32, 2019",202,2019
+Bernhard Schölkopf,Crowdsourced analysis of clinical trial data to predict amyotrophic lateral sclerosis progression,"R Küffner, N Zach, R Norel, J Hawe, D Schoenfeld, L Wang, G Li, L Fang, ...","Nature biotechnology 33 (1), 51-57, 2015",202,2015
+Bernhard Schölkopf,Inferring deterministic causal relations,"P Daniusis, D Janzing, J Mooij, J Zscheischler, B Steudel, K Zhang, ...","arXiv preprint arXiv:1203.3475, 2012",198,2012
+Bernhard Schölkopf,Multi-source domain adaptation: A causal view,"K Zhang, M Gong, B Schölkopf","Proceedings of the AAAI Conference on Artificial Intelligence 29 (1), 2015",197,2015
+Bernhard Schölkopf,Towards a learning theory of cause-effect inference,"D Lopez-Paz, K Muandet, B Schölkopf, I Tolstikhin","International Conference on Machine Learning, 1452-1461, 2015",193,2015
+Bernhard Schölkopf,Support vector regression with automatic accuracy control,"B Schölkopf, P Bartlett, A Smola, R Williamson","ICANN 98: Proceedings of the 8th International Conference on Artificial …, 1998",192,1998
+Bernhard Schölkopf,Movement templates for learning of hitting and batting,"J Kober, K Mulling, O Krömer, CH Lampert, B Schölkopf, J Peters","ICRA, 853 - 858, 2010",191,2010
+Bernhard Schölkopf,Center-surround patterns emerge as optimal predictors for human saccade targets,"W Kienzle, MO Franz, B Schölkopf, FA Wichmann","Journal of vision 9 (5), 7-7, 2009",191,2009
+Bernhard Schölkopf,Advances in neural information processing systems,"S Mika, G Rätsch, B Weston, B Schölkopf, AJ Smola, K Müller","Advances in neural information processing systems, 526-542, 2000",188,2000
+Bernhard Schölkopf,Self-supervised learning with data augmentations provably isolates content from style,"J Von Kügelgen, Y Sharma, L Gresele, W Brendel, B Schölkopf, ...","Advances in neural information processing systems 34, 16451-16467, 2021",186,2021
+Bernhard Schölkopf,Probabilistic movement modeling for intention inference in human–robot interaction,"Z Wang, K Mülling, MP Deisenroth, H Ben Amor, D Vogt, B Schölkopf, ...","The International Journal of Robotics Research 32 (7), 841-858, 2013",186,2013
+Bernhard Schölkopf,Face detection---efficient and rank deficient,"W Kienzle, M Franz, B Schölkopf, G Bakir","Advances in Neural Information Processing Systems 17, 2004",186,2004
+Bernhard Schölkopf,Causal inference on discrete data using additive noise models,"J Peters, D Janzing, B Scholkopf","IEEE Transactions on Pattern Analysis and Machine Intelligence 33 (12), 2436 …, 2011",183,2011
+Bernhard Schölkopf,Asymptotically optimal choice of ε-loss for support vector machines,"AJ Smola, N Murata, B Schölkopf, KR Müller","ICANN 98: Proceedings of the 8th International Conference on Artificial …, 1998",183,1998
+Bernhard Schölkopf,An empirical analysis of domain adaptation algorithms for genomic sequence analysis,"G Schweikert, G Rätsch, C Widmer, B Schölkopf","Advances in neural information processing systems 21, 2008",180,2008
+Bernhard Schölkopf,RASE: recognition of alternatively spliced exons in C.elegans,"G Rätsch, S Sonnenburg, B Schölkopf","Bioinformatics 21 (suppl_1), i369-i377, 2005",180,2005
+Bernhard Schölkopf,Kernel-based tests for joint independence,"N Pfister, P Bühlmann, B Schölkopf, J Peters","Journal of the Royal Statistical Society Series B: Statistical Methodology …, 2018",179,2018
+Bernhard Schölkopf,Optimization of k‐space trajectories for compressed sensing by Bayesian experimental design,"M Seeger, H Nickisch, R Pohmann, B Schölkopf","Magnetic Resonance in Medicine: An Official Journal of the International …, 2010",179,2010
+Bernhard Schölkopf,Interpolated policy gradient: Merging on-policy and off-policy gradient estimation for deep reinforcement learning,"SS Gu, T Lillicrap, RE Turner, Z Ghahramani, B Schölkopf, S Levine","Advances in neural information processing systems 30, 2017",177,2017
+Bernhard Schölkopf,"Semi-supervised learning, vol. 2","O Chapelle, B Schölkopf, A Zien","MIT Press, Cambridge. Cortes C, and Mohri M, et al.(2014) Domain adaptation …, 2006",177,2006
+Bernhard Schölkopf,MR-based PET attenuation correction for PET/MR imaging,"I Bezrukov, F Mantlik, H Schmidt, B Schölkopf, BJ Pichler","Seminars in nuclear medicine 43 (1), 45-59, 2013",175,2013
+Bernhard Schölkopf,A unifying view of Wiener and Volterra theory and polynomial kernel regression,"MO Franz, B Schölkopf","Neural computation 18 (12), 3097-3118, 2006",173,2006
+Bernhard Schölkopf,Causal inference on time series using restricted structural equation models,"J Peters, D Janzing, B Schölkopf","Advances in neural information processing systems 26, 2013",171,2013
+Bernhard Schölkopf,Kernel PCA Pattern Reconstruction via Approximate Pre-Images,"B Schölkopf, S Mika, A Smola, G Rätsch, KR Müller","ICANN 98: Proceedings of the 8th International Conference on Artificial …, 1998",171,1998
+Bernhard Schölkopf,Classifying EEG and ECoG signals without subject training for fast BCI implementation: comparison of nonparalyzed and completely paralyzed subjects,"NJ Hill, TN Lal, M Schroder, T Hinterberger, B Wilhelm, F Nijboer, ...","IEEE transactions on neural systems and rehabilitation engineering 14 (2 …, 2006",170,2006
+Bernhard Schölkopf,Injective Hilbert space embeddings of probability measures,"BK Sriperumbudur, A Gretton, K Fukumizu, G Lanckriet, B Schölkopf","21st Annual Conference on Learning Theory (COLT 2008), 111-122, 2008",169,2008
+Bernhard Schölkopf,Kernel machine based learning for multi-view face detection and pose estimation,"SZ Li, Q Fu, L Gu, B Scholkopf, Y Cheng, H Zhang","Proceedings Eighth IEEE International Conference on Computer Vision. ICCV …, 2001",169,2001
+Bernhard Schölkopf,Transductive classification via local learning regularization,"M Wu, B Schölkopf","Proceedings of the 11th International Conference on Artificial Intelligence …, 2007",165,2007
+Bernhard Schölkopf,Online video deblurring via dynamic temporal blending network,"T Hyun Kim, K Mu Lee, B Scholkopf, M Hirsch","Proceedings of the IEEE international conference on computer vision, 4038-4047, 2017",164,2017
+Bernhard Schölkopf,Robustly disentangled causal mechanisms: Validating deep representations for interventional robustness,"R Suter, D Miladinovic, B Schölkopf, S Bauer","International Conference on Machine Learning, 6056-6065, 2019",163,2019
+Bernhard Schölkopf,Learning independent causal mechanisms,"G Parascandolo, N Kilbertus, M Rojas-Carulla, B Schölkopf","International Conference on Machine Learning, 4036-4044, 2018",163,2018
+Bernhard Schölkopf,Disentangling factors of variation using few labels,"F Locatello, M Tschannen, S Bauer, G Rätsch, B Schölkopf, O Bachem","arXiv preprint arXiv:1905.01258, 2019",162,2019
+Bernhard Schölkopf,Identifiability of causal graphs using functional models,"J Peters, J Mooij, D Janzing, B Schölkopf","arXiv preprint arXiv:1202.3757, 2012",162,2012
+Bernhard Schölkopf,Introduction to semi-supervised learning,"O Chapelle, B Schölkopf, A Zien","MIT press, 2006",162,2006
+Bernhard Schölkopf,Learning from labeled and unlabeled data using random walks,"D Zhou, B Schölkopf","Joint Pattern Recognition Symposium, 237-244, 2004",161,2004
+Bernhard Schölkopf,Interactive images,"B Schoelkopf, K Toyama, MT Uyttendaele","US Patent 7,120,293, 2006",160,2006
+Bernhard Schölkopf,Space-variant single-image blind deconvolution for removing camera shake,"S Harmeling, H Michael, B Schölkopf","Advances in Neural Information Processing Systems 23, 2010",159,2010
+Bernhard Schölkopf,Feature Selection for Support Vector Machines by Means of Genetic Algorithms.,"H Fröhlich, O Chapelle, B Schölkopf","ICTAI 3, 142, 2003",159,2003
+Bernhard Schölkopf,Enhancing human learning via spaced repetition optimization,"B Tabibian, U Upadhyay, A De, A Zarezade, B Schölkopf, ...","Proceedings of the National Academy of Sciences 116 (10), 3988-3993, 2019",158,2019
+Bernhard Schölkopf,Regression by dependence minimization and its application to causal inference in additive noise models,"J Mooij, D Janzing, J Peters, B Schölkopf","Proceedings of the 26th annual international conference on machine learning …, 2009",158,2009
+Bernhard Schölkopf,Uncovering the structure and temporal dynamics of information propagation,"MG Rodriguez, J Leskovec, D Balduzzi, B Schölkopf","Network Science 2 (1), 26-65, 2014",156,2014
+Bernhard Schölkopf,Mask-specific inpainting with deep neural networks,"R Köhler, C Schuler, B Schölkopf, S Harmeling","Pattern Recognition: 36th German Conference, GCPR 2014, Münster, Germany …, 2014",154,2014
+Bernhard Schölkopf,Support vector novelty detection applied to jet engine vibration spectra,"P Hayton, B Schölkopf, L Tarassenko, P Anuzis","Advances in neural information processing systems 13, 2000",153,2000
+Bernhard Schölkopf,Support vector machines: A practical consequence of learning theory,B Scholkopf,"IEEE Intelligent systems 13, 1998",153,1998
+Bernhard Schölkopf,Robust EEG channel selection across subjects for brain-computer interfaces,"M Schröder, TN Lal, T Hinterberger, M Bogdan, NJ Hill, N Birbaumer, ...","EURASIP Journal on Advances in Signal Processing 2005, 1-10, 2005",152,2005
+Bernhard Schölkopf,Spatio-temporal transformer network for video restoration,"TH Kim, MSM Sajjadi, M Hirsch, B Scholkopf","Proceedings of the European conference on computer vision (ECCV), 106-122, 2018",151,2018
+Bernhard Schölkopf,Causal discovery from heterogeneous/nonstationary data,"B Huang, K Zhang, J Zhang, J Ramsey, R Sanchez-Romero, C Glymour, ...","The Journal of Machine Learning Research 21 (1), 3482-3534, 2020",149,2020
+Bernhard Schölkopf,From optimal transport to generative modeling: the VEGAN cookbook,"O Bousquet, S Gelly, I Tolstikhin, CJ Simon-Gabriel, B Schoelkopf","arXiv preprint arXiv:1705.07642, 2017",148,2017
+Bernhard Schölkopf,Learning neural causal models from unknown interventions,"NR Ke, O Bilaniuk, A Goyal, S Bauer, H Larochelle, B Schölkopf, ...","arXiv preprint arXiv:1910.01075, 2019",147,2019
+Bernhard Schölkopf,Evaluating predictive uncertainty challenge,"J Quinonero-Candela, CE Rasmussen, F Sinz, O Bousquet, B Schölkopf","Machine Learning Challenges Workshop, 1-27, 2005",144,2005
+Bernhard Schölkopf,Overlap and refractory effects in a brain–computer interface speller based on the visual P300 event-related potential,"SMM Martens, NJ Hill, J Farquhar, B Schölkopf","Journal of neural engineering 6 (2), 026003, 2009",143,2009
+Bernhard Schölkopf,General cost functions for support vector regression.,"AJ Smola, B Schölkopf, KR Müller","Ninth Australian Conference on Neural Networks (ACNN 1998), 79-83, 1998",143,1998
+Bernhard Schölkopf,Learning blind motion deblurring,"P Wieschollek, M Hirsch, B Scholkopf, H Lensch","Proceedings of the IEEE international conference on computer vision, 231-240, 2017",141,2017
+Bernhard Schölkopf,Causal influence of gamma oscillations on the sensorimotor rhythm,"M Grosse-Wentrup, B Schölkopf, J Hill","NeuroImage 56 (2), 837-842, 2011",141,2011
+Bernhard Schölkopf,Probabilistic latent variable models for distinguishing between cause and effect,"O Stegle, D Janzing, K Zhang, JM Mooij, B Schölkopf","Advances in neural information processing systems 23, 2010",141,2010
+Bernhard Schölkopf,"A survey of algorithmic recourse: definitions, formulations, solutions, and prospects","AH Karimi, G Barthe, B Schölkopf, I Valera","arXiv preprint arXiv:2010.04050, 2020",140,2020
+Bernhard Schölkopf,Algorithmic recourse under imperfect causal knowledge: a probabilistic approach,"AH Karimi, J Von Kügelgen, B Schölkopf, I Valera","Advances in neural information processing systems 33, 265-277, 2020",139,2020
+Bernhard Schölkopf,A systematic search for transiting planets in the K2 data,"D Foreman-Mackey, BT Montet, DW Hogg, TD Morton, D Wang, ...","The Astrophysical Journal 806 (2), 215, 2015",138,2015
+Bernhard Schölkopf,An auditory paradigm for brain-computer interfaces,"N Hill, T Lal, K Bierig, N Birbaumer, B Schölkopf","Advances in neural information processing systems 17, 2004",138,2004
+Bernhard Schölkopf,"Estimating diffusion network structures: Recovery conditions, sample complexity & soft-thresholding algorithm","H Daneshmand, M Gomez-Rodriguez, L Song, B Schoelkopf","International conference on machine learning, 793-801, 2014",136,2014
+Bernhard Schölkopf,An improved training algorithm for kernel fisher discriminants,"S Mika, AJ Smola, B Schölkopf","International Workshop on Artificial Intelligence and Statistics, 209-215, 2001",136,2001
+Bernhard Schölkopf,A Permutation-Based Kernel Conditional Independence Test.,"G Doran, K Muandet, K Zhang, B Schölkopf","UAI, 132-141, 2014",133,2014
+Bernhard Schölkopf,A direct method for building sparse kernel learning algorithms.,"M Wu, B Schölkopf, G Bakır, N Cristianini","Journal of Machine Learning Research 7 (4), 2006",133,2006
+Bernhard Schölkopf,Feature selection and transduction for prediction of molecular bioactivity for drug design,"J Weston, F Pérez-Cruz, O Bousquet, O Chapelle, A Elisseeff, B Schölkopf","Bioinformatics 19 (6), 764, 2003",133,2003
+Bernhard Schölkopf,Causal discovery from nonstationary/heterogeneous data: Skeleton estimation and orientation determination,"K Zhang, B Huang, J Zhang, C Glymour, B Schölkopf","IJCAI: Proceedings of the Conference 2017, 1347, 2017",129,2017
+Bernhard Schölkopf,Support vector regression for black-box system identification,"A Gretton, A Doucet, R Herbrich, PJW Rayner, B Scholkopf","Proceedings of the 11th IEEE Signal Processing Workshop on Statistical …, 2001",129,2001
+Bernhard Schölkopf,Learning explanations that are hard to vary,"G Parascandolo, A Neitz, A Orvieto, L Gresele, B Schölkopf","arXiv preprint arXiv:2009.00329, 2020",127,2020
+Bernhard Schölkopf,easyGWAS: a cloud-based platform for comparing the results of genome-wide association studies,"DG Grimm, D Roqueiro, PA Salomé, S Kleeberger, B Greshake, W Zhu, ...","The Plant Cell 29 (1), 5-19, 2017",127,2017
+Bernhard Schölkopf,Regularized principal manifolds,"A Smola, S Mika, B Schölkopf, R Williamson","MIT Press, 2001",124,2001
+Bernhard Schölkopf,"Data scarcity, robustness and extreme multi-label classification","R Babbar, B Schölkopf","Machine Learning 108 (8-9), 1329-1351, 2019",123,2019
+Bernhard Schölkopf,Linear programs for automatic accuracy control in regression,"A Smola, B Scholkopf, G Ratsch","1999 Ninth International Conference on Artificial Neural Networks ICANN 99 …, 1999",122,1999
+Bernhard Schölkopf,Real-time gravitational wave science with neural posterior estimation,"M Dax, SR Green, J Gair, JH Macke, A Buonanno, B Schölkopf","Physical review letters 127 (24), 241103, 2021",120,2021
+Bernhard Schölkopf,Convolutional neural networks: A magic bullet for gravitational-wave detection?,"TD Gebhard, N Kilbertus, I Harry, B Schölkopf","Physical Review D 100 (6), 063015, 2019",120,2019
+Bernhard Schölkopf,An online brain–computer interface based on shifting attention to concurrent streams of auditory stimuli,"NJ Hill, B Schölkopf","Journal of Neural Engineering 9, 026011, 2012",120,2012
+Bernhard Schölkopf,SV estimation of a distribution’s support,"B SchölkopfÜ, RC Williamson, A SmolaÜ, J Shawe-TaylorÝ","Adv. Neural Inf. Process. Syst 41, 582-588, 2000",120,2000
+Bernhard Schölkopf,Classification on proximity data with LP-machines,"T Graepel, R Herbrich, B Scholkopf, A Smola, P Bartlett, KR Muller, ...","IET Digital Library, 1999",119,1999
+Bernhard Schölkopf,Semiparametric support vector and linear programming machines,"A Smola, TT Frieß, B Schölkopf","Advances in neural information processing systems 11, 1998",119,1998
+Bernhard Schölkopf,Non-stationary correction of optical aberrations,"CJ Schuler, M Hirsch, S Harmeling, B Schölkopf","2011 International Conference on Computer Vision, 659-666, 2011",117,2011
+Bernhard Schölkopf,Improving the Caenorhabditis elegans Genome Annotation Using Machine Learning,"G Rätsch, S Sonnenburg, J Srinivasan, H Witte, KR Müller, RJ Sommer, ...","PLoS Computational Biology 3 (2), e20, 2007",117,2007
+Bernhard Schölkopf,Flexible spatio-temporal networks for video prediction,"C Lu, M Hirsch, B Scholkopf","Proceedings of the IEEE Conference on Computer Vision and Pattern …, 2017",114,2017
+Bernhard Schölkopf,Generalized score functions for causal discovery,"B Huang, K Zhang, Y Lin, B Schölkopf, C Glymour","Proceedings of the 24th ACM SIGKDD international conference on knowledge …, 2018",113,2018
+Bernhard Schölkopf,At-TAX: a whole genome tiling array resource for developmental expression analysis and transcript identification in Arabidopsis thaliana,"S Laubinger, G Zeller, SR Henz, T Sachsenberg, CK Widmer, N Naouar, ...","Genome biology 9, 1-16, 2008",113,2008
+Bernhard Schölkopf,"Fast approximation of support vector kernel expansions, and an interpretation of clustering as approximation in feature spaces","B Schölkopf, P Knirsch, A Smola, C Burges","Mustererkennung 1998: 20. DAGM-Symposium Stuttgart, 29. September–1. Oktober …, 1998",113,1998
+Bernhard Schölkopf,On the transfer of inductive bias from simulation to the real world: a new disentanglement dataset,"MW Gondal, M Wuthrich, D Miladinovic, F Locatello, M Breidt, V Volchkov, ...","Advances in Neural Information Processing Systems 32, 2019",112,2019
+Bernhard Schölkopf,Remote sensing feature selection by kernel dependence measures,"G Camps-Valls, J Mooij, B Scholkopf","IEEE Geoscience and Remote Sensing Letters 7 (3), 587-591, 2010",112,2010
+Bernhard Schölkopf,An analysis of inference with the universum,"O Chapelle, A Agarwal, FH Sinz, B Schölkopf","Advances in neural information processing systems, 1369-1376, 2008",111,2008
+Bernhard Schölkopf,Learning inverse dynamics: a comparison,"D Nguyen-Tuong, J Peters, M Seeger, B Schölkopf","European symposium on artificial neural networks, 2008",110,2008
+Bernhard Schölkopf,Foundations of structural causal models with cycles and latent variables,"S Bongers, P Forré, J Peters, JM Mooij","The Annals of Statistics 49 (5), 2885-2915, 2021",109,2021
+Bernhard Schölkopf,Minimax estimation of maximum mean discrepancy with radial kernels,"IO Tolstikhin, BK Sriperumbudur, B Schölkopf","Advances in Neural Information Processing Systems 29, 2016",109,2016
+Bernhard Schölkopf,Causal interpretation rules for encoding and decoding models in neuroimaging,"S Weichwald, T Meyer, O Özdenizci, B Schölkopf, T Ball, ...","Neuroimage 110, 48-59, 2015",109,2015
+Bernhard Schölkopf,Sparse kernel feature analysis,"AJ Smola, OL Mangasarian, B Schölkopf","Classification, Automation, and New Media: Proceedings of the 24th Annual …, 2002",109,2002
+Bernhard Schölkopf,GACV for support vector machines,"AJ Smola, P Bartlett, B Schölkopf, D Schuurmans","MIT Press, 2000",109,2000
+Bernhard Schölkopf,Support vector machines for 3D shape processing,"F Steinke, B Schölkopf, V Blanz","Computer Graphics Forum 24 (3), 285-294, 2005",107,2005
+Bernhard Schölkopf,A Short Introduction to Learning with Kernels,"B Schölkopf, AJ Smola","Proceedings of the Machine Learning Summer School, 2003",106,2003
+Bernhard Schölkopf,From regularization operators to support vector kernels,"A Smola, B Schölkopf","Advances in Neural information processing systems 10, 1997",106,1997
+Bernhard Schölkopf,Causalworld: A robotic manipulation benchmark for causal structure and transfer learning,"O Ahmed, F Träuble, A Goyal, A Neitz, Y Bengio, B Schölkopf, M Wüthrich, ...","arXiv preprint arXiv:2010.04296, 2020",105,2020
+Bernhard Schölkopf,EPIBLASTER-fast exhaustive two-locus epistasis detection strategy using graphical processing units,"T Kam-Thong, D Czamara, K Tsuda, K Borgwardt, CM Lewis, ...","European Journal of Human Genetics 19 (4), 465-471, 2010",105,2010
+Bernhard Schölkopf,Characteristic kernels on groups and semigroups,"K Fukumizu, A Gretton, B Schölkopf, BK Sriperumbudur","Advances in neural information processing systems 21, 2008",105,2008
+Bernhard Schölkopf,The population of long-period transiting exoplanets,"D Foreman-Mackey, TD Morton, DW Hogg, E Agol, B Schölkopf","The Astronomical Journal 152 (6), 206, 2016",104,2016
+Bernhard Schölkopf,Blind retrospective motion correction of MR images,"A Loktyushin, H Nickisch, R Pohmann, B Schölkopf","Magnetic resonance in medicine 70 (6), 1608-1618, 2013",103,2013
+Bernhard Schölkopf,Gaussian process-based predictive control for periodic error correction,"ED Klenske, MN Zeilinger, B Schölkopf, P Hennig","IEEE Transactions on Control Systems Technology 24 (1), 110-121, 2015",102,2015
+Bernhard Schölkopf,On causal discovery with cyclic additive noise models,"JM Mooij, D Janzing, T Heskes, B Schölkopf","Advances in neural information processing systems 24, 2011",102,2011
+Bernhard Schölkopf,QP Algorithms with Guaranteed Accuracy and Run Time for Support Vector Machines.,"D Hush, P Kelly, C Scovel, I Steinwart, B Schölkopf","Journal of Machine Learning Research 7 (5), 2006",101,2006
+Bernhard Schölkopf,A brain computer interface with online feedback based on magnetoencephalography,"TN Lal, M Schröder, NJ Hill, H Preissl, T Hinterberger, J Mellinger, ...","Proceedings of the 22nd international conference on Machine learning, 465-472, 2005",101,2005
+Bernhard Schölkopf,Local alignment kernels for biological sequences,"JP Vert, H Saigo, T Akutsu","Kernel methods in computational biology, 131-154, 2004",101,2004
+Bernhard Schölkopf,Seeing the arrow of time,"LC Pickup, Z Pan, D Wei, YC Shih, C Zhang, A Zisserman, B Scholkopf, ...","Proceedings of the IEEE Conference on Computer Vision and Pattern …, 2014",100,2014
+Bernhard Schölkopf,Learning similarity measure for multi-modal 3D image registration,"D Lee, M Hofmann, F Steinke, Y Altun, ND Cahill, B Scholkopf","2009 IEEE Conference on Computer Vision and Pattern Recognition, 186-193, 2009",100,2009
+Bernhard Schölkopf,Shifts of gamma phase across primary visual cortical sites reflect dynamic stimulus-modulated information transfer,"M Besserve, SC Lowe, NK Logothetis, B Schölkopf, S Panzeri","PLoS biology 13 (9), e1002257, 2015",99,2015
+Bernhard Schölkopf,A kernel approach for learning from almost orthogonal patterns,"B Schölkopf, J Weston, E Eskin, C Leslie, WS Noble","Machine Learning: ECML 2002: 13th European Conference on Machine Learning …, 2002",99,2002
+Bernhard Schölkopf,First-order adversarial vulnerability of neural networks and input dimension,"CJ Simon-Gabriel, Y Ollivier, L Bottou, B Schölkopf, D Lopez-Paz","International conference on machine learning, 5809-5817, 2019",98,2019
+Bernhard Schölkopf,Support vector machines and kernel algorithms,"B Schölkopf, A Smola","Encyclopedia of Biostatistics, 5328-5335, 2005",98,2005
+Bernhard Schölkopf,Robust ensemble learning,"G Rätsch, B Schölkopf, A Smola, S Mika, T Onoda, KR Muller","Advances in large margin classifiers, 2000",98,2000
+Bernhard Schölkopf,One-class support measure machines for group anomaly detection,"K Muandet, B Schölkopf","arXiv preprint arXiv:1303.0309, 2013",97,2013
+Bernhard Schölkopf,From ordinary differential equations to structural causal models: the deterministic case,"JM Mooij, D Janzing, B Schölkopf","Proceedings of the 29th Annual Conference on Uncertainty in Artificial …, 2013",97,2013
+Bernhard Schölkopf,Smola. Learning with kernels,"B Schölkopf, J ALEXANDER","Citeseer, 2002",97,2002
+Bernhard Schölkopf,Submodular inference of diffusion networks from multiple trees,"MG Rodriguez, B Schölkopf","arXiv preprint arXiv:1205.1671, 2012",96,2012
+Bernhard Schölkopf,Support vector machines,"B Schölkopf, A Smola","Encyclopedia of Biostatistics, 2005",96,2005
+Bernhard Schölkopf,"Learning with kernels: Support Vector Machines, regularization, optimization, and beyond","AJ Smola, B Schölkopf","Optimization and Beyond: MIT press, 2002",96,2002
+Bernhard Schölkopf,Incorporating invariances in non-linear support vector machines,"O Chapelle, B Schölkopf","Advances in neural information processing systems 14, 2001",96,2001
+Bernhard Schölkopf,On disentangled representations learned from correlated data,"F Träuble, E Creager, N Kilbertus, F Locatello, A Dittadi, A Goyal, ...","International Conference on Machine Learning, 10401-10412, 2021",93,2021
+Bernhard Schölkopf,Causal consistency of structural equation models,"PK Rubenstein, S Weichwald, S Bongers, JM Mooij, D Janzing, ...","arXiv preprint arXiv:1707.00819, 2017",93,2017
+Bernhard Schölkopf,A tutorial on support vector regression,"J Smola Alex, S Bernhard","Statistics and computing 14 (3), 199-222, 2004",93,2004
+Bernhard Schölkopf,Counterfactuals uncover the modular structure of deep generative models,"M Besserve, A Mehrjou, R Sun, B Schölkopf","arXiv preprint arXiv:1812.03253, 2018",92,2018
+Bernhard Schölkopf,High gamma-power predicts performance in sensorimotor-rhythm brain-computer interfaces,"M Grosse-Wentrup, B Schölkopf","Journal of Neural Engineering} 9 (4), 1991-2000, 2012",92,2012
+Bernhard Schölkopf,The representer theorem for Hilbert spaces: a necessary and sufficient condition,"F Dinuzzo, B Schölkopf","Advances in neural information processing systems 25, 2012",92,2012
+Bernhard Schölkopf,Semi-supervised learning,"C Olivier, S Bernhard, Z Alexander","IEEE Transactions on Neural Networks 20 (3), 542-542, 2006",92,2006
+Bernhard Schölkopf,Discovering temporal causal relations from subsampled data,"M Gong, K Zhang, B Schoelkopf, D Tao, P Geiger","International Conference on Machine Learning, 1898-1906, 2015",90,2015
+Bernhard Schölkopf,Towards brain-robot interfaces in stroke rehabilitation,"M Gomez-Rodriguez, M Grosse-Wentrup, J Hill, A Gharabaghi, ...","2011 IEEE International Conference on Rehabilitation Robotics, 1-6, 2011",90,2011
+Bernhard Schölkopf,"Classifying event-related desynchronization in EEG, ECoG and MEG signals","NJ Hill, TN Lal, M Schröder, T Hinterberger, G Widman, CE Elger, ...","Pattern Recognition: 28th DAGM Symposium, Berlin, Germany, September 12-14 …, 2006",90,2006
+Bernhard Schölkopf,Efficient face detection by a cascaded support–vector machine expansion,"S Romdhani, P Torr, B Schölkopf, A Blake","Proceedings of the Royal Society of London. Series A: Mathematical, Physical …, 2004",90,2004
+Bernhard Schölkopf,Generalization and similarity in exemplar models of categorization: Insights from machine learning,"F Jäkel, B Schölkopf, FA Wichmann","Psychonomic Bulletin & Review 15, 256-271, 2008",89,2008
+Bernhard Schölkopf,Causal relationships between frequency bands of extracellular signals in visual cortex revealed by an information theoretic analysis,"M Besserve, B Schölkopf, NK Logothetis, S Panzeri","Journal of computational neuroscience 29, 547-566, 2010",88,2010
+Bernhard Schölkopf,A kernel-based causal learning algorithm,"X Sun, D Janzing, B Schölkopf, K Fukumizu","Proceedings of the 24th international conference on Machine learning, 855-862, 2007",88,2007
+Bernhard Schölkopf,"Kernel distribution embeddings: Universal kernels, characteristic kernels and kernel metrics on distributions","CJ Simon-Gabriel, B Schölkopf","The Journal of Machine Learning Research 19 (1), 1708-1736, 2018",87,2018
+Bernhard Schölkopf,On estimation of functional causal models: general results and application to the post-nonlinear causal model,"K Zhang, Z Wang, J Zhang, B Schölkopf","ACM Transactions on Intelligent Systems and Technology (TIST) 7 (2), 1-22, 2015",86,2015
+Bernhard Schölkopf,Acquiring web page information without commitment to downloading the web page,"L Heilbron, JC Platt, PY Simard, B Schoelkopf","US Patent 7,565,409, 2009",86,2009
+Bernhard Schölkopf,A tutorial on kernel methods for categorization,"F Jäkel, B Schölkopf, FA Wichmann","Journal of Mathematical Psychology 51 (6), 343-358, 2007",86,2007
+Bernhard Schölkopf,Discriminative k-shot learning using probabilistic models,"M Bauer, M Rojas-Carulla, JB Świątkowski, B Schölkopf, RE Turner","arXiv preprint arXiv:1706.00326, 2017",81,2017
+Bernhard Schölkopf,Identifying cause and effect on discrete data using additive noise models,"J Peters, D Janzing, B Schölkopf","Proceedings of the thirteenth international conference on artificial …, 2010",81,2010
+Bernhard Schölkopf,Kernel methods for implicit surface modeling,"B Schölkopf, J Giesen, S Spalinger","Advances in neural information processing systems, 1193-1200, 2004",81,2004
+Bernhard Schölkopf,Sparse multiscale Gaussian process regression,"C Walder, KI Kim, B Schölkopf","Proceedings of the 25th international conference on Machine learning, 1112-1119, 2008",80,2008
+Bernhard Schölkopf,Contour-propagation algorithms for semi-automated reconstruction of neural processes,"JH Macke, N Maack, R Gupta, W Denk, B Schölkopf, A Borst","Journal of neuroscience methods 167 (2), 349-357, 2008",80,2008
+Bernhard Schölkopf,Learning causality and causality-related learning: some recent progress,"K Zhang, B Schölkopf, P Spirtes, C Glymour","National science review 5 (1), 26-29, 2018",79,2018
+Bernhard Schölkopf,Kernel constrained covariance for dependence measurement,"A Gretton, A Smola, O Bousquet, R Herbrich, A Belitski, M Augath, ...",,79,2005
+Bernhard Schölkopf,Introduction to support vector learning,"B Scholkopf, C Burges, A Smola","Advances in Kernel Methods-Support Vector Learning, 356, 1999",79,1999
+Bernhard Schölkopf,Learning strategies in table tennis using inverse reinforcement learning,"K Muelling, A Boularias, B Mohler, B Schölkopf, J Peters","Biological cybernetics 108, 603-619, 2014",78,2014
+Bernhard Schölkopf,Tailoring density estimation via reproducing kernel moment matching,"L Song, X Zhang, A Smola, A Gretton, B Schölkopf","Proceedings of the 25th international conference on Machine learning, 992-999, 2008",77,2008
+Bernhard Schölkopf,How to find interesting locations in video: a spatiotemporal interest point detector learned from human eye movements,"W Kienzle, B Schölkopf, FA Wichmann, MO Franz","Pattern Recognition: 29th DAGM Symposium, Heidelberg, Germany, September 12 …, 2007",77,2007
+Bernhard Schölkopf,Inference of cause and effect with unsupervised inverse regression,"E Sgouritsa, D Janzing, P Hennig, B Schölkopf","Artificial intelligence and statistics, 847-855, 2015",76,2015
+Bernhard Schölkopf,Does cognitive science need kernels?,"F Jäkel, B Schölkopf, FA Wichmann","Trends in cognitive sciences 13 (9), 381-388, 2009",76,2009
+Bernhard Schölkopf,Causal inference by identification of vector autoregressive processes with hidden components,"P Geiger, K Zhang, B Schoelkopf, M Gong, D Janzing","International Conference on Machine Learning, 1917-1925, 2015",75,2015
+Bernhard Schölkopf,Identifying confounders using additive noise models,"D Janzing, J Peters, J Mooij, B Schölkopf","Proceedings of the Twenty-Fifth Conference on Uncertainty in Artificial …, 2009",75,2009
+Bernhard Schölkopf,Implicit surface modelling with a globally regularised basis of compact support,"C Walder, B Schölkopf, O Chapelle","Computer Graphics Forum 25 (3), 635-644, 2006",75,2006
+Bernhard Schölkopf,Regularised CSP for sensor selection in BCI,"J Farquhar, J Hill, TN Lal, B Schölkopf",,75,2006
+Bernhard Schölkopf,Cause-effect inference by comparing regression errors,"P Blöbaum, D Janzing, T Washio, S Shimizu, B Schölkopf","International Conference on Artificial Intelligence and Statistics, 900-909, 2018",73,2018
+Bernhard Schölkopf,Fidelity-weighted learning,"M Dehghani, A Mehrjou, S Gouws, J Kamps, B Schölkopf","arXiv preprint arXiv:1711.02799, 2017",73,2017
+Bernhard Schölkopf,Large scale genomic sequence SVM classifiers,"S Sonnenburg, G Rätsch, B Schölkopf","Proceedings of the 22nd international conference on Machine learning, 848-855, 2005",73,2005
+Bernhard Schölkopf,A compression approach to support vector model selection,"U Von Luxburg, O Bousquet, B Schölkopf","J. Mach. Learn. Res. 5, 293-323, 2004",73,2004
+Bernhard Schölkopf,Gaussian processes and SVM: Mean field and leave-one-out,"AJ Smola, P Bartlett, B Schölkopf, D Schuurmans","MIT press, 2000",73,2000
+Bernhard Schölkopf,A whole-body FDG-PET/CT Dataset with manually annotated Tumor Lesions,"S Gatidis, T Hepp, M Früh, C La Fougère, K Nikolaou, C Pfannenberg, ...","Scientific Data 9 (1), 601, 2022",72,2022
+Bernhard Schölkopf,Empirical inference,"RE Schapire, B Schölkopf, Z Luo, V Vovk","Berlin, Heidelberg, 37-52, 2013",72,2013
+Bernhard Schölkopf,Extension of the nu-SVM range for classification,"F Perez-Cruz, J Weston, DJL Herrmann, B Schölkopf","IOS Press, 2003",72,2003
+Bernhard Schölkopf,Online multi-frame blind deconvolution with super-resolution and saturation correction,"M Hirsch, S Harmeling, S Sra, B Schölkopf","Astronomy and Astrophysics-Les Ulis 531, 1217, 2011",71,2011
+Bernhard Schölkopf,Support Vector Machines as Probabilistic Models.,"V Franc, A Zien, B Schölkopf","ICML, 665-672, 2011",71,2011
+Bernhard Schölkopf,Deep energy estimator networks,"S Saremi, A Mehrjou, B Schölkopf, A Hyvärinen","arXiv preprint arXiv:1805.08306, 2018",68,2018
+Bernhard Schölkopf,Methods for feature selection in a learning machine,"JAE Weston, B Schoelkopf, F Pérez-Cruz","US Patent 7,624,074, 2009",68,2009
+Bernhard Schölkopf,A kernel approach to comparing distributions,"A Gretton, KM Borgwardt, M Rasch, B Scholkopf, AJ Smola","PROCEEDINGS OF THE NATIONAL CONFERENCE ON ARTIFICIAL INTELLIGENCE 22 (2), 1637, 2007",68,2007
+Bernhard Schölkopf,Graph Kernels by Spectral Transforms.,"X Zhu, JS Kandola, J Lafferty, Z Ghahramani","Semi-supervised learning, 276-291, 2006",68,2006
+Bernhard Schölkopf,A survey of algorithmic recourse: contrastive explanations and consequential recommendations,"AH Karimi, G Barthe, B Schölkopf, I Valera","ACM Computing Surveys 55 (5), 1-29, 2022",67,2022
+Bernhard Schölkopf,On the transfer of disentangled representations in realistic settings,"A Dittadi, F Träuble, F Locatello, M Wüthrich, V Agrawal, O Winther, ...","arXiv preprint arXiv:2010.14407, 2020",67,2020
+Bernhard Schölkopf,Modeling confounding by half-sibling regression,"B Schölkopf, DW Hogg, D Wang, D Foreman-Mackey, D Janzing, ...","Proceedings of the National Academy of Sciences 113 (27), 7391-7398, 2016",67,2016
+Bernhard Schölkopf,Learning inverse kinematics with structured prediction,"B Bócsi, D Nguyen-Tuong, L Csató, B Schoelkopf, J Peters","2011 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2011",67,2011
+Bernhard Schölkopf,Pre-processed feature ranking for a support vector machine,"J Weston, A Elisseeff, B Schölkopf, F Perez-Cruz, I Guyon","US Patent 7,475,048, 2009",67,2009
+Bernhard Schölkopf,Statistical learning and kernel methods in bioinformatics,"B Schölkopf, I Guyon, J Weston","NATO Advanced Study Institute on Artificial Intelligence and Heuristic …, 2003",67,2003
+Bernhard Schölkopf,SVM and boosting: One class,"G Rätsch, B Schölkopf, S Mika, KR Müller","Submitted to NIPS’00, 2000",67,2000
+Bernhard Schölkopf,Towards principled disentanglement for domain generalization,"H Zhang, YF Zhang, W Liu, A Weller, B Schölkopf, EP Xing","Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2022",66,2022
+Bernhard Schölkopf,The incomplete rosetta stone problem: Identifiability results for multi-view nonlinear ica,"L Gresele, PK Rubenstein, A Mehrjou, F Locatello, B Schölkopf","Uncertainty in Artificial Intelligence, 217-227, 2020",66,2020
+Bernhard Schölkopf,Telling cause from effect based on high-dimensional observations,"D Janzing, PO Hoyer, B Schölkopf","Arxiv preprint arXiv:0909.4386, 2009",66,2009
+Bernhard Schölkopf,Adaptation and robust learning of probabilistic movement primitives,"S Gomez-Gonzalez, G Neumann, B Schölkopf, J Peters","IEEE Transactions on Robotics 36 (2), 366-379, 2020",65,2020
+Bernhard Schölkopf,"Multiframe blind deconvolution, super-resolution, and saturation correction via incremental EM","S Harmeling, S Sra, M Hirsch, B Schölkopf","2010 IEEE International Conference on Image Processing, 3313-3316, 2010",65,2010
+Bernhard Schölkopf,Effects of stimulus type and of error-correcting code design on BCI speller performance,"J Hill, J Farquhar, S Martens, F Bießmann, B Schölkopf","Advances in neural information processing systems 21, 2008",65,2008
+Bernhard Schölkopf,Maximal margin classification for metric spaces,"M Hein, O Bousquet, B Schölkopf","Journal of Computer and System Sciences 71 (3), 333-359, 2005",65,2005
+Bernhard Schölkopf,Learning to see and act,B Schölkopf,"Nature 518 (7540), 486-487, 2015",64,2015
+Bernhard Schölkopf,Empirical inference: Festschrift in honor of Vladimir N. Vapnik,"B Schölkopf, Z Luo, V Vovk","Springer Science & Business Media, 2013",64,2013
+Bernhard Schölkopf,Gravitational lensing accuracy testing 2010 (GREAT10) challenge handbook,"T Kitching, A Amara, M Gill, S Harmeling, C Heymans, R Massey, B Rowe, ...","The Annals of Applied Statistics, 2231-2263, 2011",64,2011
+Bernhard Schölkopf,The inductive bias of quantum kernels,"J Kübler, S Buchholz, B Schölkopf","Advances in Neural Information Processing Systems 34, 12661-12673, 2021",63,2021
+Bernhard Schölkopf,Enhancenet: Single image super-resolution through automated texture synthesis,"MSM Sajjadi, B Schölkopf, M Hirsch","arXiv preprint arXiv:1612.07919, 2016",63,2016
+Bernhard Schölkopf,Method for feature selection in a support vector machine using feature ranking,"J Weston, A Elisseeff, B Schölkopf, F Perez-Cruz, I Guyon","US Patent 7,805,388, 2010",63,2010
+Bernhard Schölkopf,Automatic 3D face reconstruction from single images or video,"P Breuer, KI Kim, W Kienzle, B Scholkopf, V Blanz","2008 8th IEEE International Conference on Automatic Face & Gesture …, 2008",63,2008
+Bernhard Schölkopf,A review of kernel methods in machine learning,"T Hofmann, B Schölkopf, AJ Smola","TR, MPI for Biological Cybernetics 156, 2006",63,2006
+Bernhard Schölkopf,Online blind deconvolution for Astronomy,"S Harmeling, S Sra, M Hirsch, B Schölkopf",,62,2009
+Bernhard Schölkopf,"Learning with Kernels–Support Vector Machines, Optimization, and Beyond","B Schölkopf, A Smola, F Bach","The MIT Press, Cambridge, MA 18, 45, 2002",62,2002
+Bernhard Schölkopf,MR-based attenuation correction methods for improved PET quantification in lesions within bone and susceptibility artifact regions,"I Bezrukov, H Schmidt, F Mantlik, N Schwenzer, C Brendle, B Schölkopf, ...","Journal of Nuclear Medicine 54 (10), 1768-1774, 2013",61,2013
+Bernhard Schölkopf,A discussion of semi-supervised learning and transduction,"O Chapelle, B Schölkopf, A Zien","Semi-supervised learning, 473-478, 2006",61,2006
+Bernhard Schölkopf,Introduction to large margin classifiers,"A Smola, P Barlett, B Schoelkopf, D Schuurmans","Advances in large margin classifiers, 2000",61,2000
+Bernhard Schölkopf,Fair decisions despite imperfect predictions,"N Kilbertus, MG Rodriguez, B Schölkopf, K Muandet, I Valera","International Conference on Artificial Intelligence and Statistics, 277-287, 2020",60,2020
+Bernhard Schölkopf,Beyond pairwise classification and clustering using hypergraphs,"D Zhou, J Huang, B Schölkopf","Max Planck Institute for Biological Cybernetics, 2005",60,2005
+Bernhard Schölkopf,Probabilistic modeling of human movements for intention inference,"Z Wang, MP Deisenroth, HB Amor, D Vogt, B Schölkopf, J Peters","Proceedings of robotics: Science and systems, VIII, 2012",59,2012
+Bernhard Schölkopf,Generalization bounds via eigenvalues of the gram matrix,"B Schölkopf, J Shawe-Taylor, AJ Smola, RC Williamson","University of London: Royal Holloway College: NeuroCOLT 2, 1999",58,1999
+Bernhard Schölkopf,Deconfounding reinforcement learning in observational settings,"C Lu, B Schölkopf, JM Hernández-Lobato","arXiv preprint arXiv:1812.10576, 2018",57,2018
+Bernhard Schölkopf,A review of performance variations in SMR-based Brain− Computer interfaces (BCIs),"M Grosse-Wentrup, B Schölkopf","Brain-Computer Interface Research: A State-of-the-Art Summary, 39-51, 2013",57,2013
+Bernhard Schölkopf,Causal inference by choosing graphs with most plausible Markov kernels,"X Sun, D Janzing, B Scholkopf",,57,2005
+Bernhard Schölkopf,Feature selection for support vector machines using genetic algorithms,"H Fröhlich, O Chapelle, B Schölkopf","International journal on artificial intelligence tools 13 (04), 791-800, 2004",57,2004
+Bernhard Schölkopf,A tutorial on support vector regression. NeuroCOLT2,"AJ Smola, B Scholkopf","Univ. London, London, UK, Tech. Rep. NC2-TR-1998-030, 1998",56,1998
+Bernhard Schölkopf,"Independent mechanism analysis, a new concept?","L Gresele, J Von Kügelgen, V Stimper, B Schölkopf, M Besserve","Advances in neural information processing systems 34, 28233-28248, 2021",55,2021
+Bernhard Schölkopf,GLIDE: GPU-based linear regression for detection of epistasis,"T Kam-Thong, CA Azencott, L Cayton, B Pütz, A Altmann, N Karbalai, ...","Human heredity 73 (4), 220-236, 2012",55,2012
+Bernhard Schölkopf,"Kernels, regularization and differential equations","F Steinke, B Schölkopf","Pattern Recognition 41 (11), 3271-3286, 2008",55,2008
+Bernhard Schölkopf,Building sparse large margin classifiers,"M Wu, B Schölkopf, G Bakir","Proceedings of the 22nd international conference on Machine learning, 996-1003, 2005",55,2005
+Bernhard Schölkopf,On the fairness of causal algorithmic recourse,"J Von Kügelgen, AH Karimi, U Bhatt, I Valera, A Weller, B Schölkopf","Proceedings of the AAAI conference on artificial intelligence 36 (9), 9584-9594, 2022",54,2022
+Bernhard Schölkopf,Real-time prediction of COVID-19 related mortality using electronic health records,"P Schwab, A Mehrjou, S Parbhoo, LA Celi, J Hetzel, M Hofer, B Schölkopf, ...","Nature communications 12 (1), 1058, 2021",54,2021
+Bernhard Schölkopf,On the latent space of wasserstein auto-encoders,"PK Rubenstein, B Schoelkopf, I Tolstikhin","arXiv preprint arXiv:1802.03761, 2018",54,2018
+Bernhard Schölkopf,Causal discovery from temporally aggregated time series,"M Gong, K Zhang, B Schölkopf, C Glymour, D Tao","Uncertainty in artificial intelligence: proceedings of the... conference …, 2017",54,2017
+Bernhard Schölkopf,Kernel mean shrinkage estimators,"K Muandet, B Sriperumbudur, K Fukumizu, A Gretton, B Schölkopf","Journal of Machine Learning Research 17, 2016",54,2016
+Bernhard Schölkopf,Blind correction of optical aberrations,"CJ Schuler, M Hirsch, S Harmeling, B Schölkopf","Computer Vision–ECCV 2012: 12th European Conference on Computer Vision …, 2012",54,2012
+Bernhard Schölkopf,"Similarity, kernels, and the triangle inequality","F Jakel, B Scholkopf, FA Wichmann","Journal of Mathematical Psychology 52 (5), 297-303, 2008",54,2008
+Bernhard Schölkopf,Voluntary brain regulation and communication with electrocorticogram signals,"T Hinterberger, G Widman, TN Lal, J Hill, M Tangermann, W Rosenstiel, ...","Epilepsy & Behavior 13 (2), 300-306, 2008",54,2008
+Bernhard Schölkopf,Regularized principal manifolds,"AJ Smola, RC Williamson, S Mika, B Schölkopf","European Conference on Computational Learning Theory, 214-229, 1999",54,1999
+Bernhard Schölkopf,Classification of faces in man and machine,"ABA Graf, FA Wichmann, HH Bülthoff, B Schölkopf","Neural Computation 18 (1), 143-165, 2006",53,2006
+Bernhard Schölkopf,Learning to play table tennis from scratch using muscular robots,"D Büchler, S Guist, R Calandra, V Berenz, B Schölkopf, J Peters","IEEE Transactions on Robotics 38 (6), 3850-3860, 2022",52,2022
+Bernhard Schölkopf,Causaladv: Adversarial robustness through the lens of causality,"Y Zhang, M Gong, T Liu, G Niu, X Tian, B Han, B Schölkopf, K Zhang","arXiv preprint arXiv:2106.06196, 2021",52,2021
+Bernhard Schölkopf,Telling cause from effect in deterministic linear dynamical systems,"N Shajarisales, D Janzing, B Schölkopf, M Besserve","International Conference on Machine Learning, 285-294, 2015",52,2015
+Bernhard Schölkopf,Nonparametric regression between general Riemannian manifolds,"F Steinke, M Hein, B Schölkopf","SIAM Journal on Imaging Sciences 3 (3), 527-563, 2010",52,2010
+Bernhard Schölkopf,Advances in Neural Information Processing Systems 18,"E Snelson, Z Ghahramani, Y Weiss, B Schölkopf, J Platt","Weiss, Y., Schölkopf, B., Platt, J., Eds, 1257-1264, 2006",52,2006
+Bernhard Schölkopf,A sober look at the unsupervised learning of disentangled representations and their evaluation,"F Locatello, S Bauer, M Lucic, G Rätsch, S Gelly, B Schölkopf, O Bachem","The Journal of Machine Learning Research 21 (1), 8629-8690, 2020",51,2020
+Bernhard Schölkopf,Multidimensional contrast limited adaptive histogram equalization,"V Stimper, S Bauer, R Ernstorfer, B Schölkopf, RP Xian","IEEE Access 7, 165437-165447, 2019",51,2019
+Bernhard Schölkopf,Identification of causal relations in neuroimaging data with latent confounders: An instrumental variable approach,"M Grosse-Wentrup, D Janzing, M Siegel, B Schölkopf","NeuroImage 125, 825-833, 2016",51,2016
+Bernhard Schölkopf,Inferring latent structures via information inequalities,"R Chaves, L Luft, TO Maciel, D Gross, D Janzing, B Schölkopf","arXiv preprint arXiv:1407.2256, 2014",51,2014
+Bernhard Schölkopf,Cost-sensitive active learning with lookahead: Optimizing field surveys for remote sensing data classification,"C Persello, A Boularias, M Dalponte, T Gobakken, E Naesset, ...","IEEE transactions on geoscience and remote sensing 52 (10), 6652-6664, 2014",51,2014
+Bernhard Schölkopf,Support vector machine—Recursive feature elimination (SVM-RFE),"J Weston, I Guyon","US Patent 8,095,483, 2012",51,2012
+Bernhard Schölkopf,Trifinger: An open-source robot for learning dexterity,"M Wüthrich, F Widmaier, F Grimminger, J Akpo, S Joshi, V Agrawal, ...","arXiv preprint arXiv:2008.03596, 2020",50,2020
+Bernhard Schölkopf,Blind multirigid retrospective motion correction of MR images,"A Loktyushin, H Nickisch, R Pohmann, B Schölkopf","Magnetic resonance in medicine 73 (4), 1457-1468, 2015",50,2015
+Bernhard Schölkopf,Consistency of causal inference under the additive noise model,"S Kpotufe, E Sgouritsa, D Janzing, B Schölkopf","ICML, 2014",50,2014
+Bernhard Schölkopf,Discrete regularization,"D Zhou, B Schölkopf","Semi-supervised learning, 221-232, 2006",50,2006
+Bernhard Schölkopf,Support vector methods in learning and feature extraction,"B Schölkopf, AJ Smola, KR Müller, C Burges, V Vapnik","Ninth Australian Conference on Neural Networks (ACNN 1998), 72-78, 1998",50,1998
+Bernhard Schölkopf,The unreasonable effectiveness of texture transfer for single image super-resolution,"MW Gondal, B Schölkopf, M Hirsch","Computer Vision–ECCV 2018 Workshops: Munich, Germany, September 8-14, 2018 …, 2019",49,2019
+Bernhard Schölkopf,Generalization in anti-causal learning,"N Kilbertus, G Parascandolo, B Schölkopf","arXiv preprint arXiv:1812.00524, 2018",49,2018
+Bernhard Schölkopf,Generalized clustering via kernel embeddings,"S Jegelka, A Gretton, B Schölkopf, BK Sriperumbudur, U Von Luxburg","KI 2009: Advances in Artificial Intelligence: 32nd Annual German Conference …, 2009",49,2009
+Bernhard Schölkopf,Kernels and methods for selecting kernels for use in learning machines,"PL Bartlett, A Elisseeff, B Schoelkopf","US Patent 7,353,215, 2008",49,2008
+Bernhard Schölkopf,Advances in Neural Information Processing Systems 19,"B Schölkopf, JC Platt, T Hoffman","Proceedings of the Twentieth Conference on Neural Information Processing …, 2007",49,2007
+Bernhard Schölkopf,Local learning projections,"M Wu, K Yu, S Yu, B Schölkopf","Proceedings of the 24th international conference on Machine learning, 1039-1046, 2007",49,2007
+Bernhard Schölkopf,Dealing with large diagonals in kernel matrices,"J Weston, B Schölkopf, E Eskin, C Leslie, WS Noble","Annals of the institute of statistical mathematics 55, 391-408, 2003",49,2003
+Bernhard Schölkopf,Adversarial vulnerability of neural networks increases with input dimension,"CJ Simon-Gabriel, Y Ollivier, L Bottou, B Schölkopf, D Lopez-Paz",,48,2018
+Bernhard Schölkopf,Linear discriminant and support vector classifiers,"AJ Smola, P Bartlett, B Schölkopf, D Schuurmans","MIT Press, 2000",48,2000
+Bernhard Schölkopf,Advanced in kernel methods support vector learning,"S Bernhard, CJC Burges, A Smola","Cambridge, MA, MIT Press, 1998",48,1998
+Bernhard Schölkopf,Dibs: Differentiable bayesian structure learning,"L Lorch, J Rothfuss, B Schölkopf, A Krause","Advances in Neural Information Processing Systems 34, 24111-24123, 2021",47,2021
+Bernhard Schölkopf,Jointly learning trajectory generation and hitting point prediction in robot table tennis,"Y Huang, D Büchler, O Koç, B Schölkopf, J Peters","2016 IEEE-RAS 16th International Conference on Humanoid Robots (Humanoids …, 2016",47,2016
+Bernhard Schölkopf,Nonlinear invariant risk minimization: A causal approach,"C Lu, Y Wu, JM Hernández-Lobato, B Schölkopf","arXiv preprint arXiv:2102.12353, 2021",46,2021
+Bernhard Schölkopf,"A spatiotemporal epidemic model to quantify the effects of contact tracing, testing, and containment","L Lorch, W Trouleau, S Tsirtsis, A Szanto, B Schölkopf, ...",,46,2020
+Bernhard Schölkopf,Causal discovery via reproducing kernel hilbert space embeddings,"Z Chen, K Zhang, L Chan, B Schölkopf","Neural computation 26 (7), 1484-1517, 2014",46,2014
+Bernhard Schölkopf,Group invariance principles for causal generative models,"M Besserve, N Shajarisales, B Schölkopf, D Janzing","International Conference on Artificial Intelligence and Statistics, 557-565, 2018",45,2018
+Bernhard Schölkopf,Falsificationism and statistical learning theory: Comparing the Popper and Vapnik-Chervonenkis dimensions,"D Corfield, B Schölkopf, V Vapnik","Journal for General Philosophy of Science 40, 51-58, 2009",45,2009
+Bernhard Schölkopf,Learning an interest operator from human eye movements,"W Kienzle, FA Wichmann, B Scholkopf, MO Franz","Computer Vision and Pattern Recognition Workshop, 2006. CVPRW'06. Conference …, 2006",45,2006
+Bernhard Schölkopf,MIT press,"R Learning, B Scholkopf, C Burges, A Smola","Cambridge, MA and London, 2006",45,2006
+Bernhard Schölkopf,On the adversarial robustness of causal algorithmic recourse,"R Dominguez-Olmedo, AH Karimi, B Schölkopf","International Conference on Machine Learning, 5324-5342, 2022",44,2022
+Bernhard Schölkopf,Source-free adaptation to measurement shift via bottom-up feature restoration,"C Eastwood, I Mason, CKI Williams, B Schölkopf","arXiv preprint arXiv:2107.05446, 2021",44,2021
+Bernhard Schölkopf,Causal curiosity: Rl agents discovering self-supervised experiments for causal representation learning,"SA Sontakke, A Mehrjou, L Itti, B Schölkopf","International conference on machine learning, 9848-9858, 2021",44,2021
+Bernhard Schölkopf,The effect of patient positioning aids on PET quantification in PET/MR imaging,"F Mantlik, M Hofmann, MK Werner, A Sauter, J Kupferschläger, ...","European journal of nuclear medicine and molecular imaging 38, 920-929, 2011",44,2011
+Bernhard Schölkopf,Protein functional class prediction with a combined graph,"H Shin, K Tsuda, B Schölkopf","Expert Systems with Applications 36 (2), 3284-3292, 2009",44,2009
+Bernhard Schölkopf,Visual representation learning does not generalize strongly within the same domain,"L Schott, J Von Kügelgen, F Träuble, P Gehler, C Russell, M Bethge, ...","arXiv preprint arXiv:2107.08221, 2021",43,2021
+Bernhard Schölkopf,End-to-end learning for image burst deblurring,"P Wieschollek, B Schölkopf, HPA Lensch, M Hirsch","Computer Vision–ACCV 2016: 13th Asian Conference on Computer Vision, Taipei …, 2017",43,2017
+Bernhard Schölkopf,Kernel mean estimation and Stein effect,"K Muandet, K Fukumizu, B Sriperumbudur, A Gretton, B Schölkopf","International Conference on Machine Learning, 10-18, 2014",43,2014
+Bernhard Schölkopf,Method for feature selection and for evaluating features identified as significant for classifying data,"I Guyon, A Elisseeff, B Schoelkopf, JAE Weston, F Perez-Cruz","US Patent 7,970,718, 2011",43,2011
+Bernhard Schölkopf,Geometrically enriched latent spaces,"G Arvanitidis, S Hauberg, B Schölkopf","arXiv preprint arXiv:2008.00565, 2020",42,2020
+Bernhard Schölkopf,Differentially private database release via kernel mean embeddings,"M Balog, I Tolstikhin, B Schölkopf","International Conference on Machine Learning, 414-422, 2018",42,2018
+Bernhard Schölkopf,From deterministic ODEs to dynamic structural causal models,"PK Rubenstein, S Bongers, B Schölkopf, JM Mooij","arXiv preprint arXiv:1608.08028, 2016",42,2016
+Bernhard Schölkopf,Prediction on spike data using kernel algorithms,"J Eichhorn, A Tolias, A Zien, M Kuss, J Weston, N Logothetis, B Schölkopf, ...","Advances in neural information processing systems 16, 2003",42,2003
+Bernhard Schölkopf,Training Transductive Support Vector Machines,"T Joachims, T Joachims","Learning to Classify Text Using Support Vector Machines, 163-174, 2002",42,2002
+Bernhard Schölkopf,Bridging the gap to real-world object-centric learning,"M Seitzer, M Horn, A Zadaianchuk, D Zietlow, T Xiao, CJ Simon-Gabriel, ...","arXiv preprint arXiv:2209.14860, 2022",41,2022
+Bernhard Schölkopf,Invariant causal representation learning for out-of-distribution generalization,"C Lu, Y Wu, JM Hernández-Lobato, B Schölkopf","International Conference on Learning Representations, 2021",41,2021
+Bernhard Schölkopf,Distinguishing cause from effect based on exogeneity,"K Zhang, J Zhang, B Schölkopf","arXiv preprint arXiv:1504.05651, 2015",41,2015
+Bernhard Schölkopf,Causality: Objectives and assessment,"I Guyon, D Janzing, B Schölkopf","Causality: Objectives and Assessment, 1-42, 2010",41,2010
+Bernhard Schölkopf,Attention modulation of auditory event-related potentials in a brain-computer interface,"NJ Hill, TN Lal, K Bierig, N Birbaumer, B Scholkopf","IEEE International Workshop on Biomedical Circuits and Systems, 2004., S3/5 …, 2004",41,2004
+Bernhard Schölkopf,Semi-supervised domain adaptation with non-parametric copulas,"D Lopez-Paz, J Hernández-lobato, B Schölkopf","Advances in neural information processing systems 25, 2012",40,2012
+Bernhard Schölkopf,Joint kernel maps,"J Weston, B Schölkopf, O Bousquet","International Work-Conference on Artificial Neural Networks, 176-191, 2005",40,2005
+Bernhard Schölkopf,Detecting confounding in multivariate linear models via spectral analysis,"D Janzing, B Schölkopf","Journal of Causal Inference 6 (1), 20170013, 2018",39,2018
+Bernhard Schölkopf,Computing functions of random variables via reproducing kernel Hilbert space representations,"B Schölkopf, K Muandet, K Fukumizu, S Harmeling, J Peters","Statistics and Computing 25, 755-766, 2015",39,2015
+Bernhard Schölkopf,Justifying information-geometric causal inference,"D Janzing, B Steudel, N Shajarisales, B Schölkopf","Measures of Complexity: Festschrift for Alexey Chervonenkis, 253-265, 2015",39,2015
+Bernhard Schölkopf,Non-parametric estimation of integral probability metrics,"BK Sriperumbudur, K Fukumizu, A Gretton, B Schölkopf, GRG Lanckriet","2010 IEEE International Symposium on Information Theory, 1428-1432, 2010",39,2010
+Bernhard Schölkopf,Switched latent force models for movement segmentation,"M Alvarez, J Peters, N Lawrence, B Schölkopf","Advances in neural information processing systems 23, 2010",39,2010
+Bernhard Schölkopf,Detecting the direction of causal time series,"J Peters, D Janzing, A Gretton, B Schölkopf","Proceedings of the 26th annual international conference on machine learning …, 2009",39,2009
+Bernhard Schölkopf,Necessary and sufficient conditions for causal feature selection in time series with latent common causes,"AA Mastakouri, B Schölkopf, D Janzing","International Conference on Machine Learning, 7502-7511, 2021",38,2021
+Bernhard Schölkopf,Anticipatory action selection for human–robot table tennis,"Z Wang, A Boularias, K Mülling, B Schölkopf, J Peters","Artificial Intelligence 247, 399-414, 2017",38,2017
+Bernhard Schölkopf,Identification of time-dependent causal model: A gaussian process treatment,"B Huang, K Zhang, B Schölkopf","Twenty-Fourth international joint conference on artificial intelligence, 2015",38,2015
+Bernhard Schölkopf,Diffeomorphic dimensionality reduction,"C Walder, B Schölkopf","Advances in Neural Information Processing Systems 21, 2008",38,2008
+Bernhard Schölkopf,Object correspondence as a machine learning problem,"B Schölkopf, F Steinke, V Blanz","Proceedings of the 22nd international conference on Machine learning, 776-783, 2005",38,2005
+Bernhard Schölkopf,A kernel approach for vector quantization with guaranteed distortion bounds,"ME Tipping, B Schölkopf","International Workshop on Artificial Intelligence and Statistics, 298-303, 2001",38,2001
+Bernhard Schölkopf,"Entropy numbers, operators and support vector kernels","RC Williamson, AJ Smola, B Schölkopf","European Conference on Computational Learning Theory, 285-299, 1999",38,1999
+Bernhard Schölkopf,Kernel-dependent support vector error bounds,"B Scholkopf, J Shawe-Taylor, AJ Smola, RC Williamson","IET Digital Library, 1999",38,1999
+Bernhard Schölkopf,Kernel principal component analysis,S Bernhard,"Advances in Kernel Methods, 327-353, 1998",38,1998
+Bernhard Schölkopf,Improving the accuracy and speed of support vector machines,"B Schölkopf, P Simard, V Vapnik, AJ Smola","Advances in neural information processing systems 9, 375-381, 1997",38,1997
+Bernhard Schölkopf,Metrizing weak convergence with maximum mean discrepancies,"CJ Simon-Gabriel, A Barp, B Schölkopf, L Mackey","arXiv preprint arXiv:2006.09268, 2020",37,2020
+Bernhard Schölkopf,Adaptive skip intervals: Temporal abstraction for recurrent dynamical models,"A Neitz, G Parascandolo, S Bauer, B Schölkopf","Advances in Neural Information Processing Systems 31, 2018",37,2018
+Bernhard Schölkopf,Distilling information reliability and source trustworthiness from digital traces,"B Tabibian, I Valera, M Farajtabar, L Song, B Schölkopf, ...","Proceedings of the 26th International Conference on World Wide Web, 847-855, 2017",37,2017
+Bernhard Schölkopf,Causal Markov condition for submodular information measures,"B Steudel, D Janzing, B Schölkopf","arXiv preprint arXiv:1002.4020, 2010",37,2010
+Bernhard Schölkopf,Assaying out-of-distribution generalization in transfer learning,"F Wenzel, A Dittadi, P Gehler, CJ Simon-Gabriel, M Horn, D Zietlow, ...","Advances in Neural Information Processing Systems 35, 7181-7198, 2022",36,2022
+Bernhard Schölkopf,Sample-efficient reinforcement learning via counterfactual-based data augmentation,"C Lu, B Huang, K Wang, JM Hernández-Lobato, K Zhang, B Schölkopf","arXiv preprint arXiv:2012.09092, 2020",36,2020
+Bernhard Schölkopf,"Estimating diffusion networks: Recovery conditions, sample complexity & soft-thresholding algorithm","M Gomez-Rodriguez, L Song, H Daneshmand, B Schölkopf","The Journal of Machine Learning Research 17 (1), 3092-3120, 2016",36,2016
+Bernhard Schölkopf,Handbook of statistical bioinformatics (series: springer handbooks of computational statistics),"HHS LU, B SCHöLKOPF, H ZHAO",,36,2011
+Bernhard Schölkopf,A kernel method for the two-sample-problem,"B Schölkopf, J Platt, T Hofmann","MIT Press, 2007",36,2007
+Bernhard Schölkopf,Machine learning applied to perception: Decision images for gender classification,"FA Wichmann, A Graf, H Bülthoff, E Simoncelli, B Schölkopf","Advances in neural information processing systems 17, 2004",36,2004
+Bernhard Schölkopf,Implicit Wiener series for higher-order image analysis,"M Franz, B Schölkopf","Advances in neural information processing systems 17, 2004",36,2004
+Bernhard Schölkopf,Causal influence detection for improving efficiency in reinforcement learning,"M Seitzer, B Schölkopf, G Martius","Advances in Neural Information Processing Systems 34, 22905-22918, 2021",35,2021
+Bernhard Schölkopf,MRzero‐Automated discovery of MRI sequences using supervised learning,"A Loktyushin, K Herz, N Dang, F Glang, A Deshmane, S Weinmüller, ...","Magnetic Resonance in Medicine 86 (2), 709-724, 2021",35,2021
+Bernhard Schölkopf,A brain–computer interface based on self-regulation of gamma-oscillations in the superior parietal cortex,"M Grosse-Wentrup, B Schölkopf","Journal of neural engineering 11 (5), 056015, 2014",35,2014
+Bernhard Schölkopf,Generalization and robustness implications in object-centric learning,"A Dittadi, S Papa, M De Vita, B Schölkopf, O Winther, F Locatello","arXiv preprint arXiv:2107.00637, 2021",34,2021
+Bernhard Schölkopf,Fast and slow learning of recurrent independent mechanisms,"K Madan, NR Ke, A Goyal, B Schölkopf, Y Bengio","arXiv preprint arXiv:2105.08710, 2021",34,2021
+Bernhard Schölkopf,Local group invariant representations via orbit embeddings,"A Raj, A Kumar, Y Mroueh, T Fletcher, B Schölkopf","Artificial Intelligence and Statistics, 1225-1235, 2017",34,2017
+Bernhard Schölkopf,View-based cognitive map learning by an autonomous robot,"HA Mallot, HH Bülthoff, P Georg, B Schölkopf, K Yasuhara","Conférence Internationale sur les Réseaux de Neurones Artificiels (ICANN …, 1995",34,1995
+Bernhard Schölkopf,Mo\^ usai: Text-to-Music Generation with Long-Context Latent Diffusion,"F Schneider, Z Jin, B Schölkopf","arXiv preprint arXiv:2301.11757, 2023",33,2023
+Bernhard Schölkopf,When to make exceptions: Exploring language models as accounts of human moral judgment,"Z Jin, S Levine, F Gonzalez Adauto, O Kamal, M Sap, M Sachan, ...","Advances in neural information processing systems 35, 28458-28473, 2022",33,2022
+Bernhard Schölkopf,Score matching enables causal discovery of nonlinear additive noise models,"P Rolland, V Cevher, M Kleindessner, C Russell, D Janzing, B Schölkopf, ...","International Conference on Machine Learning, 18741-18753, 2022",33,2022
+Bernhard Schölkopf,Optimal decision making under strategic behavior,"S Tsirtsis, B Tabibian, M Khajehnejad, A Singla, B Schölkopf, ...","arXiv preprint arXiv:1905.09239, 2019",33,2019
+Bernhard Schölkopf,Sparse online model learning for robot control with support vector regression,"D Nguyen-Tuong, B Schölkopf, J Peters","2009 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2009",33,2009
+Bernhard Schölkopf,Bayesian experimental design of magnetic resonance imaging sequences,"MW Seeger, H Nickisch, R Pohmann, B Schölkopf",,33,2009
+Bernhard Schölkopf,A 32‐channel multi‐coil setup optimized for human brain shimming at 9.4 T,"A Aghaeifar, J Zhou, R Heule, B Tabibian, B Schölkopf, F Jia, M Zaitsev, ...","Magnetic Resonance in Medicine 83 (2), 749-764, 2020",32,2020
+Bernhard Schölkopf,Real time trajectory prediction using deep conditional generative models,"S Gomez-Gonzalez, S Prokudin, B Schölkopf, J Peters","IEEE Robotics and Automation Letters 5 (2), 970-976, 2020",32,2020
+Bernhard Schölkopf,A brain-robot interface for studying motor learning after stroke,"T Meyer, J Peters, D Brötz, TO Zander, B Schölkopf, SR Soekadar, ...","2012 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2012",32,2012
+Bernhard Schölkopf,Kernel hebbian algorithm for single-frame super-resolution,"KI Kim, M Franz, B Schölkopf",,32,2004
+Bernhard Schölkopf,Bayesian Kernel Methods,"AJ Smola, B Schölkopf","Proceedings of the Machine Learning Summer School, 2003",32,2003
+Bernhard Schölkopf,Leveling down in computer vision: Pareto inefficiencies in fair deep classifiers,"D Zietlow, M Lohaus, G Balakrishnan, M Kleindessner, F Locatello, ...","Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2022",31,2022
+Bernhard Schölkopf,Learning neural causal models with active interventions,"N Scherrer, O Bilaniuk, Y Annadani, A Goyal, P Schwab, B Schölkopf, ...","arXiv preprint arXiv:2109.02429, 2021",31,2021
+Bernhard Schölkopf,Towards causal generative scene models via competition of experts,"J von Kügelgen, I Ustyuzhaninov, P Gehler, M Bethge, B Schölkopf","arXiv preprint arXiv:2004.12906, 2020",31,2020
+Bernhard Schölkopf,Detecting non-causal artifacts in multivariate linear regression models,"D Janzing, B Schölkopf","International Conference on Machine Learning, 2245-2253, 2018",31,2018
+Bernhard Schölkopf,The arrow of time in multivariate time series,"S Bauer, B Schölkopf, J Peters","International Conference on Machine Learning, 2043-2051, 2016",31,2016
+Bernhard Schölkopf,Fragmentation of slow wave sleep after onset of complete locked-in state,"SR Soekadar, J Born, N Birbaumer, M Bensch, S Halder, AR Murguialday, ...","Journal of clinical sleep medicine 9 (9), 951-953, 2013",31,2013
+Bernhard Schölkopf,"A causal, data-driven approach to modeling the Kepler data","D Wang, DW Hogg, D Foreman-Mackey, B Schölkopf","Publications of the Astronomical Society of the Pacific 128 (967), 094503, 2016",30,2016
+Bernhard Schölkopf,Predicting motor learning performance from electroencephalographic data,"T Meyer, J Peters, TO Zander, B Schölkopf, M Grosse-Wentrup","Journal of neuroengineering and rehabilitation 11, 1-13, 2014",30,2014
+Bernhard Schölkopf,Prediction of protein function from networks,"H Shin, K Tsuda","Semi-supervised learning, 361-376, 2006",30,2006
+Bernhard Schölkopf,Classifying LEP data with support vector algorithms,"P Vannerem, KR Müller, B Schölkopf, A Smola, S Soldner-Rembold","arXiv preprint hep-ex/9905027, 1999",30,1999
+Bernhard Schölkopf,"Quantifying the effects of contact tracing, testing, and containment measures in the presence of infection hotspots","L Lorch, H Kremer, W Trouleau, S Tsirtsis, A Szanto, B Schölkopf, ...","ACM Transactions on Spatial Algorithms and Systems 8 (4), 1-28, 2022",29,2022
+Bernhard Schölkopf,Simpson's paradox in Covid-19 case fatality rates: a mediation analysis of age-related causal effects,"J von Kügelgen, L Gresele, B Schölkopf","IEEE Transactions on Artificial Intelligence 2 (1), 18-27, 2021",29,2021
+Bernhard Schölkopf,Bayesian online prediction of change points,"D Agudelo-España, S Gomez-Gonzalez, S Bauer, B Schölkopf, J Peters","Conference on Uncertainty in Artificial Intelligence, 320-329, 2020",29,2020
+Bernhard Schölkopf,Method and device for recovering a digital image from a sequence of observed digital images,"S Harmeling, M Hirsch, S Sra, B Schölkopf, CJ Schuler","US Patent 10,032,254, 2018",29,2018
+Bernhard Schölkopf,Tempered adversarial networks,"MSM Sajjadi, G Parascandolo, A Mehrjou, B Schölkopf","International Conference on Machine Learning, 4451-4459, 2018",29,2018
+Bernhard Schölkopf,Assessing attention and cognitive function in completely locked-in state with event-related brain potentials and epidural electrocorticography,"M Bensch, S Martens, S Halder, J Hill, F Nijboer, A Ramos, N Birbaumer, ...","Journal of neural engineering 11 (2), 026006, 2014",29,2014
+Bernhard Schölkopf,HiFiVE: a hilbert space embedding of fiber variability estimates for uncertainty modeling and visualization,"T Schultz, L Schlaffke, B Schölkopf, T Schmidt‐Wilcke","Computer Graphics Forum 32 (3pt1), 121-130, 2013",29,2013
+Bernhard Schölkopf,Detecting low-complexity unobserved causes,"D Janzing, E Sgouritsa, O Stegle, J Peters, B Schölkopf","arXiv preprint arXiv:1202.3737, 2012",29,2012
+Bernhard Schölkopf,Computational learning theory,"B Schölkopf, R Herbrich, AJ Smola, D Helmbold, B Williamson","Lecture Notes in Computer Science 2111, 416-426, 2001",29,2001
+Bernhard Schölkopf,Kernel method for percentile feature extraction,"B Schölkopf, JC Platt, AJ Smola",,29,2000
+Bernhard Schölkopf,From statistical to causal learning,"B Schölkopf, J von Kügelgen","arXiv preprint arXiv:2204.00607, 2022",28,2022
+Bernhard Schölkopf,Logical fallacy detection,"Z Jin, A Lalwani, T Vaidhya, X Shen, Y Ding, Z Lyu, M Sachan, ...","arXiv preprint arXiv:2202.13758, 2022",28,2022
+Bernhard Schölkopf,Photorealistic video super resolution,"E Pérez-Pellitero, MSM Sajjadi, M Hirsch, B Schölkopf","arXiv preprint arXiv:1807.07930 2, 4, 2018",28,2018
+Bernhard Schölkopf,Algorithmic independence of initial condition and dynamical law in thermodynamics and causal inference,"D Janzing, R Chaves, B Schölkopf","New Journal of Physics 18 (9), 093052, 2016",28,2016
+Bernhard Schölkopf,Prototype classification: Insights from machine learning,"ABA Graf, O Bousquet, G Rätsch, B Schölkopf","Neural computation 21 (1), 272-300, 2009",28,2009
+Bernhard Schölkopf,Implicit surface modelling as an eigenvalue problem,"C Walder, O Chapelle, B Schölkopf","Proceedings of the 22nd international conference on Machine learning, 936-939, 2005",28,2005
+Bernhard Schölkopf,"Pattern detection methods and systems, and face detection methods and systems","A Blake, S Romdhani, B Schoelkopf, PHS Torr","US Patent 6,804,391, 2004",28,2004
+Bernhard Schölkopf,Learning with hyperspherical uniformity,"W Liu, R Lin, Z Liu, L Xiong, B Schölkopf, A Weller","International Conference On Artificial Intelligence and Statistics, 1180-1188, 2021",27,2021
+Bernhard Schölkopf,DeepMAsED: evaluating the quality of metagenomic assemblies,"O Mineeva, M Rojas-Carulla, RE Ley, B Schölkopf, ND Youngblut","Bioinformatics 36 (10), 3011-3017, 2020",27,2020
+Bernhard Schölkopf,Odin: Ode-informed regression for parameter and state inference in time-continuous dynamical systems,"P Wenk, G Abbati, MA Osborne, B Schölkopf, A Krause, S Bauer","Proceedings of the AAAI Conference on Artificial Intelligence 34 (04), 6364-6371, 2020",27,2020
+Bernhard Schölkopf,Informative features for model comparison,"W Jitkrittum, H Kanagawa, P Sangkloy, J Hays, B Schölkopf, A Gretton","Advances in neural information processing systems 31, 2018",27,2018
+Bernhard Schölkopf,Behind distribution shift: Mining driving forces of changes and causal arrows,"B Huang, K Zhang, J Zhang, R Sanchez-Romero, C Glymour, B Schölkopf","2017 IEEE International Conference on Data Mining (ICDM), 913-918, 2017",27,2017
+Bernhard Schölkopf,Learning optimal striking points for a ping-pong playing robot,"Y Huang, B Schölkopf, J Peters","2015 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2015",27,2015
+Bernhard Schölkopf,Structure learning in causal cyclic networks,"S Itani, M Ohannessian, K Sachs, GP Nolan, MA Dahleh","Causality: Objectives and assessment, 165-176, 2010",27,2010
+Bernhard Schölkopf,Inexact matching string kernels for protein classification,"C Leslie, R Kuang, E Eskin","Kernel Methods in Computational Biology, 95-112, 2004",27,2004
+Bernhard Schölkopf,Maximum moment restriction for instrumental variable regression,"R Zhang, M Imaizumi, B Schölkopf, K Muandet","arXiv preprint arXiv:2010.07684 3 (4), 2020",26,2020
+Bernhard Schölkopf,Reliable real-time ball tracking for robot table tennis,"S Gomez-Gonzalez, Y Nemmour, B Schölkopf, J Peters","Robotics 8 (4), 90, 2019",26,2019
+Bernhard Schölkopf,Control of musculoskeletal systems using learned dynamics models,"D Büchler, R Calandra, B Schölkopf, J Peters","IEEE Robotics and Automation Letters 3 (4), 3161-3168, 2018",26,2018
+Bernhard Schölkopf,A novel unsupervised segmentation approach quantifies tumor tissue populations using multiparametric MRI: First results with histological validation,"P Katiyar, MR Divine, U Kohlhofer, L Quintanilla-Martinez, B Schölkopf, ...","Molecular imaging and biology 19, 391-397, 2017",26,2017
+Bernhard Schölkopf,Identifying finite mixtures of nonparametric product distributions and causal inference of confounders,"E Sgouritsa, D Janzing, J Peters, B Schölkopf","arXiv preprint arXiv:1309.6860, 2013",26,2013
+Bernhard Schölkopf,Two-locus association mapping in subquadratic time,"P Achlioptas, B Schölkopf, K Borgwardt","Proceedings of the 17th ACM SIGKDD international conference on Knowledge …, 2011",26,2011
+Bernhard Schölkopf,Causal reasoning by evaluating the complexity of conditional densities with kernel methods,"X Sun, D Janzing, B Schölkopf","Neurocomputing 71 (7-9), 1248-1256, 2008",26,2008
+Bernhard Schölkopf,Natural regularization in SVMs,"N Oliver, B Schölkopf, AJ Smola","Advances in large margin classifiers, 51-60, 2000",26,2000
+Bernhard Schölkopf,Dynamic inference with neural interpreters,"N Rahaman, MW Gondal, S Joshi, P Gehler, Y Bengio, F Locatello, ...","Advances in Neural Information Processing Systems 34, 10985-10998, 2021",25,2021
+Bernhard Schölkopf,Learning Disentangled Representations with Wasserstein Auto-Encoders.,"PK Rubenstein, B Schölkopf, IO Tolstikhin","ICLR (Workshop), 2018",25,2018
+Bernhard Schölkopf,Using probabilistic movement primitives for striking movements,"S Gomez-Gonzalez, G Neumann, B Schölkopf, J Peters","2016 IEEE-RAS 16th International Conference on Humanoid Robots (Humanoids …, 2016",25,2016
+Bernhard Schölkopf,Screening rules for convex problems,"A Raj, J Olbrich, B Gärtner, B Schölkopf, M Jaggi","arXiv preprint arXiv:1609.07478, 2016",25,2016
+Bernhard Schölkopf,Learning anticipation policies for robot table tennis,"Z Wang, CH Lampert, K Mülling, B Schölkopf, J Peters","2011 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2011",25,2011
+Bernhard Schölkopf,Semi-supervised learning using semi-definite programming,"O Chapelle, B Schölkopf, A Zien","MIT press, 2006",25,2006
+Bernhard Schölkopf,Conditional distributional treatment effect with kernel conditional mean embeddings and u-statistic regression,"J Park, U Shalit, B Schölkopf, K Muandet","International Conference on Machine Learning, 8401-8412, 2021",24,2021
+Bernhard Schölkopf,On matching pursuit and coordinate descent,"F Locatello, A Raj, SP Karimireddy, G Rätsch, B Schölkopf, S Stich, ...","International Conference on Machine Learning, 3198-3207, 2018",24,2018
+Bernhard Schölkopf,Semi-supervised learning in causal and anticausal settings,"B Schölkopf, D Janzing, J Peters, E Sgouritsa, K Zhang, J Mooij","Empirical Inference: Festschrift in Honor of Vladimir N. Vapnik, 129-141, 2013",24,2013
+Bernhard Schölkopf,Learning dense 3d correspondence,"F Steinke, V Blanz, B Schölkopf","Advances in Neural Information Processing Systems 19, 2006",24,2006
+Bernhard Schölkopf,Evaluating Predictive Uncertainty Challenge.,"JQ Candela, CE Rasmussen, FH Sinz, O Bousquet, B Schölkopf","MLCW, 1-27, 2005",24,2005
+Bernhard Schölkopf,Kernel Hebbian algorithm for iterative kernel principal component analysis,"KI Kim, MO Franz, B Schölkopf","Max Planck Institute for Biological Cybernetics, 2003",24,2003
+Bernhard Schölkopf,Entropy Numbers of Linear Function Classes.,"RC Williamson, AJ Smola, B Schölkopf","COLT, 309-319, 2000",24,2000
+Bernhard Schölkopf,Self-regulation of brain rhythms in the precuneus: a novel BCI paradigm for patients with ALS,"T Fomina, G Lohmann, M Erb, T Ethofer, B Schölkopf, M Grosse-Wentrup","Journal of Neural Engineering 13 (6), 066021, 2016",23,2016
+Bernhard Schölkopf,Nonparametric dynamics estimation for time periodic systems,"ED Klenske, MN Zeilinger, B Scholkopf, P Hennig","Communication, Control, and Computing (Allerton), 2013 51st Annual Allerton …, 2013",23,2013
+Bernhard Schölkopf,Neural Importance Sampling for Rapid and Reliable Gravitational-Wave Inference,"M Dax, SR Green, J Gair, M Pürrer, J Wildberger, JH Macke, A Buonanno, ...","Physical Review Letters 130 (17), 171403, 2023",22,2023
+Bernhard Schölkopf,Uncertainty estimation and explainability in deep learning-based age estimation of the human brain: Results from the German National Cohort MRI study,"T Hepp, D Blum, K Armanious, B Schoelkopf, D Stern, B Yang, S Gatidis","Computerized Medical Imaging and Graphics 92, 101967, 2021",22,2021
+Bernhard Schölkopf,Kernel distributionally robust optimization: Generalized duality theorem and stochastic approximation,"JJ Zhu, W Jitkrittum, M Diehl, B Schölkopf","International Conference on Artificial Intelligence and Statistics, 280-288, 2021",22,2021
+Bernhard Schölkopf,"Semi-supervised learning, causality, and the conditional cluster assumption","J Kügelgen, A Mey, M Loog, B Schölkopf","Conference on Uncertainty in Artificial Intelligence, 1-10, 2020",22,2020
+Bernhard Schölkopf,Quantum mean embedding of probability distributions,"JM Kübler, K Muandet, B Schölkopf","Physical Review Research 1 (3), 033159, 2019",22,2019
+Bernhard Schölkopf,Disentangled state space representations,"Đ Miladinović, MW Gondal, B Schölkopf, JM Buhmann, S Bauer","arXiv preprint arXiv:1906.03255, 2019",22,2019
+Bernhard Schölkopf,Genet: Deep representations for metagenomics,"M Rojas-Carulla, I Tolstikhin, G Luque, N Youngblut, R Ley, B Schölkopf","arXiv preprint arXiv:1901.11015, 2019",22,2019
+Bernhard Schölkopf,Discriminative transfer learning for general image restoration,"L Xiao, F Heide, W Heidrich, B Schölkopf, M Hirsch","IEEE Transactions on Image Processing 27 (8), 4091-4104, 2018",22,2018
+Bernhard Schölkopf,Adversarial extreme multi-label classification,"R Babbar, B Schölkopf","arXiv preprint arXiv:1803.01570, 2018",22,2018
+Bernhard Schölkopf,Computing the Bayes kernel classifier,"AJ Smola, P Bartlett, B Schölkopf, D Schuurmans","MIT Press, 2000",22,2000
+Bernhard Schölkopf,Homing by parameterized scene matching,"MO Franz, B Schölkopf, HH Bülthoff","4th European Conference on Artificial Life (ECAL 1997), 236-245, 1997",22,1997
+Bernhard Schölkopf,Probable domain generalization via quantile risk minimization,"C Eastwood, A Robey, S Singh, J Von Kügelgen, H Hassani, GJ Pappas, ...","Advances in Neural Information Processing Systems 35, 17340-17358, 2022",21,2022
+Bernhard Schölkopf,A theory of independent mechanisms for extrapolation in generative models,"M Besserve, R Sun, D Janzing, B Schölkopf","Proceedings of the AAAI Conference on Artificial Intelligence 35 (8), 6741-6749, 2021",21,2021
+Bernhard Schölkopf,Testing goodness of fit of conditional density models with kernels,"W Jitkrittum, H Kanagawa, B Schölkopf","Conference on Uncertainty in Artificial Intelligence, 221-230, 2020",21,2020
+Bernhard Schölkopf,Causal analysis of Covid-19 spread in Germany,"A Mastakouri, B Schölkopf","Advances in Neural Information Processing Systems 33, 3153-3163, 2020",21,2020
+Bernhard Schölkopf,Relative gradient optimization of the jacobian term in unsupervised deep learning,"L Gresele, G Fissore, A Javaloy, B Schölkopf, A Hyvarinen","Advances in neural information processing systems 33, 16567-16578, 2020",21,2020
+Bernhard Schölkopf,Multi-way set enumeration in weight tensors,"E Georgii, K Tsuda, B Schölkopf","Machine Learning 82, 123-155, 2011",21,2011
+Bernhard Schölkopf,Dataset Shift in Machine Learning,"A Gretton, AJ Smola, J Huang, M Schmittfull, KM Borgwardt, B Schölkopf","MIT Press, 2009",21,2009
+Bernhard Schölkopf,Four-legged walking gait control using a neuromorphic chip interfaced to a support vector learning algorithm,"S Still, B Schölkopf, K Hepp, R Douglas","Advances in neural information processing systems 13, 2000",21,2000
+Bernhard Schölkopf,Advances in kernel methods support vector learning,"B Schèolkopf, CJC Burges, AJ Smola","Cambridge, Mass., MIT Press, 1999",21,1999
+Bernhard Schölkopf,The unpopular Package: A Data-driven Approach to Detrending TESS Full-frame Image Light Curves,"S Hattori, D Foreman-Mackey, DW Hogg, BT Montet, R Angus, ...","The Astronomical Journal 163 (6), 284, 2022",20,2022
+Bernhard Schölkopf,Resampling base distributions of normalizing flows,"V Stimper, B Schölkopf, JM Hernández-Lobato","International Conference on Artificial Intelligence and Statistics, 4915-4936, 2022",20,2022
+Bernhard Schölkopf,Diffusion-based representation learning,"K Abstreiter, S Mittal, S Bauer, B Schölkopf, A Mehrjou","arXiv preprint arXiv:2105.14257, 2021",20,2021
+Bernhard Schölkopf,Predicting infectiousness for proactive contact tracing,"Y Bengio, P Gupta, T Maharaj, N Rahaman, M Weiss, T Deleu, E Muller, ...","arXiv preprint arXiv:2010.12536, 2020",20,2020
+Bernhard Schölkopf,Optimal experimental design via Bayesian optimization: active causal structure learning for Gaussian process networks,"J von Kügelgen, PK Rubenstein, B Schölkopf, A Weller","arXiv preprint arXiv:1910.03962, 2019",20,2019
+Bernhard Schölkopf,"BundleMAP: anatomically localized classification, regression, and hypothesis testing in diffusion MRI","M Khatami, T Schmidt-Wilcke, PC Sundgren, A Abbasloo, B Schölkopf, ...","Pattern Recognition 63, 593-600, 2017",20,2017
+Bernhard Schölkopf,Theoretical aspects of cyclic structural causal models,"S Bongers, J Peters, B Schölkopf, JM Mooij","arXiv preprint arXiv:1611.06221, 2016",20,2016
+Bernhard Schölkopf,On the Identifiability and Estimation of Functional Causal Models in the Presence of Outcome-Dependent Selection.,"K Zhang, J Zhang, B Huang, B Schölkopf, C Glymour","UAI, 2016",20,2016
+Bernhard Schölkopf,Removing noise from astronomical images using a pixel-specific noise model,"HC Burger, B Schölkopf, S Harmeling","2011 IEEE International Conference on Computational Photography (ICCP), 1-8, 2011",20,2011
+Bernhard Schölkopf,An introduction to kernel learning algorithms,"PV Gehler, B Schölkopf, G Camps-Valls, L Bruzzone","Kernel methods for remote sensing data analysis, 25-48, 2009",20,2009
+Bernhard Schölkopf,Interactive images,"B Schoelkopf, K Toyama, M Uyttendaele","US Patent 7,421,115, 2008",20,2008
+Bernhard Schölkopf,Non-monotonic poisson likelihood maximization,"S Sra, D Kim, B Schölkopf","Max Planck Institute for Biological Cybernetics, 2008",20,2008
+Bernhard Schölkopf,Real-time fetal heart monitoring in biomagnetic measurements using adaptive real-time ICA,"S Waldert, M Bensch, M Bogdan, W Rosenstiel, B Scholkopf, CL Lowery, ...","IEEE Transactions on Biomedical Engineering 54 (10), 1867-1874, 2007",20,2007
+Bernhard Schölkopf,Advances in neural information processing systems 19: Proceedings of the 2006 conference,"B Schölkopf, J Platt, T Hofmann","MIT press, 2007",20,2007
+Bernhard Schölkopf,MIT Press: Cambridge,"Y Weiss, B Schölkopf, JC Platt","MA, USA 18, 2006",20,2006
+Bernhard Schölkopf,Lernen mit kernen: Support-vektor-methoden zur analyse hochdimensionaler daten,"B Schölkopf, KR Müller, AJ Smola","Informatik Forschung und Entwicklung 14, 154-163, 1999",20,1999
+Bernhard Schölkopf,Compact holographic sound fields enable rapid one-step assembly of matter in 3D,"K Melde, H Kremer, M Shi, S Seneca, C Frey, I Platzman, C Degel, ...","Science Advances 9 (6), eadf6182, 2023",19,2023
+Bernhard Schölkopf,normflows: A PyTorch Package for Normalizing Flows,"V Stimper, D Liu, A Campbell, V Berenz, L Ryll, B Schölkopf, ...","arXiv preprint arXiv:2302.12014, 2023",19,2023
+Bernhard Schölkopf,Flow annealed importance sampling bootstrap,"LI Midgley, V Stimper, GNC Simm, B Schölkopf, JM Hernández-Lobato","arXiv preprint arXiv:2208.01893, 2022",19,2022
+Bernhard Schölkopf,You mostly walk alone: Analyzing feature attribution in trajectory prediction,"O Makansi, J Von Kügelgen, F Locatello, P Gehler, D Janzing, T Brox, ...","arXiv preprint arXiv:2110.05304, 2021",19,2021
+Bernhard Schölkopf,Causal direction of data collection matters: Implications of causal and anticausal learning for NLP,"Z Jin, J von Kügelgen, J Ni, T Vaidhya, A Kaushal, M Sachan, ...","arXiv preprint arXiv:2110.03618, 2021",19,2021
+Bernhard Schölkopf,Learning kernel tests without data splitting,"J Kübler, W Jitkrittum, B Schölkopf, K Muandet","Advances in Neural Information Processing Systems 33, 6245-6255, 2020",19,2020
+Bernhard Schölkopf,Robustifying independent component analysis by adjusting for group-wise stationary noise,"N Pfister, S Weichwald, P Bühlmann, B Schölkopf","Journal of Machine Learning Research 20 (147), 1-50, 2019",19,2019
+Bernhard Schölkopf,Identification of the default mode network with electroencephalography,"T Fomina, M Hohmann, B Schölkopf, M Grosse-Wentrup","2015 37th Annual International Conference of the IEEE Engineering in …, 2015",19,2015
+Bernhard Schölkopf,Semi-supervised interpolation in an anticausal learning scenario,"D Janzing, B Schölkopf","The Journal of Machine Learning Research 16 (1), 1923-1948, 2015",19,2015
+Bernhard Schölkopf,Epidural ECoG online decoding of arm movement intention in hemiparesis,"M Gomez-Rodriguez, M Grosse-Wentrup, J Peters, G Naros, J Hill, ...","2010 First Workshop on Brain Decoding: Pattern Recognition Challenges in …, 2010",19,2010
+Bernhard Schölkopf,Feature selection for troubleshooting in complex assembly lines,"T Pfingsten, DJL Herrmann, T Schnitzler, A Feustel, B Scholkopf","IEEE transactions on automation science and engineering 4 (3), 465-469, 2007",19,2007
+Bernhard Schölkopf,Advances in neural information processing systems 16: proceedings of the 2003 conference,"S Thrun, LK Saul, B Schölkopf","MIT press, 2004",19,2004
+Bernhard Schölkopf,Causal discovery in heterogeneous environments under the sparse mechanism shift hypothesis,"R Perry, J Von Kügelgen, B Schölkopf","Advances in Neural Information Processing Systems 35, 10904-10917, 2022",18,2022
+Bernhard Schölkopf,A causal framework to quantify the robustness of mathematical reasoning with language models,"A Stolfo, Z Jin, K Shridhar, B Schölkopf, M Sachan","arXiv preprint arXiv:2210.12023, 2022",18,2022
+Bernhard Schölkopf,Group equivariant neural posterior estimation,"M Dax, SR Green, J Gair, M Deistler, B Schölkopf, JH Macke","arXiv preprint arXiv:2111.13139, 2021",18,2021
+Bernhard Schölkopf,Kernel mean estimation via spectral filtering,"K Muandet, B Sriperumbudur, B Schölkopf","Advances in Neural Information Processing Systems 27, 2014",18,2014
+Bernhard Schölkopf,Invariant gaussian process latent variable models and application in causal discovery,"K Zhang, B Schölkopf, D Janzing","arXiv preprint arXiv:1203.3534, 2012",18,2012
+Bernhard Schölkopf,Sample based generalization bounds,"RC Williamson, J Shawe-Taylor, B Schölkopf, AJ Smola","IEEE Transactions on Information Theory, 1999",18,1999
+Bernhard Schölkopf,On the identifiability and estimation of causal location-scale noise models,"A Immer, C Schultheiss, JE Vogt, B Schölkopf, P Bühlmann, A Marx","International Conference on Machine Learning, 14316-14332, 2023",17,2023
+Bernhard Schölkopf,Function classes for identifiable nonlinear independent component analysis,"S Buchholz, M Besserve, B Schölkopf","Advances in Neural Information Processing Systems 35, 16946-16961, 2022",17,2022
+Bernhard Schölkopf,Kernel distributionally robust optimization,"JJ Zhu, W Jitkrittum, M Diehl, B Schölkopf","arXiv preprint arXiv:2006.06981, 2020",17,2020
+Bernhard Schölkopf,Spread‐spectrum magnetic resonance imaging,"K Scheffler, A Loktyushin, J Bause, A Aghaeifar, T Steffen, B Schölkopf","Magnetic resonance in medicine 82 (3), 877-885, 2019",17,2019
+Bernhard Schölkopf,Competitive training of mixtures of independent deep generative models,"F Locatello, D Vincent, I Tolstikhin, G Rätsch, S Gelly, B Schölkopf","arXiv preprint arXiv:1804.11130, 2018",17,2018
+Bernhard Schölkopf,Case series: slowing alpha rhythm in late-stage ALS patients,"MR Hohmann, T Fomina, V Jayaram, T Emde, J Just, M Synofzik, ...","Clinical Neurophysiology 129 (2), 406-408, 2018",17,2018
+Bernhard Schölkopf,Convwave: Searching for gravitational waves with fully convolutional neural nets,"T Gebhard, N Kilbertus, G Parascandolo, I Harry, B Schölkopf","Workshop on deep learning for physical sciences (dlps) at the 31st …, 2017",17,2017
+Bernhard Schölkopf,A cognitive brain–computer interface for patients with amyotrophic lateral sclerosis,"MR Hohmann, T Fomina, V Jayaram, N Widmann, C Förster, J Just, ...","Progress in brain research 228, 221-239, 2016",17,2016
+Bernhard Schölkopf,Statistical analysis of coupled time series with Kernel Cross-Spectral Density operators.,"M Besserve, NK Logothetis, B Schölkopf","Advances in Neural Information Processing Systems 26, 2013",17,2013
+Bernhard Schölkopf,Markerless 3d face tracking,"C Walder, M Breidt, H Bülthoff, B Schölkopf, C Curio","Pattern Recognition: 31st DAGM Symposium, Jena, Germany, September 9-11 …, 2009",17,2009
+Bernhard Schölkopf,Support vector machine learning for interdependent and structured output spaces,"G BakIr, T Hofmann, B Schölkopf, AJ Smola, B Taskar, ...","MIT press, 2007",17,2007
+Bernhard Schölkopf,Gaussian processes and the null-category noise model,"O Chapelle, B Schölkopf, A Zien","MIT Press, 2006",17,2006
+Bernhard Schölkopf,Feature selection for support vector machines by means of genetic algorithms,H Fröhlich,"Diploma Thesis in Computer Science, 2002",17,2002
+Bernhard Schölkopf,"Sch&ouml; ölkopf, B.(2004). Learning with local and global consistency","D Zhou, O Bousquet, T Lal, J Weston","Advances in neural information processing systems 16, 0",17,
+Bernhard Schölkopf,"Interventions, where and how? experimental design for causal models at scale","P Tigas, Y Annadani, A Jesson, B Schölkopf, Y Gal, S Bauer","Advances in Neural Information Processing Systems 35, 24130-24143, 2022",16,2022
+Bernhard Schölkopf,Analysis of cause-effect inference by comparing regression errors,"P Blöbaum, D Janzing, T Washio, S Shimizu, B Schölkopf","PeerJ Computer Science 5, e169, 2019",16,2019
+Bernhard Schölkopf,A graphical model framework for decoding in the visual ERP-based BCI speller,"SMM Martens, JM Mooij, NJ Hill, J Farquhar, B Schölkopf","Neural computation 23 (1), 160-182, 2011",16,2011
+Bernhard Schölkopf,Brain-computer interfaces for communication in paralysis: A clinical experimental approach,"T Hinterberger, F Nijboer, A Kübler, T Matuz, A Furdea, U Mochty, ...","Towards Brain-Computer Interfacing, 43-64, 2007",16,2007
+Bernhard Schölkopf,The effect of artifacts on dependence measurement in fMRI,"A Gretton, A Belitski, Y Murayama, B Schölkopf, N Logothetis","Magnetic resonance imaging 24 (4), 401-409, 2006",16,2006
+Bernhard Schölkopf,Combining a filter method with SVMs,"T Lal, O Chapelle, B Schölkopf","Feature Extraction, 439-445, 2006",16,2006
+Bernhard Schölkopf,Kernel methods for extracting local image semantics,"B Bradshaw, B Schölkopf, J Platt","Microsoft Research Technical Report, 2001",16,2001
+Bernhard Schölkopf,Amortized inference for causal structure learning,"L Lorch, S Sussex, J Rothfuss, A Krause, B Schölkopf","Advances in Neural Information Processing Systems 35, 13104-13118, 2022",15,2022
+Bernhard Schölkopf,Action-sufficient state representation learning for control with structural constraints,"B Huang, C Lu, L Leqi, JM Hernández-Lobato, C Glymour, B Schölkopf, ...","International Conference on Machine Learning, 9260-9279, 2022",15,2022
+Bernhard Schölkopf,S2rms: Spatially structured recurrent modules,"N Rahaman, A Goyal, MW Gondal, M Wuthrich, S Bauer, Y Sharma, ...","arXiv preprint arXiv:2007.06533, 2020",15,2020
+Bernhard Schölkopf,Prediction of glucose tolerance without an oral glucose tolerance test,"R Babbar, M Heni, A Peter, M Hrabě de Angelis, HU Häring, A Fritsche, ...","Frontiers in endocrinology 9, 82, 2018",15,2018
+Bernhard Schölkopf,Empirical inference,"B Schölkopf, Z Luo, V Vovk","Springer-Verlag Berlin An, 2016",15,2016
+Bernhard Schölkopf,Brain-computer interfacing in amyotrophic lateral sclerosis: Implications of a resting-state EEG analysis,"V Jayaram, N Widmann, C Förster, T Fomina, M Hohmann, ...","2015 37th Annual International Conference of the IEEE Engineering in …, 2015",15,2015
+Bernhard Schölkopf,Distinguishing cause and effect via second order exponential models,"D Janzing, X Sun, B Schölkopf","arXiv preprint arXiv:0910.5561, 2009",15,2009
+Bernhard Schölkopf,Training support vector machines with multiple equality constraints,"W Kienzle, B Schölkopf","Machine Learning: ECML 2005: 16th European Conference on Machine Learning …, 2005",15,2005
+Bernhard Schölkopf,Efficient approximations for support vector machines in object detection,"W Kienzle, G Bakır, M Franz, B Schölkopf","Pattern Recognition: 26th DAGM Symposium, Tübingen, Germany, August 30 …, 2004",15,2004
+Bernhard Schölkopf,Input space versus feature space in kernel-based methods,"S Bernhard, M Sebastian, J Chris, PK Burges, KR Müller, G Rätsch","IEEE T Neural Networ 10, 1000-1017, 1999",15,1999
+Bernhard Schölkopf,Can Large Language Models Infer Causation from Correlation?,"Z Jin, J Liu, Z Lyu, S Poff, M Sachan, R Mihalcea, M Diab, B Schölkopf","arXiv preprint arXiv:2306.05836, 2023",14,2023
+Bernhard Schölkopf,Worst-case risk quantification under distributional ambiguity using kernel mean embedding in moment problem,"JJ Zhu, W Jitkrittum, M Diehl, B Schölkopf","2020 59th IEEE Conference on Decision and Control (CDC), 3457-3463, 2020",14,2020
+Bernhard Schölkopf,Towards causal algorithmic recourse,"AH Karimi, J von Kügelgen, B Schölkopf, I Valera","International Workshop on Extending Explainable AI Beyond Deep Models and …, 2020",14,2020
+Bernhard Schölkopf,Ares and mars adversarial and mmd-minimizing regression for sdes,"G Abbati, P Wenk, MA Osborne, A Krause, B Schölkopf, S Bauer","International Conference on Machine Learning, 1-10, 2019",14,2019
+Bernhard Schölkopf,Selecting causal brain features with a single conditional independence test per feature,"A Mastakouri, B Schölkopf, D Janzing","Advances in Neural Information Processing Systems 32, 2019",14,2019
+Bernhard Schölkopf,Absence of EEG correlates of self-referential processing depth in ALS,"T Fomina, S Weichwald, M Synofzik, J Just, L Schöls, B Schölkopf, ...","Plos one 12 (6), e0180136, 2017",14,2017
+Bernhard Schölkopf,Machine learning methods for automatic image colorization,"G Charpiat, I Bezrukov, Y Altun, M Hofmann, B SCH","Computational photography: methods and applications, 395-418, 2009",14,2009
+Bernhard Schölkopf,Multivariate regression via stiefel manifold constraints,"G Bakır, A Gretton, M Franz, B Schölkopf","Pattern Recognition, 262-269, 2004",14,2004
+Bernhard Schölkopf,Use of the -norm with linear models and kernel methods,"J Weston, A Elisseeff, B Schölkopf","Biowulf Technologies, 2001",14,2001
+Bernhard Schölkopf,Advances in kernel methods–support vector learning,"A Smola, B Schlkopf, C Burge","Massachusets Institute of Technology, 1999",14,1999
+Bernhard Schölkopf,Using support vector machines for time series prediction. Advances in Kernel Methods-Support Vector Learning,"KR Muller, AJ Smola, G Ratsch, B Scholkopf, J Kohlmorgen, V Vapnik","MIT press, 1999",14,1999
+Bernhard Schölkopf,"smola, A.(2002)",B Scholkopf,"Learning with kernels, 0",14,
+Bernhard Schölkopf,Open x-embodiment: Robotic learning datasets and rt-x models,"A Padalkar, A Pooley, A Jain, A Bewley, A Herzog, A Irpan, A Khazatsky, ...","arXiv preprint arXiv:2310.08864, 2023",13,2023
+Bernhard Schölkopf,Benchmarking offline reinforcement learning on real-robot hardware,"N Gürtler, S Blaes, P Kolev, F Widmaier, M Wüthrich, S Bauer, ...","arXiv preprint arXiv:2307.15690, 2023",13,2023
+Bernhard Schölkopf,Discrete key-value bottleneck,"F Träuble, A Goyal, N Rahaman, MC Mozer, K Kawaguchi, Y Bengio, ...","International Conference on Machine Learning, 34431-34455, 2023",13,2023
+Bernhard Schölkopf,Embrace the gap: Vaes perform independent mechanism analysis,"P Reizinger, L Gresele, J Brady, J Von Kügelgen, D Zietlow, B Schölkopf, ...","Advances in Neural Information Processing Systems 35, 12040-12057, 2022",13,2022
+Bernhard Schölkopf,Differentially private language models for secure data sharing,"J Mattern, Z Jin, B Weggenmann, B Schoelkopf, M Sachan","arXiv preprint arXiv:2210.13918, 2022",13,2022
+Bernhard Schölkopf,Structural causal 3d reconstruction,"W Liu, Z Liu, L Paull, A Weller, B Schölkopf","European Conference on Computer Vision, 140-159, 2022",13,2022
+Bernhard Schölkopf,Function contrastive learning of transferable meta-representations,"MW Gondal, S Joshi, N Rahaman, S Bauer, M Wuthrich, B Schölkopf","International Conference on Machine Learning, 3755-3765, 2021",13,2021
+Bernhard Schölkopf,Annealed generative adversarial networks,"A Mehrjou, B Schölkopf, S Saremi","arXiv preprint arXiv:1705.07505, 2017",13,2017
+Bernhard Schölkopf,Elements of causal inference: foundations and learning algorithms,"P Jonas, J Dominik, S Bernhard","MIT press, 2017",13,2017
+Bernhard Schölkopf,Estimating Causal Effects by Bounding Confounding.,"P Geiger, D Janzing, B Schölkopf","UAI, 240-249, 2014",13,2014
+Bernhard Schölkopf,Information science and statistics,"M Jordan, J Kleinberg, B Schölkopf","(No Title), 2006",13,2006
+Bernhard Schölkopf,Implicit estimation of Wiener series,"MO Franz, B Scholkopf","Machine Learning for Signal Processing, 2004. Proceedings of the 2004 14th …, 2004",13,2004
+Bernhard Schölkopf,Towards a strategy for boosting regressors,"AJ Smola, P Bartlett, B Schölkopf, D Schuurmans","MIT Press, 2000",13,2000
+Bernhard Schölkopf,nu-Arc - ensemble learning in the presence of outliers,"G Ratsch, B Scholkopf, A Smola, KR Miiller, T Onoda, S Mika","Advances in Neural Information Processing Systems 12, 2000",13,2000
+Bernhard Schölkopf,Single-class support vector machines,"B Schölkopf, R Williamson, AJ Smola, J Shawe-Taylor","Dagstuhl-Seminar 99121: Unsupervised Learning, 19-20, 1999",13,1999
+Bernhard Schölkopf,Convex cost functions for support vector regression,"A Smola, B Schölkopf, KR Müller","ICANN 98: Proceedings of the 8th International Conference on Artificial …, 1998",13,1998
+Bernhard Schölkopf,Extracting support data for a given task Proceedings of first international conference on knowledge discovery and data mining,"B Schölkopf, D Burges, V Vapnik","Menlo Park, CA: AAAI Press, 1995",13,1995
+Bernhard Schölkopf,"J., Smola A.(2002) Learning with Kernels",B Scholkopf,"MIT Press. Cambridge, Massachusetts, 0",13,
+Bernhard Schölkopf,Membership Inference Attacks against Language Models via Neighbourhood Comparison,"J Mattern, F Mireshghallah, Z Jin, B Schölkopf, M Sachan, ...","arXiv preprint arXiv:2305.18462, 2023",12,2023
+Bernhard Schölkopf,Causal de finetti: On the identification of invariant causal structure in exchangeable data,"S Guo, V Tóth, B Schölkopf, F Huszár","arXiv preprint arXiv:2203.15756, 2022",12,2022
+Bernhard Schölkopf,Iterative teaching by label synthesis,"W Liu, Z Liu, H Wang, L Paull, B Schölkopf, A Weller","Advances in Neural Information Processing Systems 34, 21681-21695, 2021",12,2021
+Bernhard Schölkopf,Unsupervised object learning via common fate,"M Tangemann, S Schneider, J Von Kügelgen, F Locatello, P Gehler, ...","arXiv preprint arXiv:2110.06562, 2021",12,2021
+Bernhard Schölkopf,On the design of consequential ranking algorithms,"B Tabibian, V Gomez, A De, B Schölkopf, MG Rodriguez","Conference on Uncertainty in Artificial Intelligence, 171-180, 2020",12,2020
+Bernhard Schölkopf,Kernel stein tests for multiple model comparison,"JN Lim, M Yamada, B Schölkopf, W Jitkrittum","Advances in neural information processing systems 32, 2019",12,2019
+Bernhard Schölkopf,Automatic estimation of modulation transfer functions,"M Bauer, V Volchkov, M Hirsch, B Schcölkopf","2018 IEEE International Conference on Computational Photography (ICCP), 1-12, 2018",12,2018
+Bernhard Schölkopf,Probabilistic active learning of functions in structural causal models,"PK Rubenstein, I Tolstikhin, P Hennig, B Schölkopf","arXiv preprint arXiv:1706.10234, 2017",12,2017
+Bernhard Schölkopf,"Kernel distribution embeddings: Universal kernels, characteristic kernels and kernel metrics on distributions","CJ Simon-Gabriel, B Schölkopf","arXiv preprint arXiv:1604.05251, 2016",12,2016
+Bernhard Schölkopf,Causal and anti-causal learning in pattern recognition for neuroimaging,"S Weichwald, B Schölkopf, T Ball, M Grosse-Wentrup","2014 International Workshop on Pattern Recognition in Neuroimaging, 1-4, 2014",12,2014
+Bernhard Schölkopf,"Method for determining a property map of an object, particularly of a living being, based on at least a first image, particularly a magnetic resonance image","B Pichler, M Hofmann, B Schölkopf, F Steinke","US Patent 8,290,568, 2012",12,2012
+Bernhard Schölkopf,Kernels and methods for selecting kernels for use in learning machines,"PL Bartlett, A Elisseeff, B Schoelkopf, O Chapelle","US Patent 7,788,193, 2010",12,2010
+Bernhard Schölkopf,Behaviour and convergence of the constrained covariance,"A Gretton, A Smola, O Bousquet, R Herbrich, B Schölkopf, NK Logothetis","Max Planck Institute for Biological Cybernetics, 2004",12,2004
+Bernhard Schölkopf,Making large-scale SVM learning practical. Advances in kernel methods-support vector learning,"B Schlkopf, C Burges, A Smola","MIT Press, 1999",12,1999
+Bernhard Schölkopf,Causal inference through the structural causal marginal problem,"L Gresele, J Von Kügelgen, J Kübler, E Kirschbaum, B Schölkopf, ...","International Conference on Machine Learning, 7793-7824, 2022",11,2022
+Bernhard Schölkopf,A witness two-sample test,"JM Kübler, W Jitkrittum, B Schölkopf, K Muandet","International Conference on Artificial Intelligence and Statistics, 1403-1419, 2022",11,2022
+Bernhard Schölkopf,COVI-AgentSim: an agent-based model for evaluating methods of digital contact tracing,"P Gupta, T Maharaj, M Weiss, N Rahaman, H Alsdurf, A Sharma, ...","arXiv preprint arXiv:2010.16004, 2020",11,2020
+Bernhard Schölkopf,A commentary on the unsupervised learning of disentangled representations,"F Locatello, S Bauer, M Lucic, G Rätsch, S Gelly, B Schölkopf, O Bachem","Proceedings of the AAAI Conference on Artificial Intelligence 34 (09), 13681 …, 2020",11,2020
+Bernhard Schölkopf,Wasserstein auto-encoders: Latent dimensionality and random encoders,"PK Rubenstein, B Schölkopf, I Tolstikhin",,11,2018
+Bernhard Schölkopf,Task-induced frequency modulation features for brain-computer interfacing,"V Jayaram, M Hohmann, J Just, B Schölkopf, M Grosse-Wentrup","Journal of Neural Engineering 14 (5), 056015, 2017",11,2017
+Bernhard Schölkopf,Spectral clustering predicts tumor tissue heterogeneity using dynamic 18F-FDG PET: a complement to the standard compartmental modeling approach,"P Katiyar, MR Divine, U Kohlhofer, L Quintanilla-Martinez, B Schölkopf, ...","Journal of Nuclear Medicine 58 (4), 651-657, 2017",11,2017
+Bernhard Schölkopf,Discovery and visualization of nonstationary causal models,"K Zhang, B Huang, J Zhang, B Schölkopf, C Glymour","arXiv preprint arXiv:1509.08056, 2015",11,2015
+Bernhard Schölkopf,Removing systematic errors for exoplanet search via latent causes,"B Schölkopf, D Hogg, D Wang, D Foreman-Mackey, D Janzing, ...","International Conference on Machine Learning, 2218-2226, 2015",11,2015
+Bernhard Schölkopf,Kernel methods in medical imaging,"G Charpiat, M Hofmann, B Schölkopf","Handbook of Biomedical Imaging: Methodologies and Clinical Research, 63-81, 2015",11,2015
+Bernhard Schölkopf,"Spatial statistics, image analysis and percolation theory","M Langovoy, M Habeck, B Schölkopf","arXiv preprint arXiv:1310.8574, 2013",11,2013
+Bernhard Schölkopf,Interactive images,"B Schoelkopf, K Toyama, M Uyttendaele","US Patent 7,444,016, 2008",11,2008
+Bernhard Schölkopf,Manifold‐valued Thin‐Plate Splines with Applications in Computer Graphics,"F Steinke, M Hein, J Peters, B Schölkopf","Computer Graphics Forum 27 (2), 437-448, 2008",11,2008
+Bernhard Schölkopf,Compositional multi-object reinforcement learning with linear relation networks,"D Mambelli, F Träuble, S Bauer, B Schölkopf, F Locatello","arXiv preprint arXiv:2201.13388, 2022",10,2022
+Bernhard Schölkopf,Backward-compatible prediction updates: A probabilistic approach,"F Träuble, J Von Kügelgen, M Kleindessner, F Locatello, B Schölkopf, ...","Advances in Neural Information Processing Systems 34, 116-128, 2021",10,2021
+Bernhard Schölkopf,Spatial context awareness for unsupervised change detection in optical satellite images,"L Kondmann, A Toker, S Saha, B Schölkopf, L Leal-Taixé, XX Zhu","IEEE Transactions on Geoscience and Remote Sensing 60, 1-15, 2021",10,2021
+Bernhard Schölkopf,A robot cluster for reproducible research in dexterous manipulation,"S Bauer, F Widmaier, M Wüthrich, N Funk, JU De Jesus, J Peters, ...","arXiv preprint arXiv:2109.10957, 2021",10,2021

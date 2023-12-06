@@ -1,0 +1,107 @@
+author_name,title,authors,publication,cited_by_value,year
+Andreas G. Schilling,3D modeling of indoor environments by a mobile robot with a laser scanner and panoramic camera,"P Biber, H Andreasson, T Duckett, A Schilling","2004 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2004",216,2004
+Andreas G. Schilling,Creating cinematic wide gamut HDR-video for the evaluation of tone mapping operators and HDR-displays,"J Froehlich, S Grandinetti, B Eberhardt, S Walter, A Schilling, H Brendel","Digital photography X 9023, 279-288, 2014",178,2014
+Andreas G. Schilling,Efficient reconstruction of nonrigid shape and motion from real-time 3D scanner data,"M Wand, B Adams, M Ovsjanikov, A Berner, M Bokeloh, P Jenke, ...","ACM Transactions on Graphics (TOG) 28 (2), 1-15, 2009",174,2009
+Andreas G. Schilling,Symmetry detection using feature lines,"M Bokeloh, A Berner, M Wand, HP Seidel, A Schilling","Computer Graphics Forum 28 (2), 697-706, 2009",171,2009
+Andreas G. Schilling,Isometric registration of ambiguous and partial data,"A Tevs, M Bokeloh, M Wand, A Schilling, HP Seidel","2009 IEEE Conference on Computer Vision and Pattern Recognition, 1185-1192, 2009",144,2009
+Andreas G. Schilling,Reconstruction of deforming geometry from time-varying point clouds,"M Wand, P Jenke, Q Huang, M Bokeloh, L Guibas, A Schilling","Symposium on Geometry processing, 49-58, 2007",142,2007
+Andreas G. Schilling,Texram: A smart memory for texturing,"A Schilling, G Knittel, W Strasser","Computer Graphics and Applications, IEEE 16 (3), 32-41, 1996",139,1996
+Andreas G. Schilling,Bayesian point cloud reconstruction,"P Jenke, M Wand, M Bokeloh, A Schilling, W Straßer","Computer graphics forum 25 (3), 379-388, 2006",136,2006
+Andreas G. Schilling,A new simple and efficient antialiasing with subpixel masks,A Schilling,"Proceedings of the 18th annual conference on Computer graphics and …, 1991",118,1991
+Andreas G. Schilling,Processing and interactive editing of huge point clouds from 3D scanners,"M Wand, A Berner, M Bokeloh, P Jenke, A Fleck, M Hoffmann, B Maier, ...","Computers & Graphics 32 (2), 204-220, 2008",102,2008
+Andreas G. Schilling,Reconstruction and simplification of surfaces from contours,"R Klein, A Schilling, W Straßer","Graphical models 62 (6), 429-443, 2000",97,2000
+Andreas G. Schilling,Hardware for superior texture performance,"G Knittel, A Schilling, A Kugler, W Straßer","Computers & Graphics 20 (4), 475-481, 1996",86,1996
+Andreas G. Schilling,A graph-based approach to symmetry detection.,"A Berner, M Bokeloh, M Wand, A Schilling, HP Seidel","VG/PBG@ SIGGRAPH, 1-8, 2008",83,2008
+Andreas G. Schilling,Integrating 3D time-of-flight camera data and high resolution images for 3DTV applications,"B Huhle, S Fleck, A Schilling","2007 3DTV Conference, 1-4, 2007",78,2007
+Andreas G. Schilling,Wireless node localization based on RSSI using a rotating antenna on a mobile robot,"J Graefenstein, A Albert, P Biber, A Schilling","2009 6Th Workshop on positioning, navigation and communication, 253-259, 2009",76,2009
+Andreas G. Schilling,Interactive Editing of Large Point Clouds.,"M Wand, A Berner, M Bokeloh, A Fleck, M Hoffmann, P Jenke, B Maier, ...","PBG@ Eurographics, 37-45, 2007",74,2007
+Andreas G. Schilling,System and method for mapping textures onto surfaces of computer-generated objects,"A Schilling, G Knittel, S3 Graphics Co., Ltd.","US Patent 6,236,405, 2001",63,2001
+Andreas G. Schilling,Using Time-of-Flight Range Data for Occlusion Handling in Augmented Reality.,"J Fischer, B Huhle, A Schilling","IPT/EGVE 109116, 2007",59,2007
+Andreas G. Schilling,Automatic labeling of anatomical structures in MR FastView images using a statistical atlas,"M Fenchel, S Thesen, A Schilling","International Conference on Medical Image Computing and Computer-Assisted …, 2008",56,2008
+Andreas G. Schilling,EXACT: Algorithm and hardware architecture for an improved A-buffer,"A Schilling, W Straßer","Proceedings of the 20th annual conference on Computer graphics and …, 1993",55,1993
+Andreas G. Schilling,Towards real-time photorealistic rendering: challenges and solutions,A Schilling,"Proceedings of the ACM SIGGRAPH/EUROGRAPHICS workshop on Graphics hardware, 7-15, 1997",52,1997
+Andreas G. Schilling,LS-ELAS: Line segment based efficient large scale stereo matching,"RA Jellal, M Lange, B Wassermann, A Schilling, A Zell","2017 IEEE International Conference on Robotics and Automation (ICRA), 146-152, 2017",42,2017
+Andreas G. Schilling,Illumination dependent refinement of multiresolution meshes,"R Klein, A Schilling, W Straßer","Proceedings. Computer Graphics International (Cat. No. 98EX149), 680-687, 1998",37,1998
+Andreas G. Schilling,The dabr-a multitouch system for intuitive 3d scene navigation,"J Edelmann, A Schilling, S Fleck","2009 3DTV Conference: The True Vision-Capture, Transmission and Display of …, 2009",36,2009
+Andreas G. Schilling,Dld: A deep learning based line descriptor for line feature matching,"M Lange, F Schweinfurth, A Schilling","2019 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2019",29,2019
+Andreas G. Schilling,Medical image acquisition apparatus and operating method therefor,"M Fenchel, A Schilling, S Thesen","US Patent 8,848,997, 2014",25,2014
+Andreas G. Schilling,System and method for mapping textures onto surfaces of computer-generated objects,"A Schilling, G Knittel","US Patent 6,937,250, 2005",24,2005
+Andreas G. Schilling,Encoding color difference signals for high dynamic range and wide gamut imagery,"J Froehlich, T Kunkel, R Atkins, J Pytlarz, S Daly, A Schilling, B Eberhardt","Color and Imaging Conference 2015 (1), 240-247, 2015",21,2015
+Andreas G. Schilling,Eliminating the Z-Buffer bottleneck,"G Knittel, A Schilling","Proceedings: the European Design and Test Conference, ED&TC 1995, Paris …, 1995",20,1995
+Andreas G. Schilling,Gamut mapping for digital cinema,"J Fröhlich, A Schilling, B Eberhardt","SMPTE Motion Imaging Journal 123 (8), 41-48, 2014",17,2014
+Andreas G. Schilling,User identification using raw sensor data from typing on interactive displays,"P Mock, J Edelmann, A Schilling, W Rosenstiel","Proceedings of the 19th international conference on Intelligent User …, 2014",17,2014
+Andreas G. Schilling,Visual mapping with uncertainty for correspondence-free localization using Gaussian process regression,"T Schairer, B Huhle, P Vorst, A Schilling, W Straßer","2011 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2011",16,2011
+Andreas G. Schilling,Learning to localize with Gaussian process regression on omnidirectional image data,"B Huhle, T Schairer, A Schilling, W Straßer","2010 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2010",16,2010
+Andreas G. Schilling,Generalized Intrinsic Symmetry Detection,"M Bokeloh, M Wand, A Schilling, HP Seidel",,16,2009
+Andreas G. Schilling,Content aware quantization: Requantization of high dynamic range baseband signals based on visual masking by noise and texture,"J Froehlich, GM Su, S Daly, A Schilling, B Eberhardt","2016 IEEE International Conference on Image Processing (ICIP), 884-888, 2016",13,2016
+Andreas G. Schilling,Towards the keyboard of oz: learning individual soft-keyboard models from raw optical sensor data,"J Edelmann, P Mock, A Schilling, P Gerjets, W Rosenstiel, W Straßer","Proceedings of the 2012 ACM international conference on Interactive …, 2012",13,2012
+Andreas G. Schilling,Fast Distance Field Interpolation for Reconstruction of Surfaces from Contours,"R Klein, AG Schilling","Eurographics '99, Short Papers & Demos proceedings, 1999",13,1999
+Andreas G. Schilling,Rendering of multiresolution models with texture,"A Schilling, R Klein","Computers & Graphics 22 (6), 667-674, 1998",13,1998
+Andreas G. Schilling,WLD: A Wavelet and Learning based Line Descriptor for Line Feature Matching,"M Lange, C Raisch, A Schilling","25th International Symposium on Vision, Modeling and Visualization, VMV 2020, 2020",12,2020
+Andreas G. Schilling,Image and 3D-Object Editing with Precisely Specified Editing Regions.,"GH Bendels, R Klein, A Schilling","VMV, 451-459, 2003",12,2003
+Andreas G. Schilling,Face2Face—A system for multi-touch collaboration with telepresence,"J Edelmann, P Gerjets, P Mock, A Schilling, W Strasser","2012 IEEE International Conference on Emerging Signal Processing …, 2012",11,2012
+Andreas G. Schilling,Slippage features,"M Bokeloh, A Berner, M Wand, HP Seidel, A Schilling","Universität Tübingen, 2008",11,2008
+Andreas G. Schilling,PFAAM An Active Appearance Model based Particle Filter for both Robust and Precise Tracking,"S Fleck, ME Hoffmann, K Hunter, A Schilling","Fourth Canadian Conference on Computer and Robot Vision (CRV'07), 339-346, 2007",11,2007
+Andreas G. Schilling,Antialiasing of environment maps,A Schilling,"Computer Graphics Forum 20 (1), 5-11, 2001",11,2001
+Andreas G. Schilling,Novel mesh-derived right ventricular free wall longitudinal strain analysis by intraoperative three-dimensional transoesophageal speckle-tracking echocardiography: a comparison …,"M Keller, T Lang, A Schilling, M Nowak-Machen, P Rosenberger, ...","The International Journal of Cardiovascular Imaging 35, 2177-2188, 2019",10,2019
+Andreas G. Schilling,Structure and magnetic interactions in the solid solution Ba3− xSrxCr2O8,"H Grundmann, A Schilling, CA Marjerrison, HA Dabkowska, BD Gaulin","Materials Research Bulletin 48 (9), 3108-3111, 2013",10,2013
+Andreas G. Schilling,Fast generation of multiresolution surfaces from contours,"A Schilling, R Klein","Visualization in Scientific Computing’98: Proceedings of the Eurographics …, 1998",10,1998
+Andreas G. Schilling,Incremental large scale 3d reconstruction,"R Parys, A Schilling","2012 Second International Conference on 3D Imaging, Modeling, Processing …, 2012",9,2012
+Andreas G. Schilling,Method for adding detail to a texture map,"A Schilling, G Knittel","US Patent 7,580,043, 2009",9,2009
+Andreas G. Schilling,Efficient rendering of multiresolution meshes with guaranteed image quality,"R Klein, A Schilling","The Visual Computer 15 (9), 443-452, 1999",9,1999
+Andreas G. Schilling,Self-supervised learning for automated anatomical tracking in medical image data with minimal human labeling effort,"M Frueh, T Kuestner, M Nachbar, D Thorwarth, A Schilling, S Gatidis","Computer Methods and Programs in Biomedicine 225, 107085, 2022",8,2022
+Andreas G. Schilling,Weakly supervised segmentation of tumor lesions in PET-CT hybrid imaging,"M Früh, M Fischer, A Schilling, S Gatidis, T Hepp","Journal of Medical Imaging 8 (5), 054003-054003, 2021",8,2021
+Andreas G. Schilling,Regional Right Ventricular Volume and Function Analysis Using Intraoperative 3-Dimensional Echocardiography–Derived Mesh Models,"M Nowak-Machen, T Lang, A Schilling, L Mockenhaupt, M Keller, ...","Journal of Cardiothoracic and Vascular Anesthesia 33 (6), 1527-1532, 2019",8,2019
+Andreas G. Schilling,Method for processing image and volume data based on statistical models,A Schilling,"US Patent 8,520,926, 2013",6,2013
+Andreas G. Schilling,Method for controlling the acquisition and/or evaluation operation of image data in medical examinations,"M Fenchel, A Schilling, S Thesen","US Patent 7,899,227, 2011",6,2011
+Andreas G. Schilling,Reconstructing liver shape and position from MR image slices using an active shape model,"M Fenchel, S Thesen, A Schilling","Medical Imaging 2008: Image Processing, Proceedings of the SPIE 6914, 1471-1481, 2008",6,2008
+Andreas G. Schilling,Method for controlling an image data acquisition and/or evaluation procedure in medical examinations,"M Fenchel, A Schilling, S Thesen","US Patent 8,150,122, 2012",5,2012
+Andreas G. Schilling,Direct 3D-collaboration with Face2Face-implementation details and application concepts,"P Mock, A Schilling, W Strasser, J Edelmann","2012 3DTV-Conference: The True Vision-Capture, Transmission and Display of …, 2012",4,2012
+Andreas G. Schilling,Texture dependent refinement of multiresolution meshes,"AG Schilling, R Klein","Universität Tübingen, 1998",4,1998
+Andreas G. Schilling,High Performance Texture Mapping Architectures,"A Kugler, G Knittel, AG Schilling, W Straßer, JW Binder","Proceedings of the 6th OMI Annual Conference on Embedded Microprocessor …, 1996",4,1996
+Andreas G. Schilling,Some practical aspects of rendering,A Schilling,"Advances in Computer Graphics Hardware V: Rendering, Ray Tracing and …, 1992",4,1992
+Andreas G. Schilling,Real time landmark detection for within-and cross subject tracking with minimal human supervision,"M Frueh, A Schilling, S Gatidis, T Kuestner","IEEE Access 10, 81192-81202, 2022",3,2022
+Andreas G. Schilling,Dense urban scene reconstruction using stereo depth image triangulation,"J Haeling, M Necker, A Schilling","Twelfth International Conference on Machine Vision (ICMV 2019) 11433, 483-490, 2020",3,2020
+Andreas G. Schilling,LVO: Line only stereo visual odometry,"M Lange, C Raisch, A Schilling","2019 International Conference on Indoor Positioning and Indoor Navigation …, 2019",3,2019
+Andreas G. Schilling,Interaction techniques for a neural-guided hand exoskeleton,"T Ableitner, S Soekadar, C Strobbe, A Schilling, G Zimmermann","Procedia Computer Science 141, 442-446, 2018",3,2018
+Andreas G. Schilling,Preserving non-verbal features of face-to-face communication for remote collaboration,"J Edelmann, P Mock, A Schilling, P Gerjets","Cooperative Design, Visualization, and Engineering: 10th International …, 2013",3,2013
+Andreas G. Schilling,Visualisierung auf Großbildschirmen: Herausforderung eines neuen Ausgabegeräts,"O Deussen, H Bülthoff, T Ertl, D Keim, B Lintermann, H Reiterer, ...","Informatik-Spektrum 33, 551-558, 2010",3,2010
+Andreas G. Schilling,Simultaneous mobile robot and radio node localization in wireless networks,"J Graefenstein, A Albert, P Biber, A Schilling","2010 International Conference on Indoor Positioning and Indoor Navigation, 1-6, 2010",3,2010
+Andreas G. Schilling,Fully automatic liver scan planning-slice and navigator positioning from stacked 2D localizer scans,"M Fenchel, S Thesen, A Schilling","Proceedings of the 14th Annual Meeting of ISMRM 2006, 467, 2006",3,2006
+Andreas G. Schilling,Efficient Multiresolution Models for progressive Terrain Rendering (Effiziente Multiresolutionsmodelle für progressives Terrain Rendering),"R Klein, A Schilling","it-Information Technology 44 (6), 314-321, 2002",3,2002
+Andreas G. Schilling,A Neural Beamforming Front-end for Distributed Microphone Arrays,"J Ziegler, L Schröder, A Koch, A Schilling","Audio Engineering Society Convention 151, 2021",2,2021
+Andreas G. Schilling,User acceptance of augmented reality glasses in comparison to other interaction methods for controlling a hand exoskeleton,"T Ableitner, S Soekadar, A Schilling, C Strobbe, G Zimmermann","Mensch und Computer 2019-Workshopband, 2019",2,2019
+Andreas G. Schilling,KeyValuate: A framework for rapid evaluation of adaptive keyboards on touchscreens,"P Mock, J Jaszkowic, J Edelmann, Y Kammerer, A Schilling, W Rosenstiel","Proceedings of the Annual Meeting of the Australian Special Interest Group …, 2015",2,2015
+Andreas G. Schilling,Analysis-by-Synthesis Texture Reconstruction,"F Liefers, R Parys, A Schilling","2012 Second International Conference on 3D Imaging, Modeling, Processing …, 2012",2,2012
+Andreas G. Schilling,Method for interactively segmenting structures in image data records and image processing unit for carrying out the method,"M Fenchel, A Schilling, S Thesen","US Patent 8,200,015, 2012",2,2012
+Andreas G. Schilling,Sparse Registration - 3D Reconstruction from Pairs of 2D Line Scans,"B Huhle, T Schairer, S Herholz, W Schilling, Andreas, Straßer","Wilhelm-Schickard-Institut, Visual Computing, Universität Tübingen …, 2012",2,2012
+Andreas G. Schilling,Acoustic Source Localization and High Quality Beamforming Using Coincident Microphone Arrays,"JD Ziegler, H Paukert, A Koch, A Schilling","Audio Engineering Society Convention 148, 2020",1,2020
+Andreas G. Schilling,Calibrating Depth Sensors with a Genetic Algorithm,"J Haeling, A Schilling, M Necker","Universität Tübingen, Technical Report http://dx.doi.org/10.15496 …, 2019",1,2019
+Andreas G. Schilling,Using Chromaticity Error Minimisation for Fast Camera Spectral Responsivity Measurement,"A Karge, I Rieger, B Eberhardt, A Schilling","Color and Imaging Conference 2018 (1), 67-74, 2018",1,2018
+Andreas G. Schilling,Interpolation and Display of Microphone Directivity Measurements Using Higher Order Spherical Harmonics,"JD Ziegler, M Rau, A Schilling, A Koch","Audio Engineering Society Convention 143, 2017",1,2017
+Andreas G. Schilling,Dual space directional occlusion,"S Herholz, JU Hahn, A Schilling","The Visual Computer 29, 917-926, 2013",1,2013
+Andreas G. Schilling,Compact Descriptor for Video Sequence Matching in the Context of Large Scale 3D Reconstruction,"R Parys, F Liefers, A Schilling","Multimedia and Internet Systems: Theory and Practice, 55-64, 2013",1,2013
+Andreas G. Schilling,Screen space spherical harmonic occlusion,"S Herholz, T Schairer, A Schilling, W Straßer","The Eurographics Association, 2012",1,2012
+Andreas G. Schilling,Optimal alignment of 3d data for spatial discretization,"B Huhle, T Schairer, A Schilling, W Straßer","2011 Canadian Conference on Computer and Robot Vision, 355-362, 2011",1,2011
+Andreas G. Schilling,6DoF registration of 2D laser scans,"B Huhle, T Schairer, A Schilling, W Straßer","2011 International Conference on 3D Imaging, Modeling, Processing …, 2011",1,2011
+Andreas G. Schilling,Antialiasing of Bump-Maps,AG Schilling,,1,1997
+Andreas G. Schilling,Rasterizer Setup for Stereo Rendering,A Schilling,"WSI, 1996",1,1996
+Andreas G. Schilling,Trapped in Texture Bias? A Large Scale Comparison of Deep Instance Segmentation,"J Theodoridis, J Hofmann, J Maucher, A Schilling","European Conference on Computer Vision, 609-627, 2022",,2022
+Andreas G. Schilling,Hands-Free Interaction Methods for Smart Home Control with Google Glass,"T Ableitner, F Heilemann, A Schilling, S Soekadar, G Zimmermann","International Conference on Computers Helping People with Special Needs, 121-129, 2022",,2022
+Andreas G. Schilling,Self-supervised Training for Single-Shot Tumor Tracking in the Presence of Respiratory Motion,"M Früh, T Hepp, A Schilling, S Gatidis, T Küstner","Proceedings of the International Society for Magnetic Resonance in Medicine, 2022",,2022
+Andreas G. Schilling,Towards immersive stereo vision from a mobile platform,"J Haeling, M Necker, A Schilling","Eleventh International Conference on Machine Vision (ICMV 2018) 11041, 222-229, 2019",,2019
+Andreas G. Schilling,User Acceptance of Augmented Reality Glasses for Hand Exoskeleton Control,"T Ableitner, S Metzl, S Soekadar, A Schilling, C Strobbe, G Zimmermann","Technology and Disability 31, S128, 2019",,2019
+Andreas G. Schilling,Speech Classification for Acoustic Source Localization and Tracking Applications Using Convolutional Neural Networks,"JD Ziegler, A Koch, A Schilling","Audio Engineering Society Convention 145, 2018",,2018
+Andreas G. Schilling,The Fundamental Problem of the Spectral Subtraction,"B Runow, JD Ziegler, H Paukert, A Schilling, O Curdt","tmt30 VDT International Convention (30th Tonmeistertagung), 147 - 154, 2018",,2018
+Andreas G. Schilling,Störgeräuschreduktion mit einer Mel-Filterbank in Verbindung mit koinzidenten Mikrofonarrays,"B Runow, A Schilling, O Curdt","tmt29 VDT International Convention (29th Tonmeistertagung), 2016",,2016
+Andreas G. Schilling,Richtrohrmikrofone versus Mikrofonarrays,"B Runow, O Curdt, A Schilling","tmt29 VDT International Convention (29th Tonmeistertagung), 221 - 228, 2016",,2016
+Andreas G. Schilling,Future Highperformance Graphics Systems,"W Strasser, A Schilling","Communicating with Virtual Worlds, 450, 2012",,2012
+Andreas G. Schilling,Method for segmenting structures in image data records and image processing unit for carrying out the method,"M Fenchel, A Schilling, S Thesen","US Patent 8,180,151, 2012",,2012
+Andreas G. Schilling,Festschrift zum 60. Geburtstag von Wolfgang Strasser,"A Schilling, W Straßer","Universität Tübingen, 2001",,2001
+Andreas G. Schilling,Wolfgang Straßer,A Schilling,,,2001
+Andreas G. Schilling,Some Notes on Sampling in Computer Graphics,A Schilling,"Festschrift zum 60. Geburtstag von Wolfgang Straßer, 185-207, 2001",,2001
+Andreas G. Schilling,"Badler, Norman I., 353 Bajaj, Chandrajit, 391","X Bao, S Chaudhuri, B Chen, Y Choi, UB Desai, T Ertl, E Galin, G Gallo, ...","Graphical Models 62, 447, 2000",,2000
+Andreas G. Schilling,Fast Distance Field Interpolation for Reconstruction of Surfaces from Contours,"AG Schilling, R Klein","Universität Tübingen, 1999",,1999
+Andreas G. Schilling,Graphics hardware-Guest editors' introduction,"BO Schneider, A Schilling","COMPUTERS & GRAPHICS-UK 21 (2), 125-127, 1997",,1997
+Andreas G. Schilling,GRAPHICS HARDWARE,"BO Schneider, A Schilling, D Latimer, S McCann, A Makris, M Walter, ...",,,1997
+Andreas G. Schilling,Memory for,"A Schilling, G Knittel",,,1996
