@@ -1,0 +1,112 @@
+author_name,title,authors,publication,cited_by_value,year
+Georg Martius,Goal-conditioned Offline Planning from Curious Exploration,"M Bagatella, G Martius","arXiv preprint arXiv:2311.16996, 2023",,2023
+Georg Martius,Multi-View Causal Representation Learning with Partial Observability,"D Yao, D Xu, S Lachapelle, S Magliacane, P Taslakian, G Martius, ...","arXiv preprint arXiv:2311.04056, 2023",,2023
+Georg Martius,Machine learning of a density functional for anisotropic patchy particles,"A Simon, J Weimar, G Martius, M Oettel","arXiv preprint arXiv:2311.04358, 2023",,2023
+Georg Martius,Regularity as Intrinsic Reward for Free Play,"C Sancaktar, J Piater, G Martius","Thirty-seventh Conference on Neural Information Processing Systems, 2023",,2023
+Georg Martius,Modelling Microbial Communities with Graph Neural Networks,"A Ruaud, C Sancaktar, M Bagatella, C Ratzke, G Martius","NeurIPS 2023 AI for Science Workshop, 2023",,2023
+Georg Martius,The Expressive Leaky Memory Neuron: an Efficient and Expressive Phenomenological Neuron Model Can Solve Long-Horizon Tasks,"A Levina, B Schölkopf, G Martius, N Rahaman, A Spieler","arXiv, 2023",,2023
+Georg Martius,Learning Diverse Skills for Local Navigation under Multi-constraint Optimality,"J Cheng, M Vlastelica, P Kolev, C Li, G Martius","arXiv preprint arXiv:2310.02440, 2023",,2023
+Georg Martius,"Method for force inference of a sensor arrangement, methods for training networks, force inference module and sensor arrangement","A Spiers, H Lee, G Martius, SUN Huanbo, J Fiene","US Patent App. 18/038,567, 2023",,2023
+Georg Martius,Emergent mechanisms for long timescales depend on training curriculum and affect performance in memory tasks,"S Khajehabdollahi, R Zeraati, E Giannakakis, TJ Schäfer, G Martius, ...","arXiv preprint arXiv:2309.12927, 2023",,2023
+Georg Martius,Lagrangian Proximal Gradient Descent for Learning Convex Optimization Models,"A Paulus, V Musil, G Martius","ICML 2023 Workshop on Differentiable Almost Everything: Differentiable …, 2023",,2023
+Georg Martius,Mind the Uncertainty: Risk-Aware and Actively Exploring Model-Based Reinforcement Learning,"M Vlastelica, S Blaes, C Pineri, G Martius","arXiv preprint arXiv:2309.05582, 2023",,2023
+Georg Martius,Natural and Robust Walking using Reinforcement Learning without Demonstrations in High-Dimensional Musculoskeletal Models,"P Schumacher, T Geijtenbeek, V Caggiano, V Kumar, S Schmitt, ...","arXiv preprint arXiv:2309.02976, 2023",1,2023
+Georg Martius,Role of single-neuron and network-mediated timescales in recurrent neural networks solving long-memory tasks,"R Zeraati, S Khajehabdollahi, E Giannakakis, TJ Schäfer, G Martius, ...",,,2023
+Georg Martius,"The Expressive Leaky Memory (ELM) neuron: a biologically inspired, computationally expressive, and efficient model of a cortical neuron","A Spieler, N Rahaman, G Martius, B Schölkopf, A Levina","Bernstein Conference 2023, 2023",,2023
+Georg Martius,Benchmarking offline reinforcement learning on real-robot hardware,"N Gürtler, S Blaes, P Kolev, F Widmaier, M Wüthrich, S Bauer, ...","arXiv preprint arXiv:2307.15690, 2023",15,2023
+Georg Martius,Diverse Offline Imitation via Fenchel Duality,"M Vlastelica, P Kolev, J Cheng, G Martius","arXiv preprint arXiv:2307.11373, 2023",1,2023
+Georg Martius,Learning Hierarchical World Models with Adaptive Temporal Abstractions from Discrete Latent Dynamics,"MV Butz, G Martius, N Sajid, C Gumbsch","OpenReview. net, 2023",,2023
+Georg Martius,Learning Hierarchical World Models with Adaptive Temporal Abstractions from Discrete Latent Dynamics,"C Gumbsch, N Sajid, G Martius, MV Butz","Sixteenth European Workshop on Reinforcement Learning, 2023",,2023
+Georg Martius,Colored Noise in PPO: Improved Exploration and Performance Through Correlated Action Sampling,"J Hollenstein, G Martius, J Piater","Sixteenth European Workshop on Reinforcement Learning, 2023",,2023
+Georg Martius,The ELM Neuron: an Efficient and Expressive Cortical Neuron Model Can Solve Long-Horizon Tasks,"A Spieler, N Rahaman, G Martius, B Schölkopf, A Levina","arXiv preprint arXiv:2306.16922, 2023",,2023
+Georg Martius,Locally adaptive cellular automata for goal-oriented self-organization,"A Levina, G Martius, V Buendia, E Giannakakis, S Khajehabdollahi","arXiv, 2023",,2023
+Georg Martius,Locally adaptive cellular automata for goal-oriented self-organization,"S Khajehabdollahi, E Giannakakis, V Buendia, G Martius, A Levina","arXiv preprint arXiv:2306.07067, 2023",,2023
+Georg Martius,Object-Centric Learning for Real-World Videos by Predicting Temporal Feature Similarities,"A Zadaianchuk, M Seitzer, G Martius","arXiv preprint arXiv:2306.04829, 2023",1,2023
+Georg Martius,Online Learning under Adversarial Nonlinear Constraints,"P Kolev, G Martius, M Muehlebach","arXiv preprint arXiv:2306.03655, 2023",,2023
+Georg Martius,Inferring interpretable dynamical generators of local quantum observables from projective measurements through machine learning,"G Cemin, F Carnazza, S Andergassen, G Martius, F Carollo, I Lesanovsky","arXiv preprint arXiv:2306.03935, 2023",,2023
+Georg Martius,Versatile skill control via self-supervised adversarial imitation of unlabeled mixed motions,"C Li, S Blaes, P Kolev, M Vlastelica, J Frey, G Martius","2023 IEEE international conference on robotics and automation (ICRA), 2944-2950, 2023",11,2023
+Georg Martius,Discovering causal relations and equations from data,"G Camps-Valls, A Gerhardus, U Ninad, G Varando, G Martius, ...","arXiv preprint arXiv:2305.13341, 2023",5,2023
+Georg Martius,Minsight: A Fingertip‐Sized Vision‐Based Tactile Sensor for Robotic Manipulation,"I Andrussow, H Sun, KJ Kuchenbecker, G Martius","Advanced Intelligent Systems, 2300042, 2023",3,2023
+Georg Martius,Inductive biases in deep learning models for weather prediction,"J Thuemmel, M Karlbauer, S Otte, C Zarfl, G Martius, N Ludwig, ...","arXiv preprint arXiv:2304.04664, 2023",1,2023
+Georg Martius,Efficient Learning of High Level Plans from Play,"NA Urpí, M Bagatella, O Hilliges, G Martius, S Coros","arXiv preprint arXiv:2303.09628, 2023",,2023
+Georg Martius,Learning with Muscles: Benefits for Data-Efficiency and Robustness in Anthropomorphic Tasks,"I Wochner, P Schumacher, G Martius, D Büchler, S Schmitt, D Haeufle","Conference on Robot Learning, 1178-1188, 2023",3,2023
+Georg Martius,Learning agile skills via adversarial imitation of rough partial demonstrations,"C Li, M Vlastelica, S Blaes, J Frey, F Grimminger, G Martius","Conference on Robot Learning, 342-352, 2023",16,2023
+Georg Martius,Efficient Learning of High Level Plans from Play,"N Armengol Urpí, M Bagatella, O Hilliges, G Martius, S Coros","arXiv e-prints, arXiv: 2303.09628, 2023",,2023
+Georg Martius,Neural All-Pairs Shortest Path for Reinforcement Learning,"C Pinneri, G Martius, A Krause","Deep Reinforcement Learning Workshop NeurIPS 2022, 2022",,2022
+Georg Martius,Curious exploration via structured world models yields zero-shot object manipulation,"C Sancaktar, S Blaes, G Martius","Advances in Neural Information Processing Systems 35, 24170-24183, 2022",8,2022
+Georg Martius,Embrace the gap: Vaes perform independent mechanism analysis,"P Reizinger, L Gresele, J Brady, J Von Kügelgen, D Zietlow, B Schölkopf, ...","Advances in Neural Information Processing Systems 35, 12040-12057, 2022",14,2022
+Georg Martius,Pink noise is all you need: Colored noise exploration in deep reinforcement learning,"O Eberhard, J Hollenstein, C Pinneri, G Martius","The Eleventh International Conference on Learning Representations, 2022",8,2022
+Georg Martius,Developing hierarchical anticipations via neural network-based event segmentation,"C Gumbsch, M Adam, B Elsner, G Martius, MV Butz","2022 IEEE International Conference on Development and Learning (ICDL), 1-8, 2022",4,2022
+Georg Martius,MyoChallenge 2022: Learning contact-rich manipulation using a musculoskeletal hand,"V Caggiano, G Durandau, H Wang, A Chiappa, A Mathis, P Tano, N Patel, ...","NeurIPS 2022 Competition Track, 233-250, 2022",,2022
+Georg Martius,Real Robot Challenge 2022: Learning Dexterous Manipulation from Offline Data in the Real World,"N Gürtler, F Widmaier, C Sancaktar, S Blaes, P Kolev, S Bauer, ...","NeurIPS 2022 Competition Track, 133-150, 2022",,2022
+Georg Martius,Inferring Markovian quantum master equations of few-body observables in interacting spin chains,"F Carnazza, F Carollo, D Zietlow, S Andergassen, G Martius, ...","New Journal of Physics 24 (7), 073033, 2022",2,2022
+Georg Martius,Uncertainty in equation learning,"M Werner, A Junginger, P Hennig, G Martius","Proceedings of the Genetic and Evolutionary Computation Conference Companion …, 2022",4,2022
+Georg Martius,Backpropagation through combinatorial algorithms: Identity with projection works,"SS Sahoo, A Paulus, M Vlastelica, V Musil, V Kuleshov, G Martius","arXiv preprint arXiv:2205.15213, 2022",6,2022
+Georg Martius,Dep-rl: Embodied exploration for reinforcement learning in overactuated and musculoskeletal systems,"P Schumacher, D Häufle, D Büchler, S Schmitt, G Martius","arXiv preprint arXiv:2206.00484, 2022",7,2022
+Georg Martius,Gradient Backpropagation Through Combinatorial Algorithms: Identity with Projection Works,"S Sekhar Sahoo, M Vlastelica, A Paulus, V Musil, V Kuleshov, G Martius","arXiv e-prints, arXiv: 2205.15213, 2022",,2022
+Georg Martius,Predicting the force map of an ERT-based tactile sensor using simulation and deep networks,"H Lee, H Sun, H Park, G Serhat, B Javot, G Martius, KJ Kuchenbecker","IEEE Transactions on Automation Science and Engineering 20 (1), 425-439, 2022",12,2022
+Georg Martius,On the pitfalls of heteroscedastic uncertainty estimation with probabilistic neural networks,"M Seitzer, A Tavakoli, D Antic, G Martius","arXiv preprint arXiv:2203.09168, 2022",44,2022
+Georg Martius,Guiding the design of superresolution tactile skins with taxel value isolines theory,"H Sun, G Martius","Science Robotics 7 (63), eabm0608, 2022",14,2022
+Georg Martius,A soft thumb-sized vision-based sensor with accurate all-round force perception,"H Sun, KJ Kuchenbecker, G Martius","Nature Machine Intelligence 4 (2), 135-145, 2022",62,2022
+Georg Martius,Self-supervised reinforcement learning with independently controllable subgoals,"A Zadaianchuk, G Martius, F Yang","Conference on Robot Learning, 384-394, 2022",9,2022
+Georg Martius,When to be critical? Performance and evolvability in different regimes of neural Ising agents,"S Khajehabdollahi, J Prosi, E Giannakakis, G Martius, A Levina","Artificial Life 28 (4), 458-478, 2022",6,2022
+Georg Martius,Gradient Backpropagation Through Combinatorial Algorithms: Identity with Projection Works.,"SS Sahoo, M Vlastelica, A Paulus, V Musil, V Kuleshov, G Martius","CoRR, 2022",1,2022
+Georg Martius,Hierarchical reinforcement learning with timed subgoals,"N Gürtler, D Büchler, G Martius","Advances in Neural Information Processing Systems 34, 21732-21743, 2021",18,2021
+Georg Martius,Sparsely changing latent states for prediction and planning in partially observable domains,"C Gumbsch, MV Butz, G Martius","Advances in Neural Information Processing Systems 34, 17518-17531, 2021",15,2021
+Georg Martius,Planning from pixels in environments with combinatorially hard search spaces,"M Bagatella, M Olšák, M Rolínek, G Martius","Advances in Neural Information Processing Systems 34, 24707-24718, 2021",2,2021
+Georg Martius,Causal influence detection for improving efficiency in reinforcement learning,"M Seitzer, B Schölkopf, G Martius","Advances in Neural Information Processing Systems 34, 22905-22918, 2021",36,2021
+Georg Martius,Falsification of hybrid systems with symbolic reachability analysis and trajectory splicing,"S Bogomolov, G Frehse, A Gurung, D Li, G Martius, R Ray","Nonlinear Analysis: Hybrid Systems 42, 101093, 2021",2,2021
+Georg Martius,Sample-efficient cross-entropy method for real-time planning,"C Pinneri, S Sawant, S Blaes, J Achterhold, J Stueckler, M Rolinek, ...","Conference on Robot Learning, 1049-1065, 2021",69,2021
+Georg Martius,"The dynamical regime and its importance for evolvability, task performance and generalization","J Prosi, S Khajehabdollahi, E Giannakakis, G Martius, A Levina","ALIFE 2022: The 2022 Conference on Artificial Life, 2021",5,2021
+Georg Martius,Comboptnet: Fit the right np-hard problem by learning integer programming constraints,"A Paulus, M Rolínek, V Musil, B Amos, G Martius","International Conference on Machine Learning, 8443-8453, 2021",49,2021
+Georg Martius,Demystifying inductive biases for (beta-) VAE based architectures,"D Zietlow, M Rolinek, G Martius","International Conference on Machine Learning, 12945-12954, 2021",24,2021
+Georg Martius,Risk-averse zero-order trajectory optimization,"M Vlastelica, S Blaes, C Pinneri, G Martius","5th Annual Conference on Robot Learning, 2021",6,2021
+Georg Martius,Theory and design of super-resolution haptic skins,"H Sun, G Martius","arXiv preprint arXiv:2105.11914, 2021",2,2021
+Georg Martius,Informed equation learning,"M Werner, A Junginger, P Hennig, G Martius","arXiv preprint arXiv:2105.06331, 2021",13,2021
+Georg Martius,How to train your differentiable filter,"A Kloss, G Martius, J Bohg","Autonomous Robots 45 (4), 561-578, 2021",44,2021
+Georg Martius,Machine learning time-local generators of open quantum dynamics,"PP Mazza, D Zietlow, F Carollo, S Andergassen, G Martius, I Lesanovsky","Physical Review Research 3 (2), 023084, 2021",21,2021
+Georg Martius,Complexity and Self-Organization,"C Gershenson, D Polani, G Martius","Frontiers in Robotics and AI 8, 668305, 2021",6,2021
+Georg Martius,A reinforcement learning approach to view planning for automated inspection tasks,"C Landgraf, B Meese, M Pabst, G Martius, MF Huber","Sensors 21 (6), 2030, 2021",12,2021
+Georg Martius,Neuro-algorithmic policies enable fast combinatorial generalization,"M Vlastelica, M Rolínek, G Martius","arXiv preprint arXiv:2102.07456, 2021",12,2021
+Georg Martius,Jumping over baselines with new methods to predict activation maps from resting-state fMRI,"E Lacosse, K Scheffler, G Lohmann, G Martius","Scientific reports 11 (1), 3480, 2021",3,2021
+Georg Martius,Neuro-algorithmic Policies enable Fast Combinatorial Generalization.,"MV Pogancic, M Rolínek, G Martius","CoRR, 2021",,2021
+Georg Martius,Theory of geometric super-resolution for haptic sensor design,"H Sun, G Martius","arXiv preprint arXiv:2105.11914, 2021",1,2021
+Georg Martius,Self-supervised visual reinforcement learning with object-centric representations,"A Zadaianchuk, M Seitzer, G Martius","arXiv preprint arXiv:2011.14381, 2020",20,2020
+Georg Martius,Discrete Planning with Neuro-algorithmic Policies,"MV Pogančić, M Rolinek, G Martius","Learning Meets Combinatorial Algorithms at NeurIPS2020, 2020",,2020
+Georg Martius,Fit The Right NP-Hard Problem: End-to-end Learning of Integer Programming Constraints,"A Paulus, M Rolinek, V Musil, B Amos, G Martius","Learning Meets Combinatorial Algorithms at NeurIPS2020, 2020",3,2020
+Georg Martius,Neuro-algorithmic Policies for Discrete Planning,"MV Pogančić, M Rolinek, G Martius",,,2020
+Georg Martius,Clearing the Path for Truly Semantic Representation Learning,"D Zietlow, M Rolinek, G Martius",,,2020
+Georg Martius,Extracting strong policies for robotics tasks from zero-order trajectory optimizers,"C Pinneri, S Sawant, S Blaes, G Martius","International Conference on Learning Representations, 2020",9,2020
+Georg Martius,A real-robot dataset for assessing transferability of learned dynamics models,"D Agudelo-Espana, A Zadaianchuk, P Wenk, A Garg, J Akpo, ...","2020 IEEE International Conference on Robotics and Automation (ICRA), 8151-8157, 2020",6,2020
+Georg Martius,Analytical classical density functionals from an equation learning network,"SC Lin, G Martius, M Oettel","The Journal of Chemical Physics 152 (2), 2020",28,2020
+Georg Martius,Discrete planning with end-to-end trained neuro-algorithmic policies,"M Vlastelica, M Rolinek, G Martius","ICML, 2020",2,2020
+Georg Martius,Deep graph matching via blackbox differentiation of combinatorial solvers,"M Rolínek, P Swoboda, D Zietlow, A Paulus, V Musil, G Martius","Computer Vision–ECCV 2020: 16th European Conference, Glasgow, UK, August 23 …, 2020",92,2020
+Georg Martius,Fast non-parametric learning to accelerate mixed-integer programming for hybrid model predictive control,"JJ Zhu, G Martius","IFAC-PapersOnLine 53 (2), 5239-5245, 2020",14,2020
+Georg Martius,Optimizing rank-based metrics with blackbox differentiation,"M Rolínek, V Musil, A Paulus, M Vlastelica, C Michaelis, G Martius","Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2020",80,2020
+Georg Martius,Assessing aesthetics of generated abstract images using correlation structure,"S Khajehabdollahi, G Martius, A Levina","2019 IEEE Symposium Series on Computational Intelligence (SSCI), 306-313, 2019",3,2019
+Georg Martius,Differentiation of blackbox combinatorial solvers,"MV Pogančić, A Paulus, V Musil, G Martius, M Rolinek","International Conference on Learning Representations, 2019",233,2019
+Georg Martius,Machine learning for haptics: Inferring multi-contact stimulation from sparse sensor configuration,"H Sun, G Martius","Frontiers in neurorobotics 13, 51, 2019",11,2019
+Georg Martius,Autonomous identification and goal-directed invocation of event-predictive behavioral primitives,"C Gumbsch, MV Butz, G Martius","IEEE transactions on cognitive and developmental systems 13 (2), 298-311, 2019",16,2019
+Georg Martius,Control what you can: Intrinsically motivated task-planning agent,"S Blaes, MV Pogančić, JJ Zhu, G Martius","Advances in Neural Information Processing Systems (NeurIPS) 32, 12520-12531, 2019",33,2019
+Georg Martius,Falsification of hybrid systems using symbolic reachability and trajectory splicing,"S Bogomolov, G Frehse, A Gurung, D Li, G Martius, R Ray","Proceedings of the 22nd ACM International Conference on Hybrid Systems …, 2019",15,2019
+Georg Martius,Variational autoencoders pursue pca directions (by accident),"M Rolinek, D Zietlow, G Martius","Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2019",142,2019
+Georg Martius,Deep reinforcement learning for event-triggered control,"D Baumann, JJ Zhu, G Martius, S Trimpe","2018 IEEE Conference on Decision and Control (CDC), 943-950, 2018",58,2018
+Georg Martius,Task fMRI Prediction from Task Free Resting State Measurements,"E Lacosse, G Lohmann, M Himmelbach, K Scheffler, G Martius",,,2018
+Georg Martius,Robust affordable 3D haptic sensation via learning deformation patterns,"H Sun, G Martius","2018 IEEE-RAS 18th International Conference on Humanoid Robots (Humanoids …, 2018",5,2018
+Georg Martius,Learning equations for extrapolation and control,"S Sahoo, C Lampert, G Martius","International Conference on Machine Learning, 4442-4450, 2018",199,2018
+Georg Martius,Systematic self-exploration of behaviors for robots in a dynamical systems framework,"C Pinneri, G Martius","Artificial Life Conference Proceedings, 319-326, 2018",4,2018
+Georg Martius,Nonlinear decoding of a complex movie from the mammalian retina,"V Botella-Soler, S Deny, G Martius, O Marre, G Tkačik","PLoS computational biology 14 (5), e1006057, 2018",42,2018
+Georg Martius,Nonlinear decoding of a complex movie from the mammalian retina,"S Deny, O Marre, V Botella-Soler, GS Martius, G Tkacik",,1,2018
+Georg Martius,L4: Practical loss-based stepsize adaptation for deep learning,"M Rolinek, G Martius","Advances in Neural Information Processing Systems, 6433-6443, 2018",61,2018
+Georg Martius,Towards controlled self-organized behavioral exploration,"C Pinneri, G Martius",,,2017
+Georg Martius,Self-organized behavior generation for musculoskeletal robots,"R Der, G Martius","Frontiers in Neurorobotics 11, 8, 2017",16,2017
+Georg Martius,Extrapolation and learning equations,"G Martius, CH Lampert","arXiv preprint arXiv:1610.02995, 2016",132,2016
+Georg Martius,Compliant control for soft robots: emergent behavior of a tendon driven anthropomorphic arm,"G Martius, R Hostettler, A Knoll, R Der","2016 IEEE/RSJ international conference on intelligent robots and systems …, 2016",23,2016
+Georg Martius,Dynamical self-consistency leads to behavioral development and emergent social interactions in robots,"R Der, G Martius","2016 Joint IEEE International Conference on Development and Learning and …, 2016",,2016
+Georg Martius,Self-organized control of an tendon driven arm by differential extrinsic plasticity,"R Der, A Knoll, R Hostettler, G Martius","Artificial Life Conference Proceedings, 142-143, 2016",,2016
+Georg Martius,Self-organized control for musculoskeletal robots,"R Der, G Martius","arXiv preprint arXiv:1602.02990, 2016",2,2016
+Georg Martius,The world as its own best controller: a case study with anthropomimetic robots.,"R Der, G Martius","arXiv preprint arXiv:1602.02990, 2016",1,2016
+Georg Martius,Reviewers of Volume 22,"D Ackley, A Adamatzky, E Agmon, B Alicea, L Altenberg, T Andersen, ...","Artificial Life 22 (537), 2016",,2016
+Georg Martius,Novel plasticity rule can explain the development of sensorimotor intelligence,"R Der, G Martius","Proceedings of the National Academy of Sciences 112 (45), E6224-E6232, 2015",40,2015
+Georg Martius,Quantifying emergent behavior of autonomous robots,"G Martius, E Olbrich","Entropy 17 (10), 7266-7297, 2015",7,2015
+Georg Martius,Quantifying Self-Organizing Behavior of Autonomous Robots,"G Martius, E Olbrich","Artificial Life Conference Proceedings, 78-78, 2015",,2015

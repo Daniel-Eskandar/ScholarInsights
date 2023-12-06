@@ -1,0 +1,30 @@
+author_name,title,authors,publication,cited_by_value,year
+Peter Ochs,A Quasi-Newton Primal-Dual Algorithm with Line Search,"S Wang, J Fadili, P Ochs","International Conference on Scale Space and Variational Methods in Computer …, 2023",,2023
+Peter Ochs,PAC-Bayesian Learning of Optimization Algorithms,"M Sucker, P Ochs","International Conference on Artificial Intelligence and Statistics, 8145-8164, 2023",2,2023
+Peter Ochs,An abstract convergence framework with application to inertial inexact forward–backward methods,"S Bonettini, P Ochs, M Prato, S Rebegoldi","Computational Optimization and Applications 84 (2), 319-362, 2023",3,2023
+Peter Ochs,Continuous Newton-like Methods featuring Inertia and Variable Mass,"C Castera, H Attouch, J Fadili, P Ochs","arXiv preprint arXiv:2301.08726, 2023",,2023
+Peter Ochs,Inertial quasi-newton methods for monotone inclusion: efficient resolvent calculus and primal-dual methods,"S Wang, J Fadili, P Ochs","arXiv preprint arXiv:2209.14019, 2022",2,2022
+Peter Ochs,Fixed-Point Automatic Differentiation of Forward--Backward Splitting Algorithms for Partly Smooth Functions,"S Mehmood, P Ochs","arXiv preprint arXiv:2208.03107, 2022",1,2022
+Peter Ochs,Global convergence of model function based Bregman proximal minimization algorithms,"MC Mukkamala, J Fadili, P Ochs","Journal of Global Optimization, 1-29, 2022",8,2022
+Peter Ochs,Bregman proximal gradient algorithms for deep matrix factorization,"MC Mukkamala, F Westerkamp, E Laude, D Cremers, P Ochs","International Conference on Scale Space and Variational Methods in Computer …, 2021",6,2021
+Peter Ochs,Differentiating the value function by using convex duality,"S Mehmood, P Ochs","International Conference on Artificial Intelligence and Statistics, 3871-3879, 2021",4,2021
+Peter Ochs,Automatic differentiation of some first-order methods in parametric optimization,"S Mehmood, P Ochs","International Conference on Artificial Intelligence and Statistics, 1584-1594, 2020",16,2020
+Peter Ochs,Bregman proximal mappings and Bregman–Moreau envelopes under relative prox-regularity,"E Laude, P Ochs, D Cremers","Journal of Optimization Theory and Applications 184, 724-761, 2020",15,2020
+Peter Ochs,Self-supervised sparse to dense motion segmentation,"A Kardoost, K Ho, P Ochs, M Keuper","Proceedings of the Asian Conference on Computer Vision, 2020",7,2020
+Peter Ochs,Convex-concave backtracking for inertial Bregman proximal gradient algorithms in nonconvex optimization,"MC Mukkamala, P Ochs, T Pock, S Sabach","SIAM Journal on Mathematics of Data Science 2 (3), 658-682, 2020",50,2020
+Peter Ochs,Model function based conditional gradient method with Armijo-like line search,"P Ochs, Y Malitsky","International Conference on Machine Learning, 4891-4900, 2019",4,2019
+Peter Ochs,Non-smooth non-convex Bregman minimization: Unification and new algorithms,"P Ochs, J Fadili, T Brox","Journal of Optimization Theory and Applications 181 (1), 244-278, 2019",45,2019
+Peter Ochs,Adaptive FISTA for nonconvex optimization,"P Ochs, T Pock","SIAM Journal on Optimization 29 (4), 2482-2503, 2019",11,2019
+Peter Ochs,Beyond alternating updates for matrix factorization with inertial Bregman proximal gradient algorithms,"MC Mukkamala, P Ochs","Advances in Neural Information Processing Systems 32, 2019",25,2019
+Peter Ochs,Unifying abstract inexact convergence theorems and block coordinate variable metric iPiano,P Ochs,"SIAM Journal on Optimization 29 (1), 541-570, 2019",49,2019
+Peter Ochs,AFSI: Adaptive restart for fast semi-iterative schemes for convex optimisation,"JA Tómasson, P Ochs, J Weickert","Pattern Recognition: 40th German Conference, GCPR 2018, Stuttgart, Germany …, 2019",2,2019
+Peter Ochs,On quasi-Newton forward-backward splitting: Proximal calculus and convergence,"S Becker, J Fadili, P Ochs","SIAM Journal on Optimization 29 (4), 2445-2481, 2019",55,2019
+Peter Ochs,Local convergence of the heavy-ball method and ipiano for non-convex optimization,P Ochs,"Journal of Optimization Theory and Applications 177 (1), 153-180, 2018",43,2018
+Peter Ochs,Lifting layers: Analysis and applications,"P Ochs, T Meinhardt, L Leal-Taixe, M Moeller","Proceedings of the European Conference on Computer Vision (ECCV), 52-67, 2018",9,2018
+Peter Ochs,Techniques for gradient-based bilevel optimization with non-smooth lower level problems,"P Ochs, R Ranftl, T Brox, T Pock","Journal of Mathematical Imaging and Vision 56, 175-194, 2016",52,2016
+Peter Ochs,FSI schemes: fast semi-iterative solvers for PDEs and optimisation methods,"D Hafner, P Ochs, J Weickert, M Reißel, S Grewenig","Pattern Recognition: 38th German Conference, GCPR 2016, Hannover, Germany …, 2016",13,2016
+Peter Ochs,Robust interactive multi-label segmentation with an advanced edge detector,"S Müller, P Ochs, J Weickert, N Graf","Pattern Recognition: 38th German Conference, GCPR 2016, Hannover, Germany …, 2016",12,2016
+Peter Ochs,Long term motion analysis for object level grouping and nonsmooth optimization methods,P Ochs,"PhD thesis, Albert-Ludwigs-Universität Freiburg 22, 31-32, 2015",9,2015
+Peter Ochs,On iteratively reweighted Algorithms for Non-smooth Non-convex Optimization in Computer Vision,"P Ochs, A Dosovitskiy, T Brox, T Pock","SIAM Journal on Imaging Sciences (SIIMS) 8 (1), 331–372, 2015",212,2015
+Peter Ochs,Bilevel optimization with nonsmooth lower level problems,"P Ochs, R Ranftl, T Brox, T Pock","Scale Space and Variational Methods in Computer Vision: 5th International …, 2015",82,2015
+Peter Ochs,iPiasco: Inertial proximal algorithm for strongly convex optimization,"P Ochs, T Brox, T Pock","Journal of Mathematical Imaging and Vision, 2015",119,2015
