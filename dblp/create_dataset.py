@@ -6,10 +6,7 @@ import re
 
 def get_publication_type(pub_element):
     if 'publtype' in pub_element.attrib:
-        if pub_element.attrib['publtype'].lower() == 'informal':
-            return 'Informal or Other Publication'
-        else:
-            return pub_element.attrib['publtype']
+        return 'Informal or Other Publication'
     else:
         if pub_element.find('journal') is not None:
             return 'Journal Article'
