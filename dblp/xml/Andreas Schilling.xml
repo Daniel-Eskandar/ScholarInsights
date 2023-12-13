@@ -1,0 +1,1117 @@
+<?xml version="1.0"?>
+<dblpperson name="Andreas Schilling 0001" pid="14/2967" n="70">
+<person key="homepages/14/2967" mdate="2020-10-27">
+<author pid="14/2967">Andreas Schilling 0001</author>
+<note type="affiliation">University of T&#252;bingen, Germany</note>
+<url>http://www.gris.uni-tuebingen.de/lehrstuhl/personen/mitarbeiter/36/schilling.html</url>
+<url>https://orcid.org/0000-0002-5339-2023</url>
+</person>
+<homonyms n="4">
+<h f="s/Schilling:Andreas"><name>Andreas Schilling</name>
+</h>
+<h f="s/Schilling_0002:Andreas"><person key="homepages/14/2967-2" mdate="2019-03-08">
+<author pid="14/2967-2">Andreas Schilling 0002</author>
+<note type="affiliation">University of Bamberg, Germany</note>
+</person>
+</h>
+<h f="s/Schilling_0003:Andreas"><person key="homepages/14/2967-3" mdate="2019-03-08">
+<author pid="14/2967-3">Andreas Schilling 0003</author>
+<note type="affiliation">Ruhr University Bochum, Faculty of Management and Economics, Bochum, Germany</note>
+</person>
+</h>
+<h f="s/Schilling_0004:Andreas"><person key="homepages/282/2837" mdate="2022-07-29">
+<author pid="282/2837">Andreas Schilling 0004</author>
+<note type="affiliation">University of Kassel, Department of Foundry Technology, Germany</note>
+<url>https://orcid.org/0000-0003-4673-0984</url>
+</person>
+</h>
+</homonyms>
+<r><article key="journals/access/FruehSGK22" mdate="2022-08-25">
+<author orcid="0000-0002-6096-6101" pid="223/7092">Marcel Frueh</author>
+<author pid="14/2967">Andreas Schilling 0001</author>
+<author orcid="0000-0002-6928-4967" pid="180/2882">Sergios Gatidis</author>
+<author orcid="0000-0002-0353-4898" pid="166/6422">Thomas K&#252;stner</author>
+<title>Real Time Landmark Detection for Within- and Cross Subject Tracking With Minimal Human Supervision.</title>
+<pages>81192-81202</pages>
+<year>2022</year>
+<volume>10</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2022.3195211</ee>
+<url>db/journals/access/access10.html#FruehSGK22</url>
+</article>
+</r>
+<r><article key="journals/cmpb/FruehKNTSG22" mdate="2022-10-24">
+<author pid="223/7092">Marcel Frueh</author>
+<author orcid="0000-0002-0353-4898" pid="166/6422">Thomas K&#252;stner</author>
+<author orcid="0000-0001-8923-4740" pid="330/4450">Marcel Nachbar</author>
+<author pid="330/4226">Daniela Thorwarth</author>
+<author pid="14/2967">Andreas Schilling 0001</author>
+<author orcid="0000-0002-6928-4967" pid="180/2882">Sergios Gatidis</author>
+<title>Self-supervised learning for automated anatomical tracking in medical image data with minimal human labeling effort.</title>
+<pages>107085</pages>
+<year>2022</year>
+<volume>225</volume>
+<journal>Comput. Methods Programs Biomed.</journal>
+<ee type="oa">https://doi.org/10.1016/j.cmpb.2022.107085</ee>
+<url>db/journals/cmpb/cmpb225.html#FruehKNTSG22</url>
+</article>
+</r>
+<r><inproceedings key="conf/eccv/TheodoridisHMS22" mdate="2022-11-16">
+<author pid="333/3089">Johannes Theodoridis</author>
+<author pid="333/3748">Jessica Hofmann</author>
+<author pid="52/5980">Johannes Maucher</author>
+<author pid="14/2967">Andreas Schilling 0001</author>
+<title>Trapped in Texture Bias? A Large Scale Comparison of Deep Instance Segmentation.</title>
+<pages>609-627</pages>
+<year>2022</year>
+<booktitle>ECCV (8)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-20074-8_35</ee>
+<crossref>conf/eccv/2022-8</crossref>
+<url>db/conf/eccv/eccv2022-8.html#TheodoridisHMS22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icchp/AbleitnerHSSZ22" mdate="2022-07-25">
+<author orcid="0000-0001-5750-518X" pid="210/3726">Tobias Ableitner</author>
+<author pid="305/4596">Fiona Heilemann</author>
+<author pid="14/2967">Andreas Schilling 0001</author>
+<author orcid="0000-0003-1280-5538" pid="123/6883">Surjo R. Soekadar</author>
+<author orcid="0000-0002-3129-1897" pid="44/3423">Gottfried Zimmermann</author>
+<title>Hands-Free Interaction Methods for Smart Home Control with Google Glass.</title>
+<pages>121-129</pages>
+<year>2022</year>
+<booktitle>ICCHP-AAATE (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-08645-8_15</ee>
+<crossref>conf/icchp/2022-2</crossref>
+<url>db/conf/icchp/icchp2022-2.html#AbleitnerHSSZ22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vmv/LangeRS20" mdate="2020-10-06">
+<author pid="41/10721">Manuel Lange</author>
+<author pid="254/4592">Claudio Raisch</author>
+<author pid="14/2967">Andreas Schilling 0001</author>
+<title>WLD: A Wavelet and Learning based Line Descriptor for Line Feature Matching.</title>
+<pages>39-46</pages>
+<year>2020</year>
+<booktitle>VMV</booktitle>
+<ee>https://doi.org/10.2312/vmv.20201186</ee>
+<crossref>conf/vmv/2020</crossref>
+<url>db/conf/vmv/vmv2020.html#LangeRS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmv/HaelingN019" mdate="2020-11-07">
+<author pid="225/8405">Jonas Haeling</author>
+<author pid="77/4223">Marc Necker</author>
+<author orcid="0000-0002-5339-2023" pid="14/2967">Andreas Schilling 0001</author>
+<title>Dense urban scene reconstruction using stereo depth image triangulation.</title>
+<pages>114331R</pages>
+<year>2019</year>
+<booktitle>ICMV</booktitle>
+<ee>https://doi.org/10.1117/12.2556688</ee>
+<crossref>conf/icmv/2019</crossref>
+<url>db/conf/icmv/icmv2019.html#HaelingN019</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipin/LangeR019" mdate="2020-10-25">
+<author pid="41/10721">Manuel Lange</author>
+<author pid="254/4592">Claudio Raisch</author>
+<author orcid="0000-0002-5339-2023" pid="14/2967">Andreas Schilling 0001</author>
+<title>LVO: Line only stereo Visual Odometry.</title>
+<pages>1-8</pages>
+<year>2019</year>
+<booktitle>IPIN</booktitle>
+<ee>https://doi.org/10.1109/IPIN.2019.8911808</ee>
+<crossref>conf/ipin/2019</crossref>
+<url>db/conf/ipin/ipin2019.html#LangeR019</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/LangeS019" mdate="2020-10-25">
+<author pid="41/10721">Manuel Lange</author>
+<author pid="257/3500">Fabian Schweinfurth</author>
+<author orcid="0000-0002-5339-2023" pid="14/2967">Andreas Schilling 0001</author>
+<title>DLD: A Deep Learning Based Line Descriptor for Line Feature Matching.</title>
+<pages>5910-5915</pages>
+<year>2019</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS40897.2019.8968062</ee>
+<crossref>conf/iros/2019</crossref>
+<url>db/conf/iros/iros2019.html#LangeS019</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mc/AbleitnerS0SZ19" mdate="2023-12-07">
+<author pid="210/3726">Tobias Ableitner</author>
+<author pid="123/6883">Surjo R. Soekadar</author>
+<author pid="14/2967">Andreas Schilling 0001</author>
+<author pid="72/6358">Christophe Strobbe</author>
+<author pid="44/3423">Gottfried Zimmermann</author>
+<title>User acceptance of augmented reality glasses in comparison to other interaction methods for controlling a hand exoskeleton.</title>
+<year>2019</year>
+<booktitle>MuC (Workshopband)</booktitle>
+<ee>https://doi.org/10.18420/muc2019-ws-616</ee>
+<crossref>conf/mc/2019w</crossref>
+<url>db/conf/mc/mc2019w.html#AbleitnerS0SZ19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/euspn/AbleitnerSSSZ18" mdate="2021-02-10">
+<author pid="210/3726">Tobias Ableitner</author>
+<author pid="123/6883">Surjo R. Soekadar</author>
+<author pid="72/6358">Christophe Strobbe</author>
+<author orcid="0000-0002-5339-2023" pid="14/2967">Andreas Schilling 0001</author>
+<author pid="44/3423">Gottfried Zimmermann</author>
+<title>Interaction techniques for a neural-guided hand exoskeleton.</title>
+<pages>442-446</pages>
+<year>2018</year>
+<booktitle>EUSPN/ICTH</booktitle>
+<ee type="oa">https://doi.org/10.1016/j.procs.2018.10.164</ee>
+<crossref>conf/euspn/2018</crossref>
+<url>db/conf/euspn/euspn2018.html#AbleitnerSSSZ18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmv/HaelingN018" mdate="2020-11-07">
+<author pid="225/8405">Jonas Haeling</author>
+<author pid="77/4223">Marc Necker</author>
+<author orcid="0000-0002-5339-2023" pid="14/2967">Andreas Schilling 0001</author>
+<title>Towards immersive stereo vision from a mobile platform.</title>
+<pages>110410V</pages>
+<year>2018</year>
+<booktitle>ICMV</booktitle>
+<ee>https://doi.org/10.1117/12.2522772</ee>
+<crossref>conf/icmv/2018</crossref>
+<url>db/conf/icmv/icmv2018.html#HaelingN018</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/imaging/KargeRE018" mdate="2023-08-06">
+<author pid="351/8037">Andreas Karge</author>
+<author pid="352/0742">Ingmar Rieger</author>
+<author orcid="0000-0001-6428-4610" pid="56/6430">Bernhard Eberhardt</author>
+<author orcid="0000-0002-5339-2023" pid="14/2967">Andreas Schilling 0001</author>
+<title>Using Chromaticity Error Minimisation for Fast Camera Spectral Responsivity Measurement.</title>
+<pages>67-74</pages>
+<year>2018</year>
+<booktitle>CIC</booktitle>
+<ee type="oa">https://doi.org/10.2352/ISSN.2169-2629.2018.26.67</ee>
+<crossref>conf/imaging/2018</crossref>
+<url>db/conf/imaging/cic2018.html#KargeRE018</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/JellalLWSZ17" mdate="2020-10-25">
+<author pid="154/7281">Radouane Ait Jellal</author>
+<author pid="41/10721">Manuel Lange</author>
+<author pid="14/9247">Benjamin Wassermann</author>
+<author orcid="0000-0002-5339-2023" pid="14/2967">Andreas Schilling 0001</author>
+<author pid="05/4192">Andreas Zell</author>
+<title>LS-ELAS: Line segment based efficient large scale stereo matching.</title>
+<pages>146-152</pages>
+<year>2017</year>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ICRA.2017.7989019</ee>
+<crossref>conf/icra/2017</crossref>
+<url>db/conf/icra/icra2017.html#JellalLWSZ17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/FroehlichSDSE16" mdate="2020-10-25">
+<author pid="169/9182">Jan Fr&#246;hlich</author>
+<author pid="06/6913">Guan-Ming Su</author>
+<author pid="63/8374">Scott Daly</author>
+<author orcid="0000-0002-5339-2023" pid="14/2967">Andreas Schilling 0001</author>
+<author orcid="0000-0001-6428-4610" pid="56/6430">Bernd Eberhardt</author>
+<title>Content aware quantization: Requantization of high dynamic range baseband signals based on visual masking by noise and texture.</title>
+<pages>884-888</pages>
+<year>2016</year>
+<booktitle>ICIP</booktitle>
+<ee>https://doi.org/10.1109/ICIP.2016.7532484</ee>
+<crossref>conf/icip/2016</crossref>
+<url>db/conf/icip/icip2016.html#FroehlichSDSE16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/imaging/FrohlichKAPD0E15" mdate="2023-07-18">
+<author pid="169/9182">Jan Fr&#246;hlich</author>
+<author pid="31/8320">Timo Kunkel</author>
+<author pid="182/9009">Robin Atkins</author>
+<author pid="351/7803">Jaclyn Pytlarz</author>
+<author pid="63/8374">Scott Daly</author>
+<author pid="14/2967">Andreas Schilling 0001</author>
+<author pid="56/6430">Bernd Eberhardt</author>
+<title>Encoding Color Difference Signals for High Dynamic Range and Wide Gamut Imagery.</title>
+<pages>240-247</pages>
+<year>2015</year>
+<booktitle>CIC</booktitle>
+<ee type="oa">https://doi.org/10.2352/CIC.2015.23.1.art00044</ee>
+<crossref>conf/imaging/2015</crossref>
+<url>db/conf/imaging/cic2015.html#FrohlichKAPD0E15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ozchi/MockJEKSR15" mdate="2020-10-25">
+<author pid="121/4906">Philipp Mock</author>
+<author pid="173/9953">Jonas Jaszkowic</author>
+<author pid="57/9148">J&#246;rg Edelmann</author>
+<author pid="55/6725">Yvonne Kammerer</author>
+<author orcid="0000-0002-5339-2023" pid="14/2967">Andreas Schilling 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>keyValuate: A Framework for Rapid Evaluation of Adaptive Keyboards on Touchscreens.</title>
+<pages>361-369</pages>
+<year>2015</year>
+<booktitle>OZCHI</booktitle>
+<ee>https://doi.org/10.1145/2838739.2838744</ee>
+<crossref>conf/ozchi/2015</crossref>
+<url>db/conf/ozchi/ozchi2015.html#MockJEKSR15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dphoto/FroehlichGEWSB14" mdate="2020-10-25">
+<author pid="169/9182">Jan Fr&#246;hlich</author>
+<author pid="169/9178">Stefan Grandinetti</author>
+<author orcid="0000-0001-6428-4610" pid="56/6430">Bernd Eberhardt</author>
+<author pid="169/9165">Simon Walter</author>
+<author orcid="0000-0002-5339-2023" pid="14/2967">Andreas Schilling 0001</author>
+<author pid="141/9878">Harald Brendel</author>
+<title>Creating cinematic wide gamut HDR-video for the evaluation of tone mapping operators and HDR-displays.</title>
+<pages>90230X</pages>
+<year>2014</year>
+<booktitle>Digital Photography</booktitle>
+<ee>https://doi.org/10.1117/12.2040003</ee>
+<crossref>conf/dphoto/2014</crossref>
+<url>db/conf/dphoto/dphoto2014.html#FroehlichGEWSB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iui/MockESR14" mdate="2020-10-25">
+<author pid="121/4906">Philipp Mock</author>
+<author pid="57/9148">J&#246;rg Edelmann</author>
+<author orcid="0000-0002-5339-2023" pid="14/2967">Andreas Schilling 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>User identification using raw sensor data from typing on interactive displays.</title>
+<pages>67-72</pages>
+<year>2014</year>
+<booktitle>IUI</booktitle>
+<ee>https://doi.org/10.1145/2557500.2557503</ee>
+<crossref>conf/iui/2014</crossref>
+<url>db/conf/iui/iui2014.html#MockESR14</url>
+</inproceedings>
+</r>
+<r><article key="journals/vc/HerholzHS13" mdate="2020-10-26">
+<author pid="47/7852">Sebastian Herholz</author>
+<author pid="133/2866">Jens-Uwe Hahn</author>
+<author orcid="0000-0002-5339-2023" pid="14/2967">Andreas Schilling 0001</author>
+<title>Dual space directional occlusion.</title>
+<pages>917-926</pages>
+<year>2013</year>
+<volume>29</volume>
+<journal>Vis. Comput.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1007/s00371-013-0856-7</ee>
+<url>db/journals/vc/vc29.html#HerholzHS13</url>
+</article>
+</r>
+<r><inproceedings key="conf/cdve/EdelmannMSG13" mdate="2019-03-08">
+<author pid="57/9148">J&#246;rg Edelmann</author>
+<author pid="121/4906">Philipp Mock</author>
+<author pid="14/2967">Andreas Schilling 0001</author>
+<author pid="69/5678">Peter Gerjets</author>
+<title>Preserving Non-verbal Features of Face-to-Face Communication for Remote Collaboration.</title>
+<pages>27-34</pages>
+<year>2013</year>
+<booktitle>CDVE</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-40840-3_4</ee>
+<crossref>conf/cdve/2013</crossref>
+<url>db/conf/cdve/cdve2013.html#EdelmannMSG13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/3dim/ParysS12" mdate="2023-03-24">
+<author pid="122/8718">Roman Parys</author>
+<author orcid="0000-0002-5339-2023" pid="14/2967">Andreas Schilling 0001</author>
+<title>Incremental Large Scale 3D Reconstruction.</title>
+<pages>416-423</pages>
+<year>2012</year>
+<booktitle>3DIMPVT</booktitle>
+<ee>https://doi.org/10.1109/3DIMPVT.2012.83</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/3DIMPVT.2012.83</ee>
+<crossref>conf/3dim/2012</crossref>
+<url>db/conf/3dim/3dimpvt2012.html#ParysS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/3dim/LiefersPS12" mdate="2023-03-24">
+<author pid="122/8726">Florian Liefers</author>
+<author pid="122/8718">Roman Parys</author>
+<author orcid="0000-0002-5339-2023" pid="14/2967">Andreas Schilling 0001</author>
+<title>Analysis-by-Synthesis Texture Reconstruction.</title>
+<pages>571-578</pages>
+<year>2012</year>
+<booktitle>3DIMPVT</booktitle>
+<ee>https://doi.org/10.1109/3DIMPVT.2012.73</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/3DIMPVT.2012.73</ee>
+<crossref>conf/3dim/2012</crossref>
+<url>db/conf/3dim/3dimpvt2012.html#LiefersPS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/3dtv/MockSSE12" mdate="2020-10-25">
+<author pid="121/4906">Philipp Mock</author>
+<author orcid="0000-0002-5339-2023" pid="14/2967">Andreas Schilling 0001</author>
+<author pid="46/1632">Wolfgang Stra&#223;er</author>
+<author pid="57/9148">J&#246;rg Edelmann</author>
+<title>Direct 3D-collaboration with Face2Face - implementation details and application concepts.</title>
+<pages>1-4</pages>
+<year>2012</year>
+<booktitle>3DTV-Conference</booktitle>
+<ee>https://doi.org/10.1109/3DTV.2012.6365479</ee>
+<crossref>conf/3dtv/2012</crossref>
+<url>db/conf/3dtv/3dtv2012.html#MockSSE12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/espa/EdelmannGMSS12" mdate="2020-10-25">
+<author pid="57/9148">J&#246;rg Edelmann</author>
+<author pid="69/5678">Peter Gerjets</author>
+<author pid="121/4906">Philipp Mock</author>
+<author orcid="0000-0002-5339-2023" pid="14/2967">Andreas Schilling 0001</author>
+<author pid="46/1632">Wolfgang Stra&#223;er</author>
+<title>Face2Face - A system for multi-touch collaboration with telepresence.</title>
+<pages>159-162</pages>
+<year>2012</year>
+<booktitle>ESPA</booktitle>
+<ee>https://doi.org/10.1109/ESPA.2012.6152470</ee>
+<crossref>conf/espa/2012</crossref>
+<url>db/conf/espa/espa2012.html#EdelmannGMSS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/missi/ParysLS12" mdate="2019-03-08">
+<author pid="122/8718">Roman Parys</author>
+<author pid="122/8726">Florian Liefers</author>
+<author pid="14/2967">Andreas Schilling 0001</author>
+<title>Compact Descriptor for Video Sequence Matching in the Context of Large Scale 3D Reconstruction.</title>
+<pages>55-64</pages>
+<year>2012</year>
+<booktitle>MISSI</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-32335-5_6</ee>
+<crossref>conf/missi/2012</crossref>
+<url>db/conf/missi/missi2012.html#ParysLS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tabletop/EdelmannMSGRS12" mdate="2020-10-25">
+<author pid="57/9148">J&#246;rg Edelmann</author>
+<author pid="121/4906">Philipp Mock</author>
+<author orcid="0000-0002-5339-2023" pid="14/2967">Andreas Schilling 0001</author>
+<author pid="69/5678">Peter Gerjets</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<author pid="46/1632">Wolfgang Stra&#223;er</author>
+<title>Towards the keyboard of oz: learning individual soft-keyboard models from raw optical sensor data.</title>
+<pages>163-172</pages>
+<year>2012</year>
+<booktitle>ITS</booktitle>
+<ee>https://doi.org/10.1145/2396636.2396662</ee>
+<crossref>conf/tabletop/2012</crossref>
+<url>db/conf/tabletop/its2012.html#EdelmannMSGRS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vmv/HerholzSSS12" mdate="2020-10-25">
+<author pid="47/7852">Sebastian Herholz</author>
+<author pid="86/7416">Timo Schairer</author>
+<author orcid="0000-0002-5339-2023" pid="14/2967">Andreas Schilling 0001</author>
+<author pid="46/1632">Wolfgang Stra&#223;er</author>
+<title>Screen Space Spherical Harmonic Occlusion.</title>
+<pages>71-78</pages>
+<year>2012</year>
+<booktitle>VMV</booktitle>
+<ee>https://doi.org/10.2312/PE/VMV/VMV12/071-078</ee>
+<crossref>conf/vmv/2012</crossref>
+<url>db/conf/vmv/vmv2012.html#HerholzSSS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/3dim/HuhleSSS11" mdate="2023-03-24">
+<author pid="17/4042">Benjamin Huhle</author>
+<author pid="86/7416">Timo Schairer</author>
+<author orcid="0000-0002-5339-2023" pid="14/2967">Andreas Schilling 0001</author>
+<author pid="46/1632">Wolfgang Stra&#223;er</author>
+<title>6DoF Registration of 2D Laser Scans.</title>
+<pages>148-155</pages>
+<year>2011</year>
+<booktitle>3DIMPVT</booktitle>
+<ee>https://doi.org/10.1109/3DIMPVT.2011.26</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/3DIMPVT.2011.26</ee>
+<crossref>conf/3dim/2011</crossref>
+<url>db/conf/3dim/3dimpvt2011.html#HuhleSSS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/crv/HuhleSSS11" mdate="2023-03-24">
+<author pid="17/4042">Benjamin Huhle</author>
+<author pid="86/7416">Timo Schairer</author>
+<author orcid="0000-0002-5339-2023" pid="14/2967">Andreas Schilling 0001</author>
+<author pid="46/1632">Wolfgang Stra&#223;er</author>
+<title>Optimal Alignment of 3D Data for Spatial Discretization.</title>
+<pages>355-362</pages>
+<year>2011</year>
+<booktitle>CRV</booktitle>
+<ee>https://doi.org/10.1109/CRV.2011.54</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CRV.2011.54</ee>
+<crossref>conf/crv/2011</crossref>
+<url>db/conf/crv/crv2011.html#HuhleSSS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/SchairerHVSS11" mdate="2019-03-08">
+<author pid="86/7416">Timo Schairer</author>
+<author pid="17/4042">Benjamin Huhle</author>
+<author pid="12/94">Philipp Vorst</author>
+<author pid="14/2967">Andreas Schilling 0001</author>
+<author pid="46/1632">Wolfgang Stra&#223;er</author>
+<title>Visual mapping with uncertainty for correspondence-free localization using Gaussian process regression.</title>
+<pages>4229-4235</pages>
+<year>2011</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.2011.6094530</ee>
+<crossref>conf/iros/2011</crossref>
+<url>db/conf/iros/iros2011.html#SchairerHVSS11</url>
+</inproceedings>
+</r>
+<r><article key="journals/insk/DeussenBEKLRS10" mdate="2022-10-02">
+<author pid="48/2158">Oliver Deussen</author>
+<author orcid="0000-0003-2568-0607" pid="75/790">Heinrich H. B&#252;lthoff</author>
+<author pid="e/ThomasErtl">Thomas Ertl</author>
+<author pid="k/DanielAKeim">Daniel A. Keim</author>
+<author pid="78/3115">Bernd Lintermann</author>
+<author orcid="0000-0001-8528-8928" pid="02/5386">Harald Reiterer</author>
+<author orcid="0000-0002-5339-2023" pid="14/2967">Andreas Schilling 0001</author>
+<title>Visualisierung auf Gro&#223;bildschirmen - Herausforderung eines neuen Ausgabeger&#228;ts.</title>
+<pages>551-558</pages>
+<year>2010</year>
+<volume>33</volume>
+<journal>Inform. Spektrum</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s00287-010-0480-0</ee>
+<ee>https://www.wikidata.org/entity/Q63982064</ee>
+<url>db/journals/insk/insk33.html#DeussenBEKLRS10</url>
+</article>
+</r>
+<r><inproceedings key="conf/ipin/GraefensteinAB010" mdate="2020-12-29">
+<author pid="65/6665">Juergen Graefenstein</author>
+<author pid="31/5629">Amos Albert</author>
+<author pid="97/6509">Peter Biber</author>
+<author orcid="0000-0002-5339-2023" pid="14/2967">Andreas Schilling 0001</author>
+<title>Simultaneous mobile robot and radio node localization in wireless networks.</title>
+<pages>1-6</pages>
+<year>2010</year>
+<booktitle>IPIN</booktitle>
+<ee>https://doi.org/10.1109/IPIN.2010.5647573</ee>
+<crossref>conf/ipin/2010</crossref>
+<url>db/conf/ipin/ipin2010.html#GraefensteinAB010</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/HuhleSSSe10" mdate="2020-10-25">
+<author pid="17/4042">Benjamin Huhle</author>
+<author pid="86/7416">Timo Schairer</author>
+<author orcid="0000-0002-5339-2023" pid="14/2967">Andreas Schilling 0001</author>
+<author pid="46/1632">Wolfgang Stra&#223;er</author>
+<title>Learning to localize with Gaussian process regression on omnidirectional image data.</title>
+<pages>5208-5213</pages>
+<year>2010</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.2010.5650977</ee>
+<crossref>conf/iros/2010</crossref>
+<url>db/conf/iros/iros2010.html#HuhleSSSe10</url>
+</inproceedings>
+</r>
+<r><article key="journals/cgf/BokelohBWSS09" mdate="2020-10-26">
+<author pid="70/6203">Martin Bokeloh</author>
+<author pid="84/5165">Alexander Berner</author>
+<author pid="85/72">Michael Wand 0001</author>
+<author pid="s/HansPeterSeidel">Hans-Peter Seidel</author>
+<author orcid="0000-0002-5339-2023" pid="14/2967">Andreas Schilling 0001</author>
+<title>Symmetry Detection Using Feature Lines.</title>
+<pages>697-706</pages>
+<year>2009</year>
+<volume>28</volume>
+<journal>Comput. Graph. Forum</journal>
+<number>2</number>
+<ee>https://doi.org/10.1111/j.1467-8659.2009.01410.x</ee>
+<url>db/journals/cgf/cgf28.html#BokelohBWSS09</url>
+</article>
+</r>
+<r><article key="journals/tog/WandAOBBJGSS09" mdate="2020-10-26">
+<author pid="85/72">Michael Wand 0001</author>
+<author pid="38/1561">Bart Adams</author>
+<author pid="94/5668">Maks Ovsjanikov</author>
+<author pid="84/5165">Alexander Berner</author>
+<author pid="70/6203">Martin Bokeloh</author>
+<author pid="37/6648">Philipp Jenke</author>
+<author pid="g/LeonidasJGuibas">Leonidas J. Guibas</author>
+<author pid="s/HansPeterSeidel">Hans-Peter Seidel</author>
+<author orcid="0000-0002-5339-2023" pid="14/2967">Andreas Schilling 0001</author>
+<title>Efficient reconstruction of nonrigid shape and motion from real-time 3D scanner data.</title>
+<year>2009</year>
+<volume>28</volume>
+<journal>ACM Trans. Graph.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/1516522.1516526</ee>
+<url>db/journals/tog/tog28.html#WandAOBBJGSS09</url>
+<pages>15:1-15:15</pages>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/TevsBWSS09" mdate="2023-03-24">
+<author pid="85/6574">Art Tevs</author>
+<author pid="70/6203">Martin Bokeloh</author>
+<author pid="85/72">Michael Wand 0001</author>
+<author orcid="0000-0002-5339-2023" pid="14/2967">Andreas Schilling 0001</author>
+<author pid="s/HansPeterSeidel">Hans-Peter Seidel</author>
+<title>Isometric registration of ambiguous and partial data.</title>
+<pages>1185-1192</pages>
+<year>2009</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2009.5206775</ee>
+<ee>https://doi.org/10.1109/CVPRW.2009.5206775</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CVPR.2009.5206775</ee>
+<crossref>conf/cvpr/2009</crossref>
+<url>db/conf/cvpr/cvpr2009.html#TevsBWSS09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wpnc/GraefensteinABS09" mdate="2020-10-25">
+<author pid="65/6665">Juergen Graefenstein</author>
+<author pid="31/5629">Amos Albert</author>
+<author pid="97/6509">Peter Biber</author>
+<author orcid="0000-0002-5339-2023" pid="14/2967">Andreas Schilling 0001</author>
+<title>Wireless node localization based on RSSI using a rotating antenna on a mobile robot.</title>
+<pages>253-259</pages>
+<year>2009</year>
+<booktitle>WPNC</booktitle>
+<ee>https://doi.org/10.1109/WPNC.2009.4907835</ee>
+<crossref>conf/wpnc/2009</crossref>
+<url>db/conf/wpnc/wpnc2009.html#GraefensteinABS09</url>
+</inproceedings>
+</r>
+<r><article key="journals/cg/WandBBJFHMSSS08" mdate="2020-10-26">
+<author pid="85/72">Michael Wand 0001</author>
+<author pid="84/5165">Alexander Berner</author>
+<author pid="70/6203">Martin Bokeloh</author>
+<author pid="37/6648">Philipp Jenke</author>
+<author pid="43/1347">Arno Fleck</author>
+<author pid="06/2444">Mark Hoffmann</author>
+<author pid="81/941">Benjamin Maier</author>
+<author pid="59/1113">Dirk Staneker</author>
+<author orcid="0000-0002-5339-2023" pid="14/2967">Andreas Schilling 0001</author>
+<author pid="s/HansPeterSeidel">Hans-Peter Seidel</author>
+<title>Processing and interactive editing of huge point clouds from 3D scanners.</title>
+<pages>204-220</pages>
+<year>2008</year>
+<volume>32</volume>
+<journal>Comput. Graph.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1016/j.cag.2008.01.010</ee>
+<url>db/journals/cg/cg32.html#WandBBJFHMSSS08</url>
+</article>
+</r>
+<r><inproceedings key="conf/imr/SchillingBSE08" mdate="2019-03-08">
+<author pid="14/2967">Andreas Schilling 0001</author>
+<author pid="96/5021">Katrin Bidmon</author>
+<author pid="37/2522">Ove Sommer</author>
+<author pid="e/ThomasErtl">Thomas Ertl</author>
+<title>Filling Arbitrary Holes in Finite Element Models.</title>
+<pages>231-248</pages>
+<year>2008</year>
+<booktitle>IMR</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-87921-3_14</ee>
+<ee>http://imr.sandia.gov/papers/abstracts/Sc455.html</ee>
+<crossref>conf/imr/2008</crossref>
+<url>db/conf/imr/imr2008.html#SchillingBSE08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/miccai/FenchelTS08" mdate="2020-10-25">
+<author pid="58/3396">Matthias Fenchel</author>
+<author pid="10/2511">Stefan Thesen</author>
+<author orcid="0000-0002-5339-2023" pid="14/2967">Andreas Schilling 0001</author>
+<title>Automatic Labeling of Anatomical Structures in MR FastView Images Using a Statistical Atlas.</title>
+<pages>576-584</pages>
+<year>2008</year>
+<booktitle>MICCAI (1)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-540-85988-8_69</ee>
+<ee>https://www.wikidata.org/entity/Q62488329</ee>
+<crossref>conf/miccai/2008-1</crossref>
+<url>db/conf/miccai/miccai2008-1.html#FenchelTS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/miip/FenchelTS08" mdate="2020-10-25">
+<author pid="58/3396">Matthias Fenchel</author>
+<author pid="10/2511">Stefan Thesen</author>
+<author orcid="0000-0002-5339-2023" pid="14/2967">Andreas Schilling 0001</author>
+<title>Reconstructing liver shape and position from MR image slices using an active shape model.</title>
+<pages>69144N</pages>
+<year>2008</year>
+<booktitle>Medical Imaging: Image Processing</booktitle>
+<ee>https://doi.org/10.1117/12.770183</ee>
+<crossref>conf/miip/2008</crossref>
+<url>db/conf/miip/miip2008.html#FenchelTS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vg/BernerBWSS08" mdate="2020-07-15">
+<author pid="84/5165">Alexander Berner</author>
+<author pid="70/6203">Martin Bokeloh</author>
+<author pid="85/72">Michael Wand 0001</author>
+<author pid="14/2967">Andreas Schilling 0001</author>
+<author pid="s/HansPeterSeidel">Hans-Peter Seidel</author>
+<title>A Graph-Based Approach to Symmetry Detection.</title>
+<pages>1-8</pages>
+<year>2008</year>
+<booktitle>VG/PBG@SIGGRAPH</booktitle>
+<ee>https://doi.org/10.2312/VG/VG-PBG08/001-008</ee>
+<crossref>conf/vg/2008</crossref>
+<url>db/conf/vg/vg2008.html#BernerBWSS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/crv/FleckHHS07" mdate="2023-03-24">
+<author pid="10/4931">Sven Fleck</author>
+<author pid="59/6056">McElory Hoffmann</author>
+<author pid="15/2037">Karin Hunter</author>
+<author orcid="0000-0002-5339-2023" pid="14/2967">Andreas Schilling 0001</author>
+<title>PFAAM An Active Appearance Model based Particle Filter for both Robust and Precise Tracking.</title>
+<pages>339-346</pages>
+<year>2007</year>
+<crossref>conf/crv/2007</crossref>
+<booktitle>CRV</booktitle>
+<ee>https://doi.org/10.1109/CRV.2007.50</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CRV.2007.50</ee>
+<url>db/conf/crv/crv2007.html#FleckHHS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/egve/FischerHS07" mdate="2019-03-08">
+<author pid="21/6228">Jan Fischer</author>
+<author pid="17/4042">Benjamin Huhle</author>
+<author pid="14/2967">Andreas Schilling 0001</author>
+<title>Using Time-of-Flight Range Data for Occlusion Handling in Augmented Reality.</title>
+<pages>109-116</pages>
+<year>2007</year>
+<booktitle>IPT/EGVE</booktitle>
+<ee>https://doi.org/10.2312/EGVE/IPT_EGVE2007/109-116</ee>
+<crossref>conf/egve/2007</crossref>
+<url>db/conf/egve/egve2007.html#FischerHS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sgp/WandJHBGS07" mdate="2021-04-08">
+<author pid="85/72">Michael Wand 0001</author>
+<author pid="37/6648">Philipp Jenke</author>
+<author pid="82/241">Qi-Xing Huang</author>
+<author pid="70/6203">Martin Bokeloh</author>
+<author pid="g/LeonidasJGuibas">Leonidas J. Guibas</author>
+<author pid="14/2967">Andreas Schilling 0001</author>
+<title>Reconstruction of deforming geometry from time-varying point clouds.</title>
+<pages>49-58</pages>
+<year>2007</year>
+<crossref>conf/sgp/2007</crossref>
+<booktitle>Symposium on Geometry Processing</booktitle>
+<ee>https://doi.org/10.2312/SGP/SGP07/049-058</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1281998</ee>
+<url>db/conf/sgp/sgp2007.html#WandJHBGS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spbg/WandBBFHJMSS07" mdate="2020-07-15">
+<author pid="85/72">Michael Wand 0001</author>
+<author pid="84/5165">Alexander Berner</author>
+<author pid="70/6203">Martin Bokeloh</author>
+<author pid="43/1347">Arno Fleck</author>
+<author pid="06/2444">Mark Hoffmann</author>
+<author pid="37/6648">Philipp Jenke</author>
+<author pid="81/941">Benjamin Maier</author>
+<author pid="59/1113">Dirk Staneker</author>
+<author pid="14/2967">Andreas Schilling 0001</author>
+<title>Interactive Editing of Large Point Clouds.</title>
+<pages>37-45</pages>
+<year>2007</year>
+<booktitle>PBG@Eurographics</booktitle>
+<ee>https://doi.org/10.2312/SPBG/SPBG07/037-045</ee>
+<crossref>conf/spbg/2007</crossref>
+<url>db/conf/spbg/spbg2007.html#WandBBFHJMSS07</url>
+</inproceedings>
+</r>
+<r><article key="journals/cgf/JenkeWBSS06" mdate="2020-10-26">
+<author pid="37/6648">Philipp Jenke</author>
+<author pid="85/72">Michael Wand 0001</author>
+<author pid="70/6203">Martin Bokeloh</author>
+<author orcid="0000-0002-5339-2023" pid="14/2967">Andreas Schilling 0001</author>
+<author pid="46/1632">Wolfgang Stra&#223;er</author>
+<title>Bayesian Point Cloud Reconstruction.</title>
+<pages>379-388</pages>
+<year>2006</year>
+<volume>25</volume>
+<journal>Comput. Graph. Forum</journal>
+<number>3</number>
+<ee>https://doi.org/10.1111/j.1467-8659.2006.00957.x</ee>
+<url>db/journals/cgf/cgf25.html#JenkeWBSS06</url>
+</article>
+</r>
+<r><inproceedings key="conf/iros/BiberADS04" mdate="2022-12-07">
+<author pid="97/6509">Peter Biber</author>
+<author pid="93/1475">Henrik Andreasson</author>
+<author orcid="0000-0003-2971-7905" pid="24/650">Tom Duckett</author>
+<author pid="14/2967">Andreas Schilling 0001</author>
+<title>3D modeling of indoor environments by a mobile robot with a laser scanner and panoramic camera.</title>
+<pages>3430-3435</pages>
+<year>2004</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.2004.1389947</ee>
+<crossref>conf/iros/2004</crossref>
+<url>db/conf/iros/iros2004.html#BiberADS04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vmv/BendelsKS03" mdate="2023-09-24">
+<author pid="39/11162">Gerhard Heinrich Bendels</author>
+<author pid="28/4015">Reinhard Klein</author>
+<author pid="14/2967">Andreas Schilling 0001</author>
+<title>Image and 3D-Object Editing with Precisely Specified Editing Regions.</title>
+<pages>451-459</pages>
+<year>2003</year>
+<crossref>conf/vmv/2003</crossref>
+<booktitle>VMV</booktitle>
+<url>db/conf/vmv/vmv2003.html#BendelsKS03</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/egh/2003" mdate="2019-03-08">
+<editor pid="61/3129">Bill Mark</editor>
+<editor pid="14/2967">Andreas Schilling 0001</editor>
+<title>Proceedings of the 2003 ACM SIGGRAPH/EUROGRAPHICS Workshop on Graphics Hardware, San Diego, California, USA, July 26-27, 2003</title>
+<booktitle>Graphics Hardware</booktitle>
+<publisher>Eurographics Association</publisher>
+<year>2003</year>
+<isbn>1-58113-739-7</isbn>
+<ee>http://diglib.eg.org/handle/10.2312/332</ee>
+<ee>http://dl.acm.org/citation.cfm?id=844174</ee>
+<url>db/conf/egh/egh2003.html</url>
+</proceedings>
+</r>
+<r><article key="journals/it/KleinS02" mdate="2023-08-28">
+<author pid="28/4015">Reinhard Klein</author>
+<author pid="14/2967">Andreas Schilling 0001</author>
+<title>Efficient Multiresolution Models for progressive Terrain Rendering (Effiziente Multiresolutionsmodelle f&#252;r progressives Terrain Rendering).</title>
+<pages>314-321</pages>
+<year>2002</year>
+<volume>44</volume>
+<journal>Informationstechnik Tech. Inform.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1524/itit.2002.44.6.314</ee>
+<ee>https://www.wikidata.org/entity/Q115722799</ee>
+<url>db/journals/it/it44.html#KleinS02</url>
+</article>
+</r>
+<r><article key="journals/cgf/Schilling01" mdate="2020-10-26">
+<author orcid="0000-0002-5339-2023" pid="14/2967">Andreas Schilling 0001</author>
+<title>Antialiasing of Environment Maps.</title>
+<pages>5-11</pages>
+<year>2001</year>
+<volume>20</volume>
+<journal>Comput. Graph. Forum</journal>
+<number>1</number>
+<url>db/journals/cgf/cgf20.html#Schilling01</url>
+<ee>https://doi.org/10.1111/1467-8659.00470</ee>
+</article>
+</r>
+<r><article key="journals/cvgip/KleinSS00" mdate="2020-10-26">
+<author pid="28/4015">Reinhard Klein</author>
+<author orcid="0000-0002-5339-2023" pid="14/2967">Andreas Schilling 0001</author>
+<author pid="46/1632">Wolfgang Stra&#223;er</author>
+<title>Reconstruction and Simplification of Surfaces from Contours.</title>
+<pages>429-443</pages>
+<year>2000</year>
+<volume>62</volume>
+<journal>Graph. Model.</journal>
+<number>6</number>
+<url>db/journals/cvgip/cvgip62.html#KleinSS00</url>
+<ee>https://doi.org/10.1006/gmod.2000.0530</ee>
+</article>
+</r>
+<r><article key="journals/vc/KleinS99" mdate="2020-10-26">
+<author pid="28/4015">Reinhard Klein</author>
+<author orcid="0000-0002-5339-2023" pid="14/2967">Andreas Schilling 0001</author>
+<title>Efficient rendering of multiresolution meshes with guaranteed image quality.</title>
+<pages>443-452</pages>
+<year>1999</year>
+<volume>15</volume>
+<journal>Vis. Comput.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1007/s003710050191</ee>
+<url>db/journals/vc/vc15.html#KleinS99</url>
+</article>
+</r>
+<r><inproceedings key="conf/eurographics/KleinS99" mdate="2020-07-08">
+<author pid="28/4015">Reinhard Klein</author>
+<author pid="14/2967">Andreas Schilling 0001</author>
+<title>Fast Distance Field Interpolation for Reconstruction of Surfaces from Contours.</title>
+<year>1999</year>
+<booktitle>Eurographics (Short Presentations)</booktitle>
+<ee>https://doi.org/10.2312/egs.19991032</ee>
+<crossref>conf/eurographics/1999short</crossref>
+<url>db/conf/eurographics/eg-short1999.html#KleinS99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pg/KleinSS99" mdate="2023-03-24">
+<author pid="28/4015">Reinhard Klein</author>
+<author orcid="0000-0002-5339-2023" pid="14/2967">Andreas Schilling 0001</author>
+<author pid="46/1632">Wolfgang Stra&#223;er</author>
+<title>Reconstruction and Simplification of Surfaces from Contours.</title>
+<pages>198-207</pages>
+<year>1999</year>
+<crossref>conf/pg/1999</crossref>
+<booktitle>PG</booktitle>
+<ee>https://doi.org/10.1109/PCCGA.1999.803363</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/PCCGA.1999.803363</ee>
+<url>db/conf/pg/pg1999.html#KleinSS99</url>
+</inproceedings>
+</r>
+<r><article key="journals/cg/SchillingK98" mdate="2020-10-26">
+<author orcid="0000-0002-5339-2023" pid="14/2967">Andreas Schilling 0001</author>
+<author pid="28/4015">Reinhard Klein</author>
+<title>Rendering of multiresolution models with texture.</title>
+<pages>667-674</pages>
+<year>1998</year>
+<volume>22</volume>
+<journal>Comput. Graph.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1016/S0097-8493(98)00087-9</ee>
+<url>db/journals/cg/cg22.html#SchillingK98</url>
+</article>
+</r>
+<r><inproceedings key="conf/cgi/SchillingKS98" mdate="2023-03-23">
+<author orcid="0000-0002-5339-2023" pid="14/2967">Andreas Schilling 0001</author>
+<author pid="28/4015">Reinhard Klein</author>
+<author pid="46/1632">Wolfgang Stra&#223;er</author>
+<title>Illumination Dependent Refinement of Multiresolution Meshes.</title>
+<pages>680-687</pages>
+<year>1998</year>
+<crossref>conf/cgi/1998</crossref>
+<booktitle>Computer Graphics International</booktitle>
+<ee>https://doi.org/10.1109/CGI.1998.694326</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CGI.1998.694326</ee>
+<url>db/conf/cgi/cgi1998.html#SchillingKS98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vissci/SchillingK98" mdate="2019-03-08">
+<author pid="14/2967">Andreas Schilling 0001</author>
+<author pid="28/4015">Reinhard Klein</author>
+<title>Fast Generation of Multiresolution Surfaces from Contours.</title>
+<pages>35-46</pages>
+<year>1998</year>
+<booktitle>Visualization in Scientific Computing</booktitle>
+<ee>https://doi.org/10.1007/978-3-7091-7517-0_4</ee>
+<ee>https://doi.org/10.2312/vissym19981003</ee>
+<crossref>conf/vissci/1998</crossref>
+<url>db/conf/vissci/vissci1998.html#SchillingK98</url>
+</inproceedings>
+</r>
+<r><article key="journals/cg/SchneiderS97" mdate="2020-02-19">
+<author pid="71/129">Bengt-Olaf Schneider</author>
+<author pid="14/2967">Andreas Schilling 0001</author>
+<title>Guest editors' introduction.</title>
+<pages>125-127</pages>
+<year>1997</year>
+<volume>21</volume>
+<journal>Comput. Graph.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1016/S0097-8493(97)86686-1</ee>
+<url>db/journals/cg/cg21.html#SchneiderS97</url>
+</article>
+</r>
+<r><inproceedings key="conf/egh/Schilling97" mdate="2019-03-08">
+<author pid="14/2967">Andreas Schilling 0001</author>
+<title>Towards Real-Time Photorealistic Rendering: Challenges and Solutions.</title>
+<pages>7-15</pages>
+<year>1997</year>
+<booktitle>Workshop on Graphics Hardware</booktitle>
+<ee>https://doi.org/10.2312/EGGH/EGGH97/007-015</ee>
+<ee>https://doi.org/10.1145/258694.258701</ee>
+<crossref>conf/egh/1997</crossref>
+<url>db/conf/egh/egh1997.html#Schilling97</url>
+</inproceedings>
+</r>
+<r><article key="journals/cg/KnittelSKS96" mdate="2020-10-26">
+<author pid="81/4732">G&#252;nter Knittel</author>
+<author orcid="0000-0002-5339-2023" pid="14/2967">Andreas Schilling 0001</author>
+<author pid="97/702">Anders Kugler</author>
+<author pid="46/1632">Wolfgang Stra&#223;er</author>
+<title>Hardware for superior texture performance.</title>
+<pages>475-481</pages>
+<year>1996</year>
+<volume>20</volume>
+<journal>Comput. Graph.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1016/0097-8493(96)00019-2</ee>
+<url>db/journals/cg/cg20.html#KnittelSKS96</url>
+</article>
+</r>
+<r><article key="journals/cga/SchillingKS96" mdate="2020-10-26">
+<author orcid="0000-0002-5339-2023" pid="14/2967">Andreas Schilling 0001</author>
+<author pid="81/4732">G&#252;nter Knittel</author>
+<author pid="46/1632">Wolfgang Stra&#223;er</author>
+<title>Texram: a smart memory for texturing.</title>
+<pages>32-41</pages>
+<year>1996</year>
+<volume>16</volume>
+<journal>IEEE Computer Graphics and Applications</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/38.491183</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/38.491183</ee>
+<ee>https://www.wikidata.org/entity/Q56385687</ee>
+<url>db/journals/cga/cga16.html#SchillingKS96</url>
+</article>
+</r>
+<r><proceedings key="conf/egh/1996" mdate="2019-03-08">
+<editor pid="71/129">Bengt-Olaf Schneider</editor>
+<editor pid="14/2967">Andreas Schilling 0001</editor>
+<title>EGGH96: Eurographics Workshop on Graphics Hardware 1996</title>
+<booktitle>Workshop on Graphics Hardware</booktitle>
+<publisher>The Eurographics Association</publisher>
+<year>1996</year>
+<ee>http://diglib.eg.org/handle/10.2312/339</ee>
+<url>db/conf/egh/egh1996.html</url>
+</proceedings>
+</r>
+<r><phdthesis key="phd/dnb/Schilling95" mdate="2021-07-17">
+<author pid="14/2967">Andreas Schilling 0001</author>
+<title>Eine Prozessor-Pipeline zur Anwendung in der graphischen Datenverarbeitung.</title>
+<year>1995</year>
+<pages>1-106</pages>
+<school>University of T&#252;bingen, Germany</school>
+<ee>https://d-nb.info/944877125</ee>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/date/KnittelS95" mdate="2022-05-20">
+<author pid="81/4732">G&#252;nter Knittel</author>
+<author orcid="0000-0002-5339-2023" pid="14/2967">Andreas Schilling 0001</author>
+<title>Eliminating the Z-Buffer bottleneck.</title>
+<pages>12-17</pages>
+<year>1995</year>
+<booktitle>ED&#38;TC</booktitle>
+<ee>https://doi.org/10.1109/EDTC.1995.470426</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/EDTC.1995.470426</ee>
+<ee>https://dl.acm.org/doi/10.5555/787258.787409</ee>
+<crossref>conf/date/1995</crossref>
+<url>db/conf/date/edtc1995.html#KnittelS95</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/egh/KnittelSKS95" mdate="2019-03-08">
+<author pid="81/4732">G&#252;nter Knittel</author>
+<author pid="14/2967">Andreas Schilling 0001</author>
+<author pid="97/702">Anders Kugler</author>
+<author pid="46/1632">Wolfgang Stra&#223;er</author>
+<title>Hardware for Superior Texture Performance.</title>
+<pages>33-40</pages>
+<year>1995</year>
+<booktitle>Workshop on Graphics Hardware</booktitle>
+<ee>https://doi.org/10.2312/EGGH/EGGH95/033-040</ee>
+<crossref>conf/egh/1995</crossref>
+<url>db/conf/egh/egh1995.html#KnittelSKS95</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/siggraph/SchillingS93" mdate="2020-10-25">
+<author orcid="0000-0002-5339-2023" pid="14/2967">Andreas Schilling 0001</author>
+<author pid="46/1632">Wolfgang Stra&#223;er</author>
+<title>EXACT: algorithm and hardware architecture for an improved A-buffer.</title>
+<pages>85-91</pages>
+<year>1993</year>
+<crossref>conf/siggraph/1993</crossref>
+<booktitle>SIGGRAPH</booktitle>
+<ee>https://doi.org/10.1145/166117.166128</ee>
+<url>db/conf/siggraph/siggraph1993.html#SchillingS93</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/siggraph/Schilling91" mdate="2020-10-25">
+<author orcid="0000-0002-5339-2023" pid="14/2967">Andreas Schilling 0001</author>
+<title>A new simple and efficient antialiasing with subpixel masks.</title>
+<pages>133-141</pages>
+<year>1991</year>
+<crossref>conf/siggraph/1991</crossref>
+<booktitle>SIGGRAPH</booktitle>
+<ee>https://doi.org/10.1145/122718.122733</ee>
+<url>db/conf/siggraph/siggraph1991.html#Schilling91</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/egh/Schilling90" mdate="2019-03-08">
+<author pid="14/2967">Andreas Schilling 0001</author>
+<title>Some Practical Aspects of Rendering.</title>
+<pages>53-66</pages>
+<year>1990</year>
+<booktitle>Advances in Computer Graphics Hardware V</booktitle>
+<ee>https://doi.org/10.2312/EGGH/EGGH90/053-066</ee>
+<crossref>conf/egh/1990</crossref>
+<url>db/conf/egh/egh1990.html#Schilling90</url>
+</inproceedings>
+</r>
+<coauthors n="86" nc="3">
+<co c="0"><na f="a/Ableitner:Tobias" pid="210/3726">Tobias Ableitner</na></co>
+<co c="0"><na f="a/Adams:Bart" pid="38/1561">Bart Adams</na></co>
+<co c="0"><na f="a/Albert:Amos" pid="31/5629">Amos Albert</na></co>
+<co c="0"><na f="a/Andreasson:Henrik" pid="93/1475">Henrik Andreasson</na></co>
+<co c="0"><na f="a/Atkins:Robin" pid="182/9009">Robin Atkins</na></co>
+<co c="0"><na f="b/Bendels:Gerhard_Heinrich" pid="39/11162">Gerhard Heinrich Bendels</na></co>
+<co c="0"><na f="b/Berner:Alexander" pid="84/5165">Alexander Berner</na></co>
+<co c="0"><na f="b/Biber:Peter" pid="97/6509">Peter Biber</na></co>
+<co c="0"><na f="b/Bidmon:Katrin" pid="96/5021">Katrin Bidmon</na></co>
+<co c="0"><na f="b/Bokeloh:Martin" pid="70/6203">Martin Bokeloh</na></co>
+<co c="0"><na f="b/Brendel:Harald" pid="141/9878">Harald Brendel</na></co>
+<co c="0"><na f="b/B=uuml=lthoff:Heinrich_H=" pid="75/790">Heinrich H. B&#252;lthoff</na></co>
+<co c="0"><na f="d/Daly:Scott" pid="63/8374">Scott Daly</na></co>
+<co c="0"><na f="d/Deussen:Oliver" pid="48/2158">Oliver Deussen</na></co>
+<co c="0"><na f="d/Duckett:Tom" pid="24/650">Tom Duckett</na></co>
+<co c="0" n="2"><na f="e/Eberhardt:Bernd" pid="56/6430">Bernd Eberhardt</na><na>Bernhard Eberhardt</na></co>
+<co c="0"><na f="e/Edelmann:J=ouml=rg" pid="57/9148">J&#246;rg Edelmann</na></co>
+<co c="0"><na f="e/Ertl:Thomas" pid="e/ThomasErtl">Thomas Ertl</na></co>
+<co c="1"><na f="f/Fenchel:Matthias" pid="58/3396">Matthias Fenchel</na></co>
+<co c="0"><na f="f/Fischer:Jan" pid="21/6228">Jan Fischer</na></co>
+<co c="0"><na f="f/Fleck:Arno" pid="43/1347">Arno Fleck</na></co>
+<co c="0"><na f="f/Fleck:Sven" pid="10/4931">Sven Fleck</na></co>
+<co c="0"><na f="f/Fr=ouml=hlich:Jan" pid="169/9182">Jan Fr&#246;hlich</na></co>
+<co c="0"><na f="f/Frueh:Marcel" pid="223/7092">Marcel Frueh</na></co>
+<co c="0"><na f="g/Gatidis:Sergios" pid="180/2882">Sergios Gatidis</na></co>
+<co c="0"><na f="g/Gerjets:Peter" pid="69/5678">Peter Gerjets</na></co>
+<co c="0"><na f="g/Graefenstein:Juergen" pid="65/6665">Juergen Graefenstein</na></co>
+<co c="0"><na f="g/Grandinetti:Stefan" pid="169/9178">Stefan Grandinetti</na></co>
+<co c="0"><na f="g/Guibas:Leonidas_J=" pid="g/LeonidasJGuibas">Leonidas J. Guibas</na></co>
+<co c="2"><na f="h/Haeling:Jonas" pid="225/8405">Jonas Haeling</na></co>
+<co c="0"><na f="h/Hahn:Jens=Uwe" pid="133/2866">Jens-Uwe Hahn</na></co>
+<co c="0"><na f="h/Heilemann:Fiona" pid="305/4596">Fiona Heilemann</na></co>
+<co c="0"><na f="h/Herholz:Sebastian" pid="47/7852">Sebastian Herholz</na></co>
+<co c="0"><na f="h/Hoffmann:Mark" pid="06/2444">Mark Hoffmann</na></co>
+<co c="0"><na f="h/Hoffmann:McElory" pid="59/6056">McElory Hoffmann</na></co>
+<co c="0"><na f="h/Hofmann:Jessica" pid="333/3748">Jessica Hofmann</na></co>
+<co c="0" n="2"><na f="h/Huang:Qixing" pid="82/241">Qixing Huang</na><na>Qi-Xing Huang</na></co>
+<co c="0"><na f="h/Huhle:Benjamin" pid="17/4042">Benjamin Huhle</na></co>
+<co c="0"><na f="h/Hunter:Karin" pid="15/2037">Karin Hunter</na></co>
+<co c="0"><na f="j/Jaszkowic:Jonas" pid="173/9953">Jonas Jaszkowic</na></co>
+<co c="0"><na f="j/Jellal:Radouane_Ait" pid="154/7281">Radouane Ait Jellal</na></co>
+<co c="0"><na f="j/Jenke:Philipp" pid="37/6648">Philipp Jenke</na></co>
+<co c="0"><na f="k/Kammerer:Yvonne" pid="55/6725">Yvonne Kammerer</na></co>
+<co c="0"><na f="k/Karge:Andreas" pid="351/8037">Andreas Karge</na></co>
+<co c="0"><na f="k/Keim:Daniel_A=" pid="k/DanielAKeim">Daniel A. Keim</na></co>
+<co c="0"><na f="k/Klein:Reinhard" pid="28/4015">Reinhard Klein</na></co>
+<co c="0"><na f="k/Knittel:G=uuml=nter" pid="81/4732">G&#252;nter Knittel</na></co>
+<co c="0"><na f="k/Kugler:Anders" pid="97/702">Anders Kugler</na></co>
+<co c="0"><na f="k/Kunkel:Timo" pid="31/8320">Timo Kunkel</na></co>
+<co c="0" n="2"><na f="k/Kustner:Thomas" pid="166/6422">Thomas Kustner</na><na>Thomas K&#252;stner</na></co>
+<co c="0"><na f="l/Lange:Manuel" pid="41/10721">Manuel Lange</na></co>
+<co c="0"><na f="l/Liefers:Florian" pid="122/8726">Florian Liefers</na></co>
+<co c="0"><na f="l/Lintermann:Bernd" pid="78/3115">Bernd Lintermann</na></co>
+<co c="0"><na f="m/Maier:Benjamin" pid="81/941">Benjamin Maier</na></co>
+<co c="-1"><na f="m/Mark:Bill" pid="61/3129">Bill Mark</na></co>
+<co c="0"><na f="m/Maucher:Johannes" pid="52/5980">Johannes Maucher</na></co>
+<co c="0"><na f="m/Mock:Philipp" pid="121/4906">Philipp Mock</na></co>
+<co c="0"><na f="n/Nachbar:Marcel" pid="330/4450">Marcel Nachbar</na></co>
+<co c="2"><na f="n/Necker:Marc" pid="77/4223">Marc Necker</na></co>
+<co c="0"><na f="o/Ovsjanikov:Maks" pid="94/5668">Maks Ovsjanikov</na></co>
+<co c="0"><na f="p/Parys:Roman" pid="122/8718">Roman Parys</na></co>
+<co c="0"><na f="p/Pytlarz:Jaclyn" pid="351/7803">Jaclyn Pytlarz</na></co>
+<co c="0"><na f="r/Raisch:Claudio" pid="254/4592">Claudio Raisch</na></co>
+<co c="0"><na f="r/Reiterer:Harald" pid="02/5386">Harald Reiterer</na></co>
+<co c="0"><na f="r/Rieger:Ingmar" pid="352/0742">Ingmar Rieger</na></co>
+<co c="0"><na f="r/Rosenstiel:Wolfgang" pid="r/WRosenstiel">Wolfgang Rosenstiel</na></co>
+<co c="0"><na f="s/Schairer:Timo" pid="86/7416">Timo Schairer</na></co>
+<co c="0"><na f="s/Schneider:Bengt=Olaf" pid="71/129">Bengt-Olaf Schneider</na></co>
+<co c="0"><na f="s/Schweinfurth:Fabian" pid="257/3500">Fabian Schweinfurth</na></co>
+<co c="0"><na f="s/Seidel:Hans=Peter" pid="s/HansPeterSeidel">Hans-Peter Seidel</na></co>
+<co c="0"><na f="s/Soekadar:Surjo_R=" pid="123/6883">Surjo R. Soekadar</na></co>
+<co c="0"><na f="s/Sommer:Ove" pid="37/2522">Ove Sommer</na></co>
+<co c="0"><na f="s/Staneker:Dirk" pid="59/1113">Dirk Staneker</na></co>
+<co c="0"><na f="s/Stra=szlig=er:Wolfgang" pid="46/1632">Wolfgang Stra&#223;er</na></co>
+<co c="0"><na f="s/Strobbe:Christophe" pid="72/6358">Christophe Strobbe</na></co>
+<co c="0"><na f="s/Su:Guan=Ming" pid="06/6913">Guan-Ming Su</na></co>
+<co c="0"><na f="t/Tevs:Art" pid="85/6574">Art Tevs</na></co>
+<co c="0"><na f="t/Theodoridis:Johannes" pid="333/3089">Johannes Theodoridis</na></co>
+<co c="1"><na f="t/Thesen:Stefan" pid="10/2511">Stefan Thesen</na></co>
+<co c="0"><na f="t/Thorwarth:Daniela" pid="330/4226">Daniela Thorwarth</na></co>
+<co c="0"><na f="v/Vorst:Philipp" pid="12/94">Philipp Vorst</na></co>
+<co c="0"><na f="w/Walter:Simon" pid="169/9165">Simon Walter</na></co>
+<co c="0"><na f="w/Wand_0001:Michael" pid="85/72">Michael Wand 0001</na></co>
+<co c="0"><na f="w/Wassermann:Benjamin" pid="14/9247">Benjamin Wassermann</na></co>
+<co c="0"><na f="z/Zell:Andreas" pid="05/4192">Andreas Zell</na></co>
+<co c="0"><na f="z/Zimmermann:Gottfried" pid="44/3423">Gottfried Zimmermann</na></co>
+</coauthors>
+</dblpperson>
+

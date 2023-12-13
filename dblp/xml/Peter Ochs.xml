@@ -1,0 +1,670 @@
+<?xml version="1.0"?>
+<dblpperson name="Peter Ochs" pid="50/10771" n="46">
+<person key="homepages/50/10771" mdate="2019-09-14">
+<author pid="50/10771">Peter Ochs</author>
+<url>http://www.mop.uni-saarland.de/people/ochs/</url>
+<url>https://scholar.google.com/citations?user=Llw9zY4AAAAJ</url>
+<url>https://orcid.org/0000-0002-4880-7511</url>
+<note type="affiliation">Saarland University, Department of Mathematics, Germany</note>
+<note type="affiliation">University of Freiburg, Department of Computer Science, Germany</note>
+</person>
+<r><article key="journals/coap/BonettiniOPR23" mdate="2023-03-21">
+<author orcid="0000-0003-2936-365X" pid="25/6868">Silvia Bonettini</author>
+<author pid="50/10771">Peter Ochs</author>
+<author pid="11/11383">Marco Prato</author>
+<author orcid="0000-0002-1232-5481" pid="173/7045">Simone Rebegoldi</author>
+<title>An abstract convergence framework with application to inertial inexact forward-backward methods.</title>
+<pages>319-362</pages>
+<year>2023</year>
+<month>March</month>
+<volume>84</volume>
+<journal>Comput. Optim. Appl.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10589-022-00441-4</ee>
+<url>db/journals/coap/coap84.html#BonettiniOPR23</url>
+</article>
+</r>
+<r><inproceedings key="conf/aistats/SuckerO23" mdate="2023-06-19">
+<author pid="331/6232">Michael Sucker</author>
+<author pid="50/10771">Peter Ochs</author>
+<title>PAC-Bayesian Learning of Optimization Algorithms.</title>
+<pages>8145-8164</pages>
+<year>2023</year>
+<booktitle>AISTATS</booktitle>
+<ee type="oa">https://proceedings.mlr.press/v206/sucker23a.html</ee>
+<crossref>conf/aistats/2023</crossref>
+<url>db/conf/aistats/aistats2023.html#SuckerO23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/scalespace/WangFO23" mdate="2023-05-17">
+<author orcid="0000-0001-7521-8192" pid="245/6187">Shida Wang</author>
+<author orcid="0000-0002-8165-7578" pid="f/JalalFadili">Jalal Fadili</author>
+<author orcid="0000-0002-4880-7511" pid="50/10771">Peter Ochs</author>
+<title>A Quasi-Newton Primal-Dual Algorithm with Line Search.</title>
+<pages>444-456</pages>
+<year>2023</year>
+<booktitle>SSVM</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-31975-4_34</ee>
+<crossref>conf/scalespace/2023</crossref>
+<url>db/conf/scalespace/ssvm2023.html#WangFO23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2302-07545" mdate="2023-02-20">
+<author pid="25/6868">Silvia Bonettini</author>
+<author pid="50/10771">Peter Ochs</author>
+<author pid="11/11383">Marco Prato</author>
+<author pid="173/7045">Simone Rebegoldi</author>
+<title>An abstract convergence framework with application to inertial inexact forward-backward methods.</title>
+<year>2023</year>
+<volume>abs/2302.07545</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2302.07545</ee>
+<url>db/journals/corr/corr2302.html#abs-2302-07545</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2311-10053" mdate="2023-11-23">
+<author pid="361/2430">Severin Maier</author>
+<author pid="241/9395">Camille Castera</author>
+<author pid="50/10771">Peter Ochs</author>
+<title>Near-optimal Closed-loop Method via Lyapunov Damping for Convex Optimization.</title>
+<year>2023</year>
+<volume>abs/2311.10053</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2311.10053</ee>
+<url>db/journals/corr/corr2311.html#abs-2311-10053</url>
+</article>
+</r>
+<r><article key="journals/jgo/MukkamalaFO22" mdate="2022-07-27">
+<author pid="202/2499">Mahesh Chandra Mukkamala</author>
+<author pid="f/JalalFadili">Jalal Fadili</author>
+<author pid="50/10771">Peter Ochs</author>
+<title>Global convergence of model function based Bregman proximal minimization algorithms.</title>
+<pages>753-781</pages>
+<year>2022</year>
+<volume>83</volume>
+<journal>J. Glob. Optim.</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.1007/s10898-021-01114-y</ee>
+<url>db/journals/jgo/jgo83.html#MukkamalaFO22</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2208-03107" mdate="2022-08-10">
+<author pid="268/2704">Sheheryar Mehmood</author>
+<author pid="50/10771">Peter Ochs</author>
+<title>Fixed-Point Automatic Differentiation of Forward-Backward Splitting Algorithms for Partly Smooth Functions.</title>
+<year>2022</year>
+<volume>abs/2208.03107</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2208.03107</ee>
+<url>db/journals/corr/corr2208.html#abs-2208-03107</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2210-11113" mdate="2022-10-25">
+<author pid="331/6232">Michael Sucker</author>
+<author pid="50/10771">Peter Ochs</author>
+<title>PAC-Bayesian Learning of Optimization Algorithms.</title>
+<year>2022</year>
+<volume>abs/2210.11113</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2210.11113</ee>
+<url>db/journals/corr/corr2210.html#abs-2210-11113</url>
+</article>
+</r>
+<r><inproceedings key="conf/aistats/MehmoodO21" mdate="2021-04-14">
+<author pid="268/2704">Sheheryar Mehmood</author>
+<author pid="50/10771">Peter Ochs</author>
+<title>Differentiating the Value Function by using Convex Duality.</title>
+<pages>3871-3879</pages>
+<year>2021</year>
+<booktitle>AISTATS</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v130/mehmood21a.html</ee>
+<crossref>conf/aistats/2021</crossref>
+<url>db/conf/aistats/aistats2021.html#MehmoodO21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/scalespace/MukkamalaWLCO21" mdate="2023-09-30">
+<author pid="202/2499">Mahesh Chandra Mukkamala</author>
+<author pid="250/9391">Felix Westerkamp</author>
+<author pid="173/5225">Emanuel Laude</author>
+<author orcid="0000-0002-3079-7984" pid="c/DanielCremers">Daniel Cremers</author>
+<author pid="50/10771">Peter Ochs</author>
+<title>Bregman Proximal Gradient Algorithms for Deep Matrix Factorization.</title>
+<pages>204-215</pages>
+<year>2021</year>
+<booktitle>SSVM</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-75549-2_17</ee>
+<crossref>conf/scalespace/2021</crossref>
+<url>db/conf/scalespace/ssvm2021.html#MukkamalaWLCO21</url>
+</inproceedings>
+</r>
+<r><article key="journals/jota/LaudeOC20" mdate="2023-09-30">
+<author orcid="0000-0002-9106-2690" pid="173/5225">Emanuel Laude</author>
+<author pid="50/10771">Peter Ochs</author>
+<author orcid="0000-0002-3079-7984" pid="c/DanielCremers">Daniel Cremers</author>
+<title>Bregman Proximal Mappings and Bregman-Moreau Envelopes Under Relative Prox-Regularity.</title>
+<pages>724-761</pages>
+<year>2020</year>
+<volume>184</volume>
+<journal>J. Optim. Theory Appl.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10957-019-01628-2</ee>
+<url>db/journals/jota/jota184.html#LaudeOC20</url>
+</article>
+</r>
+<r><article key="journals/simods/MukkamalaOPS20" mdate="2021-09-16">
+<author orcid="0000-0001-8107-4586" pid="202/2499">Mahesh Chandra Mukkamala</author>
+<author pid="50/10771">Peter Ochs</author>
+<author pid="48/6407">Thomas Pock</author>
+<author pid="09/10871">Shoham Sabach</author>
+<title>Convex-Concave Backtracking for Inertial Bregman Proximal Gradient Algorithms in Nonconvex Optimization.</title>
+<pages>658-682</pages>
+<year>2020</year>
+<volume>2</volume>
+<journal>SIAM J. Math. Data Sci.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1137/19M1298007</ee>
+<url>db/journals/simods/simods2.html#MukkamalaOPS20</url>
+</article>
+</r>
+<r><inproceedings key="conf/accv/KardoostHOK20" mdate="2021-03-23">
+<author orcid="0000-0001-6477-6631" pid="241/5515">Amirhossein Kardoost</author>
+<author pid="136/0882">Kalun Ho</author>
+<author orcid="0000-0002-4880-7511" pid="50/10771">Peter Ochs</author>
+<author orcid="0000-0002-8437-7993" pid="95/7589">Margret Keuper</author>
+<title>Self-supervised Sparse to Dense Motion Segmentation.</title>
+<pages>421-437</pages>
+<year>2020</year>
+<booktitle>ACCV (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-69532-3_26</ee>
+<crossref>conf/accv/2020-2</crossref>
+<url>db/conf/accv/accv2020-2.html#KardoostHOK20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aistats/MehmoodO20" mdate="2020-06-29">
+<author pid="268/2704">Sheheryar Mehmood</author>
+<author pid="50/10771">Peter Ochs</author>
+<title>Automatic Differentiation of Some First-Order Methods in Parametric Optimization.</title>
+<pages>1584-1594</pages>
+<year>2020</year>
+<booktitle>AISTATS</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v108/mehmood20a.html</ee>
+<crossref>conf/aistats/2020</crossref>
+<url>db/conf/aistats/aistats2020.html#MehmoodO20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2008-07872" mdate="2020-08-21">
+<author pid="241/5515">Amirhossein Kardoost</author>
+<author pid="136/0882">Kalun Ho</author>
+<author pid="50/10771">Peter Ochs</author>
+<author pid="95/7589">Margret Keuper</author>
+<title>Self-supervised Sparse to Dense Motion Segmentation.</title>
+<year>2020</year>
+<volume>abs/2008.07872</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2008.07872</ee>
+<url>db/journals/corr/corr2008.html#abs-2008-07872</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2012-13161" mdate="2021-01-05">
+<author pid="202/2499">Mahesh Chandra Mukkamala</author>
+<author pid="f/JalalFadili">Jalal Fadili</author>
+<author pid="50/10771">Peter Ochs</author>
+<title>Global Convergence of Model Function Based Bregman Proximal Minimization Algorithms.</title>
+<year>2020</year>
+<volume>abs/2012.13161</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2012.13161</ee>
+<url>db/journals/corr/corr2012.html#abs-2012-13161</url>
+</article>
+</r>
+<r><article key="journals/jota/OchsFB19" mdate="2020-04-07">
+<author orcid="0000-0002-4880-7511" pid="50/10771">Peter Ochs</author>
+<author pid="f/JalalFadili">Jalal Fadili</author>
+<author pid="97/4586">Thomas Brox</author>
+<title>Non-smooth Non-convex Bregman Minimization: Unification and New Algorithms.</title>
+<pages>244-278</pages>
+<year>2019</year>
+<volume>181</volume>
+<journal>J. Optim. Theory Appl.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10957-018-01452-0</ee>
+<url>db/journals/jota/jota181.html#OchsFB19</url>
+</article>
+</r>
+<r><article key="journals/siamjo/Ochs19" mdate="2020-06-08">
+<author pid="50/10771">Peter Ochs</author>
+<title>Unifying Abstract Inexact Convergence Theorems and Block Coordinate Variable Metric iPiano.</title>
+<pages>541-570</pages>
+<year>2019</year>
+<volume>29</volume>
+<journal>SIAM J. Optim.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1137/17M1124085</ee>
+<url>db/journals/siamjo/siamjo29.html#Ochs19</url>
+</article>
+</r>
+<r><article key="journals/siamjo/BeckerFO19" mdate="2020-06-08">
+<author orcid="0000-0002-1932-8159" pid="47/9100">Stephen Becker</author>
+<author pid="f/JalalFadili">Jalal Fadili</author>
+<author pid="50/10771">Peter Ochs</author>
+<title>On Quasi-Newton Forward-Backward Splitting: Proximal Calculus and Convergence.</title>
+<pages>2445-2481</pages>
+<year>2019</year>
+<volume>29</volume>
+<journal>SIAM J. Optim.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1137/18M1167152</ee>
+<url>db/journals/siamjo/siamjo29.html#BeckerFO19</url>
+</article>
+</r>
+<r><article key="journals/siamjo/OchsP19" mdate="2020-06-08">
+<author pid="50/10771">Peter Ochs</author>
+<author pid="48/6407">Thomas Pock</author>
+<title>Adaptive FISTA for Nonconvex Optimization.</title>
+<pages>2482-2503</pages>
+<year>2019</year>
+<volume>29</volume>
+<journal>SIAM J. Optim.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1137/17M1156678</ee>
+<url>db/journals/siamjo/siamjo29.html#OchsP19</url>
+</article>
+</r>
+<r><inproceedings key="conf/icml/OchsM19" mdate="2019-06-11">
+<author pid="50/10771">Peter Ochs</author>
+<author pid="219/7903">Yura Malitsky</author>
+<title>Model Function Based Conditional Gradient Method with Armijo-like Line Search.</title>
+<pages>4891-4900</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/ochs19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#OchsM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/MukkamalaO19" mdate="2021-01-21">
+<author pid="202/2499">Mahesh Chandra Mukkamala</author>
+<author pid="50/10771">Peter Ochs</author>
+<title>Beyond Alternating Updates for Matrix Factorization with Inertial Bregman Proximal Gradient Algorithms.</title>
+<pages>4268-4278</pages>
+<year>2019</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2019/hash/bc7f621451b4f5df308a8e098112185d-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/8679-beyond-alternating-updates-for-matrix-factorization-with-inertial-bregman-proximal-gradient-algorithms</ee>
+<crossref>conf/nips/2019</crossref>
+<url>db/conf/nips/nips2019.html#MukkamalaO19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1901-08087" mdate="2019-02-03">
+<author pid="219/7903">Yura Malitsky</author>
+<author pid="50/10771">Peter Ochs</author>
+<title>Model Function Based Conditional Gradient Method with Armijo-like Line Search.</title>
+<year>2019</year>
+<volume>abs/1901.08087</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1901.08087</ee>
+<url>db/journals/corr/corr1901.html#abs-1901-08087</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1904-03537" mdate="2019-04-26">
+<author pid="202/2499">Mahesh Chandra Mukkamala</author>
+<author pid="50/10771">Peter Ochs</author>
+<author pid="48/6407">Thomas Pock</author>
+<author pid="09/10871">Shoham Sabach</author>
+<title>Convex-Concave Backtracking for Inertial Bregman Proximal Gradient Algorithms in Non-Convex Optimization.</title>
+<year>2019</year>
+<volume>abs/1904.03537</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1904.03537</ee>
+<url>db/journals/corr/corr1904.html#abs-1904-03537</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-09050" mdate="2019-05-29">
+<author pid="202/2499">Mahesh Chandra Mukkamala</author>
+<author pid="50/10771">Peter Ochs</author>
+<title>Beyond Alternating Updates for Matrix Factorization with Inertial Bregman Proximal Gradient Algorithms.</title>
+<year>2019</year>
+<volume>abs/1905.09050</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.09050</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-09050</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1910-03638" mdate="2019-10-16">
+<author pid="202/2499">Mahesh Chandra Mukkamala</author>
+<author pid="250/9391">Felix Westerkamp</author>
+<author pid="173/5225">Emanuel Laude</author>
+<author pid="c/DanielCremers">Daniel Cremers</author>
+<author pid="50/10771">Peter Ochs</author>
+<title>Bregman Proximal Framework for Deep Linear Neural Networks.</title>
+<year>2019</year>
+<volume>abs/1910.03638</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1910.03638</ee>
+<url>db/journals/corr/corr1910.html#abs-1910-03638</url>
+</article>
+</r>
+<r><article key="journals/jota/Ochs18" mdate="2020-04-07">
+<author orcid="0000-0002-4880-7511" pid="50/10771">Peter Ochs</author>
+<title>Local Convergence of the Heavy-Ball Method and iPiano for Non-convex Optimization.</title>
+<pages>153-180</pages>
+<year>2018</year>
+<volume>177</volume>
+<journal>J. Optim. Theory Appl.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10957-018-1272-y</ee>
+<url>db/journals/jota/jota177.html#Ochs18</url>
+</article>
+</r>
+<r><inproceedings key="conf/dagm/TomassonOW18" mdate="2019-02-15">
+<author pid="235/7015">J&#243;n Arnar T&#243;masson</author>
+<author pid="50/10771">Peter Ochs</author>
+<author pid="w/JoachimWeickert">Joachim Weickert</author>
+<title>AFSI: Adaptive Restart for Fast Semi-Iterative Schemes for Convex Optimisation.</title>
+<pages>669-681</pages>
+<year>2018</year>
+<booktitle>GCPR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-12939-2_46</ee>
+<crossref>conf/dagm/2018</crossref>
+<url>db/conf/dagm/gcpr2018.html#TomassonOW18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/OchsMLM18" mdate="2018-10-08">
+<author pid="50/10771">Peter Ochs</author>
+<author pid="199/2041">Tim Meinhardt</author>
+<author pid="47/8483">Laura Leal-Taix&#233;</author>
+<author pid="08/5840-1">Michael M&#246;ller 0001</author>
+<title>Lifting Layers: Analysis and Applications.</title>
+<pages>53-68</pages>
+<year>2018</year>
+<booktitle>ECCV (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-01246-5_4</ee>
+<crossref>conf/eccv/2018-1</crossref>
+<url>db/conf/eccv/eccv2018-1.html#OchsMLM18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1803-08660" mdate="2018-08-13">
+<author pid="50/10771">Peter Ochs</author>
+<author pid="199/2041">Tim Meinhardt</author>
+<author pid="47/8483">Laura Leal-Taix&#233;</author>
+<author pid="08/5840-1">Michael M&#246;ller 0001</author>
+<title>Lifting Layers: Analysis and Applications.</title>
+<year>2018</year>
+<volume>abs/1803.08660</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1803.08660</ee>
+<url>db/journals/corr/corr1803.html#abs-1803-08660</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/OchsFB17" mdate="2018-08-13">
+<author pid="50/10771">Peter Ochs</author>
+<author pid="f/JalalFadili">Jalal Fadili</author>
+<author pid="97/4586">Thomas Brox</author>
+<title>Non-smooth Non-convex Bregman Minimization: Unification and new Algorithms.</title>
+<year>2017</year>
+<volume>abs/1707.02278</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1707.02278</ee>
+<url>db/journals/corr/corr1707.html#OchsFB17</url>
+</article>
+</r>
+<r><article key="journals/jmiv/OchsRBP16" mdate="2020-06-08">
+<author pid="50/10771">Peter Ochs</author>
+<author pid="119/1600">Ren&#233; Ranftl</author>
+<author pid="97/4586">Thomas Brox</author>
+<author pid="48/6407">Thomas Pock</author>
+<title>Techniques for Gradient-Based Bilevel Optimization with Non-smooth Lower Level Problems.</title>
+<pages>175-194</pages>
+<year>2016</year>
+<volume>56</volume>
+<journal>J. Math. Imaging Vis.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10851-016-0663-7</ee>
+<url>db/journals/jmiv/jmiv56.html#OchsRBP16</url>
+</article>
+</r>
+<r><inproceedings key="conf/dagm/HafnerOWRG16" mdate="2017-05-21">
+<author pid="130/1811">David Hafner</author>
+<author pid="50/10771">Peter Ochs</author>
+<author pid="w/JoachimWeickert">Joachim Weickert</author>
+<author pid="85/7091">Martin Rei&#223;el</author>
+<author pid="86/8483">Sven Grewenig</author>
+<title>FSI Schemes: Fast Semi-Iterative Solvers for PDEs and Optimisation Methods.</title>
+<pages>91-102</pages>
+<year>2016</year>
+<booktitle>GCPR</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-45886-1_8</ee>
+<crossref>conf/dagm/2016</crossref>
+<url>db/conf/dagm/gcpr2016.html#HafnerOWRG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dagm/MullerOWG16" mdate="2019-09-24">
+<author pid="139/1608-1">Sabine M&#252;ller 0001</author>
+<author pid="50/10771">Peter Ochs</author>
+<author pid="w/JoachimWeickert">Joachim Weickert</author>
+<author orcid="0000-0002-2248-323X" pid="21/508">Norbert M. Graf</author>
+<title>Robust Interactive Multi-label Segmentation with an Advanced Edge Detector.</title>
+<pages>117-128</pages>
+<year>2016</year>
+<booktitle>GCPR</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-45886-1_10</ee>
+<ee>https://www.wikidata.org/entity/Q57339423</ee>
+<crossref>conf/dagm/2016</crossref>
+<url>db/conf/dagm/gcpr2016.html#MullerOWG16</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/dnb/Ochs15" mdate="2021-07-17">
+<author pid="50/10771">Peter Ochs</author>
+<title>Long term motion analysis for object level grouping and nonsmooth optimization methods = Langzeitanalyse von Bewegungen zur objektorientierten Gruppierung und nichglatte Optimierungsmethoden.</title>
+<year>2015</year>
+<school>University of Freiburg, Germany</school>
+<ee>https://www.freidok.uni-freiburg.de/data/9990</ee>
+<ee>https://nbn-resolving.org/urn:nbn:de:bsz:25-opus-99905</ee>
+<ee>https://d-nb.info/1123488894</ee>
+</phdthesis>
+</r>
+<r><article key="journals/jmiv/OchsBP15" mdate="2020-06-08">
+<author pid="50/10771">Peter Ochs</author>
+<author pid="97/4586">Thomas Brox</author>
+<author pid="48/6407">Thomas Pock</author>
+<title>iPiasco: Inertial Proximal Algorithm for Strongly Convex Optimization.</title>
+<pages>171-181</pages>
+<year>2015</year>
+<volume>53</volume>
+<journal>J. Math. Imaging Vis.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10851-015-0565-0</ee>
+<url>db/journals/jmiv/jmiv53.html#OchsBP15</url>
+</article>
+</r>
+<r><article key="journals/siamis/OchsDBP15" mdate="2020-07-14">
+<author pid="50/10771">Peter Ochs</author>
+<author pid="135/4956">Alexey Dosovitskiy</author>
+<author pid="97/4586">Thomas Brox</author>
+<author pid="48/6407">Thomas Pock</author>
+<title>On Iteratively Reweighted Algorithms for Nonsmooth Nonconvex Optimization in Computer Vision.</title>
+<pages>331-372</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>SIAM J. Imaging Sci.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1137/140971518</ee>
+<url>db/journals/siamis/siamis8.html#OchsDBP15</url>
+</article>
+</r>
+<r><inproceedings key="conf/scalespace/OchsRBP15" mdate="2017-05-22">
+<author pid="50/10771">Peter Ochs</author>
+<author pid="119/1600">Ren&#233; Ranftl</author>
+<author pid="97/4586">Thomas Brox</author>
+<author pid="48/6407">Thomas Pock</author>
+<title>Bilevel Optimization with Nonsmooth Lower Level Problems.</title>
+<pages>654-665</pages>
+<year>2015</year>
+<booktitle>SSVM</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-18461-6_52</ee>
+<crossref>conf/scalespace/2015</crossref>
+<url>db/conf/scalespace/ssvm2015.html#OchsRBP15</url>
+</inproceedings>
+</r>
+<r><article key="journals/pami/OchsMB14" mdate="2020-05-30">
+<author pid="50/10771">Peter Ochs</author>
+<author pid="58/2944">Jitendra Malik</author>
+<author pid="97/4586">Thomas Brox</author>
+<title>Segmentation of Moving Objects by Long Term Video Analysis.</title>
+<pages>1187-1200</pages>
+<year>2014</year>
+<volume>36</volume>
+<journal>IEEE Trans. Pattern Anal. Mach. Intell.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TPAMI.2013.242</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TPAMI.2013.242</ee>
+<ee>https://www.wikidata.org/entity/Q86097933</ee>
+<url>db/journals/pami/pami36.html#OchsMB14</url>
+</article>
+</r>
+<r><article key="journals/siamis/OchsCBP14" mdate="2020-07-14">
+<author pid="50/10771">Peter Ochs</author>
+<author pid="134/3031">Yunjin Chen</author>
+<author pid="97/4586">Thomas Brox</author>
+<author pid="48/6407">Thomas Pock</author>
+<title>iPiano: Inertial Proximal Algorithm for Nonconvex Optimization.</title>
+<pages>1388-1419</pages>
+<year>2014</year>
+<volume>7</volume>
+<journal>SIAM J. Imaging Sci.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1137/130942954</ee>
+<url>db/journals/siamis/siamis7.html#OchsCBP14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/OchsCBP14" mdate="2018-08-13">
+<author pid="50/10771">Peter Ochs</author>
+<author pid="134/3031">Yunjin Chen</author>
+<author pid="97/4586">Thomas Brox</author>
+<author pid="48/6407">Thomas Pock</author>
+<title>iPiano: Inertial Proximal Algorithm for Non-Convex Optimization.</title>
+<year>2014</year>
+<volume>abs/1404.4805</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1404.4805</ee>
+<url>db/journals/corr/corr1404.html#OchsCBP14</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/OchsDBP13" mdate="2023-03-24">
+<author pid="50/10771">Peter Ochs</author>
+<author pid="135/4956">Alexey Dosovitskiy</author>
+<author pid="97/4586">Thomas Brox</author>
+<author pid="48/6407">Thomas Pock</author>
+<title>An Iterated L1 Algorithm for Non-smooth Non-convex Optimization in Computer Vision.</title>
+<pages>1759-1766</pages>
+<year>2013</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2013.230</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CVPR.2013.230</ee>
+<crossref>conf/cvpr/2013</crossref>
+<url>db/conf/cvpr/cvpr2013.html#OchsDBP13</url>
+</inproceedings>
+</r>
+<r><article key="journals/tip/Temerinac-OttRODBB12" mdate="2023-09-30">
+<author orcid="0009-0001-8588-7151" pid="61/706">Maja Temerinac-Ott</author>
+<author pid="88/5775">Olaf Ronneberger</author>
+<author pid="50/10771">Peter Ochs</author>
+<author orcid="0000-0002-9551-9141" pid="11/9775">Wolfgang Driever</author>
+<author pid="97/4586">Thomas Brox</author>
+<author pid="31/246">Hans Burkhardt</author>
+<title>Multiview Deblurring for 3-D Images from Light-Sheet-Based Fluorescence Microscopy.</title>
+<pages>1863-1873</pages>
+<year>2012</year>
+<volume>21</volume>
+<journal>IEEE Trans. Image Process.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TIP.2011.2181528</ee>
+<ee>https://www.wikidata.org/entity/Q51463168</ee>
+<url>db/journals/tip/tip21.html#Temerinac-OttRODBB12</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/OchsB12" mdate="2023-03-24">
+<author pid="50/10771">Peter Ochs</author>
+<author pid="97/4586">Thomas Brox</author>
+<title>Higher order motion models and spectral clustering.</title>
+<pages>614-621</pages>
+<year>2012</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2012.6247728</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CVPR.2012.6247728</ee>
+<crossref>conf/cvpr/2012</crossref>
+<url>db/conf/cvpr/cvpr2012.html#OchsB12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dagm/NagarajaOLB12" mdate="2019-03-13">
+<author pid="117/5906">Naveen Shankar Nagaraja</author>
+<author pid="50/10771">Peter Ochs</author>
+<author pid="06/2592-3">Kun Liu 0003</author>
+<author pid="97/4586">Thomas Brox</author>
+<title>Hierarchy of Localized Random Forests for Video Annotation.</title>
+<pages>21-30</pages>
+<year>2012</year>
+<booktitle>DAGM/OAGM Symposium</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-32717-9_3</ee>
+<crossref>conf/dagm/2012</crossref>
+<url>db/conf/dagm/dagm2012.html#NagarajaOLB12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccv/OchsB11" mdate="2023-03-23">
+<author pid="50/10771">Peter Ochs</author>
+<author pid="97/4586">Thomas Brox</author>
+<title>Object segmentation in video: A hierarchical variational approach for turning point trajectories into dense regions.</title>
+<pages>1583-1590</pages>
+<year>2011</year>
+<booktitle>ICCV</booktitle>
+<ee>https://doi.org/10.1109/ICCV.2011.6126418</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICCV.2011.6126418</ee>
+<crossref>conf/iccv/2011</crossref>
+<url>db/conf/iccv/iccv2011.html#OchsB11</url>
+</inproceedings>
+</r>
+<coauthors n="41" nc="3">
+<co c="0"><na f="b/Becker:Stephen" pid="47/9100">Stephen Becker</na></co>
+<co c="1"><na f="b/Bonettini:Silvia" pid="25/6868">Silvia Bonettini</na></co>
+<co c="0"><na f="b/Brox:Thomas" pid="97/4586">Thomas Brox</na></co>
+<co c="0"><na f="b/Burkhardt:Hans" pid="31/246">Hans Burkhardt</na></co>
+<co c="2"><na f="c/Castera:Camille" pid="241/9395">Camille Castera</na></co>
+<co c="0"><na f="c/Chen:Yunjin" pid="134/3031">Yunjin Chen</na></co>
+<co c="0"><na f="c/Cremers:Daniel" pid="c/DanielCremers">Daniel Cremers</na></co>
+<co c="0"><na f="d/Dosovitskiy:Alexey" pid="135/4956">Alexey Dosovitskiy</na></co>
+<co c="0"><na f="d/Driever:Wolfgang" pid="11/9775">Wolfgang Driever</na></co>
+<co c="0" n="2"><na f="f/Fadili:Mohamed=Jalal" pid="f/JalalFadili">Mohamed-Jalal Fadili</na><na>Jalal Fadili</na></co>
+<co c="0" n="2"><na f="g/Graf_0001:Norbert" pid="21/508">Norbert Graf 0001</na><na>Norbert M. Graf</na></co>
+<co c="0"><na f="g/Grewenig:Sven" pid="86/8483">Sven Grewenig</na></co>
+<co c="0"><na f="h/Hafner:David" pid="130/1811">David Hafner</na></co>
+<co c="0"><na f="h/Ho:Kalun" pid="136/0882">Kalun Ho</na></co>
+<co c="0"><na f="k/Kardoost:Amirhossein" pid="241/5515">Amirhossein Kardoost</na></co>
+<co c="0"><na f="k/Keuper:Margret" pid="95/7589">Margret Keuper</na></co>
+<co c="0"><na f="l/Laude:Emanuel" pid="173/5225">Emanuel Laude</na></co>
+<co c="0"><na f="l/Leal=Taix=eacute=:Laura" pid="47/8483">Laura Leal-Taix&#233;</na></co>
+<co c="0"><na f="l/Liu_0003:Kun" pid="06/2592-3">Kun Liu 0003</na></co>
+<co c="2"><na f="m/Maier:Severin" pid="361/2430">Severin Maier</na></co>
+<co c="0"><na f="m/Malik:Jitendra" pid="58/2944">Jitendra Malik</na></co>
+<co c="0"><na f="m/Malitsky:Yura" pid="219/7903">Yura Malitsky</na></co>
+<co c="-1"><na f="m/Mehmood:Sheheryar" pid="268/2704">Sheheryar Mehmood</na></co>
+<co c="0"><na f="m/Meinhardt:Tim" pid="199/2041">Tim Meinhardt</na></co>
+<co c="0"><na f="m/M=ouml=ller_0001:Michael" pid="08/5840-1">Michael M&#246;ller 0001</na></co>
+<co c="0"><na f="m/Mukkamala:Mahesh_Chandra" pid="202/2499">Mahesh Chandra Mukkamala</na></co>
+<co c="0"><na f="m/M=uuml=ller_0001:Sabine" pid="139/1608-1">Sabine M&#252;ller 0001</na></co>
+<co c="0"><na f="n/Nagaraja:Naveen_Shankar" pid="117/5906">Naveen Shankar Nagaraja</na></co>
+<co c="0"><na f="p/Pock:Thomas" pid="48/6407">Thomas Pock</na></co>
+<co c="1"><na f="p/Prato:Marco" pid="11/11383">Marco Prato</na></co>
+<co c="0"><na f="r/Ranftl:Ren=eacute=" pid="119/1600">Ren&#233; Ranftl</na></co>
+<co c="1"><na f="r/Rebegoldi:Simone" pid="173/7045">Simone Rebegoldi</na></co>
+<co c="0"><na f="r/Rei=szlig=el:Martin" pid="85/7091">Martin Rei&#223;el</na></co>
+<co c="0"><na f="r/Ronneberger:Olaf" pid="88/5775">Olaf Ronneberger</na></co>
+<co c="0"><na f="s/Sabach:Shoham" pid="09/10871">Shoham Sabach</na></co>
+<co c="-1"><na f="s/Sucker:Michael" pid="331/6232">Michael Sucker</na></co>
+<co c="0"><na f="t/Temerinac=Ott:Maja" pid="61/706">Maja Temerinac-Ott</na></co>
+<co c="0"><na f="t/T=oacute=masson:J=oacute=n_Arnar" pid="235/7015">J&#243;n Arnar T&#243;masson</na></co>
+<co c="0"><na f="w/Wang:Shida" pid="245/6187">Shida Wang</na></co>
+<co c="0"><na f="w/Weickert:Joachim" pid="w/JoachimWeickert">Joachim Weickert</na></co>
+<co c="0"><na f="w/Westerkamp:Felix" pid="250/9391">Felix Westerkamp</na></co>
+</coauthors>
+</dblpperson>
+

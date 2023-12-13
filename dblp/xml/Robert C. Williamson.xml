@@ -1,0 +1,2211 @@
+<?xml version="1.0"?>
+<dblpperson name="Robert C. Williamson" pid="29/5199" n="160">
+<person key="homepages/29/5199" mdate="2023-09-29">
+<author pid="29/5199">Robert C. Williamson</author>
+<url>https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/foundations-of-machine-learning-systems/people/robert-c-williamson/</url>
+<url>https://scholar.google.com/citations?user=G4MBruQAAAAJ</url>
+<url>https://zbmath.org/authors/?q=ai:williamson.robert-c</url>
+<note type="affiliation">Universitaet Tuebingen, Germany</note>
+</person>
+<r><article key="journals/tmlr/FrohlichW23" mdate="2023-05-18">
+<author pid="11/1774">Christian Fr&#246;hlich</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Tailoring to the Tails: Risk Measures for Fine-Grained Tail Sensitivity.</title>
+<year>2023</year>
+<volume>2023</volume>
+<journal>Trans. Mach. Learn. Res.</journal>
+<ee type="oa">https://openreview.net/forum?id=UntUoeLwwu</ee>
+<url>db/journals/tmlr/tmlr2023.html#FrohlichW23</url>
+</article>
+</r>
+<r><inproceedings key="conf/fat/HoltgenW23" mdate="2023-06-15">
+<author orcid="0009-0008-0882-9821" pid="307/5320">Benedikt H&#246;ltgen</author>
+<author orcid="0000-0002-8862-1412" pid="29/5199">Robert C. Williamson</author>
+<title>On the Richness of Calibration.</title>
+<pages>1124-1138</pages>
+<year>2023</year>
+<booktitle>FAccT</booktitle>
+<ee>https://doi.org/10.1145/3593013.3594068</ee>
+<crossref>conf/fat/2023</crossref>
+<url>db/conf/fat/facct2023.html#HoltgenW23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/MansourNW23" mdate="2023-08-28">
+<author pid="m/YishayMansour">Yishay Mansour</author>
+<author pid="n/RichardNock">Richard Nock</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Random Classification Noise does not defeat All Convex Potential Boosters Irrespective of Model Choice.</title>
+<pages>23706-23742</pages>
+<year>2023</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">https://proceedings.mlr.press/v202/mansour23a.html</ee>
+<crossref>conf/icml/2023</crossref>
+<url>db/conf/icml/icml2023.html#MansourNW23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isipta/DerrW23" mdate="2023-08-28">
+<author pid="325/4921">Rabanus Derr</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>The set structure of precision.</title>
+<pages>165-176</pages>
+<year>2023</year>
+<booktitle>ISIPTA</booktitle>
+<ee type="oa">https://proceedings.mlr.press/v215/derr23a.html</ee>
+<crossref>conf/isipta/2023</crossref>
+<url>db/conf/isipta/isipta2023.html#DerrW23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isipta/FrohlichDW23" mdate="2023-08-28">
+<author pid="11/1774">Christian Fr&#246;hlich</author>
+<author pid="325/4921">Rabanus Derr</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Towards a strictly frequentist theory of imprecise probability.</title>
+<pages>230-240</pages>
+<year>2023</year>
+<booktitle>ISIPTA</booktitle>
+<ee type="oa">https://proceedings.mlr.press/v215/frohlich23a.html</ee>
+<crossref>conf/isipta/2023</crossref>
+<url>db/conf/isipta/isipta2023.html#FrohlichDW23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2302-04118" mdate="2023-02-10">
+<author pid="307/5320">Benedikt H&#246;ltgen</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>On the Richness of Calibration.</title>
+<year>2023</year>
+<volume>abs/2302.04118</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2302.04118</ee>
+<url>db/journals/corr/corr2302.html#abs-2302-04118</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2302-11905" mdate="2023-02-28">
+<author pid="341/1255">Armando J. Cabrera Pacheco</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>The Geometry of Mixability.</title>
+<year>2023</year>
+<volume>abs/2302.11905</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2302.11905</ee>
+<url>db/journals/corr/corr2302.html#abs-2302-11905</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2306-14624" mdate="2023-06-27">
+<author pid="11/1774">Christian Fr&#246;hlich</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Insights From Insurance for Fair Machine Learning: Responsibility, Performativity and Aggregates.</title>
+<year>2023</year>
+<volume>abs/2306.14624</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2306.14624</ee>
+<url>db/journals/corr/corr2306.html#abs-2306-14624</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2307-08643" mdate="2023-07-25">
+<author pid="309/7524">Laura Iacovissi</author>
+<author pid="14/4965">Nan Lu</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>A General Framework for Learning under Corruption: Label Noise, Attribute Noise, and Beyond.</title>
+<year>2023</year>
+<volume>abs/2307.08643</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2307.08643</ee>
+<url>db/journals/corr/corr2307.html#abs-2307-08643</url>
+</article>
+</r>
+<r><article key="journals/computer/McCalmanSABWZL22" mdate="2022-03-23">
+<author pid="94/9964">Lachlan McCalman</author>
+<author pid="47/3087">Daniel Steinberg</author>
+<author pid="279/6207">Grace Abuhamad</author>
+<author pid="160/8431">Marc-Etienne Brunet</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<author pid="16/6366">Richard S. Zemel</author>
+<title>Assessing AI Fairness in Finance.</title>
+<pages>94-97</pages>
+<year>2022</year>
+<volume>55</volume>
+<journal>Computer</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/MC.2021.3123796</ee>
+<url>db/journals/computer/computer55.html#McCalmanSABWZL22</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2205-09628" mdate="2022-05-23">
+<author pid="m/YishayMansour">Yishay Mansour</author>
+<author pid="n/RichardNock">Richard Nock</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>What killed the Convex Booster ?</title>
+<year>2022</year>
+<volume>abs/2205.09628</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2205.09628</ee>
+<url>db/journals/corr/corr2205.html#abs-2205-09628</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2206-03183" mdate="2022-06-14">
+<author pid="11/1774">Christian Fr&#246;hlich</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Risk Measures and Upper Probabilities: Coherence and Stratification.</title>
+<year>2022</year>
+<volume>abs/2206.03183</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2206.03183</ee>
+<url>db/journals/corr/corr2206.html#abs-2206-03183</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2207-11987" mdate="2022-08-01">
+<author pid="29/5199">Robert C. Williamson</author>
+<author pid="203/8760">Zac Cranko</author>
+<title>Information Processing Equalities and the Information-Risk Bridge.</title>
+<year>2022</year>
+<volume>abs/2207.11987</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2207.11987</ee>
+<url>db/journals/corr/corr2207.html#abs-2207-11987</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2207-13596" mdate="2022-08-01">
+<author pid="325/4921">Rabanus Derr</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Fairness and Randomness in Machine Learning: Statistical Independence and Relativization.</title>
+<year>2022</year>
+<volume>abs/2207.13596</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2207.13596</ee>
+<url>db/journals/corr/corr2207.html#abs-2207-13596</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2208-03066" mdate="2022-08-10">
+<author pid="11/1774">Christian Fr&#246;hlich</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Tailoring to the Tails: Risk Measures for Fine-Grained Tail Sensitivity.</title>
+<year>2022</year>
+<volume>abs/2208.03066</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2208.03066</ee>
+<url>db/journals/corr/corr2208.html#abs-2208-03066</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2209-00238" mdate="2022-09-19">
+<author pid="29/5199">Robert C. Williamson</author>
+<author pid="203/8760">Zac Cranko</author>
+<title>The Geometry and Calculus of Losses.</title>
+<year>2022</year>
+<volume>abs/2209.00238</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2209.00238</ee>
+<url>db/journals/corr/corr2209.html#abs-2209-00238</url>
+</article>
+</r>
+<r><inproceedings key="conf/nips/MhammediGW20" mdate="2021-01-19">
+<author pid="192/1360">Zakaria Mhammedi</author>
+<author pid="177/7258">Benjamin Guedj</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>PAC-Bayesian Bound for the Conditional Value at Risk.</title>
+<year>2020</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2020/hash/d02e9bdc27a894e882fa0c9055c99722-Abstract.html</ee>
+<crossref>conf/nips/2020</crossref>
+<url>db/conf/nips/neurips2020.html#MhammediGW20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2006-14763" mdate="2020-07-01">
+<author pid="192/1360">Zakaria Mhammedi</author>
+<author pid="177/7258">Benjamin Guedj</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>PAC-Bayesian Bound for the Conditional Value at Risk.</title>
+<year>2020</year>
+<volume>abs/2006.14763</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2006.14763</ee>
+<url>db/journals/corr/corr2006.html#abs-2006-14763</url>
+</article>
+</r>
+<r><inproceedings key="conf/aies/McNamaraOW19" mdate="2019-07-11">
+<author pid="133/5302">Daniel McNamara</author>
+<author pid="58/2283">Cheng Soon Ong</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Costs and Benefits of Fair Representation Learning.</title>
+<pages>263-270</pages>
+<year>2019</year>
+<booktitle>AIES</booktitle>
+<ee>https://doi.org/10.1145/3306618.3317964</ee>
+<crossref>conf/aies/2019</crossref>
+<url>db/conf/aies/aies2019.html#McNamaraOW19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/NockW19" mdate="2019-06-11">
+<author pid="n/RichardNock">Richard Nock</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Lossless or Quantized Boosting with Integer Arithmetic.</title>
+<pages>4829-4838</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/nock19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#NockW19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/WilliamsonM19" mdate="2019-06-11">
+<author pid="29/5199">Robert C. Williamson</author>
+<author pid="89/3514">Aditya Krishna Menon</author>
+<title>Fairness risk measures.</title>
+<pages>6786-6797</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/williamson19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#WilliamsonM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/HusainNW19" mdate="2021-01-21">
+<author pid="222/3235">Hisham Husain</author>
+<author pid="n/RichardNock">Richard Nock</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>A Primal-Dual link between GANs and Autoencoders.</title>
+<pages>413-422</pages>
+<year>2019</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2019/hash/eae27d77ca20db309e056e3d2dcd7d69-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/8333-a-primal-dual-link-between-gans-and-autoencoders</ee>
+<crossref>conf/nips/2019</crossref>
+<url>db/conf/nips/nips2019.html#HusainNW19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1901-08665" mdate="2019-02-02">
+<author pid="29/5199">Robert C. Williamson</author>
+<author pid="89/3514">Aditya Krishna Menon</author>
+<title>Fairness risk measures.</title>
+<year>2019</year>
+<volume>abs/1901.08665</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1901.08665</ee>
+<url>db/journals/corr/corr1901.html#abs-1901-08665</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1902-00985" mdate="2019-05-21">
+<author pid="222/3235">Hisham Husain</author>
+<author pid="n/RichardNock">Richard Nock</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Adversarial Networks and Autoencoders: The Primal-Dual Relationship and Generalization Bounds.</title>
+<year>2019</year>
+<volume>abs/1902.00985</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1902.00985</ee>
+<url>db/journals/corr/corr1902.html#abs-1902-00985</url>
+</article>
+</r>
+<r><inproceedings key="conf/fat/MenonW18" mdate="2019-04-03">
+<author pid="89/3514">Aditya Krishna Menon</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>The cost of fairness in binary classification.</title>
+<pages>107-118</pages>
+<year>2018</year>
+<booktitle>FAT</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v81/menon18a.html</ee>
+<crossref>conf/fat/2018</crossref>
+<url>db/conf/fat/fat2018.html#MenonW18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/MhammediW18" mdate="2021-01-21">
+<author pid="192/1360">Zakaria Mhammedi</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Constant Regret, Generalized Mixability, and Mirror Descent.</title>
+<pages>7430-7439</pages>
+<year>2018</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2018/hash/af1b5754061ebbd4412adfb34c8d3534-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/7971-constant-regret-generalized-mixability-and-mirror-descent</ee>
+<crossref>conf/nips/2018</crossref>
+<url>db/conf/nips/nips2018.html#MhammediW18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1802-06965" mdate="2018-08-13">
+<author pid="192/1360">Zakaria Mhammedi</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Constant Regret, Generalized Mixability, and Mirror Descent.</title>
+<year>2018</year>
+<volume>abs/1802.06965</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1802.06965</ee>
+<url>db/journals/corr/corr1802.html#abs-1802-06965</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1805-07723" mdate="2018-08-13">
+<author pid="164/7413">Parameswaran Kamalaruban</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Minimax Lower Bounds for Cost Sensitive Classification.</title>
+<year>2018</year>
+<volume>abs/1805.07723</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1805.07723</ee>
+<url>db/journals/corr/corr1805.html#abs-1805-07723</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1805-07737" mdate="2018-08-13">
+<author pid="164/7413">Parameswaran Kamalaruban</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<author pid="45/6863">Xinhua Zhang</author>
+<title>Exp-Concavity of Proper Composite Losses.</title>
+<year>2018</year>
+<volume>abs/1805.07737</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1805.07737</ee>
+<url>db/journals/corr/corr1805.html#abs-1805-07737</url>
+</article>
+</r>
+<r><article key="journals/jmlr/RooyenW17" mdate="2019-07-10">
+<author pid="161/9947">Brendan van Rooyen</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>A Theory of Learning with Corrupted Labels.</title>
+<pages>228:1-228:50</pages>
+<year>2017</year>
+<volume>18</volume>
+<journal>J. Mach. Learn. Res.</journal>
+<ee type="oa">http://jmlr.org/papers/v18/16-315.html</ee>
+<url>db/journals/jmlr/jmlr18.html#RooyenW17</url>
+</article>
+</r>
+<r><inproceedings key="conf/nips/NockCMQW17" mdate="2021-01-21">
+<author pid="n/RichardNock">Richard Nock</author>
+<author pid="203/8760">Zac Cranko</author>
+<author pid="89/3514">Aditya Krishna Menon</author>
+<author pid="58/3601">Lizhen Qu</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>f-GANs in an Information Geometric Nutshell.</title>
+<pages>456-464</pages>
+<year>2017</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2017/hash/2f2b265625d76a6704b08093c652fd79-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/6649-f-gans-in-an-information-geometric-nutshell</ee>
+<crossref>conf/nips/2017</crossref>
+<url>db/conf/nips/nips2017.html#NockCMQW17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/MenonW17" mdate="2018-08-13">
+<author pid="89/3514">Aditya Krishna Menon</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>The cost of fairness in classification.</title>
+<year>2017</year>
+<volume>abs/1705.09055</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1705.09055</ee>
+<url>db/journals/corr/corr1705.html#MenonW17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/NockCMQW17" mdate="2018-08-13">
+<author pid="n/RichardNock">Richard Nock</author>
+<author pid="203/8760">Zac Cranko</author>
+<author pid="89/3514">Aditya Krishna Menon</author>
+<author pid="58/3601">Lizhen Qu</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>f-GANs in an Information Geometric Nutshell.</title>
+<year>2017</year>
+<volume>abs/1707.04385</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1707.04385</ee>
+<url>db/journals/corr/corr1707.html#NockCMQW17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1710-04394" mdate="2018-08-13">
+<author pid="133/5302">Daniel McNamara</author>
+<author pid="58/2283">Cheng Soon Ong</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Provably Fair Representations.</title>
+<year>2017</year>
+<volume>abs/1710.04394</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1710.04394</ee>
+<url>db/journals/corr/corr1710.html#abs-1710-04394</url>
+</article>
+</r>
+<r><article key="journals/jmlr/MenonW16" mdate="2019-07-10">
+<author pid="89/3514">Aditya Krishna Menon</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Bipartite Ranking: a Risk-Theoretic Perspective.</title>
+<pages>195:1-195:102</pages>
+<year>2016</year>
+<volume>17</volume>
+<journal>J. Mach. Learn. Res.</journal>
+<ee type="oa">http://jmlr.org/papers/v17/14-265.html</ee>
+<url>db/journals/jmlr/jmlr17.html#MenonW16</url>
+</article>
+</r>
+<r><article key="journals/jmlr/WilliamsonVR16" mdate="2019-07-10">
+<author pid="29/5199">Robert C. Williamson</author>
+<author pid="12/11107">Elodie Vernet</author>
+<author pid="59/6954">Mark D. Reid</author>
+<title>Composite Multiclass Losses.</title>
+<pages>223:1-223:52</pages>
+<year>2016</year>
+<volume>17</volume>
+<journal>J. Mach. Learn. Res.</journal>
+<ee type="oa">http://jmlr.org/papers/v17/14-294.html</ee>
+<url>db/journals/jmlr/jmlr17.html#WilliamsonVR16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/McNamaraOW16" mdate="2018-08-13">
+<author pid="133/5302">Daniel McNamara</author>
+<author pid="58/2283">Cheng Soon Ong</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>A Modular Theory of Feature Learning.</title>
+<year>2016</year>
+<volume>abs/1611.03125</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1611.03125</ee>
+<url>db/journals/corr/corr1611.html#McNamaraOW16</url>
+</article>
+</r>
+<r><article key="journals/jmlr/ErvenGMRW15" mdate="2022-06-02">
+<author pid="82/1868">Tim van Erven</author>
+<author pid="g/PGrunwald">Peter D. Gr&#252;nwald</author>
+<author pid="87/8143">Nishant A. Mehta</author>
+<author pid="59/6954">Mark D. Reid</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Fast rates in statistical and online learning.</title>
+<pages>1793-1861</pages>
+<year>2015</year>
+<volume>16</volume>
+<journal>J. Mach. Learn. Res.</journal>
+<ee>https://dl.acm.org/doi/10.5555/2789272.2886807</ee>
+<url>db/journals/jmlr/jmlr16.html#ErvenGMRW15</url>
+</article>
+</r>
+<r><inproceedings key="conf/colt/KamalarubanWZ15" mdate="2019-05-29">
+<author pid="164/7413">Parameswaran Kamalaruban</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<author pid="45/6863">Xinhua Zhang</author>
+<title>Exp-Concavity of Proper Composite Losses.</title>
+<pages>1035-1065</pages>
+<year>2015</year>
+<booktitle>COLT</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v40/Kamalaruban15.html</ee>
+<crossref>conf/colt/2015</crossref>
+<url>db/conf/colt/colt2015.html#KamalarubanWZ15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/colt/ReidFWM15" mdate="2019-05-29">
+<author pid="59/6954">Mark D. Reid</author>
+<author pid="62/10262">Rafael M. Frongillo</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<author pid="87/8143">Nishant A. Mehta</author>
+<title>Generalized Mixability via Entropic Duality.</title>
+<pages>1501-1522</pages>
+<year>2015</year>
+<booktitle>COLT</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v40/Reid15.html</ee>
+<crossref>conf/colt/2015</crossref>
+<url>db/conf/colt/colt2015.html#ReidFWM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/RooyenMW15" mdate="2021-01-21">
+<author pid="161/9947">Brendan van Rooyen</author>
+<author pid="89/3514">Aditya Krishna Menon</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Learning with Symmetric Label Noise: The Importance of Being Unhinged.</title>
+<pages>10-18</pages>
+<year>2015</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2015/hash/45c48cce2e2d7fbdea1afc51c7c6ad26-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/5941-learning-with-symmetric-label-noise-the-importance-of-being-unhinged</ee>
+<crossref>conf/nips/2015</crossref>
+<url>db/conf/nips/nips2015.html#RooyenMW15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/RooyenW15" mdate="2018-08-13">
+<author pid="161/9947">Brendan van Rooyen</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>A Theory of Feature Learning.</title>
+<year>2015</year>
+<volume>abs/1504.00083</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1504.00083</ee>
+<url>db/journals/corr/corr1504.html#RooyenW15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/RooyenW15a" mdate="2018-08-13">
+<author pid="161/9947">Brendan van Rooyen</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Learning in the Presence of Corruption.</title>
+<year>2015</year>
+<volume>abs/1504.00091</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1504.00091</ee>
+<url>db/journals/corr/corr1504.html#RooyenW15a</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/RooyenMW15" mdate="2018-08-13">
+<author pid="161/9947">Brendan van Rooyen</author>
+<author pid="89/3514">Aditya Krishna Menon</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Learning with Symmetric Label Noise: The Importance of Being Unhinged.</title>
+<year>2015</year>
+<volume>abs/1505.07634</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1505.07634</ee>
+<url>db/journals/corr/corr1505.html#RooyenMW15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/ErvenGMRW15" mdate="2018-08-13">
+<author pid="82/1868">Tim van Erven</author>
+<author pid="g/PGrunwald">Peter D. Gr&#252;nwald</author>
+<author pid="87/8143">Nishant A. Mehta</author>
+<author pid="59/6954">Mark D. Reid</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Fast rates in statistical and online learning.</title>
+<year>2015</year>
+<volume>abs/1507.02592</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1507.02592</ee>
+<url>db/journals/corr/corr1507.html#ErvenGMRW15</url>
+</article>
+</r>
+<r><inproceedings key="conf/colt/MenonW14" mdate="2019-05-29">
+<author pid="89/3514">Aditya Krishna Menon</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Bayes-Optimal Scorers for Bipartite Ranking.</title>
+<pages>68-106</pages>
+<year>2014</year>
+<booktitle>COLT</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v35/menon14.html</ee>
+<crossref>conf/colt/2014</crossref>
+<url>db/conf/colt/colt2014.html#MenonW14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/colt/SteinwartPWZ14" mdate="2019-05-29">
+<author pid="89/3492">Ingo Steinwart</author>
+<author pid="146/1719">Chlo&#233; Pasin</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<author pid="214/6835">Siyu Zhang</author>
+<title>Elicitation and Identification of Properties.</title>
+<pages>482-526</pages>
+<year>2014</year>
+<booktitle>COLT</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v35/steinwart14.html</ee>
+<crossref>conf/colt/2014</crossref>
+<url>db/conf/colt/colt2014.html#SteinwartPWZ14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/colt/RamaswamyBAW14" mdate="2019-05-29">
+<author pid="126/1729">Harish G. Ramaswamy</author>
+<author pid="146/1718">Balaji Srinivasan Babu</author>
+<author pid="51/6471-1">Shivani Agarwal 0001</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>On the Consistency of Output Code Based Learning Algorithms for Multiclass Learning Problems.</title>
+<pages>885-902</pages>
+<year>2014</year>
+<booktitle>COLT</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v35/ramaswamy14.html</ee>
+<crossref>conf/colt/2014</crossref>
+<url>db/conf/colt/colt2014.html#RamaswamyBAW14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/colt/Williamson14" mdate="2019-05-29">
+<author pid="29/5199">Robert C. Williamson</author>
+<title>The Geometry of Losses.</title>
+<pages>1078-1108</pages>
+<year>2014</year>
+<booktitle>COLT</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v35/williamson14.html</ee>
+<crossref>conf/colt/2014</crossref>
+<url>db/conf/colt/colt2014.html#Williamson14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/MehtaW14" mdate="2021-01-21">
+<author pid="87/8143">Nishant A. Mehta</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>From Stochastic Mixability to Fast Rates.</title>
+<pages>1197-1205</pages>
+<year>2014</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2014/hash/7f5d04d189dfb634e6a85bb9d9adf21e-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/5434-from-stochastic-mixability-to-fast-rates</ee>
+<crossref>conf/nips/2014</crossref>
+<url>db/conf/nips/nips2014.html#MehtaW14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/ReidFW14" mdate="2018-08-13">
+<author pid="59/6954">Mark D. Reid</author>
+<author pid="62/10262">Rafael M. Frongillo</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Generalised Mixability, Constant Regret, and Bayesian Updating.</title>
+<year>2014</year>
+<volume>abs/1403.2433</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1403.2433</ee>
+<url>db/journals/corr/corr1403.html#ReidFW14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/MehtaW14" mdate="2018-08-13">
+<author pid="87/8143">Nishant A. Mehta</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>From Stochastic Mixability to Fast Rates.</title>
+<year>2014</year>
+<volume>abs/1406.3781</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1406.3781</ee>
+<url>db/journals/corr/corr1406.html#MehtaW14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/ReidFWM14" mdate="2018-08-13">
+<author pid="59/6954">Mark D. Reid</author>
+<author pid="62/10262">Rafael M. Frongillo</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<author pid="87/8143">Nishant A. Mehta</author>
+<title>Generalized Mixability via Entropic Duality.</title>
+<year>2014</year>
+<volume>abs/1406.6130</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1406.6130</ee>
+<url>db/journals/corr/corr1406.html#ReidFWM14</url>
+</article>
+</r>
+<r><inproceedings key="conf/birthday/Williamson13" mdate="2018-05-08">
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Loss Functions.</title>
+<pages>71-80</pages>
+<year>2013</year>
+<booktitle>Empirical Inference</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-41136-6_8</ee>
+<crossref>conf/birthday/2013vapnik</crossref>
+<url>db/conf/birthday/vapnik2013.html#Williamson13</url>
+</inproceedings>
+</r>
+<r><article key="journals/jmlr/ErvenRW12" mdate="2022-06-02">
+<author pid="82/1868">Tim van Erven</author>
+<author pid="59/6954">Mark D. Reid</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Mixability is Bayes Risk Curvature Relative to Log Loss.</title>
+<pages>1639-1663</pages>
+<year>2012</year>
+<volume>13</volume>
+<journal>J. Mach. Learn. Res.</journal>
+<ee>https://dl.acm.org/doi/10.5555/2503308.2343696</ee>
+<url>db/journals/jmlr/jmlr13.html#ErvenRW12</url>
+</article>
+</r>
+<r><inproceedings key="conf/icml/ReidWS12" mdate="2019-04-03">
+<author pid="59/6954">Mark D. Reid</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<author pid="88/619">Peng Sun</author>
+<title>The Convexity and Design of Composite Multiclass Losses.</title>
+<year>2012</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://icml.cc/2012/papers/367.pdf</ee>
+<crossref>conf/icml/2012</crossref>
+<url>db/conf/icml/icml2012.html#ReidWS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/ErvenGRW12" mdate="2021-01-21">
+<author pid="82/1868">Tim van Erven</author>
+<author pid="g/PGrunwald">Peter D. Gr&#252;nwald</author>
+<author pid="59/6954">Mark D. Reid</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Mixability in Statistical Learning.</title>
+<pages>1700-1708</pages>
+<year>2012</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2012/hash/670e8a43b246801ca1eaca97b3e19189-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/4835-mixability-in-statistical-learning</ee>
+<crossref>conf/nips/2012</crossref>
+<url>db/conf/nips/nips2012.html#ErvenGRW12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/jmlr/Garcia-GarciaW12" mdate="2019-05-29">
+<author pid="44/7547">Dario Garc&#237;a-Garc&#237;a</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Divergences and Risks for Multiclass Experiments.</title>
+<pages>28.1-28.20</pages>
+<booktitle>COLT</booktitle>
+<year>2012</year>
+<crossref>conf/colt/2012</crossref>
+<ee type="oa">http://proceedings.mlr.press/v23/garcia12/garcia12.pdf</ee>
+<url>db/journals/jmlr/jmlrp23.html#Garcia-GarciaW12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/jmlr/LuxburgWG12" mdate="2019-05-29">
+<author pid="06/1082">Ulrike von Luxburg</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<author pid="31/6176">Isabelle Guyon</author>
+<title>Clustering: Science or Art?</title>
+<pages>65-80</pages>
+<booktitle>ICML Unsupervised and Transfer Learning</booktitle>
+<crossref>conf/icml/2011utl</crossref>
+<year>2012</year>
+<ee type="oa">http://proceedings.mlr.press/v27/luxburg12a.html</ee>
+<url>db/journals/jmlr/jmlrp27.html#LuxburgWG12</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/colt/2012" mdate="2019-05-29">
+<editor pid="20/1669">Shie Mannor</editor>
+<editor pid="50/3633">Nathan Srebro</editor>
+<editor pid="29/5199">Robert C. Williamson</editor>
+<title>COLT 2012 - The 25th Annual Conference on Learning Theory, June 25-27, 2012, Edinburgh, Scotland</title>
+<booktitle>COLT</booktitle>
+<year>2012</year>
+<publisher>JMLR.org</publisher>
+<series href="db/series/jmlr/index.html">JMLR Proceedings</series>
+<volume>23</volume>
+<ee type="oa">http://proceedings.mlr.press/v23/</ee>
+<url>db/journals/jmlr/jmlrp23.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1206-4663" mdate="2018-08-13">
+<author pid="59/6954">Mark D. Reid</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<author pid="88/619">Peng Sun</author>
+<title>The Convexity and Design of Composite Multiclass Losses</title>
+<ee type="oa">http://arxiv.org/abs/1206.4663</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1206.4663</volume>
+<url>db/journals/corr/corr1206.html#abs-1206-4663</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1212-5764" mdate="2018-08-13">
+<author pid="82/4809">Ayman Ghoneim</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Strategy-Proof Prediction Markets</title>
+<ee type="oa">http://arxiv.org/abs/1212.5764</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1212.5764</volume>
+<url>db/journals/corr/corr1212.html#abs-1212-5764</url>
+</article>
+</r>
+<r><article key="journals/jmlr/ReidW11" mdate="2022-06-02">
+<author pid="59/6954">Mark D. Reid</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Information, Divergence and Risk for Binary Experiments.</title>
+<pages>731-817</pages>
+<year>2011</year>
+<volume>12</volume>
+<journal>J. Mach. Learn. Res.</journal>
+<ee>https://dl.acm.org/doi/10.5555/1953048.2021029</ee>
+<url>db/journals/jmlr/jmlr12.html#ReidW11</url>
+</article>
+</r>
+<r><inproceedings key="conf/nips/VernetWR11" mdate="2021-01-21">
+<author pid="12/11107">Elodie Vernet</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<author pid="59/6954">Mark D. Reid</author>
+<title>Composite Multiclass Losses.</title>
+<pages>1224-1232</pages>
+<year>2011</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2011/hash/2afe4567e1bf64d32a5527244d104cea-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/4248-composite-multiclass-losses</ee>
+<crossref>conf/nips/2011</crossref>
+<url>db/conf/nips/nips2011.html#VernetWR11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/jmlr/ErvenRW11" mdate="2019-05-29">
+<author pid="82/1868">Tim van Erven</author>
+<author pid="59/6954">Mark D. Reid</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Mixability is Bayes Risk Curvature Relative to Log Loss.</title>
+<pages>233-252</pages>
+<booktitle>COLT</booktitle>
+<year>2011</year>
+<crossref>conf/colt/2011</crossref>
+<ee type="oa">http://proceedings.mlr.press/v19/vanerven11a/vanerven11a.pdf</ee>
+<url>db/journals/jmlr/jmlrp19.html#ErvenRW11</url>
+</inproceedings>
+</r>
+<r><article key="journals/jmlr/ReidW10" mdate="2022-06-02">
+<author pid="59/6954">Mark D. Reid</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Composite Binary Losses.</title>
+<pages>2387-2422</pages>
+<year>2010</year>
+<volume>11</volume>
+<journal>J. Mach. Learn. Res.</journal>
+<ee>https://dl.acm.org/doi/10.5555/1756006.1953012</ee>
+<url>db/journals/jmlr/jmlr11.html#ReidW10</url>
+</article>
+</r>
+<r><inproceedings key="journals/jmlr/ReidW10a" mdate="2019-05-29">
+<author pid="59/6954">Mark D. Reid</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Convexity of Proper Composite Binary Losses.</title>
+<pages>637-644</pages>
+<booktitle>AISTATS</booktitle>
+<year>2010</year>
+<crossref>conf/aistats/2010</crossref>
+<ee type="oa">http://proceedings.mlr.press/v9/reid10a.html</ee>
+<url>db/journals/jmlr/jmlrp9.html#ReidW10a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/colt/ReidW09" mdate="2021-02-04">
+<author pid="59/6954">Mark D. Reid</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Generalised Pinsker Inequalities.</title>
+<year>2009</year>
+<booktitle>COLT</booktitle>
+<ee type="oa">http://www.cs.mcgill.ca/~colt2009/papers/013.pdf#page=1</ee>
+<crossref>conf/colt/2009</crossref>
+<url>db/conf/colt/colt2009.html#ReidW09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/ReidW09" mdate="2018-11-06">
+<author pid="59/6954">Mark D. Reid</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Surrogate regret bounds for proper losses.</title>
+<pages>897-904</pages>
+<year>2009</year>
+<booktitle>ICML</booktitle>
+<ee>https://doi.org/10.1145/1553374.1553489</ee>
+<crossref>conf/icml/2009</crossref>
+<url>db/conf/icml/icml2009.html#ReidW09</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0906-1244" mdate="2018-08-13">
+<author pid="59/6954">Mark D. Reid</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Generalised Pinsker Inequalities</title>
+<ee type="oa">http://arxiv.org/abs/0906.1244</ee>
+<year>2009</year>
+<journal>CoRR</journal>
+<volume>abs/0906.1244</volume>
+<url>db/journals/corr/corr0906.html#abs-0906-1244</url>
+</article>
+</r>
+<r><article key="journals/tit/LeeBW08" mdate="2020-03-10">
+<author pid="86/1498">Wee Sun Lee</author>
+<author orcid="0000-0002-8760-3140" pid="68/4020">Peter L. Bartlett</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Correction to &#34;The Importance of Convexity in Learning With Squared Loss&#34;.</title>
+<pages>4395</pages>
+<year>2008</year>
+<volume>54</volume>
+<journal>IEEE Trans. Inf. Theory</journal>
+<number>9</number>
+<ee>https://doi.org/10.1109/TIT.2008.928242</ee>
+<url>db/journals/tit/tit54.html#LeeBW08</url>
+</article>
+</r>
+<r><article key="journals/jmlr/SonnenburgBOBBHLMPRRSSVWW07" mdate="2022-12-30">
+<author pid="56/3627">S&#246;ren Sonnenburg</author>
+<author pid="49/5470">Mikio L. Braun</author>
+<author pid="58/2283">Cheng Soon Ong</author>
+<author pid="b/SamyBengio">Samy Bengio</author>
+<author pid="30/1046">L&#233;on Bottou</author>
+<author pid="75/4117">Geoffrey Holmes 0001</author>
+<author pid="l/YannLeCun">Yann LeCun</author>
+<author pid="m/KRMuller">Klaus-Robert M&#252;ller</author>
+<author pid="p/FernandoCNPereira">Fernando Pereira 0003</author>
+<author pid="83/5440">Carl Edward Rasmussen</author>
+<author pid="33/3796">Gunnar R&#228;tsch</author>
+<author pid="97/119">Bernhard Sch&#246;lkopf</author>
+<author pid="s/AlexanderJSmola">Alexander J. Smola</author>
+<author pid="43/861">Pascal Vincent</author>
+<author pid="29/6977">Jason Weston</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>The Need for Open Source Software in Machine Learning.</title>
+<pages>2443-2466</pages>
+<year>2007</year>
+<volume>8</volume>
+<journal>J. Mach. Learn. Res.</journal>
+<ee>https://dl.acm.org/doi/10.5555/1314498.1314577</ee>
+<url>db/journals/jmlr/jmlr8.html#SonnenburgBOBBHLMPRRSSVWW07</url>
+</article>
+</r>
+<r><article key="journals/ejasp/LehmannW06" mdate="2020-03-12">
+<author orcid="0000-0001-9145-9551" pid="91/3602">Eric A. Lehmann</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Particle Filter Design Using Importance Sampling for Acoustic Source Localisation and Tracking in Reverberant Environments.</title>
+<year>2006</year>
+<volume>2006</volume>
+<journal>EURASIP J. Adv. Signal Process.</journal>
+<ee type="oa">https://doi.org/10.1155/ASP/2006/17021</ee>
+<url>db/journals/ejasp/ejasp2006.html#LehmannW06</url>
+</article>
+</r>
+<r><article key="journals/jmlr/OngSW05" mdate="2019-07-10">
+<author pid="58/2283">Cheng Soon Ong</author>
+<author pid="s/AlexanderJSmola">Alexander J. Smola</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Learning the Kernel with Hyperkernels.</title>
+<pages>1043-1071</pages>
+<year>2005</year>
+<volume>6</volume>
+<journal>J. Mach. Learn. Res.</journal>
+<ee type="oa">http://jmlr.org/papers/v6/ong05a.html</ee>
+<url>db/journals/jmlr/jmlr6.html#OngSW05</url>
+</article>
+</r>
+<r><inproceedings key="conf/alt/GuttmanVW05" mdate="2017-05-26">
+<author pid="12/3760">Omri Guttman</author>
+<author pid="v/SVNVishwanathan">S. V. N. Vishwanathan</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Learnability of Probabilistic Automata via Oracles.</title>
+<pages>171-182</pages>
+<year>2005</year>
+<crossref>conf/alt/2005</crossref>
+<booktitle>ALT</booktitle>
+<ee>https://doi.org/10.1007/11564089_15</ee>
+<url>db/conf/alt/alt2005.html#GuttmanVW05</url>
+</inproceedings>
+</r>
+<r><article key="journals/tsp/KivinenSW04" mdate="2020-03-10">
+<author pid="24/1118">Jyrki Kivinen</author>
+<author pid="s/AlexanderJSmola">Alexander J. Smola</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Online learning with kernels.</title>
+<pages>2165-2176</pages>
+<year>2004</year>
+<volume>52</volume>
+<journal>IEEE Trans. Signal Process.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TSP.2004.830991</ee>
+<url>db/journals/tsp/tsp52.html#KivinenSW04</url>
+</article>
+</r>
+<r><article key="journals/taslp/WardLW03" mdate="2020-05-17">
+<author pid="88/7158">Darren B. Ward</author>
+<author orcid="0000-0001-9145-9551" pid="91/3602">Eric A. Lehmann</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Particle filtering algorithms for tracking an acoustic source in a reverberant environment.</title>
+<pages>826-836</pages>
+<year>2003</year>
+<volume>11</volume>
+<journal>IEEE Trans. Speech Audio Process.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TSA.2003.818112</ee>
+<url>db/journals/taslp/taslp11.html#WardLW03</url>
+</article>
+</r>
+<r><inproceedings key="conf/icassp/LehmannWW03" mdate="2020-06-22">
+<author pid="91/3602">Eric A. Lehmann</author>
+<author pid="88/7158">Darren B. Ward</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Experimental comparison of particle filtering algorithms for acoustic source localization in a reverberant room.</title>
+<pages>177-180</pages>
+<year>2003</year>
+<booktitle>ICASSP (5)</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2003.1199897</ee>
+<crossref>conf/icassp/2003</crossref>
+<url>db/conf/icassp/icassp2003.html#LehmannWW03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/BetlehemW03" mdate="2020-06-22">
+<author pid="55/565">Terence Betlehem</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Acoustic beamforming exploiting directionality of human speech sources.</title>
+<pages>365-368</pages>
+<year>2003</year>
+<booktitle>ICASSP (5)</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2003.1199961</ee>
+<crossref>conf/icassp/2003</crossref>
+<url>db/conf/icassp/icassp2003.html#BetlehemW03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/HarringtonKW03" mdate="2020-06-22">
+<author pid="96/2723">Edward Harrington</author>
+<author pid="24/1118">Jyrki Kivinen</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Channel equalization and the Bayes point machine.</title>
+<pages>493-496</pages>
+<year>2003</year>
+<booktitle>ICASSP (4)</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2003.1202687</ee>
+<crossref>conf/icassp/2003</crossref>
+<url>db/conf/icassp/icassp2003.html#HarringtonKW03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/itw/McGowanW03" mdate="2019-02-11">
+<author pid="235/3452">James A. McGowan</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Loop removal from LDPC codes.</title>
+<pages>230-233</pages>
+<year>2003</year>
+<booktitle>ITW</booktitle>
+<ee>https://doi.org/10.1109/ITW.2003.1216737</ee>
+<crossref>conf/itw/2003</crossref>
+<url>db/conf/itw/itw2003.html#McGowanW03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pakdd/HarringtonHKPW03" mdate="2017-05-25">
+<author pid="96/2723">Edward Harrington</author>
+<author pid="h/RalfHerbrich">Ralf Herbrich</author>
+<author pid="24/1118">Jyrki Kivinen</author>
+<author pid="27/1418">John C. Platt</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Online Bayes Point Machines.</title>
+<pages>241-252</pages>
+<year>2003</year>
+<crossref>conf/pakdd/2003</crossref>
+<booktitle>PAKDD</booktitle>
+<ee>https://doi.org/10.1007/3-540-36175-8_24</ee>
+<url>db/conf/pakdd/pakdd2003.html#HarringtonHKPW03</url>
+</inproceedings>
+</r>
+<r><article key="journals/jmlr/HerbrichW02" mdate="2019-07-10">
+<author pid="h/RalfHerbrich">Ralf Herbrich</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Algorithmic Luckiness.</title>
+<pages>175-212</pages>
+<year>2002</year>
+<volume>3</volume>
+<journal>J. Mach. Learn. Res.</journal>
+<ee type="oa">http://jmlr.org/papers/v3/herbrich02a.html</ee>
+<url>db/journals/jmlr/jmlr3.html#HerbrichW02</url>
+</article>
+</r>
+<r><article key="journals/tit/GuoBSW02" mdate="2020-03-10">
+<author pid="12/1208">Ying Guo</author>
+<author orcid="0000-0002-8760-3140" pid="68/4020">Peter L. Bartlett</author>
+<author orcid="0000-0002-2030-0073" pid="59/41">John Shawe-Taylor</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Covering numbers for support vector machines.</title>
+<pages>239-250</pages>
+<year>2002</year>
+<volume>48</volume>
+<journal>IEEE Trans. Inf. Theory</journal>
+<number>1</number>
+<url>db/journals/tit/tit48.html#GuoBSW02</url>
+<ee>https://doi.org/10.1109/18.971752</ee>
+</article>
+</r>
+<r><article key="journals/tsp/MartinSWJ02" mdate="2023-11-12">
+<author orcid="0000-0003-1104-0414" pid="63/2543">Richard K. Martin</author>
+<author pid="72/3104">William A. Sethares</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<author pid="56/2180">C. Richard Johnson Jr.</author>
+<title>Exploiting sparsity in adaptive filters.</title>
+<pages>1883-1894</pages>
+<year>2002</year>
+<volume>50</volume>
+<journal>IEEE Trans. Signal Process.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TSP.2002.800414</ee>
+<url>db/journals/tsp/tsp50.html#MartinSWJ02</url>
+</article>
+</r>
+<r><inproceedings key="conf/alt/KivinenSW02" mdate="2017-05-26">
+<author pid="24/1118">Jyrki Kivinen</author>
+<author pid="s/AlexanderJSmola">Alexander J. Smola</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Large Margin Classification for Moving Targets.</title>
+<pages>113-127</pages>
+<year>2002</year>
+<crossref>conf/alt/2002</crossref>
+<booktitle>ALT</booktitle>
+<ee>https://doi.org/10.1007/3-540-36169-3_11</ee>
+<url>db/conf/alt/alt2002.html#KivinenSW02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/colt/MendelsonW02" mdate="2017-05-21">
+<author pid="80/1427">Shahar Mendelson</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Agnostic Learning Nonconvex Function Classes.</title>
+<pages>1-13</pages>
+<year>2002</year>
+<crossref>conf/colt/2002</crossref>
+<booktitle>COLT</booktitle>
+<ee>https://doi.org/10.1007/3-540-45435-7_1</ee>
+<url>db/conf/colt/colt2002.html#MendelsonW02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/WardW02" mdate="2017-05-19">
+<author pid="88/7158">Darren B. Ward</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Particle filter beamforming for acoustic source localization in a reverberant environment.</title>
+<pages>1777-1780</pages>
+<year>2002</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2002.5744967</ee>
+<crossref>conf/icassp/2002</crossref>
+<url>db/conf/icassp/icassp2002.html#WardW02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/OngSW02" mdate="2021-01-21">
+<author pid="58/2283">Cheng Soon Ong</author>
+<author pid="s/AlexanderJSmola">Alexander J. Smola</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Hyperkernels.</title>
+<pages>478-485</pages>
+<year>2002</year>
+<crossref>conf/nips/2002</crossref>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2002/hash/ca0daec69b5adc880fb464895726dbdf-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/2193-hyperkernels</ee>
+<url>db/conf/nips/nips2002.html#OngSW02</url>
+</inproceedings>
+</r>
+<r><article key="journals/jmlr/SmolaMSW01" mdate="2019-07-10">
+<author pid="s/AlexanderJSmola">Alexander J. Smola</author>
+<author pid="40/4613">Sebastian Mika</author>
+<author pid="97/119">Bernhard Sch&#246;lkopf</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Regularized Principal Manifolds.</title>
+<pages>179-209</pages>
+<year>2001</year>
+<volume>1</volume>
+<journal>J. Mach. Learn. Res.</journal>
+<ee type="oa">http://jmlr.org/papers/v1/smola01a.html</ee>
+<url>db/journals/jmlr/jmlr1.html#SmolaMSW01</url>
+</article>
+</r>
+<r><article key="journals/jmlr/MahonyW01" mdate="2019-07-10">
+<author pid="03/418">Robert E. Mahony</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Prior Knowledge and Preferential Structures in Gradient Descent Learning Algorithms.</title>
+<pages>311-355</pages>
+<year>2001</year>
+<volume>1</volume>
+<journal>J. Mach. Learn. Res.</journal>
+<ee type="oa">http://jmlr.org/papers/v1/mahony01a.html</ee>
+<url>db/journals/jmlr/jmlr1.html#MahonyW01</url>
+</article>
+</r>
+<r><article key="journals/neco/ScholkopfPSSW01" mdate="2020-09-01">
+<author pid="97/119">Bernhard Sch&#246;lkopf</author>
+<author pid="27/1418">John C. Platt</author>
+<author orcid="0000-0002-2030-0073" pid="59/41">John Shawe-Taylor</author>
+<author pid="s/AlexanderJSmola">Alexander J. Smola</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Estimating the Support of a High-Dimensional Distribution.</title>
+<pages>1443-1471</pages>
+<year>2001</year>
+<volume>13</volume>
+<journal>Neural Comput.</journal>
+<number>7</number>
+<url>db/journals/neco/neco13.html#ScholkopfPSSW01</url>
+<ee>https://doi.org/10.1162/089976601750264965</ee>
+<ee>https://www.wikidata.org/entity/Q28204995</ee>
+</article>
+</r>
+<r><article key="journals/tit/WilliamsonSS01" mdate="2020-03-10">
+<author pid="29/5199">Robert C. Williamson</author>
+<author pid="s/AlexanderJSmola">Alexander J. Smola</author>
+<author pid="97/119">Bernhard Sch&#246;lkopf</author>
+<title>Generalization performance of regularization networks and support vector machines via entropy numbers of compact operators.</title>
+<pages>2516-2532</pages>
+<year>2001</year>
+<volume>47</volume>
+<journal>IEEE Trans. Inf. Theory</journal>
+<number>6</number>
+<url>db/journals/tit/tit47.html#WilliamsonSS01</url>
+<ee>https://doi.org/10.1109/18.945262</ee>
+</article>
+</r>
+<r><article key="journals/tsp/HillW01" mdate="2020-03-10">
+<author pid="78/2708">Simon I. Hill</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Convergence of exponentiated gradient algorithms.</title>
+<pages>1208-1215</pages>
+<year>2001</year>
+<volume>49</volume>
+<journal>IEEE Trans. Signal Process.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/78.923303</ee>
+<url>db/journals/tsp/tsp49.html#HillW01</url>
+</article>
+</r>
+<r><inproceedings key="conf/iscas/ShepardW01" mdate="2019-01-10">
+<author pid="58/1883">Marshall Shepard</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Very low voltage power conversion.</title>
+<pages>289-292</pages>
+<year>2001</year>
+<crossref>conf/iscas/2001</crossref>
+<booktitle>ISCAS (3)</booktitle>
+<ee>https://doi.org/10.1109/ISCAS.2001.921304</ee>
+<url>db/conf/iscas/iscas2001-3.html#ShepardW01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/HerbrichW01" mdate="2021-01-21">
+<author pid="h/RalfHerbrich">Ralf Herbrich</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Algorithmic Luckiness.</title>
+<pages>391-397</pages>
+<year>2001</year>
+<crossref>conf/nips/2001</crossref>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2001/hash/24f0d2c90473b2bc949ad962e61d9bcb-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/2105-algorithmic-luckiness</ee>
+<url>db/conf/nips/nips2001.html#HerbrichW01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/KowalczykSW01" mdate="2021-01-21">
+<author pid="48/3093">Adam Kowalczyk</author>
+<author pid="s/AlexanderJSmola">Alexander J. Smola</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Kernel Machines and Boolean Functions.</title>
+<pages>439-446</pages>
+<year>2001</year>
+<crossref>conf/nips/2001</crossref>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2001/hash/d77f00766fd3be3f2189c843a6af3fb2-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/1958-kernel-machines-and-boolean-functions</ee>
+<url>db/conf/nips/nips2001.html#KowalczykSW01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/KivinenSW01" mdate="2021-01-21">
+<author pid="24/1118">Jyrki Kivinen</author>
+<author pid="s/AlexanderJSmola">Alexander J. Smola</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Online Learning with Kernels.</title>
+<pages>785-792</pages>
+<year>2001</year>
+<crossref>conf/nips/2001</crossref>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2001/hash/bd5af7cd922fd2603be4ee3dc43b0b77-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/2128-online-learning-with-kernels</ee>
+<url>db/conf/nips/nips2001.html#KivinenSW01</url>
+</inproceedings>
+</r>
+<r><incollection key="books/sp/01/WardKW01" mdate="2019-07-26">
+<author pid="88/7158">Darren B. Ward</author>
+<author pid="56/6217">Rodney A. Kennedy</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Constant Directivity Beamforming.</title>
+<pages>3-17</pages>
+<year>2001</year>
+<booktitle>Microphone Arrays</booktitle>
+<ee>https://doi.org/10.1007/978-3-662-04619-7_1</ee>
+<crossref>books/sp/01/BW2001</crossref>
+<url>db/books/collections/BW2001.html#WardKW01</url>
+</incollection>
+</r>
+<r><proceedings key="conf/colt/2001" mdate="2019-05-14">
+<editor pid="10/1058">David P. Helmbold</editor>
+<editor pid="29/5199">Robert C. Williamson</editor>
+<title>Computational Learning Theory, 14th Annual Conference on Computational Learning Theory, COLT 2001 and 5th European Conference on Computational Learning Theory, EuroCOLT 2001, Amsterdam, The Netherlands, July 16-19, 2001, Proceedings</title>
+<booktitle>COLT/EuroCOLT</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>2111</volume>
+<publisher>Springer</publisher>
+<year>2001</year>
+<isbn>3-540-42343-5</isbn>
+<ee>https://doi.org/10.1007/3-540-44581-1</ee>
+<url>db/conf/colt/colt2001.html</url>
+</proceedings>
+</r>
+<r><article key="journals/neco/ScholkopfSWB00" mdate="2020-09-01">
+<author pid="97/119">Bernhard Sch&#246;lkopf</author>
+<author pid="s/AlexanderJSmola">Alexander J. Smola</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<author pid="68/4020">Peter L. Bartlett</author>
+<title>New Support Vector Algorithms.</title>
+<pages>1207-1245</pages>
+<year>2000</year>
+<volume>12</volume>
+<journal>Neural Comput.</journal>
+<number>5</number>
+<url>db/journals/neco/neco12.html#ScholkopfSWB00</url>
+<ee>https://doi.org/10.1162/089976600300015565</ee>
+<ee>https://www.wikidata.org/entity/Q52076308</ee>
+</article>
+</r>
+<r><article key="journals/taslp/RadlovicWK00" mdate="2020-05-17">
+<author pid="16/11354">Biljana D. Radlovic</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<author orcid="0000-0002-3946-3673" pid="56/6217">Rodney A. Kennedy</author>
+<title>Equalization in an acoustic reverberant environment: robustness results.</title>
+<pages>311-319</pages>
+<year>2000</year>
+<volume>8</volume>
+<journal>IEEE Trans. Speech Audio Process.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/89.841213</ee>
+<url>db/journals/taslp/taslp8.html#RadlovicWK00</url>
+</article>
+</r>
+<r><inproceedings key="conf/colt/WilliamsonSS00" mdate="2015-05-07">
+<author pid="29/5199">Robert C. Williamson</author>
+<author pid="s/AlexanderJSmola">Alexander J. Smola</author>
+<author pid="97/119">Bernhard Sch&#246;lkopf</author>
+<title>Entropy Numbers of Linear Function Classes.</title>
+<pages>309-319</pages>
+<year>2000</year>
+<crossref>conf/colt/2000</crossref>
+<booktitle>COLT</booktitle>
+<url>db/conf/colt/colt2000.html#WilliamsonSS00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/TealWK00" mdate="2023-03-23">
+<author pid="22/1922">Paul D. Teal</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<author orcid="0000-0002-3946-3673" pid="56/6217">Rodney A. Kennedy</author>
+<title>Error performance of a channel of known impulse response.</title>
+<pages>2733-2736</pages>
+<year>2000</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2000.861057</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICASSP.2000.861057</ee>
+<crossref>conf/icassp/2000</crossref>
+<url>db/conf/icassp/icassp2000.html#TealWK00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/GraepelHW00" mdate="2021-01-21">
+<author pid="g/ThoreGraepel">Thore Graepel</author>
+<author pid="h/RalfHerbrich">Ralf Herbrich</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>From Margin to Sparsity.</title>
+<pages>210-216</pages>
+<year>2000</year>
+<crossref>conf/nips/2000</crossref>
+<booktitle>NIPS</booktitle>
+<url>db/conf/nips/nips2000.html#GraepelHW00</url>
+<ee type="oa">https://proceedings.neurips.cc/paper/2000/hash/d305281faf947ca7acade9ad5c8c818c-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/1870-from-margin-to-sparsity</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/SmolaOW00" mdate="2021-01-21">
+<author pid="s/AlexanderJSmola">Alexander J. Smola</author>
+<author pid="93/1164">Zolt&#225;n L. &#211;v&#225;ri</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Regularization with Dot-Product Kernels.</title>
+<pages>308-314</pages>
+<year>2000</year>
+<crossref>conf/nips/2000</crossref>
+<booktitle>NIPS</booktitle>
+<url>db/conf/nips/nips2000.html#SmolaOW00</url>
+<ee type="oa">https://proceedings.neurips.cc/paper/2000/hash/d25414405eb37dae1c14b18d6a2cac34-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/1790-regularization-with-dot-product-kernels</ee>
+</inproceedings>
+</r>
+<r><article key="journals/spl/AbhayapalaKW99" mdate="2017-06-14">
+<author orcid="0000-0001-6937-7218" pid="59/3573">Thushara D. Abhayapala</author>
+<author orcid="0000-0002-3946-3673" pid="56/6217">Rodney A. Kennedy</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Noise modeling for nearfield array optimization.</title>
+<pages>210-212</pages>
+<year>1999</year>
+<volume>6</volume>
+<journal>IEEE Signal Process. Lett.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/97.774869</ee>
+<url>db/journals/spl/spl6.html#AbhayapalaKW99</url>
+</article>
+</r>
+<r><article key="journals/tac/WeyerWM99" mdate="2020-05-20">
+<author orcid="0000-0003-4309-4337" pid="44/4878">Erik Weyer</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<author orcid="0000-0002-9832-5959" pid="55/2443">Iven M. Y. Mareels</author>
+<title>Finite sample properties of linear model identification.</title>
+<pages>1370-1383</pages>
+<year>1999</year>
+<volume>44</volume>
+<journal>IEEE Trans. Autom. Control.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1109/9.774109</ee>
+<url>db/journals/tac/tac44.html#WeyerWM99</url>
+</article>
+</r>
+<r><inproceedings key="conf/colt/GuoBSW99" mdate="2020-09-05">
+<author pid="12/1208">Ying Guo</author>
+<author pid="68/4020">Peter L. Bartlett</author>
+<author orcid="0000-0002-2030-0073" pid="59/41">John Shawe-Taylor</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Covering Numbers for Support Vector Machines.</title>
+<pages>267-277</pages>
+<year>1999</year>
+<crossref>conf/colt/1999</crossref>
+<booktitle>COLT</booktitle>
+<ee>https://doi.org/10.1145/307400.307467</ee>
+<url>db/conf/colt/colt1999.html#GuoBSW99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eurocolt/SmolaWMS99" mdate="2017-05-23">
+<author pid="s/AlexanderJSmola">Alexander J. Smola</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<author pid="40/4613">Sebastian Mika</author>
+<author pid="97/119">Bernhard Sch&#246;lkopf</author>
+<title>Regularized Principal Manifolds.</title>
+<pages>214-229</pages>
+<ee>https://doi.org/10.1007/3-540-49097-3_17</ee>
+<year>1999</year>
+<crossref>conf/eurocolt/1999</crossref>
+<booktitle>EuroCOLT</booktitle>
+<url>db/conf/eurocolt/eurocolt1999.html#SmolaWMS99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eurocolt/WilliamsonSS99" mdate="2017-05-23">
+<author pid="29/5199">Robert C. Williamson</author>
+<author pid="s/AlexanderJSmola">Alexander J. Smola</author>
+<author pid="97/119">Bernhard Sch&#246;lkopf</author>
+<title>Entropy Numbers, Operators and Support Vector Kernels.</title>
+<pages>285-299</pages>
+<ee>https://doi.org/10.1007/3-540-49097-3_23</ee>
+<year>1999</year>
+<crossref>conf/eurocolt/1999</crossref>
+<booktitle>EuroCOLT</booktitle>
+<url>db/conf/eurocolt/eurocolt1999.html#WilliamsonSS99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/RadlovicWK99" mdate="2023-03-23">
+<author pid="16/11354">Biljana D. Radlovic</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<author pid="56/6217">Rodney A. Kennedy</author>
+<title>On the poor robustness of sound equalization in reverberant environments.</title>
+<pages>881-884</pages>
+<year>1999</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.1999.759812</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICASSP.1999.759812</ee>
+<crossref>conf/icassp/1999</crossref>
+<url>db/conf/icassp/icassp1999.html#RadlovicWK99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isspa/HillW99" mdate="2017-05-26">
+<author pid="78/2708">Simon I. Hill</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>An analysis of the exponentiated gradient descent algorithm.</title>
+<pages>379-382</pages>
+<year>1999</year>
+<booktitle>ISSPA</booktitle>
+<ee>https://doi.org/10.1109/ISSPA.1999.818191</ee>
+<crossref>conf/isspa/1999</crossref>
+<url>db/conf/isspa/isspa1999.html#HillW99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isspa/AbhayapalaKWW99" mdate="2017-06-15">
+<author orcid="0000-0001-6937-7218" pid="59/3573">Thushara D. Abhayapala</author>
+<author orcid="0000-0002-3946-3673" pid="56/6217">Rodney A. Kennedy</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<author pid="88/7158">Darren B. Ward</author>
+<title>Nearfield broadband adaptive beamforming.</title>
+<pages>839-842</pages>
+<year>1999</year>
+<booktitle>ISSPA</booktitle>
+<ee>https://doi.org/10.1109/ISSPA.1999.815802</ee>
+<crossref>conf/isspa/1999</crossref>
+<url>db/conf/isspa/isspa1999.html#AbhayapalaKWW99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isspa/WardW99" mdate="2017-05-26">
+<author pid="88/7158">Darren B. Ward</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Beamforming for a source located in the interior of a sensor array.</title>
+<pages>873-876</pages>
+<year>1999</year>
+<booktitle>ISSPA</booktitle>
+<ee>https://doi.org/10.1109/ISSPA.1999.815810</ee>
+<crossref>conf/isspa/1999</crossref>
+<url>db/conf/isspa/isspa1999.html#WardW99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/SmolaSSW99" mdate="2020-03-06">
+<author pid="s/AlexanderJSmola">Alexander J. Smola</author>
+<author pid="59/41">John Shawe-Taylor</author>
+<author pid="97/119">Bernhard Sch&#246;lkopf</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>The Entropy Regularization Information Criterion.</title>
+<pages>342-348</pages>
+<ee type="oa">http://papers.nips.cc/paper/1677-the-entropy-regularization-information-criterion</ee>
+<ee type="archive">http://nips.djvuzone.org/djvu/nips12/0342.djvu</ee>
+<year>1999</year>
+<crossref>conf/nips/1999</crossref>
+<booktitle>NIPS</booktitle>
+<url>db/conf/nips/nips1999.html#SmolaSSW99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/ScholkopfWSSP99" mdate="2020-03-06">
+<author pid="97/119">Bernhard Sch&#246;lkopf</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<author pid="s/AlexanderJSmola">Alexander J. Smola</author>
+<author pid="59/41">John Shawe-Taylor</author>
+<author pid="27/1418">John C. Platt</author>
+<title>Support Vector Method for Novelty Detection.</title>
+<pages>582-588</pages>
+<ee type="oa">http://papers.nips.cc/paper/1723-support-vector-method-for-novelty-detection</ee>
+<ee type="archive">http://nips.djvuzone.org/djvu/nips12/0582.djvu</ee>
+<year>1999</year>
+<crossref>conf/nips/1999</crossref>
+<booktitle>NIPS</booktitle>
+<url>db/conf/nips/nips1999.html#ScholkopfWSSP99</url>
+</inproceedings>
+</r>
+<r><article key="journals/automatica/WeyerWM98" mdate="2020-02-20">
+<author pid="44/4878">Erik Weyer</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<author pid="55/2443">Iven M. Y. Mareels</author>
+<title>On the Relationship Between Behavioural and Standard Methods for System Identification.</title>
+<pages>801-804</pages>
+<year>1998</year>
+<volume>34</volume>
+<journal>Autom.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1016/S0005-1098(98)00010-7</ee>
+<url>db/journals/automatica/automatica34.html#WeyerWM98</url>
+</article>
+</r>
+<r><article key="journals/tit/Shawe-TaylorBWA98" mdate="2023-06-26">
+<author orcid="0000-0002-2030-0073" pid="59/41">John Shawe-Taylor</author>
+<author orcid="0000-0002-8760-3140" pid="68/4020">Peter L. Bartlett</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<author orcid="0000-0002-7796-6044" pid="68/244">Martin Anthony</author>
+<title>Structural Risk Minimization Over Data-Dependent Hierarchies.</title>
+<pages>1926-1940</pages>
+<year>1998</year>
+<volume>44</volume>
+<journal>IEEE Trans. Inf. Theory</journal>
+<number>5</number>
+<url>db/journals/tit/tit44.html#Shawe-TaylorBWA98</url>
+<ee>https://doi.org/10.1109/18.705570</ee>
+</article>
+</r>
+<r><article key="journals/tit/LeeBW98" mdate="2020-03-10">
+<author pid="86/1498">Wee Sun Lee</author>
+<author orcid="0000-0002-8760-3140" pid="68/4020">Peter L. Bartlett</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>The Importance of Convexity in Learning with Squared Loss.</title>
+<pages>1974-1980</pages>
+<year>1998</year>
+<volume>44</volume>
+<journal>IEEE Trans. Inf. Theory</journal>
+<number>5</number>
+<url>db/journals/tit/tit44.html#LeeBW98</url>
+<ee>https://doi.org/10.1109/18.705577</ee>
+</article>
+</r>
+<r><inproceedings key="conf/icassp/AbhayapalaKW98" mdate="2017-06-15">
+<author orcid="0000-0001-6937-7218" pid="59/3573">Thushara D. Abhayapala</author>
+<author orcid="0000-0002-3946-3673" pid="56/6217">Rodney A. Kennedy</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Broadband beamforming using elementary shape invariant beampatterns.</title>
+<pages>2041-2044</pages>
+<year>1998</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.1998.681544</ee>
+<crossref>conf/icassp/1998</crossref>
+<url>db/conf/icassp/icassp1998.html#AbhayapalaKW98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/ScholkopfBSW98" mdate="2020-03-06">
+<author pid="97/119">Bernhard Sch&#246;lkopf</author>
+<author pid="68/4020">Peter L. Bartlett</author>
+<author pid="s/AlexanderJSmola">Alexander J. Smola</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Shrinking the Tube: A New Support Vector Regression Algorithm.</title>
+<pages>330-336</pages>
+<ee type="oa">http://papers.nips.cc/paper/1563-shrinking-the-tube-a-new-support-vector-regression-algorithm</ee>
+<ee type="archive">http://nips.djvuzone.org/djvu/nips11/0330.djvu</ee>
+<year>1998</year>
+<crossref>conf/nips/1998</crossref>
+<booktitle>NIPS</booktitle>
+<url>db/conf/nips/nips1998.html#ScholkopfBSW98</url>
+</inproceedings>
+</r>
+<r><article key="journals/mcss/BlackmoreWMS97" mdate="2020-09-10">
+<author orcid="0000-0002-6592-3346" pid="09/3092">Kim L. Blackmore</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<author pid="55/2443">Iven M. Y. Mareels</author>
+<author pid="72/3104">William A. Sethares</author>
+<title>Online learning via congregational gradient descent.</title>
+<pages>331-363</pages>
+<year>1997</year>
+<volume>10</volume>
+<journal>Math. Control. Signals Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/BF01211551</ee>
+<url>db/journals/mcss/mcss10.html#BlackmoreWMS97</url>
+</article>
+</r>
+<r><article key="journals/neco/LeeBW97" mdate="2020-09-01">
+<author pid="86/1498">Wee Sun Lee</author>
+<author pid="68/4020">Peter L. Bartlett</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Correction to 'Lower Bounds on the VC-Dimension of Smoothly Parametrized Function Classes'.</title>
+<pages>765-769</pages>
+<year>1997</year>
+<volume>9</volume>
+<journal>Neural Comput.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1162/neco.1997.9.4.765</ee>
+<url>db/journals/neco/neco9.html#LeeBW97</url>
+</article>
+</r>
+<r><article key="journals/sigpro/FultonBW97" mdate="2020-02-22">
+<author pid="02/11421">Jennifer A. Fulton</author>
+<author pid="02/5545">Robert R. Bitmead</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Sampling rate versus quantisation in speech coders.</title>
+<pages>209-218</pages>
+<year>1997</year>
+<volume>56</volume>
+<journal>Signal Process.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1016/S0165-1684(96)00170-3</ee>
+<url>db/journals/sigpro/sigpro56.html#FultonBW97</url>
+</article>
+</r>
+<r><article key="journals/tit/BlackmoreWM97" mdate="2020-03-10">
+<author orcid="0000-0002-6592-3346" pid="09/3092">Kim L. Blackmore</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<author orcid="0000-0002-9832-5959" pid="55/2443">Iven M. Y. Mareels</author>
+<title>Decision region approximation by polynomials or neural networks.</title>
+<pages>903-907</pages>
+<year>1997</year>
+<volume>43</volume>
+<journal>IEEE Trans. Inf. Theory</journal>
+<number>3</number>
+<url>db/journals/tit/tit43.html#BlackmoreWM97</url>
+<ee>https://doi.org/10.1109/18.568700</ee>
+</article>
+</r>
+<r><inproceedings key="conf/colt/Shawe-TaylorW97" mdate="2018-11-06">
+<author pid="59/41">John Shawe-Taylor</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>A PAC Analysis of a Bayesian Estimator.</title>
+<pages>2-9</pages>
+<year>1997</year>
+<crossref>conf/colt/1997</crossref>
+<booktitle>COLT</booktitle>
+<ee>https://doi.org/10.1145/267460.267466</ee>
+<url>db/conf/colt/colt1997.html#Shawe-TaylorW97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/WardKW97" mdate="2023-03-23">
+<author pid="88/7158">Darren B. Ward</author>
+<author pid="56/6217">Rodney A. Kennedy</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>An adaptive algorithm for broadband frequency invariant beamforming.</title>
+<pages>3737-3740</pages>
+<year>1997</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.1997.604682</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICASSP.1997.604682</ee>
+<crossref>conf/icassp/1997</crossref>
+<url>db/conf/icassp/icassp1997.html#WardKW97</url>
+</inproceedings>
+</r>
+<r><article key="journals/jcss/BartlettLW96" mdate="2021-02-16">
+<author orcid="0000-0002-8760-3140" pid="68/4020">Peter L. Bartlett</author>
+<author pid="66/5275">Philip M. Long</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Fat-Shattering and the Learnability of Real-Valued Functions.</title>
+<pages>434-452</pages>
+<year>1996</year>
+<volume>52</volume>
+<journal>J. Comput. Syst. Sci.</journal>
+<number>3</number>
+<url>db/journals/jcss/jcss52.html#BartlettLW96</url>
+<ee type="oa">https://doi.org/10.1006/jcss.1996.0033</ee>
+</article>
+</r>
+<r><article key="journals/neco/BartlettW96" mdate="2020-09-01">
+<author pid="68/4020">Peter L. Bartlett</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>The VC Dimension and Pseudodimension of Two-Layer Neural Networks with Discrete Inputs.</title>
+<pages>625-628</pages>
+<year>1996</year>
+<volume>8</volume>
+<journal>Neural Comput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1162/neco.1996.8.3.625</ee>
+<url>db/journals/neco/neco8.html#BartlettW96</url>
+</article>
+</r>
+<r><article key="journals/spl/WardKW96" mdate="2021-04-09">
+<author pid="88/7158">Darren B. Ward</author>
+<author orcid="0000-0002-3946-3673" pid="56/6217">Rodney A. Kennedy</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>FIR filter design for frequency invariant beamformers.</title>
+<pages>69-71</pages>
+<year>1996</year>
+<volume>3</volume>
+<journal>IEEE Signal Process. Lett.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/97.481158</ee>
+<url>db/journals/spl/spl3.html#WardKW96</url>
+</article>
+</r>
+<r><article key="journals/tit/LeeBW96" mdate="2020-03-10">
+<author pid="86/1498">Wee Sun Lee</author>
+<author orcid="0000-0002-8760-3140" pid="68/4020">Peter L. Bartlett</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Efficient agnostic learning of neural networks with bounded fan-in.</title>
+<pages>2118-2132</pages>
+<year>1996</year>
+<volume>42</volume>
+<journal>IEEE Trans. Inf. Theory</journal>
+<number>6</number>
+<url>db/journals/tit/tit42.html#LeeBW96</url>
+<ee>https://doi.org/10.1109/18.556601</ee>
+</article>
+</r>
+<r><inproceedings key="conf/colt/Shawe-TaylorBWA96" mdate="2018-11-06">
+<author pid="59/41">John Shawe-Taylor</author>
+<author pid="68/4020">Peter L. Bartlett</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<author pid="68/244">Martin Anthony</author>
+<title>A Framework for Structural Risk Minimisation.</title>
+<pages>68-76</pages>
+<year>1996</year>
+<crossref>conf/colt/1996</crossref>
+<booktitle>COLT</booktitle>
+<ee>https://doi.org/10.1145/238061.238070</ee>
+<url>db/conf/colt/colt1996.html#Shawe-TaylorBWA96</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/colt/LeeBW96" mdate="2018-11-06">
+<author pid="86/1498">Wee Sun Lee</author>
+<author pid="68/4020">Peter L. Bartlett</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>The Importance of Convexity in Learning with Squared Loss.</title>
+<pages>140-146</pages>
+<year>1996</year>
+<crossref>conf/colt/1996</crossref>
+<booktitle>COLT</booktitle>
+<ee>https://doi.org/10.1145/238061.238082</ee>
+<url>db/conf/colt/colt1996.html#LeeBW96</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/KennedyAWW96" mdate="2023-03-23">
+<author pid="56/6217">Rodney A. Kennedy</author>
+<author pid="59/3573">Thushara D. Abhayapala</author>
+<author pid="88/7158">Darren B. Ward</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Nearfield broadband frequency invariant beamforming.</title>
+<pages>905-908</pages>
+<year>1996</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.1996.543268</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICASSP.1996.543268</ee>
+<crossref>conf/icassp/1996</crossref>
+<url>db/conf/icassp/icassp1996.html#KennedyAWW96</url>
+</inproceedings>
+</r>
+<r><article key="journals/mcss/HelmkeW95" mdate="2020-09-10">
+<author pid="15/532">Uwe Helmke</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Neural networks, rational functions, and realization theory.</title>
+<pages>27-49</pages>
+<year>1995</year>
+<volume>8</volume>
+<journal>Math. Control. Signals Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/BF01212365</ee>
+<url>db/journals/mcss/mcss8.html#HelmkeW95</url>
+</article>
+</r>
+<r><article key="journals/neco/LeeBW95" mdate="2020-09-01">
+<author pid="86/1498">Wee Sun Lee</author>
+<author pid="68/4020">Peter L. Bartlett</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Lower Bounds on the VC Dimension of Smoothly Parameterized Function Classes.</title>
+<pages>1040-1053</pages>
+<year>1995</year>
+<volume>7</volume>
+<journal>Neural Comput.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1162/neco.1995.7.5.1040</ee>
+<url>db/journals/neco/neco7.html#LeeBW95</url>
+</article>
+</r>
+<r><article key="journals/tnn/WilliamsonH95" mdate="2018-11-14">
+<author pid="29/5199">Robert C. Williamson</author>
+<author pid="15/532">Uwe Helmke</author>
+<title>Existence and uniqueness results for neural network approximations.</title>
+<pages>2-13</pages>
+<year>1995</year>
+<volume>6</volume>
+<journal>IEEE Trans. Neural Networks</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/72.363455</ee>
+<ee>https://www.wikidata.org/entity/Q52210722</ee>
+<url>db/journals/tnn/tnn6.html#WilliamsonH95</url>
+</article>
+</r>
+<r><article key="journals/tsp/JamesAW95" mdate="2020-03-10">
+<author pid="36/10845">Ben James</author>
+<author pid="86/5215">Brian D. O. Anderson</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Characterization of threshold for single tone maximum likelihood frequency estimation.</title>
+<pages>817-821</pages>
+<year>1995</year>
+<volume>43</volume>
+<journal>IEEE Trans. Signal Process.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/78.376834</ee>
+<url>db/journals/tsp/tsp43.html#JamesAW95</url>
+</article>
+</r>
+<r><article key="journals/tsp/KaranAW95" mdate="2020-03-10">
+<author pid="98/3686">Mehmet Karan</author>
+<author pid="86/5215">Brian D. O. Anderson</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>An efficient calculation of the moments of matched and mismatched hidden Markov models.</title>
+<pages>2422-2425</pages>
+<year>1995</year>
+<volume>43</volume>
+<journal>IEEE Trans. Signal Process.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/78.469844</ee>
+<url>db/journals/tsp/tsp43.html#KaranAW95</url>
+</article>
+</r>
+<r><inproceedings key="conf/colt/BlackmoreWMS95" mdate="2018-11-06">
+<author pid="09/3092">Kim L. Blackmore</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<author pid="55/2443">Iven M. Y. Mareels</author>
+<author pid="72/3104">William A. Sethares</author>
+<title>Online Learning via Congregational Gradient Descent.</title>
+<pages>265-272</pages>
+<year>1995</year>
+<crossref>conf/colt/1995</crossref>
+<booktitle>COLT</booktitle>
+<ee>https://doi.org/10.1145/225298.225330</ee>
+<url>db/conf/colt/colt1995.html#BlackmoreWMS95</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/colt/LeeBW95" mdate="2018-11-06">
+<author pid="86/1498">Wee Sun Lee</author>
+<author pid="68/4020">Peter L. Bartlett</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>On Efficient Agnostic Learning of Linear Combinations of Basis Functions.</title>
+<pages>369-376</pages>
+<year>1995</year>
+<crossref>conf/colt/1995</crossref>
+<booktitle>COLT</booktitle>
+<ee>https://doi.org/10.1145/225298.225343</ee>
+<url>db/conf/colt/colt1995.html#LeeBW95</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icnn/KowalczykSW95" mdate="2021-04-21">
+<author pid="48/3093">Adam Kowalczyk</author>
+<author pid="247/8575">J. Szymariski</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Learning curves from a modified VC-formalism: a case study.</title>
+<pages>2939-2943</pages>
+<year>1995</year>
+<booktitle>ICNN</booktitle>
+<ee>https://doi.org/10.1109/ICNN.1995.487248</ee>
+<crossref>conf/icnn/1995</crossref>
+<url>db/conf/icnn/icnn1995.html#KowalczykSW95</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/KowalczykSBW95" mdate="2020-03-06">
+<author pid="48/3093">Adam Kowalczyk</author>
+<author pid="07/5971">Jacek Szymanski</author>
+<author pid="68/4020">Peter L. Bartlett</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Examples of learning curves from a modified VC-formalism.</title>
+<pages>344-350</pages>
+<ee type="oa">http://papers.nips.cc/paper/1086-examples-of-learning-curves-from-a-modified-vc-formalism</ee>
+<ee type="archive">http://nips.djvuzone.org/djvu/nips08/0344.djvu</ee>
+<year>1995</year>
+<crossref>conf/nips/1995</crossref>
+<booktitle>NIPS</booktitle>
+<url>db/conf/nips/nips1995.html#KowalczykSBW95</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigpro/WilliamsonJAK94" mdate="2020-10-26">
+<author pid="29/5199">Robert C. Williamson</author>
+<author pid="36/10845">Ben James</author>
+<author pid="86/5215">Brian D. O. Anderson</author>
+<author orcid="0000-0003-3575-6951" pid="80/4413">Peter J. Kootsookos</author>
+<title>Threshold effects in multiharmonic maximum likelihood frequency estimation.</title>
+<pages>309-331</pages>
+<year>1994</year>
+<volume>37</volume>
+<journal>Signal Process.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1016/0165-1684(94)90001-9</ee>
+<url>db/journals/sigpro/sigpro37.html#WilliamsonJAK94</url>
+</article>
+</r>
+<r><article key="journals/tsp/JamesAW94" mdate="2020-03-10">
+<author pid="36/10845">Ben James</author>
+<author pid="86/5215">Brian D. O. Anderson</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Conditional mean and maximum likelihood approaches to multiharmonic frequency estimation.</title>
+<pages>1366-1375</pages>
+<year>1994</year>
+<volume>42</volume>
+<journal>IEEE Trans. Signal Process.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/78.286953</ee>
+<url>db/journals/tsp/tsp42.html#JamesAW94</url>
+</article>
+</r>
+<r><article key="journals/tsp/KaranWA94" mdate="2020-03-10">
+<author pid="98/3686">Mehmet Karan</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<author pid="86/5215">Brian D. O. Anderson</author>
+<title>Performance of the maximum likelihood constant frequency estimator for frequency tracking.</title>
+<pages>2749-2757</pages>
+<year>1994</year>
+<volume>42</volume>
+<journal>IEEE Trans. Signal Process.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/78.324740</ee>
+<url>db/journals/tsp/tsp42.html#KaranWA94</url>
+</article>
+</r>
+<r><inproceedings key="conf/colt/BartlettLW94" mdate="2018-11-06">
+<author pid="68/4020">Peter L. Bartlett</author>
+<author pid="66/5275">Philip M. Long</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Fat-Shattering and the Learnability of Real-Valued Functions.</title>
+<pages>299-310</pages>
+<year>1994</year>
+<crossref>conf/colt/1994</crossref>
+<booktitle>COLT</booktitle>
+<ee>https://doi.org/10.1145/180139.181158</ee>
+<url>db/conf/colt/colt1994.html#BartlettLW94</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/colt/LeeBW94" mdate="2018-11-06">
+<author pid="86/1498">Wee Sun Lee</author>
+<author pid="68/4020">Peter L. Bartlett</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Lower Bounds on the VC-Dimension of Smoothly Parametrized Function Classes.</title>
+<pages>362-367</pages>
+<year>1994</year>
+<crossref>conf/colt/1994</crossref>
+<booktitle>COLT</booktitle>
+<ee>https://doi.org/10.1145/180139.181179</ee>
+<url>db/conf/colt/colt1994.html#LeeBW94</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/KaranAW94" mdate="2023-03-23">
+<author pid="98/3686">Mehmet Karan</author>
+<author pid="86/5215">Brian D. O. Anderson</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>A simple calculation of the joint moments of hidden Markov models.</title>
+<pages>333-336</pages>
+<year>1994</year>
+<booktitle>ICASSP (4)</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.1994.389739</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICASSP.1994.389739</ee>
+<crossref>conf/icassp/1994</crossref>
+<url>db/conf/icassp/icassp1994.html#KaranAW94</url>
+</inproceedings>
+</r>
+<r><article key="journals/tsp/LovellWB93" mdate="2020-03-10">
+<author pid="09/2347">Brian C. Lovell</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<author pid="42/2195">Boualem Boashash</author>
+<title>The relationship between instantaneous frequency and time-frequency representations.</title>
+<pages>1458-1461</pages>
+<year>1993</year>
+<volume>41</volume>
+<journal>IEEE Trans. Signal Process.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/78.205756</ee>
+<url>db/journals/tsp/tsp41.html#LovellWB93</url>
+</article>
+</r>
+<r><article key="journals/tsp/LovellW92" mdate="2020-03-10">
+<author pid="09/2347">Brian C. Lovell</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>The statistical performance of some instantaneous frequency estimators.</title>
+<pages>1708-1723</pages>
+<year>1992</year>
+<volume>40</volume>
+<journal>IEEE Trans. Signal Process.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1109/78.143443</ee>
+<url>db/journals/tsp/tsp40.html#LovellW92</url>
+</article>
+</r>
+<r><inproceedings key="conf/nips/HelmkeW92" mdate="2020-03-06">
+<author pid="15/532">Uwe Helmke</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Rational Parametrizations of Neural Networks.</title>
+<pages>623-630</pages>
+<ee type="oa">http://papers.nips.cc/paper/696-rational-parametrizations-of-neural-networks</ee>
+<ee type="archive">http://nips.djvuzone.org/djvu/nips05/0623.djvu</ee>
+<year>1992</year>
+<crossref>conf/nips/1992</crossref>
+<booktitle>NIPS</booktitle>
+<url>db/conf/nips/nips1992.html#HelmkeW92</url>
+</inproceedings>
+</r>
+<r><article key="journals/isci/Williamson91" mdate="2017-05-27">
+<author pid="29/5199">Robert C. Williamson</author>
+<title>An extreme limit theorem for dependency bounds of normalized sums of random variables.</title>
+<pages>113-141</pages>
+<year>1991</year>
+<volume>56</volume>
+<journal>Inf. Sci.</journal>
+<number>1-3</number>
+<ee>https://doi.org/10.1016/0020-0255(91)90026-Q</ee>
+<url>db/journals/isci/isci56.html#Williamson91</url>
+</article>
+</r>
+<r><inproceedings key="conf/colt/BartlettW91" mdate="2011-12-23">
+<author pid="68/4020">Peter L. Bartlett</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Investigating the Distribution Assumptions in the Pac Learning Model.</title>
+<pages>24-32</pages>
+<year>1991</year>
+<crossref>conf/colt/1991</crossref>
+<booktitle>COLT</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=114840</ee>
+<url>db/conf/colt/colt1991.html#BartlettW91</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/LovellKW91" mdate="2020-07-09">
+<author pid="09/2347">Brian C. Lovell</author>
+<author pid="80/4413">Peter J. Kootsookos</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<title>The circular nature of discrete-time frequency estimates.</title>
+<pages>3369-3372</pages>
+<year>1991</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.1991.150176</ee>
+<crossref>conf/icassp/1991</crossref>
+<url>db/conf/icassp/icassp1991.html#LovellKW91</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/WilliamsonB91" mdate="2020-03-06">
+<author pid="29/5199">Robert C. Williamson</author>
+<author pid="68/4020">Peter L. Bartlett</author>
+<title>Splines, Rational Functions and Neural Networks.</title>
+<pages>1040-1047</pages>
+<ee type="oa">http://papers.nips.cc/paper/442-splines-rational-functions-and-neural-networks</ee>
+<ee type="archive">http://nips.djvuzone.org/djvu/nips04/1040.djvu</ee>
+<year>1991</year>
+<crossref>conf/nips/1991</crossref>
+<booktitle>NIPS</booktitle>
+<url>db/conf/nips/nips1991.html#WilliamsonB91</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/au/Williamson90" mdate="2023-10-02">
+<author pid="29/5199">Robert C. Williamson</author>
+<title>Probabilistic arithmetic</title>
+<school>University of Queensland, Australia</school>
+<year>1990</year>
+<ee>https://doi.org/10.14264/uql.2015.241</ee>
+<ee>https://search.library.uq.edu.au/permalink/f/l3gdeh/61UQ_ALMA2184632530003131</ee>
+</phdthesis>
+</r>
+<r><article key="journals/ijar/WilliamsonD90" mdate="2021-02-16">
+<author pid="29/5199">Robert C. Williamson</author>
+<author pid="64/3941">Tom Downs</author>
+<title>Probabilistic arithmetic. I. Numerical methods for calculating convolutions and dependency bounds.</title>
+<pages>89-158</pages>
+<year>1990</year>
+<volume>4</volume>
+<journal>Int. J. Approx. Reason.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.1016/0888-613X(90)90022-T</ee>
+<url>db/journals/ijar/ijar4.html#WilliamsonD90</url>
+</article>
+</r>
+<r><inproceedings key="conf/nips/Williamson90" mdate="2020-03-06">
+<author pid="29/5199">Robert C. Williamson</author>
+<title>epsilon-Entropy and the Complexity of Feedforward Neural Networks.</title>
+<pages>946-952</pages>
+<ee type="oa">http://papers.nips.cc/paper/386-e-entropy-and-the-complexity-of-feedforward-neural-networks</ee>
+<ee type="archive">http://nips.djvuzone.org/djvu/nips03/0946.djvu</ee>
+<year>1990</year>
+<crossref>conf/nips/1990</crossref>
+<booktitle>NIPS</booktitle>
+<url>db/conf/nips/nips1990.html#Williamson90</url>
+</inproceedings>
+</r>
+<coauthors n="104" nc="1">
+<co c="0"><na f="a/Abhayapala:Thushara_D=" pid="59/3573">Thushara D. Abhayapala</na></co>
+<co c="0"><na f="a/Abuhamad:Grace" pid="279/6207">Grace Abuhamad</na></co>
+<co c="0"><na f="a/Agarwal_0001:Shivani" pid="51/6471-1">Shivani Agarwal 0001</na></co>
+<co c="0"><na f="a/Anderson:Brian_D=_O=" pid="86/5215">Brian D. O. Anderson</na></co>
+<co c="0"><na f="a/Anthony:Martin" pid="68/244">Martin Anthony</na></co>
+<co c="0"><na f="b/Babu:Balaji_Srinivasan" pid="146/1718">Balaji Srinivasan Babu</na></co>
+<co c="0"><na f="b/Bartlett:Peter_L=" pid="68/4020">Peter L. Bartlett</na></co>
+<co c="0"><na f="b/Bengio:Samy" pid="b/SamyBengio">Samy Bengio</na></co>
+<co c="0"><na f="b/Betlehem:Terence" pid="55/565">Terence Betlehem</na></co>
+<co c="0"><na f="b/Bitmead:Robert_R=" pid="02/5545">Robert R. Bitmead</na></co>
+<co c="0"><na f="b/Blackmore:Kim_L=" pid="09/3092">Kim L. Blackmore</na></co>
+<co c="0"><na f="b/Boashash:Boualem" pid="42/2195">Boualem Boashash</na></co>
+<co c="0"><na f="b/Bottou:L=eacute=on" pid="30/1046">L&#233;on Bottou</na></co>
+<co c="0"><na f="b/Braun:Mikio_L=" pid="49/5470">Mikio L. Braun</na></co>
+<co c="0"><na f="b/Brunet:Marc=Etienne" pid="160/8431">Marc-Etienne Brunet</na></co>
+<co c="0"><na f="c/Cranko:Zac" pid="203/8760">Zac Cranko</na></co>
+<co c="0"><na f="d/Derr:Rabanus" pid="325/4921">Rabanus Derr</na></co>
+<co c="0"><na f="d/Downs:Tom" pid="64/3941">Tom Downs</na></co>
+<co c="0"><na f="e/Erven:Tim_van" pid="82/1868">Tim van Erven</na></co>
+<co c="0"><na f="f/Fr=ouml=hlich:Christian" pid="11/1774">Christian Fr&#246;hlich</na></co>
+<co c="0"><na f="f/Frongillo:Rafael_M=" pid="62/10262">Rafael M. Frongillo</na></co>
+<co c="0"><na f="f/Fulton:Jennifer_A=" pid="02/11421">Jennifer A. Fulton</na></co>
+<co c="0"><na f="g/Garc=iacute=a=Garc=iacute=a:Dario" pid="44/7547">Dario Garc&#237;a-Garc&#237;a</na></co>
+<co c="-1"><na f="g/Ghoneim:Ayman" pid="82/4809">Ayman Ghoneim</na></co>
+<co c="0"><na f="g/Graepel:Thore" pid="g/ThoreGraepel">Thore Graepel</na></co>
+<co c="0" n="2"><na f="g/Gr=uuml=nwald:Peter" pid="g/PGrunwald">Peter Gr&#252;nwald</na><na>Peter D. Gr&#252;nwald</na></co>
+<co c="0"><na f="g/Guedj:Benjamin" pid="177/7258">Benjamin Guedj</na></co>
+<co c="0"><na f="g/Guo:Ying" pid="12/1208">Ying Guo</na></co>
+<co c="0"><na f="g/Guttman:Omri" pid="12/3760">Omri Guttman</na></co>
+<co c="0"><na f="g/Guyon:Isabelle" pid="31/6176">Isabelle Guyon</na></co>
+<co c="0"><na f="h/Harrington:Edward" pid="96/2723">Edward Harrington</na></co>
+<co c="0"><na f="h/Helmbold:David_P=" pid="10/1058">David P. Helmbold</na></co>
+<co c="0"><na f="h/Helmke:Uwe" pid="15/532">Uwe Helmke</na></co>
+<co c="0"><na f="h/Herbrich:Ralf" pid="h/RalfHerbrich">Ralf Herbrich</na></co>
+<co c="-1"><na f="h/Hill:Simon_I=" pid="78/2708">Simon I. Hill</na></co>
+<co c="0" n="2"><na f="h/Holmes_0001:Geoff" pid="75/4117">Geoff Holmes 0001</na><na>Geoffrey Holmes 0001</na></co>
+<co c="-1"><na f="h/H=ouml=ltgen:Benedikt" pid="307/5320">Benedikt H&#246;ltgen</na></co>
+<co c="0"><na f="h/Husain:Hisham" pid="222/3235">Hisham Husain</na></co>
+<co c="0"><na f="i/Iacovissi:Laura" pid="309/7524">Laura Iacovissi</na></co>
+<co c="0"><na f="j/James:Ben" pid="36/10845">Ben James</na></co>
+<co c="0"><na f="j/Johnson_Jr=:C=_Richard" pid="56/2180">C. Richard Johnson Jr.</na></co>
+<co c="0"><na f="k/Kamalaruban:Parameswaran" pid="164/7413">Parameswaran Kamalaruban</na></co>
+<co c="0"><na f="k/Karan:Mehmet" pid="98/3686">Mehmet Karan</na></co>
+<co c="0"><na f="k/Kennedy:Rodney_A=" pid="56/6217">Rodney A. Kennedy</na></co>
+<co c="0"><na f="k/Kivinen:Jyrki" pid="24/1118">Jyrki Kivinen</na></co>
+<co c="0"><na f="k/Kootsookos:Peter_J=" pid="80/4413">Peter J. Kootsookos</na></co>
+<co c="0"><na f="k/Kowalczyk:Adam" pid="48/3093">Adam Kowalczyk</na></co>
+<co c="0"><na f="l/LeCun:Yann" pid="l/YannLeCun">Yann LeCun</na></co>
+<co c="0"><na f="l/Lee:Wee_Sun" pid="86/1498">Wee Sun Lee</na></co>
+<co c="0"><na f="l/Lehmann:Eric_A=" pid="91/3602">Eric A. Lehmann</na></co>
+<co c="0"><na f="l/Long:Philip_M=" pid="66/5275">Philip M. Long</na></co>
+<co c="0"><na f="l/Lovell:Brian_C=" pid="09/2347">Brian C. Lovell</na></co>
+<co c="0"><na f="l/Lu:Nan" pid="14/4965">Nan Lu</na></co>
+<co c="0"><na f="l/Luxburg:Ulrike_von" pid="06/1082">Ulrike von Luxburg</na></co>
+<co c="0"><na f="m/Mahony:Robert_E=" pid="03/418">Robert E. Mahony</na></co>
+<co c="0"><na f="m/Mannor:Shie" pid="20/1669">Shie Mannor</na></co>
+<co c="0"><na f="m/Mansour:Yishay" pid="m/YishayMansour">Yishay Mansour</na></co>
+<co c="0"><na f="m/Mareels:Iven_M=_Y=" pid="55/2443">Iven M. Y. Mareels</na></co>
+<co c="0"><na f="m/Martin:Richard_K=" pid="63/2543">Richard K. Martin</na></co>
+<co c="0"><na f="m/McCalman:Lachlan" pid="94/9964">Lachlan McCalman</na></co>
+<co c="-1"><na f="m/McGowan:James_A=" pid="235/3452">James A. McGowan</na></co>
+<co c="0"><na f="m/McNamara:Daniel" pid="133/5302">Daniel McNamara</na></co>
+<co c="0"><na f="m/Mehta:Nishant_A=" pid="87/8143">Nishant A. Mehta</na></co>
+<co c="0"><na f="m/Mendelson:Shahar" pid="80/1427">Shahar Mendelson</na></co>
+<co c="0"><na f="m/Menon:Aditya_Krishna" pid="89/3514">Aditya Krishna Menon</na></co>
+<co c="0"><na f="m/Mhammedi:Zakaria" pid="192/1360">Zakaria Mhammedi</na></co>
+<co c="0"><na f="m/Mika:Sebastian" pid="40/4613">Sebastian Mika</na></co>
+<co c="0"><na f="m/M=uuml=ller:Klaus=Robert" pid="m/KRMuller">Klaus-Robert M&#252;ller</na></co>
+<co c="0"><na f="n/Nock:Richard" pid="n/RichardNock">Richard Nock</na></co>
+<co c="0"><na f="o/Ong:Cheng_Soon" pid="58/2283">Cheng Soon Ong</na></co>
+<co c="0"><na f="=/=Oacute=v=aacute=ri:Zolt=aacute=n_L=" pid="93/1164">Zolt&#225;n L. &#211;v&#225;ri</na></co>
+<co c="-1"><na f="p/Pacheco:Armando_J=_Cabrera" pid="341/1255">Armando J. Cabrera Pacheco</na></co>
+<co c="0"><na f="p/Pasin:Chlo=eacute=" pid="146/1719">Chlo&#233; Pasin</na></co>
+<co c="0"><na f="p/Pereira_0003:Fernando" pid="p/FernandoCNPereira">Fernando Pereira 0003</na></co>
+<co c="0"><na f="p/Platt:John_C=" pid="27/1418">John C. Platt</na></co>
+<co c="0"><na f="q/Qu:Lizhen" pid="58/3601">Lizhen Qu</na></co>
+<co c="0"><na f="r/Radlovic:Biljana_D=" pid="16/11354">Biljana D. Radlovic</na></co>
+<co c="0"><na f="r/Ramaswamy:Harish_G=" pid="126/1729">Harish G. Ramaswamy</na></co>
+<co c="0" n="2"><na f="r/Rasmussen:Carl_E=" pid="83/5440">Carl E. Rasmussen</na><na>Carl Edward Rasmussen</na></co>
+<co c="0"><na f="r/R=auml=tsch:Gunnar" pid="33/3796">Gunnar R&#228;tsch</na></co>
+<co c="0"><na f="r/Reid:Mark_D=" pid="59/6954">Mark D. Reid</na></co>
+<co c="0"><na f="r/Rooyen:Brendan_van" pid="161/9947">Brendan van Rooyen</na></co>
+<co c="0"><na f="s/Sch=ouml=lkopf:Bernhard" pid="97/119">Bernhard Sch&#246;lkopf</na></co>
+<co c="0"><na f="s/Sethares:William_A=" pid="72/3104">William A. Sethares</na></co>
+<co c="0"><na f="s/Shawe=Taylor:John" pid="59/41">John Shawe-Taylor</na></co>
+<co c="-1"><na f="s/Shepard:Marshall" pid="58/1883">Marshall Shepard</na></co>
+<co c="0"><na f="s/Smola:Alexander_J=" pid="s/AlexanderJSmola">Alexander J. Smola</na></co>
+<co c="0"><na f="s/Sonnenburg:S=ouml=ren" pid="56/3627">S&#246;ren Sonnenburg</na></co>
+<co c="0"><na f="s/Srebro:Nathan" pid="50/3633">Nathan Srebro</na></co>
+<co c="0"><na f="s/Steinberg:Daniel" pid="47/3087">Daniel Steinberg</na></co>
+<co c="0"><na f="s/Steinwart:Ingo" pid="89/3492">Ingo Steinwart</na></co>
+<co c="0"><na f="s/Sun:Peng" pid="88/619">Peng Sun</na></co>
+<co c="0"><na f="s/Szymanski:Jacek" pid="07/5971">Jacek Szymanski</na></co>
+<co c="0"><na f="s/Szymariski:J=" pid="247/8575">J. Szymariski</na></co>
+<co c="0"><na f="t/Teal:Paul_D=" pid="22/1922">Paul D. Teal</na></co>
+<co c="0"><na f="v/Vernet:Elodie" pid="12/11107">Elodie Vernet</na></co>
+<co c="0"><na f="v/Vincent:Pascal" pid="43/861">Pascal Vincent</na></co>
+<co c="0"><na f="v/Vishwanathan:S=_V=_N=" pid="v/SVNVishwanathan">S. V. N. Vishwanathan</na></co>
+<co c="0"><na f="w/Ward:Darren_B=" pid="88/7158">Darren B. Ward</na></co>
+<co c="0"><na f="w/Weston:Jason" pid="29/6977">Jason Weston</na></co>
+<co c="0"><na f="w/Weyer:Erik" pid="44/4878">Erik Weyer</na></co>
+<co c="0"><na f="z/Zemel:Richard_S=" pid="16/6366">Richard S. Zemel</na></co>
+<co c="0" n="2"><na f="z/Zhang:Si=yu" pid="214/6835">Si-yu Zhang</na><na>Siyu Zhang</na></co>
+<co c="0"><na f="z/Zhang:Xinhua" pid="45/6863">Xinhua Zhang</na></co>
+</coauthors>
+</dblpperson>
+

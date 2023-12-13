@@ -1,0 +1,1407 @@
+<?xml version="1.0"?>
+<dblpperson name="Ulrike von Luxburg" pid="06/1082" n="101">
+<person key="homepages/06/1082" mdate="2023-02-18">
+<author pid="06/1082">Ulrike von Luxburg</author>
+<note type="affiliation">University of T&#252;bingen, Germany</note>
+<note type="affiliation" label="former">University of Hamburg, Germany</note>
+<url>http://www.tml.cs.uni-tuebingen.de/team/luxburg/</url>
+<url type="archive">http://www.informatik.uni-hamburg.de/ML/contents/people/luxburg/</url>
+<url type="archive">http://www.kyb.mpg.de/~ule</url>
+<url>http://www.academia-net.org/profil/prof-dr-ulrike-von-luxburg/1134095</url>
+<url>https://scholar.google.com/citations?user=mMifMdoAAAAJ</url>
+<url>https://mathscinet.ams.org/mathscinet/MRAuthorID/771856</url>
+<url>https://mathgenealogy.org/id.php?id=204544</url>
+<url>https://www.wikidata.org/entity/Q21264817</url>
+<url>https://id.loc.gov/authorities/names/no2004115458</url>
+<url>https://d-nb.info/gnd/129631205</url>
+</person>
+<r><article key="journals/jmlr/KlepperEFKRTL23" mdate="2023-11-12">
+<author pid="229/2241">Solveig Klepper</author>
+<author orcid="0000-0003-2481-364X" pid="268/5355">Christian Elbracht</author>
+<author pid="206/6541">Diego Fioravanti</author>
+<author pid="266/3276">Jakob Kneip</author>
+<author pid="268/5582">Luca Rendsburg</author>
+<author orcid="0000-0001-7384-742X" pid="268/6017">Maximilian Teegen</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Clustering with Tangles: Algorithmic Framework and Theoretical Guarantees.</title>
+<pages>190:1-190:56</pages>
+<year>2023</year>
+<volume>24</volume>
+<journal>J. Mach. Learn. Res.</journal>
+<ee type="oa">http://jmlr.org/papers/v24/21-1160.html</ee>
+<url>db/journals/jmlr/jmlr24.html#KlepperEFKRTL23</url>
+</article>
+</r>
+<r><article key="journals/jmlr/VankadaraLHWL23" mdate="2023-10-19">
+<author pid="185/3659">Leena Chennuru Vankadara</author>
+<author pid="243/7094">Michael Lohaus</author>
+<author pid="145/7267">Siavash Haghiri</author>
+<author pid="185/3645">Faiz Ul Wahab</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Insights into Ordinal Embedding Algorithms: A Systematic Evaluation.</title>
+<pages>191:1-191:83</pages>
+<year>2023</year>
+<volume>24</volume>
+<journal>J. Mach. Learn. Res.</journal>
+<ee type="oa">http://jmlr.org/papers/v24/21-1170.html</ee>
+<url>db/journals/jmlr/jmlr24.html#VankadaraLHWL23</url>
+</article>
+</r>
+<r><inproceedings key="conf/aistats/BordtL23" mdate="2023-06-19">
+<author pid="270/0462">Sebastian Bordt</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>From Shapley Values to Generalized Additive Models and back.</title>
+<pages>709-745</pages>
+<year>2023</year>
+<booktitle>AISTATS</booktitle>
+<ee type="oa">https://proceedings.mlr.press/v206/bordt23a.html</ee>
+<crossref>conf/aistats/2023</crossref>
+<url>db/conf/aistats/aistats2023.html#BordtL23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/BordtUAL23" mdate="2023-08-23">
+<author pid="270/0462">Sebastian Bordt</author>
+<author pid="234/7634">Uddeshya Upadhyay</author>
+<author pid="117/4838">Zeynep Akata</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>The Manifold Hypothesis for Gradient-Based Explanations.</title>
+<pages>3697-3702</pages>
+<year>2023</year>
+<booktitle>CVPR Workshops</booktitle>
+<ee>https://doi.org/10.1109/CVPRW59228.2023.00378</ee>
+<crossref>conf/cvpr/2023w</crossref>
+<url>db/conf/cvpr/cvprw2023.html#BordtUAL23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2303-04217" mdate="2023-03-15">
+<author pid="78/3560">Philipp Berens</author>
+<author pid="26/3292">Kyle Cranmer</author>
+<author pid="l/NeilDLawrence">Neil D. Lawrence</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<author pid="290/4319">Jessica Montgomery</author>
+<title>AI for Science: An Emerging Agenda.</title>
+<year>2023</year>
+<volume>abs/2303.04217</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2303.04217</ee>
+<url>db/journals/corr/corr2303.html#abs-2303-04217</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2303-09461" mdate="2023-10-21">
+<author pid="270/0462">Sebastian Bordt</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>ChatGPT Participates in a Computer Science Exam.</title>
+<year>2023</year>
+<volume>abs/2303.09461</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2303.09461</ee>
+<ee>https://www.wikidata.org/entity/Q122706149</ee>
+<url>db/journals/corr/corr2303.html#abs-2303-09461</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2305-14077" mdate="2023-05-24">
+<author pid="332/4834">Moritz Haas</author>
+<author pid="207/7947">David Holzm&#252;ller</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<author pid="89/3492">Ingo Steinwart</author>
+<title>Mind the spikes: Benign overfitting of kernels and neural networks in fixed dimension.</title>
+<year>2023</year>
+<volume>abs/2305.14077</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2305.14077</ee>
+<url>db/journals/corr/corr2305.html#abs-2305-14077</url>
+</article>
+</r>
+<r><inproceedings key="conf/aistats/RendsburgKHL22" mdate="2022-05-20">
+<author pid="268/5582">Luca Rendsburg</author>
+<author pid="215/3954">Agustinus Kristiadi</author>
+<author pid="08/9077">Philipp Hennig</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Discovering Inductive Bias with Gibbs Priors: A Diagnostic Tool for Approximate Bayesian Inference.</title>
+<pages>1503-1526</pages>
+<year>2022</year>
+<booktitle>AISTATS</booktitle>
+<ee type="oa">https://proceedings.mlr.press/v151/rendsburg22a.html</ee>
+<crossref>conf/aistats/2022</crossref>
+<url>db/conf/aistats/aistats2022.html#RendsburgKHL22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aistats/BordtL22" mdate="2022-05-20">
+<author pid="270/0462">Sebastian Bordt</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>A Bandit Model for Human-Machine Decision Making with Private Information and Opacity.</title>
+<pages>7300-7319</pages>
+<year>2022</year>
+<booktitle>AISTATS</booktitle>
+<ee type="oa">https://proceedings.mlr.press/v151/bordt22a.html</ee>
+<crossref>conf/aistats/2022</crossref>
+<url>db/conf/aistats/aistats2022.html#BordtL22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fat/BordtFRL22" mdate="2022-10-02">
+<author pid="270/0462">Sebastian Bordt</author>
+<author pid="266/2985">Mich&#232;le Finck</author>
+<author orcid="0000-0001-6153-4979" pid="174/8238">Eric Raidl</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Post-Hoc Explanations Fail to Achieve their Purpose in Adversarial Contexts.</title>
+<pages>891-905</pages>
+<year>2022</year>
+<booktitle>FAccT</booktitle>
+<ee>https://doi.org/10.1145/3531146.3533153</ee>
+<crossref>conf/fat/2022</crossref>
+<url>db/conf/fat/facct2022.html#BordtFRL22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/VankadaraRLG22" mdate="2023-05-11">
+<author pid="185/3659">Leena Chennuru Vankadara</author>
+<author pid="268/5582">Luca Rendsburg</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<author pid="63/10964">Debarghya Ghoshdastidar</author>
+<title>Interpolation and Regularization for Causal Learning.</title>
+<year>2022</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">http://papers.nips.cc/paper_files/paper/2022/hash/ed7b8e1312f6ba8af6e4316dcd28bb3d-Abstract-Conference.html</ee>
+<url>db/conf/nips/neurips2022.html#VankadaraRLG22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2201-10295" mdate="2022-02-01">
+<author pid="270/0462">Sebastian Bordt</author>
+<author pid="266/2985">Mich&#232;le Finck</author>
+<author pid="174/8238">Eric Raidl</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Post-Hoc Explanations Fail to Achieve their Purpose in Adversarial Contexts.</title>
+<year>2022</year>
+<volume>abs/2201.10295</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2201.10295</ee>
+<url>db/journals/corr/corr2201.html#abs-2201-10295</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2202-09054" mdate="2022-03-03">
+<author pid="185/3659">Leena Chennuru Vankadara</author>
+<author pid="268/5582">Luca Rendsburg</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<author pid="63/10964">Debarghya Ghoshdastidar</author>
+<title>Interpolation and Regularization for Causal Learning.</title>
+<year>2022</year>
+<volume>abs/2202.09054</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2202.09054</ee>
+<url>db/journals/corr/corr2202.html#abs-2202-09054</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2203-03353" mdate="2022-03-16">
+<author pid="268/5582">Luca Rendsburg</author>
+<author pid="215/3954">Agustinus Kristiadi</author>
+<author pid="08/9077">Philipp Hennig</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Discovering Inductive Bias with Gibbs Priors: A Diagnostic Tool for Approximate Bayesian Inference.</title>
+<year>2022</year>
+<volume>abs/2203.03353</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2203.03353</ee>
+<url>db/journals/corr/corr2203.html#abs-2203-03353</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2206-07387" mdate="2022-06-21">
+<author pid="270/0462">Sebastian Bordt</author>
+<author pid="234/7634">Uddeshya Upadhyay</author>
+<author pid="117/4838">Zeynep Akata</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>The Manifold Hypothesis for Gradient-Based Explanations.</title>
+<year>2022</year>
+<volume>abs/2206.07387</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2206.07387</ee>
+<url>db/journals/corr/corr2206.html#abs-2206-07387</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2209-04012" mdate="2022-09-27">
+<author pid="270/0462">Sebastian Bordt</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>From Shapley Values to Generalized Additive Models and back.</title>
+<year>2022</year>
+<volume>abs/2209.04012</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2209.04012</ee>
+<url>db/journals/corr/corr2209.html#abs-2209-04012</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2211-01858" mdate="2022-11-04">
+<author pid="229/2241">Solveig Klepper</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Relating graph auto-encoders to linear models.</title>
+<year>2022</year>
+<volume>abs/2211.01858</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2211.01858</ee>
+<url>db/journals/corr/corr2211.html#abs-2211-01858</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2211-01903" mdate="2023-09-30">
+<author pid="268/5582">Luca Rendsburg</author>
+<author pid="185/3659">Leena Chennuru Vankadara</author>
+<author orcid="0000-0003-0202-7007" pid="63/10964">Debarghya Ghoshdastidar</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>A Consistent Estimator for Confounding Strength.</title>
+<year>2022</year>
+<volume>abs/2211.01903</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2211.01903</ee>
+<url>db/journals/corr/corr2211.html#abs-2211-01903</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2211-02888" mdate="2022-11-09">
+<author pid="332/4834">Moritz Haas</author>
+<author pid="315/9397">Bedartha Goswami</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Pitfalls of Climate Network Construction: A Statistical Perspective.</title>
+<year>2022</year>
+<volume>abs/2211.02888</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2211.02888</ee>
+<url>db/journals/corr/corr2211.html#abs-2211-02888</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/dagstuhl-reports/BerensCLLM22" mdate="2023-04-17">
+<author pid="78/3560">Philipp Berens</author>
+<author pid="26/3292">Kyle Cranmer</author>
+<author pid="l/NeilDLawrence">Neil D. Lawrence</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<author pid="290/4319">Jessica Montgomery</author>
+<title>Machine Learning for Science: Bridging Data-Driven and Mechanistic Modelling (Dagstuhl Seminar 22382).</title>
+<pages>150-199</pages>
+<year>2022</year>
+<month>September</month>
+<volume>12</volume>
+<journal>Dagstuhl Reports</journal>
+<number>9</number>
+<ee type="oa">https://doi.org/10.4230/DagRep.12.9.150</ee>
+<url>db/journals/dagstuhl-reports/dagstuhl-reports12.html#BerensCLLM22</url>
+</article>
+</r>
+<r><inproceedings key="conf/aistats/VankadaraBLG21" mdate="2022-04-30">
+<author pid="185/3659">Leena C. Vankadara</author>
+<author pid="270/0462">Sebastian Bordt</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<author pid="63/10964">Debarghya Ghoshdastidar</author>
+<title>Recovery Guarantees for Kernel-based Clustering under Non-parametric Mixture Models.</title>
+<pages>3817-3825</pages>
+<year>2021</year>
+<booktitle>AISTATS</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v130/vankadara21a.html</ee>
+<crossref>conf/aistats/2021</crossref>
+<url>db/conf/aistats/aistats2021.html#VankadaraBLG21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2107-04381" mdate="2021-07-20">
+<author pid="297/3909">Sascha Meyen</author>
+<author pid="297/2996">Frieder G&#246;ppert</author>
+<author pid="297/3178">Helen Alber</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<author pid="42/11402">Volker H. Franz</author>
+<title>Specialists Outperform Generalists in Ensemble Classification.</title>
+<year>2021</year>
+<volume>abs/2107.04381</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2107.04381</ee>
+<url>db/journals/corr/corr2107.html#abs-2107-04381</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2110-09476" mdate="2022-04-30">
+<author pid="185/3659">Leena C. Vankadara</author>
+<author pid="270/0462">Sebastian Bordt</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<author pid="63/10964">Debarghya Ghoshdastidar</author>
+<title>Recovery Guarantees for Kernel-based Clustering under Non-parametric Mixture Models.</title>
+<year>2021</year>
+<volume>abs/2110.09476</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2110.09476</ee>
+<url>db/journals/corr/corr2110.html#abs-2110-09476</url>
+</article>
+</r>
+<r><inproceedings key="conf/aistats/GarreauL20" mdate="2020-06-29">
+<author pid="151/6584">Damien Garreau</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Explaining the Explainer: A First Theoretical Analysis of LIME.</title>
+<pages>1287-1296</pages>
+<year>2020</year>
+<booktitle>AISTATS</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v108/garreau20a.html</ee>
+<crossref>conf/aistats/2020</crossref>
+<url>db/conf/aistats/aistats2020.html#GarreauL20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/LohausPL20" mdate="2020-12-15">
+<author pid="243/7094">Michael Lohaus</author>
+<author pid="123/5099">Micha&#235;l Perrot</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Too Relaxed to Be Fair.</title>
+<pages>6360-6369</pages>
+<year>2020</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v119/lohaus20a.html</ee>
+<crossref>conf/icml/2020</crossref>
+<url>db/conf/icml/icml2020.html#LohausPL20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/RendsburgHL20" mdate="2020-12-15">
+<author pid="268/5582">Luca Rendsburg</author>
+<author pid="280/1675">Holger Heidrich</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>NetGAN without GAN: From Random Walks to Low-Rank Approximations.</title>
+<pages>8073-8082</pages>
+<year>2020</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v119/rendsburg20a.html</ee>
+<crossref>conf/icml/2020</crossref>
+<url>db/conf/icml/icml2020.html#RendsburgHL20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2001-03447" mdate="2020-01-17">
+<author pid="151/6584">Damien Garreau</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Explaining the Explainer: A First Theoretical Analysis of LIME.</title>
+<year>2020</year>
+<volume>abs/2001.03447</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2001.03447</ee>
+<url>db/journals/corr/corr2001.html#abs-2001-03447</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2006-14444" mdate="2023-09-30">
+<author pid="268/5355">Christian Elbracht</author>
+<author pid="206/6541">Diego Fioravanti</author>
+<author pid="229/2241">Solveig Klepper</author>
+<author pid="266/3276">Jakob Kneip</author>
+<author pid="268/5582">Luca Rendsburg</author>
+<author orcid="0000-0001-7384-742X" pid="268/6017">Maximilian Teegen</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Tangles: From Weak to Strong Clustering.</title>
+<year>2020</year>
+<volume>abs/2006.14444</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2006.14444</ee>
+<url>db/journals/corr/corr2006.html#abs-2006-14444</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2007-04800" mdate="2020-07-20">
+<author pid="270/0462">Sebastian Bordt</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>When Humans and Machines Make Joint Decisions: A Non-Symmetric Bandit Model.</title>
+<year>2020</year>
+<volume>abs/2007.04800</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2007.04800</ee>
+<url>db/journals/corr/corr2007.html#abs-2007-04800</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2008-11092" mdate="2020-08-28">
+<author pid="151/6584">Damien Garreau</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Looking deeper into LIME.</title>
+<year>2020</year>
+<volume>abs/2008.11092</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2008.11092</ee>
+<url>db/journals/corr/corr2008.html#abs-2008-11092</url>
+</article>
+</r>
+<r><inproceedings key="conf/ijcai/PerrotL19" mdate="2019-08-20">
+<author pid="123/5099">Micha&#235;l Perrot</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Boosting for Comparison-Based Learning.</title>
+<year>2019</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://doi.org/10.24963/ijcai.2019/255</ee>
+<crossref>conf/ijcai/2019</crossref>
+<url>db/conf/ijcai/ijcai2019.html#PerrotL19</url>
+<pages>1844-1850</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/GhoshdastidarPL19" mdate="2021-01-21">
+<author pid="63/10964">Debarghya Ghoshdastidar</author>
+<author pid="123/5099">Micha&#235;l Perrot</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Foundations of Comparison-Based Hierarchical Clustering.</title>
+<pages>7454-7464</pages>
+<year>2019</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2019/hash/a76da37101dffabe00e5d636c01719b6-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/8964-foundations-of-comparison-based-hierarchical-clustering</ee>
+<crossref>conf/nips/2019</crossref>
+<url>db/conf/nips/nips2019.html#GhoshdastidarPL19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-07234" mdate="2019-05-28">
+<author pid="145/7267">Siavash Haghiri</author>
+<author pid="42/5049">Felix A. Wichmann</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Comparison-Based Framework for Psychophysics: Lab versus Crowdsourcing.</title>
+<year>2019</year>
+<volume>abs/1905.07234</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.07234</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-07234</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1906-11655" mdate="2019-07-01">
+<author pid="243/7094">Michael Lohaus</author>
+<author pid="08/9077">Philipp Hennig</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Uncertainty Estimates for Ordinal Embeddings.</title>
+<year>2019</year>
+<volume>abs/1906.11655</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1906.11655</ee>
+<url>db/journals/corr/corr1906.html#abs-1906-11655</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1908-07962" mdate="2019-08-26">
+<author pid="145/7267">Siavash Haghiri</author>
+<author pid="42/5049">Felix A. Wichmann</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Estimation of perceptual scales using ordinal embedding.</title>
+<year>2019</year>
+<volume>abs/1908.07962</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1908.07962</ee>
+<url>db/journals/corr/corr1908.html#abs-1908-07962</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1912-01666" mdate="2020-01-02">
+<author pid="145/7267">Siavash Haghiri</author>
+<author pid="185/3659">Leena Chennuru Vankadara</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Large scale representation learning from triplet comparisons.</title>
+<year>2019</year>
+<volume>abs/1912.01666</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1912.01666</ee>
+<url>db/journals/corr/corr1912.html#abs-1912-01666</url>
+</article>
+</r>
+<r><article key="journals/jmlr/ShahTMGL18" mdate="2019-07-10">
+<author pid="74/7113">Nihar B. Shah</author>
+<author pid="70/9714">Behzad Tabibian</author>
+<author pid="34/1240">Krikamol Muandet</author>
+<author pid="31/6176">Isabelle Guyon</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Design and Analysis of the NIPS 2016 Review Process.</title>
+<year>2018</year>
+<volume>19</volume>
+<journal>J. Mach. Learn. Res.</journal>
+<ee type="oa">http://jmlr.org/papers/v19/17-511.html</ee>
+<url>db/journals/jmlr/jmlr19.html#ShahTMGL18</url>
+<pages>49:1-49:34</pages>
+</article>
+</r>
+<r><inproceedings key="conf/icml/HaghiriGL18" mdate="2019-04-03">
+<author pid="145/7267">Siavash Haghiri</author>
+<author pid="151/6584">Damien Garreau</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Comparison-Based Random Forests.</title>
+<pages>1866-1875</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/haghiri18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#HaghiriGL18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/TangGL18" mdate="2021-01-21">
+<author pid="14/11534">Cheng Tang</author>
+<author pid="151/6584">Damien Garreau</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>When do random forests fail?</title>
+<pages>2987-2997</pages>
+<year>2018</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2018/hash/204da255aea2cd4a75ace6018fad6b4d-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/7562-when-do-random-forests-fail</ee>
+<crossref>conf/nips/2018</crossref>
+<url>db/conf/nips/nips2018.html#TangGL18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/GhoshdastidarL18" mdate="2021-01-21">
+<author pid="63/10964">Debarghya Ghoshdastidar</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Practical Methods for Graph Two-Sample Testing.</title>
+<pages>3019-3028</pages>
+<year>2018</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2018/hash/dfa92d8f817e5b08fcaafb50d03763cf-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/7565-practical-methods-for-graph-two-sample-testing</ee>
+<crossref>conf/nips/2018</crossref>
+<url>db/conf/nips/nips2018.html#GhoshdastidarL18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/VankadaraL18" mdate="2021-01-21">
+<author pid="185/3659">Leena Chennuru Vankadara</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Measures of distortion for machine learning.</title>
+<pages>4891-4900</pages>
+<year>2018</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2018/hash/4c5bcfec8584af0d967f1ab10179ca4b-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/7737-measures-of-distortion-for-machine-learning</ee>
+<crossref>conf/nips/2018</crossref>
+<url>db/conf/nips/nips2018.html#VankadaraL18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1806-06616" mdate="2018-08-13">
+<author pid="145/7267">Siavash Haghiri</author>
+<author pid="151/6584">Damien Garreau</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Comparison-Based Random Forests.</title>
+<year>2018</year>
+<volume>abs/1806.06616</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1806.06616</ee>
+<url>db/journals/corr/corr1806.html#abs-1806-06616</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1810-13333" mdate="2018-11-08">
+<author pid="123/5099">Micha&#235;l Perrot</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Boosting for Comparison-Based Learning.</title>
+<year>2018</year>
+<volume>abs/1810.13333</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1810.13333</ee>
+<url>db/journals/corr/corr1810.html#abs-1810-13333</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1811-00928" mdate="2018-11-26">
+<author pid="63/10964">Debarghya Ghoshdastidar</author>
+<author pid="123/5099">Micha&#235;l Perrot</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Foundations of Comparison-Based Hierarchical Clustering.</title>
+<year>2018</year>
+<volume>abs/1811.00928</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1811.00928</ee>
+<url>db/journals/corr/corr1811.html#abs-1811-00928</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1811-12752" mdate="2018-12-03">
+<author pid="63/10964">Debarghya Ghoshdastidar</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Practical methods for graph two-sample testing.</title>
+<year>2018</year>
+<volume>abs/1811.12752</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1811.12752</ee>
+<url>db/journals/corr/corr1811.html#abs-1811-12752</url>
+</article>
+</r>
+<r><article key="journals/jmlr/KleindessnerL17" mdate="2019-07-10">
+<author pid="146/1720">Matth&#228;us Kleindessner</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Lens Depth Function and k-Relative Neighborhood Graph: Versatile Tools for Ordinal Data Analysis.</title>
+<pages>58:1-58:52</pages>
+<year>2017</year>
+<volume>18</volume>
+<journal>J. Mach. Learn. Res.</journal>
+<ee type="oa">http://jmlr.org/papers/v18/16-061.html</ee>
+<url>db/journals/jmlr/jmlr18.html#KleindessnerL17</url>
+</article>
+</r>
+<r><inproceedings key="conf/aistats/HaghiriGL17" mdate="2019-04-03">
+<author pid="145/7267">Siavash Haghiri</author>
+<author pid="63/10964">Debarghya Ghoshdastidar</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Comparison-Based Nearest Neighbor Search.</title>
+<pages>851-859</pages>
+<year>2017</year>
+<booktitle>AISTATS</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v54/haghiri17a.html</ee>
+<crossref>conf/aistats/2017</crossref>
+<url>db/conf/aistats/aistats2017.html#HaghiriGL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/colt/GhoshdastidarGC17" mdate="2019-04-03">
+<author pid="63/10964">Debarghya Ghoshdastidar</author>
+<author pid="180/5638">Maurilio Gutzeit</author>
+<author pid="13/10259">Alexandra Carpentier</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Two-Sample Tests for Large Random Graphs Using Network Statistics.</title>
+<pages>954-977</pages>
+<year>2017</year>
+<booktitle>COLT</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v65/ghoshdastidar17a.html</ee>
+<crossref>conf/colt/2017</crossref>
+<url>db/conf/colt/colt2017.html#GhoshdastidarGC17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/KleindessnerL17" mdate="2021-01-21">
+<author pid="146/1720">Matth&#228;us Kleindessner</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Kernel functions based on triplet comparisons.</title>
+<pages>6807-6817</pages>
+<year>2017</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2017/hash/07211688a0869d995947a8fb11b215d6-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/7257-kernel-functions-based-on-triplet-comparisons</ee>
+<crossref>conf/nips/2017</crossref>
+<url>db/conf/nips/nips2017.html#KleindessnerL17</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/nips/2017" mdate="2021-01-21">
+<editor pid="31/6176">Isabelle Guyon</editor>
+<editor pid="06/1082">Ulrike von Luxburg</editor>
+<editor pid="b/SamyBengio">Samy Bengio</editor>
+<editor pid="84/3994">Hanna M. Wallach</editor>
+<editor pid="77/3763">Rob Fergus</editor>
+<editor pid="v/SVNVishwanathan">S. V. N. Vishwanathan</editor>
+<editor pid="29/7058">Roman Garnett</editor>
+<title>Advances in Neural Information Processing Systems 30: Annual Conference on Neural Information Processing Systems 2017, December 4-9, 2017, Long Beach, CA, USA</title>
+<year>2017</year>
+<ee type="oa">https://proceedings.neurips.cc/paper/2017</ee>
+<url>db/conf/nips/nips2017.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/HaghiriGL17" mdate="2018-08-13">
+<author pid="145/7267">Siavash Haghiri</author>
+<author pid="63/10964">Debarghya Ghoshdastidar</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Comparison Based Nearest Neighbor Search.</title>
+<year>2017</year>
+<volume>abs/1704.01460</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1704.01460</ee>
+<url>db/journals/corr/corr1704.html#HaghiriGL17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1708-09794" mdate="2018-08-13">
+<author pid="74/7113">Nihar B. Shah</author>
+<author pid="70/9714">Behzad Tabibian</author>
+<author pid="34/1240">Krikamol Muandet</author>
+<author pid="31/6176">Isabelle Guyon</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Design and Analysis of the NIPS 2016 Review Process.</title>
+<year>2017</year>
+<volume>abs/1708.09794</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1708.09794</ee>
+<url>db/journals/corr/corr1708.html#abs-1708-09794</url>
+</article>
+</r>
+<r><article key="journals/jcisd/LangFLR16" mdate="2020-03-06">
+<author pid="11/4164-1">Tobias Lang 0001</author>
+<author orcid="0000-0001-7051-8719" pid="177/6478">Florian Flachsenberg</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<author orcid="0000-0002-9553-6531" pid="20/885">Matthias Rarey</author>
+<title>Feasibility of Active Machine Learning for Multiclass Compound Classification.</title>
+<pages>12-20</pages>
+<year>2016</year>
+<volume>56</volume>
+<journal>J. Chem. Inf. Model.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1021/acs.jcim.5b00332</ee>
+<ee>https://www.wikidata.org/entity/Q40134572</ee>
+<url>db/journals/jcisd/jcisd56.html#LangFLR16</url>
+</article>
+</r>
+<r><inproceedings key="conf/lats/SajjadiAL16" mdate="2018-11-06">
+<author pid="164/6190">Mehdi S. M. Sajjadi</author>
+<author pid="01/9024">Morteza Alamgir</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Peer Grading in a Course on Algorithms and Data Structures: Machine Learning Algorithms do not Improve over Simple Baselines.</title>
+<pages>369-378</pages>
+<year>2016</year>
+<booktitle>L@S</booktitle>
+<ee>https://doi.org/10.1145/2876034.2876036</ee>
+<crossref>conf/lats/2016</crossref>
+<url>db/conf/lats/lats2016.html#SajjadiAL16</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/nips/2016" mdate="2022-05-16">
+<editor pid="38/5967">Daniel D. Lee</editor>
+<editor pid="35/1228">Masashi Sugiyama</editor>
+<editor pid="06/1082">Ulrike von Luxburg</editor>
+<editor pid="31/6176">Isabelle Guyon</editor>
+<editor pid="29/7058">Roman Garnett</editor>
+<title>Advances in Neural Information Processing Systems 29: Annual Conference on Neural Information Processing Systems 2016, December 5-10, 2016, Barcelona, Spain</title>
+<year>2016</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2016</ee>
+<ee type="archive">http://papers.nips.cc/book/advances-in-neural-information-processing-systems-29-2016</ee>
+<url>db/conf/nips/nips2016.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/KleindessnerL16" mdate="2018-08-13">
+<author pid="146/1720">Matth&#228;us Kleindessner</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Lens depth function and k-relative neighborhood graph: versatile tools for ordinal data analysis.</title>
+<year>2016</year>
+<volume>abs/1602.07194</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1602.07194</ee>
+<url>db/journals/corr/corr1602.html#KleindessnerL16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/KleindessnerL16a" mdate="2018-08-13">
+<author pid="146/1720">Matth&#228;us Kleindessner</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Kernel functions based on triplet similarity comparisons.</title>
+<year>2016</year>
+<volume>abs/1607.08456</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1607.08456</ee>
+<url>db/journals/corr/corr1607.html#KleindessnerL16a</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/dagstuhl-reports/BalcanBUL16" mdate="2017-06-07">
+<author pid="b/MariaFlorinaBalcan">Maria-Florina Balcan</author>
+<author pid="15/6319">Shai Ben-David</author>
+<author pid="68/8050">Ruth Urner</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Foundations of Unsupervised Learning (Dagstuhl Seminar 16382).</title>
+<pages>94-109</pages>
+<year>2016</year>
+<volume>6</volume>
+<journal>Dagstuhl Reports</journal>
+<number>9</number>
+<ee type="oa">https://doi.org/10.4230/DagRep.6.9.94</ee>
+<url>db/journals/dagstuhl-reports/dagstuhl-reports6.html#BalcanBUL16</url>
+</article>
+</r>
+<r><inproceedings key="conf/aistats/KleindessnerL15" mdate="2019-05-29">
+<author pid="146/1720">Matth&#228;us Kleindessner</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Dimensionality estimation without distances.</title>
+<year>2015</year>
+<booktitle>AISTATS</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v38/kleindessner15.html</ee>
+<crossref>conf/aistats/2015</crossref>
+<url>db/conf/aistats/aistats2015.html#KleindessnerL15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/SajjadiAL15" mdate="2018-08-13">
+<author pid="164/6190">Mehdi S. M. Sajjadi</author>
+<author pid="01/9024">Morteza Alamgir</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Peer Grading in a Course on Algorithms and Data Structures: Machine Learning Algorithms do not Improve over Simple Baselines.</title>
+<year>2015</year>
+<volume>abs/1506.00852</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1506.00852</ee>
+<url>db/journals/corr/corr1506.html#SajjadiAL15</url>
+</article>
+</r>
+<r><article key="journals/jmlr/LuxburgRH14" mdate="2022-06-02">
+<author pid="06/1082">Ulrike von Luxburg</author>
+<author pid="36/5759">Agnes Radl</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Hitting and commute times in large random neighborhood graphs.</title>
+<pages>1751-1798</pages>
+<year>2014</year>
+<volume>15</volume>
+<journal>J. Mach. Learn. Res.</journal>
+<number>1</number>
+<ee>https://dl.acm.org/doi/10.5555/2627435.2638591</ee>
+<url>db/journals/jmlr/jmlr15.html#LuxburgRH14</url>
+</article>
+</r>
+<r><article key="journals/tit/ChaudhuriDKL14" mdate="2020-03-10">
+<author pid="56/6435">Kamalika Chaudhuri</author>
+<author pid="34/5967">Sanjoy Dasgupta</author>
+<author pid="04/9321">Samory Kpotufe</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Consistent Procedures for Cluster Tree Estimation and Pruning.</title>
+<pages>7900-7912</pages>
+<year>2014</year>
+<volume>60</volume>
+<journal>IEEE Trans. Inf. Theory</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/TIT.2014.2361055</ee>
+<url>db/journals/tit/tit60.html#ChaudhuriDKL14</url>
+</article>
+</r>
+<r><inproceedings key="conf/colt/KleindessnerL14" mdate="2019-05-29">
+<author pid="146/1720">Matth&#228;us Kleindessner</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Uniqueness of Ordinal Embedding.</title>
+<pages>40-67</pages>
+<year>2014</year>
+<booktitle>COLT</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v35/kleindessner14.html</ee>
+<crossref>conf/colt/2014</crossref>
+<url>db/conf/colt/colt2014.html#KleindessnerL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/colt/AlamgirLL14" mdate="2019-05-29">
+<author pid="01/9024">Morteza Alamgir</author>
+<author pid="70/3715">G&#225;bor Lugosi</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Density-preserving quantization with application to graph downsampling.</title>
+<pages>543-559</pages>
+<year>2014</year>
+<booktitle>COLT</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v35/alamgir14.html</ee>
+<crossref>conf/colt/2014</crossref>
+<url>db/conf/colt/colt2014.html#AlamgirLL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/TeradaL14" mdate="2019-05-29">
+<author pid="39/10859">Yoshikazu Terada</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Local Ordinal Embedding.</title>
+<pages>847-855</pages>
+<year>2014</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v32/terada14.html</ee>
+<crossref>conf/icml/2014</crossref>
+<url>db/conf/icml/icml2014.html#TeradaL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/KurrasLB14" mdate="2019-05-29">
+<author pid="55/8985">Sven Kurras</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<author pid="61/3550">Gilles Blanchard</author>
+<title>The f-Adjusted Graph Laplacian: a Diagonal Modification with a Geometric Interpretation.</title>
+<pages>1530-1538</pages>
+<year>2014</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v32/kurras14.html</ee>
+<crossref>conf/icml/2014</crossref>
+<url>db/conf/icml/icml2014.html#KurrasLB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/LuxburgA13" mdate="2021-01-21">
+<author pid="06/1082">Ulrike von Luxburg</author>
+<author pid="01/9024">Morteza Alamgir</author>
+<title>Density estimation from unweighted k-nearest neighbor graphs: a roadmap.</title>
+<pages>225-233</pages>
+<year>2013</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2013/hash/eae27d77ca20db309e056e3d2dcd7d69-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/5112-density-estimation-from-unweighted-k-nearest-neighbor-graphs-a-roadmap</ee>
+<crossref>conf/nips/2013</crossref>
+<url>db/conf/nips/nips2013.html#LuxburgA13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/AlamgirL12" mdate="2019-04-03">
+<author pid="01/9024">Morteza Alamgir</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Shortest path distance in random k-nearest neighbor graphs.</title>
+<year>2012</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://icml.cc/2012/papers/545.pdf</ee>
+<crossref>conf/icml/2012</crossref>
+<url>db/conf/icml/icml2012.html#AlamgirL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/jmlr/LuxburgWG12" mdate="2019-05-29">
+<author pid="06/1082">Ulrike von Luxburg</author>
+<author pid="29/5199">Robert C. Williamson</author>
+<author pid="31/6176">Isabelle Guyon</author>
+<title>Clustering: Science or Art?</title>
+<pages>65-80</pages>
+<booktitle>ICML Unsupervised and Transfer Learning</booktitle>
+<crossref>conf/icml/2011utl</crossref>
+<year>2012</year>
+<ee type="oa">http://proceedings.mlr.press/v27/luxburg12a.html</ee>
+<url>db/journals/jmlr/jmlrp27.html#LuxburgWG12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/KpotufeL11" mdate="2019-04-03">
+<author pid="04/9321">Samory Kpotufe</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Pruning nearest neighbor cluster trees.</title>
+<pages>225-232</pages>
+<year>2011</year>
+<booktitle>ICML</booktitle>
+<crossref>conf/icml/2011</crossref>
+<ee type="oa">https://icml.cc/2011/papers/195_icmlpaper.pdf</ee>
+<url>db/conf/icml/icml2011.html#KpotufeL11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/Garcia-GarciaLS11" mdate="2019-04-03">
+<author pid="44/7547">Dario Garc&#237;a-Garc&#237;a</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<author pid="24/7253">Ra&#250;l Santos-Rodr&#237;guez</author>
+<title>Risk-Based Generalizations of f-divergences.</title>
+<pages>417-424</pages>
+<year>2011</year>
+<booktitle>ICML</booktitle>
+<crossref>conf/icml/2011</crossref>
+<ee type="oa">https://icml.cc/2011/papers/288_icmlpaper.pdf</ee>
+<url>db/conf/icml/icml2011.html#Garcia-GarciaLS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/AlamgirL11" mdate="2021-01-21">
+<author pid="01/9024">Morteza Alamgir</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Phase transition in the family of p-resistances.</title>
+<pages>379-387</pages>
+<year>2011</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2011/hash/07cdfd23373b17c6b337251c22b7ea57-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/4185-phase-transition-in-the-family-of-p-resistances</ee>
+<crossref>conf/nips/2011</crossref>
+<url>db/conf/nips/nips2011.html#AlamgirL11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="journals/jmlr/KakadeL11" mdate="2013-12-04">
+<author pid="s/SMKakade">Sham M. Kakade</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Preface.</title>
+<year>2011</year>
+<crossref>conf/colt/2011</crossref>
+<url>db/journals/jmlr/jmlrp19.html#KakadeL11</url>
+<booktitle>COLT</booktitle>
+</inproceedings>
+</r>
+<r><proceedings key="conf/colt/2011" mdate="2019-05-29">
+<editor pid="s/SMKakade">Sham M. Kakade</editor>
+<editor pid="06/1082">Ulrike von Luxburg</editor>
+<title>COLT 2011 - The 24th Annual Conference on Learning Theory, June 9-11, 2011, Budapest, Hungary</title>
+<booktitle>COLT</booktitle>
+<year>2011</year>
+<publisher>JMLR.org</publisher>
+<series href="db/series/jmlr/index.html">JMLR Proceedings</series>
+<volume>19</volume>
+<ee type="oa">http://proceedings.mlr.press/v19/</ee>
+<url>db/journals/jmlr/jmlrp19.html</url>
+</proceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="series/hhl/LuxburgS11" mdate="2017-07-12">
+<author pid="06/1082">Ulrike von Luxburg</author>
+<author pid="97/119">Bernhard Sch&#246;lkopf</author>
+<title>Statistical Learning Theory: Models, Concepts, and Results.</title>
+<pages>651-706</pages>
+<year>2011</year>
+<booktitle>Inductive Logic</booktitle>
+<ee>https://doi.org/10.1016/B978-0-444-52936-7.50016-1</ee>
+<crossref>series/hhl/10</crossref>
+<url>db/series/hhl/hhl10.html#LuxburgS11</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1102-2075" mdate="2023-01-30">
+<author pid="00/1321-1">Markus Maier 0001</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>How the result of graph clustering methods depends on the construction of the graph</title>
+<ee type="oa">http://arxiv.org/abs/1102.2075</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1102.2075</volume>
+<url>db/journals/corr/corr1102.html#abs-1102-2075</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1105-0540" mdate="2018-08-13">
+<author pid="04/9321">Samory Kpotufe</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Pruning nearest neighbor cluster trees</title>
+<ee type="oa">http://arxiv.org/abs/1105.0540</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1105.0540</volume>
+<url>db/journals/corr/corr1105.html#abs-1105-0540</url>
+</article>
+</r>
+<r><inproceedings key="conf/icdm/AlamgirL10" mdate="2023-03-24">
+<author pid="01/9024">Morteza Alamgir</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Multi-agent Random Walks for Local Clustering on Graphs.</title>
+<pages>18-27</pages>
+<year>2010</year>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1109/ICDM.2010.87</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDM.2010.87</ee>
+<crossref>conf/icdm/2010</crossref>
+<url>db/conf/icdm/icdm2010.html#AlamgirL10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/LuxburgRH10" mdate="2021-01-21">
+<author pid="06/1082">Ulrike von Luxburg</author>
+<author pid="36/5759">Agnes Radl</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Getting lost in space: Large sample analysis of the resistance distance.</title>
+<pages>2622-2630</pages>
+<year>2010</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2010/hash/0d0871f0806eae32d30983b62252da50-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/3891-getting-lost-in-space-large-sample-analysis-of-the-resistance-distance</ee>
+<crossref>conf/nips/2010</crossref>
+<url>db/conf/nips/nips2010.html#LuxburgRH10</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1003-1266" mdate="2018-08-13">
+<author pid="06/1082">Ulrike von Luxburg</author>
+<author pid="36/5759">Agnes Radl</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Hitting times, commute distances and the spectral gap for large random geometric graphs</title>
+<ee type="oa">http://arxiv.org/abs/1003.1266</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1003.1266</volume>
+<url>db/journals/corr/corr1003.html#abs-1003-1266</url>
+</article>
+</r>
+<r><article key="journals/ftml/Luxburg09" mdate="2020-06-18">
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Clustering Stability: An Overview.</title>
+<pages>235-274</pages>
+<year>2009</year>
+<volume>2</volume>
+<journal>Found. Trends Mach. Learn.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1561/2200000008</ee>
+<ee>https://www.wikidata.org/entity/Q57408120</ee>
+<url>db/journals/ftml/ftml2.html#Luxburg09</url>
+</article>
+</r>
+<r><article key="journals/jmlr/BubeckL09" mdate="2022-06-02">
+<author pid="35/4292">S&#233;bastien Bubeck</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Nearest Neighbor Clustering: A Baseline Method for Consistent Clustering with Arbitrary Objective Functions.</title>
+<pages>657-698</pages>
+<year>2009</year>
+<volume>10</volume>
+<journal>J. Mach. Learn. Res.</journal>
+<ee>https://dl.acm.org/doi/10.5555/1577069.1577092</ee>
+<url>db/journals/jmlr/jmlr10.html#BubeckL09</url>
+</article>
+</r>
+<r><article key="journals/tcs/MaierHL09" mdate="2023-01-30">
+<author pid="00/1321-1">Markus Maier 0001</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Optimal construction of k-nearest-neighbor graphs for identifying noisy clusters.</title>
+<pages>1749-1764</pages>
+<year>2009</year>
+<volume>410</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>19</number>
+<ee type="oa">https://doi.org/10.1016/j.tcs.2009.01.009</ee>
+<url>db/journals/tcs/tcs410.html#MaierHL09</url>
+</article>
+</r>
+<r><inproceedings key="conf/ki/JegelkaGSSL09" mdate="2020-09-05">
+<author pid="38/7003">Stefanie Jegelka</author>
+<author orcid="0000-0003-3169-7624" pid="56/2574">Arthur Gretton</author>
+<author pid="97/119">Bernhard Sch&#246;lkopf</author>
+<author pid="01/6464">Bharath K. Sriperumbudur</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Generalized Clustering via Kernel Embeddings.</title>
+<pages>144-152</pages>
+<year>2009</year>
+<booktitle>KI</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-04617-9_19</ee>
+<crossref>conf/ki/2009</crossref>
+<url>db/conf/ki/ki2009.html#JegelkaGSSL09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/colt/Ben-DavidL08" mdate="2020-03-12">
+<author pid="15/6319">Shai Ben-David</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Relating Clustering Stability to Properties of Cluster Boundaries.</title>
+<pages>379-390</pages>
+<year>2008</year>
+<booktitle>COLT</booktitle>
+<ee type="oa">http://colt2008.cs.helsinki.fi/papers/90-Ben-David.pdf</ee>
+<crossref>conf/colt/2008</crossref>
+<url>db/conf/colt/colt2008.html#Ben-DavidL08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/MaierLH08" mdate="2023-01-30">
+<author pid="00/1321-1">Markus Maier 0001</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Influence of graph construction on graph-based clustering measures.</title>
+<pages>1025-1032</pages>
+<year>2008</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2008/hash/0a348ede8ac3768875037baca5de6e26-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/3496-influence-of-graph-construction-on-graph-based-clustering-measures</ee>
+<crossref>conf/nips/2008</crossref>
+<url>db/conf/nips/nips2008.html#MaierLH08</url>
+</inproceedings>
+</r>
+<r><article key="journals/jmlr/HeinAL07" mdate="2022-06-02">
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="01/3781">Jean-Yves Audibert</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Graph Laplacians and their Convergence on Random Neighborhood Graphs.</title>
+<pages>1325-1368</pages>
+<year>2007</year>
+<volume>8</volume>
+<journal>J. Mach. Learn. Res.</journal>
+<ee>https://dl.acm.org/doi/10.5555/1314498.1314544</ee>
+<url>db/journals/jmlr/jmlr8.html#HeinAL07</url>
+</article>
+</r>
+<r><article key="journals/sac/Luxburg07" mdate="2020-03-25">
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>A tutorial on spectral clustering.</title>
+<pages>395-416</pages>
+<year>2007</year>
+<volume>17</volume>
+<journal>Stat. Comput.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s11222-007-9033-z</ee>
+<ee>https://www.wikidata.org/entity/Q57408123</ee>
+<url>db/journals/sac/sac17.html#Luxburg07</url>
+</article>
+</r>
+<r><inproceedings key="conf/alt/MaierHL07" mdate="2023-01-30">
+<author pid="00/1321-1">Markus Maier 0001</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Cluster Identification in Nearest-Neighbor Graphs.</title>
+<pages>196-210</pages>
+<year>2007</year>
+<crossref>conf/alt/2007</crossref>
+<booktitle>ALT</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-75225-7_18</ee>
+<url>db/conf/alt/alt2007.html#MaierHL07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/LuxburgBJK07" mdate="2021-01-21">
+<author pid="06/1082">Ulrike von Luxburg</author>
+<author pid="35/4292">S&#233;bastien Bubeck</author>
+<author pid="38/7003">Stefanie Jegelka</author>
+<author pid="k/MichaelKaufmann1">Michael Kaufmann 0001</author>
+<title>Consistent Minimization of Clustering Objective Functions.</title>
+<year>2007</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2007/hash/faa9afea49ef2ff029a833cccc778fd0-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/3353-consistent-minimization-of-clustering-objective-functions</ee>
+<crossref>conf/nips/2007</crossref>
+<url>db/conf/nips/nips2007.html#LuxburgBJK07</url>
+<pages>961-968</pages>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0711-0189" mdate="2018-08-13">
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>A Tutorial on Spectral Clustering</title>
+<ee type="oa">http://arxiv.org/abs/0711.0189</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/0711.0189</volume>
+<url>db/journals/corr/corr0711.html#abs-0711-0189</url>
+</article>
+</r>
+<r><inproceedings key="conf/colt/Ben-DavidLP06" mdate="2017-05-21">
+<author pid="15/6319">Shai Ben-David</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<author pid="70/5148">D&#225;vid P&#225;l</author>
+<title>A Sober Look at Clustering Stability.</title>
+<pages>5-19</pages>
+<year>2006</year>
+<crossref>conf/colt/2006</crossref>
+<booktitle>COLT</booktitle>
+<ee>https://doi.org/10.1007/11776420_4</ee>
+<url>db/conf/colt/colt2006.html#Ben-DavidLP06</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-math-0608522" mdate="2018-08-13">
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="01/3781">Jean-Yves Audibert</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Graph Laplacians and their convergence on random neighborhood graphs</title>
+<ee type="oa">http://arxiv.org/abs/math/0608522</ee>
+<year>2006</year>
+<journal>CoRR</journal>
+<volume>abs/math/0608522</volume>
+<url>db/journals/corr/corr0608.html#abs-math-0608522</url>
+</article>
+</r>
+<r><inproceedings key="conf/colt/HeinAL05" mdate="2017-05-21">
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="01/3781">Jean-Yves Audibert</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>From Graphs to Manifolds - Weak and Strong Pointwise Consistency of Graph Laplacians.</title>
+<pages>470-485</pages>
+<year>2005</year>
+<crossref>conf/colt/2005</crossref>
+<booktitle>COLT</booktitle>
+<ee>https://doi.org/10.1007/11503415_32</ee>
+<url>db/conf/colt/colt2005.html#HeinAL05</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/de/Luxburg2004" mdate="2021-07-17">
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Statistical learning with similarity and dissimilarity functions.</title>
+<year>2004</year>
+<publisher>Logos-Verlag</publisher>
+<school>Technical University of Berlin, Germany</school>
+<pages>1-166</pages>
+<isbn>3-8325-0767-1</isbn>
+<ee>http://edocs.tu-berlin.de/diss/2004/luxburg_ulrike.htm</ee>
+<ee>https://nbn-resolving.org/urn:nbn:de:kobv:83-opus-8624</ee>
+<ee>https://d-nb.info/973143150</ee>
+<ee>https://d-nb.info/973283734</ee>
+</phdthesis>
+</r>
+<r><article key="journals/jmlr/LuxburgBS04" mdate="2019-07-10">
+<author pid="06/1082">Ulrike von Luxburg</author>
+<author pid="82/2045">Olivier Bousquet</author>
+<author pid="97/119">Bernhard Sch&#246;lkopf</author>
+<title>A Compression Approach to Support Vector Model Selection.</title>
+<pages>293-323</pages>
+<year>2004</year>
+<volume>5</volume>
+<journal>J. Mach. Learn. Res.</journal>
+<ee type="oa">http://jmlr.org/papers/volume5/luxburg04a/luxburg04a.pdf</ee>
+<url>db/journals/jmlr/jmlr5.html#LuxburgBS04</url>
+</article>
+</r>
+<r><article key="journals/jmlr/LuxburgB04" mdate="2019-07-10">
+<author pid="06/1082">Ulrike von Luxburg</author>
+<author pid="82/2045">Olivier Bousquet</author>
+<title>Distance-Based Classification with Lipschitz Functions.</title>
+<pages>669-695</pages>
+<year>2004</year>
+<volume>5</volume>
+<journal>J. Mach. Learn. Res.</journal>
+<ee type="oa">http://jmlr.org/papers/volume5/luxburg04b/luxburg04b.pdf</ee>
+<url>db/journals/jmlr/jmlr5.html#LuxburgB04</url>
+</article>
+</r>
+<r><inproceedings key="conf/colt/LuxburgBB04" mdate="2017-05-21">
+<author pid="06/1082">Ulrike von Luxburg</author>
+<author pid="82/2045">Olivier Bousquet</author>
+<author pid="41/2337">Mikhail Belkin</author>
+<title>On the Convergence of Spectral Clustering on Random Samples: The Normalized Case.</title>
+<pages>457-471</pages>
+<ee>https://doi.org/10.1007/978-3-540-27819-1_32</ee>
+<year>2004</year>
+<crossref>conf/colt/2004</crossref>
+<booktitle>COLT</booktitle>
+<url>db/conf/colt/colt2004.html#LuxburgBB04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/LuxburgBB04" mdate="2021-01-21">
+<author pid="06/1082">Ulrike von Luxburg</author>
+<author pid="82/2045">Olivier Bousquet</author>
+<author pid="41/2337">Mikhail Belkin</author>
+<title>Limits of Spectral Clustering.</title>
+<year>2004</year>
+<crossref>conf/nips/2004</crossref>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2004/hash/d790c9e6c0b5e02c87b375e782ac01bc-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/2692-limits-of-spectral-clustering</ee>
+<url>db/conf/nips/nips2004.html#LuxburgBB04</url>
+<pages>857-864</pages>
+</inproceedings>
+</r>
+<r><proceedings key="conf/ac/2003ml" mdate="2019-05-14">
+<editor pid="82/2045">Olivier Bousquet</editor>
+<editor pid="06/1082">Ulrike von Luxburg</editor>
+<editor orcid="0000-0001-5486-8532" pid="33/3796">Gunnar R&#228;tsch</editor>
+<title>Advanced Lectures on Machine Learning, ML Summer Schools 2003, Canberra, Australia, February 2-14, 2003, T&#252;bingen, Germany, August 4-16, 2003, Revised Lectures</title>
+<booktitle>Advanced Lectures on Machine Learning</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>3176</volume>
+<publisher>Springer</publisher>
+<year>2004</year>
+<isbn>3-540-23122-6</isbn>
+<ee>https://doi.org/10.1007/b100712</ee>
+<ee>https://www.wikidata.org/entity/Q38665778</ee>
+<url>db/conf/ac/ml2003.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/colt/LuxburgB03" mdate="2018-11-14">
+<author pid="06/1082">Ulrike von Luxburg</author>
+<author pid="82/2045">Olivier Bousquet</author>
+<title>Distance-Based Classification with Lipschitz Functions.</title>
+<pages>314-328</pages>
+<ee>https://doi.org/10.1007/978-3-540-45167-9_24</ee>
+<ee>https://www.wikidata.org/entity/Q57408125</ee>
+<year>2003</year>
+<crossref>conf/colt/2003</crossref>
+<booktitle>COLT</booktitle>
+<url>db/conf/colt/colt2003.html#LuxburgB03</url>
+</inproceedings>
+</r>
+<coauthors n="82" nc="3">
+<co c="0"><na f="a/Akata:Zeynep" pid="117/4838">Zeynep Akata</na></co>
+<co c="0"><na f="a/Alamgir:Morteza" pid="01/9024">Morteza Alamgir</na></co>
+<co c="1"><na f="a/Alber:Helen" pid="297/3178">Helen Alber</na></co>
+<co c="0"><na f="a/Audibert:Jean=Yves" pid="01/3781">Jean-Yves Audibert</na></co>
+<co c="0"><na f="b/Balcan:Maria=Florina" pid="b/MariaFlorinaBalcan">Maria-Florina Balcan</na></co>
+<co c="0"><na f="b/Belkin:Mikhail" pid="41/2337">Mikhail Belkin</na></co>
+<co c="0"><na f="b/Ben=David:Shai" pid="15/6319">Shai Ben-David</na></co>
+<co c="0"><na f="b/Bengio:Samy" pid="b/SamyBengio">Samy Bengio</na></co>
+<co c="0"><na f="b/Berens:Philipp" pid="78/3560">Philipp Berens</na></co>
+<co c="0"><na f="b/Blanchard:Gilles" pid="61/3550">Gilles Blanchard</na></co>
+<co c="0"><na f="b/Bordt:Sebastian" pid="270/0462">Sebastian Bordt</na></co>
+<co c="0"><na f="b/Bousquet:Olivier" pid="82/2045">Olivier Bousquet</na></co>
+<co c="0"><na f="b/Bubeck:S=eacute=bastien" pid="35/4292">S&#233;bastien Bubeck</na></co>
+<co c="0"><na f="c/Carpentier:Alexandra" pid="13/10259">Alexandra Carpentier</na></co>
+<co c="0"><na f="c/Chaudhuri:Kamalika" pid="56/6435">Kamalika Chaudhuri</na></co>
+<co c="0"><na f="c/Cranmer:Kyle" pid="26/3292">Kyle Cranmer</na></co>
+<co c="0"><na f="d/Dasgupta:Sanjoy" pid="34/5967">Sanjoy Dasgupta</na></co>
+<co c="0"><na f="e/Elbracht:Christian" pid="268/5355">Christian Elbracht</na></co>
+<co c="0"><na f="f/Fergus:Rob" pid="77/3763">Rob Fergus</na></co>
+<co c="0"><na f="f/Finck:Mich=egrave=le" pid="266/2985">Mich&#232;le Finck</na></co>
+<co c="0"><na f="f/Fioravanti:Diego" pid="206/6541">Diego Fioravanti</na></co>
+<co c="2"><na f="f/Flachsenberg:Florian" pid="177/6478">Florian Flachsenberg</na></co>
+<co c="1"><na f="f/Franz:Volker_H=" pid="42/11402">Volker H. Franz</na></co>
+<co c="0"><na f="g/Garc=iacute=a=Garc=iacute=a:Dario" pid="44/7547">Dario Garc&#237;a-Garc&#237;a</na></co>
+<co c="0"><na f="g/Garnett:Roman" pid="29/7058">Roman Garnett</na></co>
+<co c="0"><na f="g/Garreau:Damien" pid="151/6584">Damien Garreau</na></co>
+<co c="0"><na f="g/Ghoshdastidar:Debarghya" pid="63/10964">Debarghya Ghoshdastidar</na></co>
+<co c="1"><na f="g/G=ouml=ppert:Frieder" pid="297/2996">Frieder G&#246;ppert</na></co>
+<co c="0"><na f="g/Goswami:Bedartha" pid="315/9397">Bedartha Goswami</na></co>
+<co c="0"><na f="g/Gretton:Arthur" pid="56/2574">Arthur Gretton</na></co>
+<co c="0"><na f="g/Gutzeit:Maurilio" pid="180/5638">Maurilio Gutzeit</na></co>
+<co c="0"><na f="g/Guyon:Isabelle" pid="31/6176">Isabelle Guyon</na></co>
+<co c="0"><na f="h/Haas:Moritz" pid="332/4834">Moritz Haas</na></co>
+<co c="0"><na f="h/Haghiri:Siavash" pid="145/7267">Siavash Haghiri</na></co>
+<co c="0"><na f="h/Heidrich:Holger" pid="280/1675">Holger Heidrich</na></co>
+<co c="0"><na f="h/Hein_0001:Matthias" pid="97/1213-1">Matthias Hein 0001</na></co>
+<co c="0"><na f="h/Hennig:Philipp" pid="08/9077">Philipp Hennig</na></co>
+<co c="0"><na f="h/Holzm=uuml=ller:David" pid="207/7947">David Holzm&#252;ller</na></co>
+<co c="0"><na f="j/Jegelka:Stefanie" pid="38/7003">Stefanie Jegelka</na></co>
+<co c="0"><na f="k/Kakade:Sham_M=" pid="s/SMKakade">Sham M. Kakade</na></co>
+<co c="0"><na f="k/Kaufmann_0001:Michael" pid="k/MichaelKaufmann1">Michael Kaufmann 0001</na></co>
+<co c="0"><na f="k/Kleindessner:Matth=auml=us" pid="146/1720">Matth&#228;us Kleindessner</na></co>
+<co c="0"><na f="k/Klepper:Solveig" pid="229/2241">Solveig Klepper</na></co>
+<co c="0"><na f="k/Kneip:Jakob" pid="266/3276">Jakob Kneip</na></co>
+<co c="0"><na f="k/Kpotufe:Samory" pid="04/9321">Samory Kpotufe</na></co>
+<co c="0"><na f="k/Kristiadi:Agustinus" pid="215/3954">Agustinus Kristiadi</na></co>
+<co c="0"><na f="k/Kurras:Sven" pid="55/8985">Sven Kurras</na></co>
+<co c="2"><na f="l/Lang_0001:Tobias" pid="11/4164-1">Tobias Lang 0001</na></co>
+<co c="0"><na f="l/Lawrence:Neil_D=" pid="l/NeilDLawrence">Neil D. Lawrence</na></co>
+<co c="0"><na f="l/Lee:Daniel_D=" pid="38/5967">Daniel D. Lee</na></co>
+<co c="0"><na f="l/Lohaus:Michael" pid="243/7094">Michael Lohaus</na></co>
+<co c="0"><na f="l/Lugosi:G=aacute=bor" pid="70/3715">G&#225;bor Lugosi</na></co>
+<co c="0"><na f="m/Maier_0001:Markus" pid="00/1321-1">Markus Maier 0001</na></co>
+<co c="1"><na f="m/Meyen:Sascha" pid="297/3909">Sascha Meyen</na></co>
+<co c="0"><na f="m/Montgomery:Jessica" pid="290/4319">Jessica Montgomery</na></co>
+<co c="0"><na f="m/Muandet:Krikamol" pid="34/1240">Krikamol Muandet</na></co>
+<co c="0"><na f="p/P=aacute=l:D=aacute=vid" pid="70/5148">D&#225;vid P&#225;l</na></co>
+<co c="0"><na f="p/Perrot:Micha=euml=l" pid="123/5099">Micha&#235;l Perrot</na></co>
+<co c="0"><na f="r/Radl:Agnes" pid="36/5759">Agnes Radl</na></co>
+<co c="0"><na f="r/Raidl:Eric" pid="174/8238">Eric Raidl</na></co>
+<co c="2"><na f="r/Rarey:Matthias" pid="20/885">Matthias Rarey</na></co>
+<co c="0"><na f="r/R=auml=tsch:Gunnar" pid="33/3796">Gunnar R&#228;tsch</na></co>
+<co c="0"><na f="r/Rendsburg:Luca" pid="268/5582">Luca Rendsburg</na></co>
+<co c="0"><na f="s/Sajjadi:Mehdi_S=_M=" pid="164/6190">Mehdi S. M. Sajjadi</na></co>
+<co c="0"><na f="s/Santos=Rodr=iacute=guez:Ra=uacute=l" pid="24/7253">Ra&#250;l Santos-Rodr&#237;guez</na></co>
+<co c="0"><na f="s/Sch=ouml=lkopf:Bernhard" pid="97/119">Bernhard Sch&#246;lkopf</na></co>
+<co c="0"><na f="s/Shah:Nihar_B=" pid="74/7113">Nihar B. Shah</na></co>
+<co c="0"><na f="s/Sriperumbudur:Bharath_K=" pid="01/6464">Bharath K. Sriperumbudur</na></co>
+<co c="0"><na f="s/Steinwart:Ingo" pid="89/3492">Ingo Steinwart</na></co>
+<co c="0"><na f="s/Sugiyama:Masashi" pid="35/1228">Masashi Sugiyama</na></co>
+<co c="0"><na f="t/Tabibian:Behzad" pid="70/9714">Behzad Tabibian</na></co>
+<co c="0"><na f="t/Tang:Cheng" pid="14/11534">Cheng Tang</na></co>
+<co c="0"><na f="t/Teegen:Maximilian" pid="268/6017">Maximilian Teegen</na></co>
+<co c="-1"><na f="t/Terada:Yoshikazu" pid="39/10859">Yoshikazu Terada</na></co>
+<co c="0"><na f="u/Upadhyay:Uddeshya" pid="234/7634">Uddeshya Upadhyay</na></co>
+<co c="0"><na f="u/Urner:Ruth" pid="68/8050">Ruth Urner</na></co>
+<co c="0" n="2"><na f="v/Vankadara:Leena_C=" pid="185/3659">Leena C. Vankadara</na><na>Leena Chennuru Vankadara</na></co>
+<co c="0"><na f="v/Vishwanathan:S=_V=_N=" pid="v/SVNVishwanathan">S. V. N. Vishwanathan</na></co>
+<co c="0"><na f="w/Wahab:Faiz_Ul" pid="185/3645">Faiz Ul Wahab</na></co>
+<co c="0"><na f="w/Wallach:Hanna_M=" pid="84/3994">Hanna M. Wallach</na></co>
+<co c="0"><na f="w/Wichmann:Felix_A=" pid="42/5049">Felix A. Wichmann</na></co>
+<co c="0"><na f="w/Williamson:Robert_C=" pid="29/5199">Robert C. Williamson</na></co>
+</coauthors>
+</dblpperson>
+

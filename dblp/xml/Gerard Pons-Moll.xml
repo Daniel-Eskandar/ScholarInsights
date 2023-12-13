@@ -1,0 +1,2200 @@
+<?xml version="1.0"?>
+<dblpperson name="Gerard Pons-Moll" pid="66/8652" n="141">
+<person key="homepages/66/8652" mdate="2010-11-02">
+<author pid="66/8652">Gerard Pons-Moll</author>
+</person>
+<r><article key="journals/pami/HabermannXZPT23" mdate="2023-03-28">
+<author orcid="0000-0003-3899-7515" pid="227/2744">Marc Habermann</author>
+<author orcid="0000-0001-9548-5108" pid="190/7431">Weipeng Xu</author>
+<author pid="52/8573">Michael Zollh&#246;fer</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author orcid="0000-0001-6104-6625" pid="55/3346">Christian Theobalt</author>
+<title>A Deeper Look into DeepCap (Invited Paper).</title>
+<pages>4009-4022</pages>
+<year>2023</year>
+<month>April</month>
+<volume>45</volume>
+<journal>IEEE Trans. Pattern Anal. Mach. Intell.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TPAMI.2021.3093553</ee>
+<url>db/journals/pami/pami45.html#HabermannXZPT23</url>
+</article>
+</r>
+<r><article key="journals/pami/TomeAPPABT23" mdate="2023-08-28">
+<author orcid="0000-0001-5733-1079" pid="169/9835">Denis Tom&#232;</author>
+<author orcid="0000-0002-9107-4173" pid="153/9814">Thiemo Alldieck</author>
+<author pid="245/8900">Patrick Peluse</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author orcid="0000-0002-6947-1092" pid="70/3697">Lourdes Agapito</author>
+<author pid="46/6186">Hern&#225;n Badino</author>
+<author pid="d/FernandoDelaTorre">Fernando De la Torre</author>
+<title>SelfPose: 3D Egocentric Pose Estimation From a Headset Mounted Camera.</title>
+<pages>6794-6806</pages>
+<year>2023</year>
+<month>June</month>
+<volume>45</volume>
+<journal>IEEE Trans. Pattern Anal. Mach. Intell.</journal>
+<number>6</number>
+<ee type="oa">https://doi.org/10.1109/TPAMI.2020.3029700</ee>
+<ee>https://www.wikidata.org/entity/Q100498629</ee>
+<url>db/journals/pami/pami45.html#TomeAPPABT23</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/0001MCP23" mdate="2023-11-12">
+<author orcid="0000-0002-8900-1071" pid="131/3876">Ilya A. Petrov 0001</author>
+<author pid="223/9863">Riccardo Marin</author>
+<author pid="260/0133">Julian Chibane</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>Object pop-up: Can we infer 3D objects and their poses from human interactions alone?</title>
+<pages>4726-4736</pages>
+<year>2023</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR52729.2023.00458</ee>
+<crossref>conf/cvpr/2023</crossref>
+<url>db/conf/cvpr/cvpr2023.html#0001MCP23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/XieBP23" mdate="2023-08-28">
+<author pid="27/6971">Xianghui Xie</author>
+<author pid="204/2998">Bharat Lal Bhatnagar</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>Visibility Aware Human-Object Interaction Tracking from Single RGB Camera.</title>
+<pages>4757-4768</pages>
+<year>2023</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR52729.2023.00461</ee>
+<crossref>conf/cvpr/2023</crossref>
+<url>db/conf/cvpr/cvpr2023.html#XieBP23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wacv/LazovaGOTP23" mdate="2023-02-14">
+<author pid="160/8243">Verica Lazova</author>
+<author pid="289/0612">Vladimir Guzov</author>
+<author pid="165/9717">Kyle Olszewski</author>
+<author pid="40/6115">Sergey Tulyakov</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>Control-NeRF: Editable Feature Volumes for Scene Rendering and Manipulation.</title>
+<pages>4329-4339</pages>
+<year>2023</year>
+<booktitle>WACV</booktitle>
+<ee>https://doi.org/10.1109/WACV56688.2023.00432</ee>
+<crossref>conf/wacv/2023</crossref>
+<url>db/conf/wacv/wacv2023.html#LazovaGOTP23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2303-16479" mdate="2023-04-14">
+<author pid="27/6971">Xianghui Xie</author>
+<author pid="204/2998">Bharat Lal Bhatnagar</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>Visibility Aware Human-Object Interaction Tracking from Single RGB Camera.</title>
+<year>2023</year>
+<volume>abs/2303.16479</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2303.16479</ee>
+<url>db/journals/corr/corr2303.html#abs-2303-16479</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2304-02061" mdate="2023-04-17">
+<author pid="260/0109">Aymen Mir</author>
+<author pid="50/8429">Xavier Puig</author>
+<author pid="119/1305">Angjoo Kanazawa</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>Generating Continual Human Motion in Diverse 3D Scenes.</title>
+<year>2023</year>
+<volume>abs/2304.02061</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2304.02061</ee>
+<url>db/journals/corr/corr2304.html#abs-2304-02061</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2306-00777" mdate="2023-06-12">
+<author pid="131/3876">Ilya A. Petrov 0001</author>
+<author pid="223/9863">Riccardo Marin</author>
+<author pid="260/0133">Julian Chibane</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>Object pop-up: Can we infer 3D objects and their poses from human interactions alone?</title>
+<year>2023</year>
+<volume>abs/2306.00777</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2306.00777</ee>
+<url>db/journals/corr/corr2306.html#abs-2306-00777</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2308-14847" mdate="2023-09-04">
+<author pid="254/6994">Yuxuan Xue</author>
+<author pid="204/2998">Bharat Lal Bhatnagar</author>
+<author pid="223/9863">Riccardo Marin</author>
+<author pid="169/3215">Nikolaos Sarafianos</author>
+<author pid="126/4435">Yuanlu Xu</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="54/1097">Tony Tung</author>
+<title>NSF: Neural Surface Fields for Human Modeling from Monocular Depth.</title>
+<year>2023</year>
+<volume>abs/2308.14847</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2308.14847</ee>
+<url>db/journals/corr/corr2308.html#abs-2308-14847</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2311-13655" mdate="2023-11-30">
+<author pid="361/7074">Berna Kabadayi</author>
+<author pid="84/6152">Wojciech Zielonka</author>
+<author pid="204/2998">Bharat Lal Bhatnagar</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="145/9981">Justus Thies</author>
+<title>GAN-Avatar: Controllable Personalized GAN-based Human Head Avatar.</title>
+<year>2023</year>
+<volume>abs/2311.13655</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2311.13655</ee>
+<url>db/journals/corr/corr2311.html#abs-2311-13655</url>
+</article>
+</r>
+<r><inproceedings key="conf/3dim/ZhouBSP22" mdate="2023-09-30">
+<author pid="213/7305">Keyang Zhou</author>
+<author pid="204/2998">Bharat Lal Bhatnagar</author>
+<author orcid="0000-0001-9683-5237" pid="s/BerntSchiele">Bernt Schiele</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>Adjoint Rigid Transform Network: Task-conditioned Alignment of 3D Shapes.</title>
+<pages>1-11</pages>
+<year>2022</year>
+<booktitle>3DV</booktitle>
+<ee>https://doi.org/10.1109/3DV57658.2022.00019</ee>
+<crossref>conf/3dim/2022</crossref>
+<url>db/conf/3dim/3dv2022.html#ZhouBSP22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/3dim/XianCBSAP22" mdate="2023-09-30">
+<author pid="177/9313">Yongqin Xian</author>
+<author pid="260/0133">Julian Chibane</author>
+<author pid="204/2998">Bharat Lal Bhatnagar</author>
+<author orcid="0000-0001-9683-5237" pid="s/BerntSchiele">Bernt Schiele</author>
+<author pid="117/4838">Zeynep Akata</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>Any-Shot GIN: Generalizing Implicit Networks for Reconstructing Novel Classes.</title>
+<pages>526-535</pages>
+<year>2022</year>
+<booktitle>3DV</booktitle>
+<ee>https://doi.org/10.1109/3DV57658.2022.00064</ee>
+<crossref>conf/3dim/2022</crossref>
+<url>db/conf/3dim/3dv2022.html#XianCBSAP22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/BhatnagarX0STP22" mdate="2023-09-30">
+<author pid="204/2998">Bharat Lal Bhatnagar</author>
+<author pid="27/6971">Xianghui Xie</author>
+<author pid="131/3876">Ilya A. Petrov 0001</author>
+<author pid="96/3826">Cristian Sminchisescu</author>
+<author orcid="0000-0001-6104-6625" pid="55/3346">Christian Theobalt</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>BEHAVE: Dataset and Method for Tracking Human Object Interactions.</title>
+<pages>15914-15925</pages>
+<year>2022</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR52688.2022.01547</ee>
+<crossref>conf/cvpr/2022</crossref>
+<url>db/conf/cvpr/cvpr2022.html#BhatnagarX0STP22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/ZhouBLP22" mdate="2022-11-15">
+<author pid="213/7305">Keyang Zhou</author>
+<author pid="204/2998">Bharat Lal Bhatnagar</author>
+<author pid="195/9868">Jan Eric Lenssen</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>TOCH: Spatio-Temporal Object-to-Hand Correspondence for Motion Refinement.</title>
+<pages>1-19</pages>
+<year>2022</year>
+<booktitle>ECCV (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-20062-5_1</ee>
+<crossref>conf/eccv/2022-3</crossref>
+<url>db/conf/eccv/eccv2022-3.html#ZhouBLP22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/XieBP22" mdate="2022-11-15">
+<author pid="27/6971">Xianghui Xie</author>
+<author pid="204/2998">Bharat Lal Bhatnagar</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>CHORE: Contact, Human and Object Reconstruction from a Single RGB Image.</title>
+<pages>125-145</pages>
+<year>2022</year>
+<booktitle>ECCV (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-20086-1_8</ee>
+<crossref>conf/eccv/2022-2</crossref>
+<url>db/conf/eccv/eccv2022-2.html#XieBP22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/CoronaPAM22" mdate="2022-11-15">
+<author pid="182/5401">Enric Corona</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="50/377">Guillem Aleny&#224;</author>
+<author pid="44/991">Francesc Moreno-Noguer</author>
+<title>Learned Vertex Descent: A New Direction for 3D Human Model Fitting.</title>
+<pages>146-165</pages>
+<year>2022</year>
+<booktitle>ECCV (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-20086-1_9</ee>
+<crossref>conf/eccv/2022-2</crossref>
+<url>db/conf/eccv/eccv2022-2.html#CoronaPAM22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/ZhangBSGP22" mdate="2022-11-10">
+<author pid="96/6053">Xiaohan Zhang</author>
+<author pid="204/2998">Bharat Lal Bhatnagar</author>
+<author pid="178/7616">Sebastian Starke</author>
+<author pid="289/0612">Vladimir Guzov</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>COUCH: Towards Controllable Human-Chair Interactions.</title>
+<pages>518-535</pages>
+<year>2022</year>
+<booktitle>ECCV (5)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-20065-6_30</ee>
+<crossref>conf/eccv/2022-5</crossref>
+<url>db/conf/eccv/eccv2022-5.html#ZhangBSGP22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/TiwariALSTP22" mdate="2022-11-10">
+<author pid="172/9163">Garvita Tiwari</author>
+<author pid="316/9873">Dimitrije Antic</author>
+<author pid="195/9868">Jan Eric Lenssen</author>
+<author pid="169/3215">Nikolaos Sarafianos</author>
+<author pid="54/1097">Tony Tung</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>Pose-NDF: Modeling Human Pose Manifolds with Neural Distance Fields.</title>
+<pages>572-589</pages>
+<year>2022</year>
+<booktitle>ECCV (5)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-20065-6_33</ee>
+<crossref>conf/eccv/2022-5</crossref>
+<url>db/conf/eccv/eccv2022-5.html#TiwariALSTP22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/LiaoYSPZ22" mdate="2022-11-15">
+<author pid="222/7899">Zhouyingcheng Liao</author>
+<author pid="73/3039">Jimei Yang</author>
+<author pid="62/5972">Jun Saito</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="07/4580-9">Yang Zhou 0009</author>
+<title>Skeleton-Free Pose Transfer for Stylized 3D Characters.</title>
+<pages>640-656</pages>
+<year>2022</year>
+<booktitle>ECCV (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-20086-1_37</ee>
+<crossref>conf/eccv/2022-2</crossref>
+<url>db/conf/eccv/eccv2022-2.html#LiaoYSPZ22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/ChibaneETP22" mdate="2023-09-30">
+<author pid="260/0133">Julian Chibane</author>
+<author orcid="0000-0001-5745-2137" pid="181/4077">Francis Engelmann</author>
+<author pid="322/0527">Tuan Anh Tran 0006</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>Box2Mask: Weakly Supervised 3D Semantic Instance Segmentation using Bounding Boxes.</title>
+<pages>681-699</pages>
+<year>2022</year>
+<booktitle>ECCV (31)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-19821-2_39</ee>
+<crossref>conf/eccv/2022-31</crossref>
+<url>db/conf/eccv/eccv2022-31.html#ChibaneETP22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2204-02445" mdate="2022-04-12">
+<author pid="27/6971">Xianghui Xie</author>
+<author pid="204/2998">Bharat Lal Bhatnagar</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>CHORE: Contact, Human and Object REconstruction from a single RGB image.</title>
+<year>2022</year>
+<volume>abs/2204.02445</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2204.02445</ee>
+<url>db/journals/corr/corr2204.html#abs-2204-02445</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2204-06950" mdate="2023-09-30">
+<author pid="204/2998">Bharat Lal Bhatnagar</author>
+<author pid="27/6971">Xianghui Xie</author>
+<author pid="131/3876">Ilya A. Petrov 0001</author>
+<author pid="96/3826">Cristian Sminchisescu</author>
+<author orcid="0000-0001-6104-6625" pid="55/3346">Christian Theobalt</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>BEHAVE: Dataset and Method for Tracking Human Object Interactions.</title>
+<year>2022</year>
+<volume>abs/2204.06950</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2204.06950</ee>
+<url>db/journals/corr/corr2204.html#abs-2204-06950</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2204-10850" mdate="2022-04-25">
+<author pid="160/8243">Verica Lazova</author>
+<author pid="289/0612">Vladimir Guzov</author>
+<author pid="165/9717">Kyle Olszewski</author>
+<author pid="40/6115">Sergey Tulyakov</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>Control-NeRF: Editable Feature Volumes for Scene Rendering and Manipulation.</title>
+<year>2022</year>
+<volume>abs/2204.10850</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2204.10850</ee>
+<url>db/journals/corr/corr2204.html#abs-2204-10850</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2205-00541" mdate="2022-05-03">
+<author pid="96/6053">Xiaohan Zhang</author>
+<author pid="204/2998">Bharat Lal Bhatnagar</author>
+<author pid="289/0612">Vladimir Guzov</author>
+<author pid="178/7616">Sebastian Starke</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>COUCH: Towards Controllable Human-Chair Interactions.</title>
+<year>2022</year>
+<volume>abs/2205.00541</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2205.00541</ee>
+<url>db/journals/corr/corr2205.html#abs-2205-00541</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2205-02830" mdate="2022-05-11">
+<author pid="289/0612">Vladimir Guzov</author>
+<author pid="51/9054">Torsten Sattler</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>Visually plausible human-object interaction capture from wearable sensors.</title>
+<year>2022</year>
+<volume>abs/2205.02830</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2205.02830</ee>
+<url>db/journals/corr/corr2205.html#abs-2205-02830</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2205-06254" mdate="2022-05-17">
+<author pid="182/5401">Enric Corona</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="50/377">Guillem Aleny&#224;</author>
+<author pid="44/991">Francesc Moreno-Noguer</author>
+<title>Learned Vertex Descent: A New Direction for 3D Human Model Fitting.</title>
+<year>2022</year>
+<volume>abs/2205.06254</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2205.06254</ee>
+<url>db/journals/corr/corr2205.html#abs-2205-06254</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2205-07982" mdate="2022-05-23">
+<author pid="213/7305">Keyang Zhou</author>
+<author pid="204/2998">Bharat Lal Bhatnagar</author>
+<author pid="195/9868">Jan Eric Lenssen</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>TOCH: Spatio-Temporal Object Correspondence to Hand for Motion Refinement.</title>
+<year>2022</year>
+<volume>abs/2205.07982</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2205.07982</ee>
+<url>db/journals/corr/corr2205.html#abs-2205-07982</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2206-01203" mdate="2022-06-15">
+<author pid="260/0133">Julian Chibane</author>
+<author pid="181/4077">Francis Engelmann</author>
+<author pid="322/0527">Tuan Anh Tran 0006</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>Semantic Instance Segmentation of 3D Scenes Through Weak Bounding Box Supervision.</title>
+<year>2022</year>
+<volume>abs/2206.01203</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2206.01203</ee>
+<url>db/journals/corr/corr2206.html#abs-2206-01203</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2207-13807" mdate="2022-08-01">
+<author pid="172/9163">Garvita Tiwari</author>
+<author pid="316/9873">Dimitrije Antic</author>
+<author pid="195/9868">Jan Eric Lenssen</author>
+<author pid="169/3215">Nikolaos Sarafianos</author>
+<author pid="54/1097">Tony Tung</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>Pose-NDF: Modeling Human Pose Manifolds with Neural Distance Fields.</title>
+<year>2022</year>
+<volume>abs/2207.13807</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2207.13807</ee>
+<url>db/journals/corr/corr2207.html#abs-2207-13807</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2208-00790" mdate="2022-08-09">
+<author pid="222/7899">Zhouyingcheng Liao</author>
+<author pid="73/3039">Jimei Yang</author>
+<author pid="62/5972">Jun Saito</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="07/4580-9">Yang Zhou 0009</author>
+<title>Skeleton-free Pose Transfer for Stylized 3D Characters.</title>
+<year>2022</year>
+<volume>abs/2208.00790</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2208.00790</ee>
+<url>db/journals/corr/corr2208.html#abs-2208-00790</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2210-12003" mdate="2023-09-30">
+<author pid="227/2744">Marc Habermann</author>
+<author pid="204/0052">Lingjie Liu</author>
+<author pid="190/7431">Weipeng Xu</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="52/8573">Michael Zollh&#246;fer</author>
+<author orcid="0000-0001-6104-6625" pid="55/3346">Christian Theobalt</author>
+<title>HDHumans: A Hybrid Approach for High-fidelity Digital Humans.</title>
+<year>2022</year>
+<volume>abs/2210.12003</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2210.12003</ee>
+<url>db/journals/corr/corr2210.html#abs-2210-12003</url>
+</article>
+</r>
+<r><article key="journals/tog/HabermannLXZPT21" mdate="2023-09-30">
+<author pid="227/2744">Marc Habermann</author>
+<author pid="204/0052">Lingjie Liu</author>
+<author pid="190/7431">Weipeng Xu</author>
+<author pid="52/8573">Michael Zollh&#246;fer</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author orcid="0000-0001-6104-6625" pid="55/3346">Christian Theobalt</author>
+<title>Real-time deep dynamic characters.</title>
+<pages>94:1-94:16</pages>
+<year>2021</year>
+<volume>40</volume>
+<journal>ACM Trans. Graph.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3450626.3459749</ee>
+<url>db/journals/tog/tog40.html#HabermannLXZPT21</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/GuzovMSP21" mdate="2022-07-18">
+<author pid="289/0612">Vladimir Guzov</author>
+<author pid="260/0109">Aymen Mir</author>
+<author pid="51/9054">Torsten Sattler</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>Human POSEitioning System (HPS): 3D Human Pose Estimation and Self-Localization in Large Scenes From Body-Mounted Sensors.</title>
+<pages>4318-4329</pages>
+<year>2021</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">https://openaccess.thecvf.com/content/CVPR2021/html/Guzov_Human_POSEitioning_System_HPS_3D_Human_Pose_Estimation_and_Self-Localization_CVPR_2021_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR46437.2021.00430</ee>
+<crossref>conf/cvpr/2021</crossref>
+<url>db/conf/cvpr/cvpr2021.html#GuzovMSP21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/ChibaneBLP21" mdate="2022-07-18">
+<author pid="260/0133">Julian Chibane</author>
+<author pid="148/7044">Aayush Bansal</author>
+<author pid="160/8243">Verica Lazova</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>Stereo Radiance Fields (SRF): Learning View Synthesis for Sparse Views of Novel Scenes.</title>
+<pages>7911-7920</pages>
+<year>2021</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">https://openaccess.thecvf.com/content/CVPR2021/html/Chibane_Stereo_Radiance_Fields_SRF_Learning_View_Synthesis_for_Sparse_Views_CVPR_2021_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR46437.2021.00782</ee>
+<crossref>conf/cvpr/2021</crossref>
+<url>db/conf/cvpr/cvpr2021.html#ChibaneBLP21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/PumarolaCPM21" mdate="2022-07-18">
+<author pid="138/0487">Albert Pumarola</author>
+<author pid="182/5401">Enric Corona</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="44/991">Francesc Moreno-Noguer</author>
+<title>D-NeRF: Neural Radiance Fields for Dynamic Scenes.</title>
+<pages>10318-10327</pages>
+<year>2021</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">https://openaccess.thecvf.com/content/CVPR2021/html/Pumarola_D-NeRF_Neural_Radiance_Fields_for_Dynamic_Scenes_CVPR_2021_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR46437.2021.01018</ee>
+<crossref>conf/cvpr/2021</crossref>
+<url>db/conf/cvpr/cvpr2021.html#PumarolaCPM21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/CoronaPAPM21" mdate="2022-07-18">
+<author pid="182/5401">Enric Corona</author>
+<author pid="138/0487">Albert Pumarola</author>
+<author pid="50/377">Guillem Aleny&#224;</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="44/991">Francesc Moreno-Noguer</author>
+<title>SMPLicit: Topology-Aware Generative Model for Clothed People.</title>
+<pages>11875-11885</pages>
+<year>2021</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">https://openaccess.thecvf.com/content/CVPR2021/html/Corona_SMPLicit_Topology-Aware_Generative_Model_for_Clothed_People_CVPR_2021_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR46437.2021.01170</ee>
+<crossref>conf/cvpr/2021</crossref>
+<url>db/conf/cvpr/cvpr2021.html#CoronaPAPM21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccv/TiwariSTP21" mdate="2022-03-11">
+<author pid="172/9163">Garvita Tiwari</author>
+<author pid="169/3215">Nikolaos Sarafianos</author>
+<author pid="54/1097">Tony Tung</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>Neural-GIF: Neural Generalized Implicit Functions for Animating People in Clothing.</title>
+<pages>11688-11698</pages>
+<year>2021</year>
+<booktitle>ICCV</booktitle>
+<ee>https://doi.org/10.1109/ICCV48922.2021.01150</ee>
+<crossref>conf/iccv/2021</crossref>
+<url>db/conf/iccv/iccv2021.html#TiwariSTP21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iva/HabibieXMLSPET21" mdate="2023-09-30">
+<author pid="159/5555">Ikhsanul Habibie</author>
+<author pid="190/7431">Weipeng Xu</author>
+<author pid="177/8791">Dushyant Mehta</author>
+<author pid="204/0052">Lingjie Liu</author>
+<author pid="s/HansPeterSeidel">Hans-Peter Seidel</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="232/2002">Mohamed Elgharib</author>
+<author orcid="0000-0001-6104-6625" pid="55/3346">Christian Theobalt</author>
+<title>Learning Speech-driven 3D Conversational Gestures from Video.</title>
+<pages>101-108</pages>
+<year>2021</year>
+<booktitle>IVA</booktitle>
+<ee>https://doi.org/10.1145/3472306.3478335</ee>
+<crossref>conf/iva/2021</crossref>
+<url>db/conf/iva/iva2021.html#HabibieXMLSPET21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2102-01161" mdate="2021-02-09">
+<author pid="213/7305">Keyang Zhou</author>
+<author pid="204/2998">Bharat Lal Bhatnagar</author>
+<author pid="s/BerntSchiele">Bernt Schiele</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>Adjoint Rigid Transform Network: Self-supervised Alignment of 3D Shapes.</title>
+<year>2021</year>
+<volume>abs/2102.01161</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2102.01161</ee>
+<url>db/journals/corr/corr2102.html#abs-2102-01161</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2102-06837" mdate="2021-02-18">
+<author pid="159/5555">Ikhsanul Habibie</author>
+<author pid="190/7431">Weipeng Xu</author>
+<author pid="177/8791">Dushyant Mehta</author>
+<author pid="204/0052">Lingjie Liu</author>
+<author pid="s/HansPeterSeidel">Hans-Peter Seidel</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="232/2002">Mohamed Elgharib</author>
+<author pid="55/3346">Christian Theobalt</author>
+<title>Learning Speech-driven 3D Conversational Gestures from Video.</title>
+<year>2021</year>
+<volume>abs/2102.06837</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2102.06837</ee>
+<url>db/journals/corr/corr2102.html#abs-2102-06837</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2103-06871" mdate="2021-03-16">
+<author pid="182/5401">Enric Corona</author>
+<author pid="138/0487">Albert Pumarola</author>
+<author pid="50/377">Guillem Aleny&#224;</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="44/991">Francesc Moreno-Noguer</author>
+<title>SMPLicit: Topology-aware Generative Model for Clothed People.</title>
+<year>2021</year>
+<volume>abs/2103.06871</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.06871</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-06871</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2103-17265" mdate="2021-04-07">
+<author pid="289/0612">Vladimir Guzov</author>
+<author pid="260/0109">Aymen Mir</author>
+<author pid="51/9054">Torsten Sattler</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>Human POSEitioning System (HPS): 3D Human Pose Estimation and Self-localization in Large Scenes from Body-Mounted Sensors.</title>
+<year>2021</year>
+<volume>abs/2103.17265</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.17265</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-17265</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2104-06935" mdate="2021-04-19">
+<author pid="260/0133">Julian Chibane</author>
+<author pid="148/7044">Aayush Bansal</author>
+<author pid="160/8243">Verica Lazova</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>Stereo Radiance Fields (SRF): Learning View Synthesis for Sparse Views of Novel Scenes.</title>
+<year>2021</year>
+<volume>abs/2104.06935</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2104.06935</ee>
+<url>db/journals/corr/corr2104.html#abs-2104-06935</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2105-01794" mdate="2021-05-12">
+<author pid="227/2744">Marc Habermann</author>
+<author pid="204/0052">Lingjie Liu</author>
+<author pid="190/7431">Weipeng Xu</author>
+<author pid="52/8573">Michael Zollh&#246;fer</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="55/3346">Christian Theobalt</author>
+<title>Real-time Deep Dynamic Characters.</title>
+<year>2021</year>
+<volume>abs/2105.01794</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2105.01794</ee>
+<url>db/journals/corr/corr2105.html#abs-2105-01794</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2107-02407" mdate="2021-07-07">
+<author pid="227/2744">Marc Habermann</author>
+<author pid="190/7431">Weipeng Xu</author>
+<author pid="130/1812">Helge Rhodin</author>
+<author pid="52/8573">Michael Zollh&#246;fer</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="55/3346">Christian Theobalt</author>
+<title>NRST: Non-rigid Surface Tracking from Monocular Video.</title>
+<year>2021</year>
+<volume>abs/2107.02407</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2107.02407</ee>
+<url>db/journals/corr/corr2107.html#abs-2107-02407</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2108-08807" mdate="2021-08-23">
+<author pid="172/9163">Garvita Tiwari</author>
+<author pid="169/3215">Nikolaos Sarafianos</author>
+<author pid="54/1097">Tony Tung</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>Neural-GIF: Neural Generalized Implicit Functions for Animating People in Clothing.</title>
+<year>2021</year>
+<volume>abs/2108.08807</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2108.08807</ee>
+<url>db/journals/corr/corr2108.html#abs-2108-08807</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2111-10563" mdate="2021-11-26">
+<author pid="227/2744">Marc Habermann</author>
+<author pid="190/7431">Weipeng Xu</author>
+<author pid="52/8573">Michael Zollh&#246;fer</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="55/3346">Christian Theobalt</author>
+<title>A Deeper Look into DeepCap.</title>
+<year>2021</year>
+<volume>abs/2111.10563</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2111.10563</ee>
+<url>db/journals/corr/corr2111.html#abs-2111-10563</url>
+</article>
+</r>
+<r><article key="journals/pami/YuZZGDLPL20" mdate="2022-04-29">
+<author orcid="0000-0002-3818-5069" pid="67/1014-7">Tao Yu 0007</author>
+<author orcid="0000-0002-5275-4846" pid="12/2484-2">Jianhui Zhao 0002</author>
+<author orcid="0000-0003-1339-2480" pid="218/6627">Zerong Zheng</author>
+<author orcid="0000-0003-3655-2723" pid="176/1428">Kaiwen Guo</author>
+<author pid="39/4543">Qionghai Dai</author>
+<author orcid="0000-0002-4019-3420" pid="17/5705-15">Hao Li 0015</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author orcid="0000-0003-3215-0225" pid="84/1411">Yebin Liu</author>
+<title>DoubleFusion: Real-Time Capture of Human Performances with Inner Body Shapes from a Single Depth Sensor.</title>
+<pages>2523-2539</pages>
+<year>2020</year>
+<volume>42</volume>
+<journal>IEEE Trans. Pattern Anal. Mach. Intell.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TPAMI.2019.2928296</ee>
+<ee>https://www.wikidata.org/entity/Q92068682</ee>
+<url>db/journals/pami/pami42.html#YuZZGDLPL20</url>
+</article>
+</r>
+<r><article key="journals/tog/MehtaS0XEFSRPT20" mdate="2023-09-30">
+<author pid="177/8791">Dushyant Mehta</author>
+<author pid="190/7494">Oleksandr Sotnychenko</author>
+<author pid="169/4769-1">Franziska Mueller 0001</author>
+<author pid="190/7431">Weipeng Xu</author>
+<author pid="232/2002">Mohamed Elgharib</author>
+<author pid="f/PFua">Pascal Fua</author>
+<author pid="s/HansPeterSeidel">Hans-Peter Seidel</author>
+<author pid="130/1812">Helge Rhodin</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author orcid="0000-0001-6104-6625" pid="55/3346">Christian Theobalt</author>
+<title>XNect: real-time multi-person 3D motion capture with a single RGB camera.</title>
+<pages>82</pages>
+<year>2020</year>
+<volume>39</volume>
+<journal>ACM Trans. Graph.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3386569.3392410</ee>
+<url>db/journals/tog/tog39.html#MehtaS0XEFSRPT20</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/HabermannXZPT20" mdate="2023-09-30">
+<author pid="227/2744">Marc Habermann</author>
+<author pid="190/7431">Weipeng Xu</author>
+<author pid="52/8573">Michael Zollh&#246;fer</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author orcid="0000-0001-6104-6625" pid="55/3346">Christian Theobalt</author>
+<title>DeepCap: Monocular Human Performance Capture Using Weak Supervision.</title>
+<pages>5051-5062</pages>
+<year>2020</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">https://openaccess.thecvf.com/content_CVPR_2020/html/Habermann_DeepCap_Monocular_Human_Performance_Capture_Using_Weak_Supervision_CVPR_2020_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR42600.2020.00510</ee>
+<crossref>conf/cvpr/2020</crossref>
+<url>db/conf/cvpr/cvpr2020.html#HabermannXZPT20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/MaYRPPTB20" mdate="2021-12-14">
+<author pid="57/8221">Qianli Ma</author>
+<author pid="78/11310">Jinlong Yang</author>
+<author pid="165/9837">Anurag Ranjan</author>
+<author pid="99/6464">Sergi Pujades</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="22/845-1">Siyu Tang 0001</author>
+<author pid="b/MichaelJBlack">Michael J. Black</author>
+<title>Learning to Dress 3D People in Generative Clothing.</title>
+<pages>6468-6477</pages>
+<year>2020</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">https://openaccess.thecvf.com/content_CVPR_2020/html/Ma_Learning_to_Dress_3D_People_in_Generative_Clothing_CVPR_2020_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR42600.2020.00650</ee>
+<crossref>conf/cvpr/2020</crossref>
+<url>db/conf/cvpr/cvpr2020.html#MaYRPPTB20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/ChibaneAP20" mdate="2021-10-14">
+<author pid="260/0133">Julian Chibane</author>
+<author orcid="0000-0002-9107-4173" pid="153/9814">Thiemo Alldieck</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>Implicit Functions in Feature Space for 3D Shape Reconstruction and Completion.</title>
+<pages>6968-6979</pages>
+<year>2020</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">https://openaccess.thecvf.com/content_CVPR_2020/html/Chibane_Implicit_Functions_in_Feature_Space_for_3D_Shape_Reconstruction_and_CVPR_2020_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR42600.2020.00700</ee>
+<crossref>conf/cvpr/2020</crossref>
+<url>db/conf/cvpr/cvpr2020.html#ChibaneAP20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/MirAP20" mdate="2021-10-14">
+<author pid="260/0109">Aymen Mir</author>
+<author orcid="0000-0002-9107-4173" pid="153/9814">Thiemo Alldieck</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>Learning to Transfer Texture From Clothing Images to 3D Humans.</title>
+<pages>7021-7032</pages>
+<year>2020</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">https://openaccess.thecvf.com/content_CVPR_2020/html/Mir_Learning_to_Transfer_Texture_From_Clothing_Images_to_3D_Humans_CVPR_2020_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR42600.2020.00705</ee>
+<crossref>conf/cvpr/2020</crossref>
+<url>db/conf/cvpr/cvpr2020.html#MirAP20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/PatelLP20" mdate="2021-08-30">
+<author pid="247/5667">Chaitanya Patel</author>
+<author pid="222/7899">Zhouyingcheng Liao</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>TailorNet: Predicting Clothing in 3D as a Function of Human Pose, Shape and Garment Style.</title>
+<pages>7363-7373</pages>
+<year>2020</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">https://openaccess.thecvf.com/content_CVPR_2020/html/Patel_TailorNet_Predicting_Clothing_in_3D_as_a_Function_of_Human_CVPR_2020_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR42600.2020.00739</ee>
+<crossref>conf/cvpr/2020</crossref>
+<url>db/conf/cvpr/cvpr2020.html#PatelLP20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/TiwariBTP20" mdate="2020-12-03">
+<author pid="172/9163">Garvita Tiwari</author>
+<author pid="204/2998">Bharat Lal Bhatnagar</author>
+<author pid="54/1097">Tony Tung</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>SIZER: A Dataset and Model for Parsing 3D Clothing and Learning Size Sensitive 3D Clothing.</title>
+<pages>1-18</pages>
+<year>2020</year>
+<booktitle>ECCV (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58580-8_1</ee>
+<crossref>conf/eccv/2020-3</crossref>
+<url>db/conf/eccv/eccv2020-3.html#TiwariBTP20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/BrazilPLS20" mdate="2020-11-03">
+<author pid="202/2306">Garrick Brazil</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="l/XiaomingLiu0002">Xiaoming Liu 0002</author>
+<author pid="s/BerntSchiele">Bernt Schiele</author>
+<title>Kinematic 3D Object Detection in Monocular Video.</title>
+<pages>135-152</pages>
+<year>2020</year>
+<booktitle>ECCV (23)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58592-1_9</ee>
+<crossref>conf/eccv/2020-23</crossref>
+<url>db/conf/eccv/eccv2020-23.html#BrazilPLS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/BhatnagarSTP20" mdate="2020-11-03">
+<author pid="204/2998">Bharat Lal Bhatnagar</author>
+<author pid="96/3826">Cristian Sminchisescu</author>
+<author pid="55/3346">Christian Theobalt</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>Combining Implicit Function Learning and Parametric Models for 3D Human Reconstruction.</title>
+<pages>311-329</pages>
+<year>2020</year>
+<booktitle>ECCV (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58536-5_19</ee>
+<crossref>conf/eccv/2020-2</crossref>
+<url>db/conf/eccv/eccv2020-2.html#BhatnagarSTP20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/ZhouBP20" mdate="2020-11-17">
+<author pid="213/7305">Keyang Zhou</author>
+<author pid="204/2998">Bharat Lal Bhatnagar</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>Unsupervised Shape and Pose Disentanglement for 3D Meshes.</title>
+<pages>341-357</pages>
+<year>2020</year>
+<booktitle>ECCV (22)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58542-6_21</ee>
+<crossref>conf/eccv/2020-22</crossref>
+<url>db/conf/eccv/eccv2020-22.html#ZhouBP20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/SattarKPF20" mdate="2021-02-01">
+<author pid="159/1925">Hosnieh Sattar</author>
+<author pid="128/4803">Katharina Krombholz</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="07/5701">Mario Fritz</author>
+<title>Body Shape Privacy in Images: Understanding Privacy and Preventing Automatic Shape Extraction.</title>
+<pages>411-428</pages>
+<year>2020</year>
+<booktitle>ECCV Workshops (5)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-68238-5_31</ee>
+<crossref>conf/eccv/2020-w5</crossref>
+<url>db/conf/eccv/eccv2020-w5.html#SattarKPF20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/DengLJPH0T20" mdate="2020-11-10">
+<author pid="203/8282">Boyang Deng</author>
+<author pid="83/6305">John P. Lewis</author>
+<author pid="173/2643">Timothy Jeruzalski</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="10/3248">Geoffrey E. Hinton</author>
+<author pid="12/7659-2">Mohammad Norouzi 0002</author>
+<author pid="46/5514">Andrea Tagliasacchi</author>
+<title>NASA Neural Articulated Shape Approximation.</title>
+<pages>612-628</pages>
+<year>2020</year>
+<booktitle>ECCV (7)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58571-6_36</ee>
+<crossref>conf/eccv/2020-7</crossref>
+<url>db/conf/eccv/eccv2020-7.html#DengLJPH0T20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/ChibaneP20" mdate="2021-01-06">
+<author pid="260/0133">Julian Chibane</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>Implicit Feature Networks for Texture Completion from Partial 3D Data.</title>
+<pages>717-725</pages>
+<year>2020</year>
+<booktitle>ECCV Workshops (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-66096-3_48</ee>
+<crossref>conf/eccv/2020-w2</crossref>
+<url>db/conf/eccv/eccv2020-w2.html#ChibaneP20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/SaintKCPCPGFAO20" mdate="2022-02-28">
+<author pid="214/9318">Alexandre Saint 0001</author>
+<author orcid="0000-0003-0640-9862" pid="116/8798">Anis Kacem 0001</author>
+<author pid="225/4715">Kseniya Cherenkova</author>
+<author pid="24/2285-2">Konstantinos Papadopoulos 0002</author>
+<author pid="260/0133">Julian Chibane</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="117/9143">Gleb Gusev</author>
+<author pid="74/4332">David Fofi</author>
+<author orcid="0000-0002-7576-2064" pid="20/7872">Djamila Aouada</author>
+<author pid="45/2903">Bj&#246;rn E. Ottersten</author>
+<title>SHARP 2020: The 1st Shape Recovery from Partial Textured 3D Scans Challenge Results.</title>
+<pages>741-755</pages>
+<year>2020</year>
+<booktitle>ECCV Workshops (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-66096-3_50</ee>
+<crossref>conf/eccv/2020-w2</crossref>
+<url>db/conf/eccv/eccv2020-w2.html#SaintKCPCPGFAO20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/BhatnagarSTP20" mdate="2023-09-30">
+<author pid="204/2998">Bharat Lal Bhatnagar</author>
+<author pid="96/3826">Cristian Sminchisescu</author>
+<author orcid="0000-0001-6104-6625" pid="55/3346">Christian Theobalt</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>LoopReg: Self-supervised Learning of Implicit Surface Correspondences, Pose and Shape for 3D Human Mesh Registration.</title>
+<year>2020</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2020/hash/970af30e481057c48f87e101b61e6994-Abstract.html</ee>
+<crossref>conf/nips/2020</crossref>
+<url>db/conf/nips/neurips2020.html#BhatnagarSTP20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/ChibaneMP20" mdate="2021-01-19">
+<author pid="260/0133">Julian Chibane</author>
+<author pid="260/0109">Aymen Mir</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>Neural Unsigned Distance Fields for Implicit Function Learning.</title>
+<year>2020</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2020/hash/f69e505b08403ad2298b9f262659929a-Abstract.html</ee>
+<crossref>conf/nips/2020</crossref>
+<url>db/conf/nips/neurips2020.html#ChibaneMP20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2003-01456" mdate="2020-03-10">
+<author pid="260/0133">Julian Chibane</author>
+<author pid="153/9814">Thiemo Alldieck</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>Implicit Functions in Feature Space for 3D Shape Reconstruction and Completion.</title>
+<year>2020</year>
+<volume>abs/2003.01456</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2003.01456</ee>
+<url>db/journals/corr/corr2003.html#abs-2003-01456</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2003-02050" mdate="2020-03-10">
+<author pid="260/0109">Aymen Mir</author>
+<author pid="153/9814">Thiemo Alldieck</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>Learning to Transfer Texture from Clothing Images to 3D Humans.</title>
+<year>2020</year>
+<volume>abs/2003.02050</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2003.02050</ee>
+<url>db/journals/corr/corr2003.html#abs-2003-02050</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2003-04583" mdate="2020-03-17">
+<author pid="247/5667">Chaitanya Patel</author>
+<author pid="222/7899">Zhouyingcheng Liao</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>TailorNet: Predicting Clothing in 3D as a Function of Human Pose, Shape and Garment Style.</title>
+<year>2020</year>
+<volume>abs/2003.04583</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2003.04583</ee>
+<url>db/journals/corr/corr2003.html#abs-2003-04583</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2003-08325" mdate="2020-03-24">
+<author pid="227/2744">Marc Habermann</author>
+<author pid="190/7431">Weipeng Xu</author>
+<author pid="52/8573">Michael Zollh&#246;fer</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="55/3346">Christian Theobalt</author>
+<title>DeepCap: Monocular Human Performance Capture Using Weak Supervision.</title>
+<year>2020</year>
+<volume>abs/2003.08325</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2003.08325</ee>
+<url>db/journals/corr/corr2003.html#abs-2003-08325</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2007-09548" mdate="2020-07-28">
+<author pid="202/2306">Garrick Brazil</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="l/XiaomingLiu0002">Xiaoming Liu 0002</author>
+<author pid="s/BerntSchiele">Bernt Schiele</author>
+<title>Kinematic 3D Object Detection in Monocular Video.</title>
+<year>2020</year>
+<volume>abs/2007.09548</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2007.09548</ee>
+<url>db/journals/corr/corr2007.html#abs-2007-09548</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2007-11341" mdate="2020-07-29">
+<author pid="213/7305">Keyang Zhou</author>
+<author pid="204/2998">Bharat Lal Bhatnagar</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>Unsupervised Shape and Pose Disentanglement for 3D Meshes.</title>
+<year>2020</year>
+<volume>abs/2007.11341</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2007.11341</ee>
+<url>db/journals/corr/corr2007.html#abs-2007-11341</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2007-11432" mdate="2020-07-29">
+<author pid="204/2998">Bharat Lal Bhatnagar</author>
+<author pid="96/3826">Cristian Sminchisescu</author>
+<author pid="55/3346">Christian Theobalt</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>Combining Implicit Function Learning and Parametric Models for 3D Human Reconstruction.</title>
+<year>2020</year>
+<volume>abs/2007.11432</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2007.11432</ee>
+<url>db/journals/corr/corr2007.html#abs-2007-11432</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2007-11610" mdate="2020-07-29">
+<author pid="172/9163">Garvita Tiwari</author>
+<author pid="204/2998">Bharat Lal Bhatnagar</author>
+<author pid="54/1097">Tony Tung</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>SIZER: A Dataset and Model for Parsing 3D Clothing and Learning Size Sensitive 3D Clothing.</title>
+<year>2020</year>
+<volume>abs/2007.11610</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2007.11610</ee>
+<url>db/journals/corr/corr2007.html#abs-2007-11610</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2009-09458" mdate="2020-09-23">
+<author pid="260/0133">Julian Chibane</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>Implicit Feature Networks for Texture Completion from Partial 3D Data.</title>
+<year>2020</year>
+<volume>abs/2009.09458</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2009.09458</ee>
+<url>db/journals/corr/corr2009.html#abs-2009-09458</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2010-12447" mdate="2020-10-27">
+<author pid="204/2998">Bharat Lal Bhatnagar</author>
+<author pid="96/3826">Cristian Sminchisescu</author>
+<author pid="55/3346">Christian Theobalt</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>LoopReg: Self-supervised Learning of Implicit Surface Correspondences, Pose and Shape for 3D Human Mesh Registration.</title>
+<year>2020</year>
+<volume>abs/2010.12447</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2010.12447</ee>
+<url>db/journals/corr/corr2010.html#abs-2010-12447</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2010-13508" mdate="2022-02-28">
+<author pid="214/9318">Alexandre Saint 0001</author>
+<author pid="116/8798">Anis Kacem 0001</author>
+<author pid="225/4715">Kseniya Cherenkova</author>
+<author pid="24/2285-2">Konstantinos Papadopoulos 0002</author>
+<author pid="260/0133">Julian Chibane</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="117/9143">Gleb Gusev</author>
+<author pid="74/4332">David Fofi</author>
+<author orcid="0000-0002-7576-2064" pid="20/7872">Djamila Aouada</author>
+<author pid="45/2903">Bj&#246;rn E. Ottersten</author>
+<title>SHARP 2020: The 1st Shape Recovery from Partial Textured 3D Scans Challenge Results.</title>
+<year>2020</year>
+<volume>abs/2010.13508</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2010.13508</ee>
+<url>db/journals/corr/corr2010.html#abs-2010-13508</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2010-13938" mdate="2020-11-02">
+<author pid="260/0133">Julian Chibane</author>
+<author pid="260/0109">Aymen Mir</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>Neural Unsigned Distance Fields for Implicit Function Learning.</title>
+<year>2020</year>
+<volume>abs/2010.13938</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2010.13938</ee>
+<url>db/journals/corr/corr2010.html#abs-2010-13938</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2011-01519" mdate="2020-11-06">
+<author pid="169/9835">Denis Tom&#232;</author>
+<author pid="153/9814">Thiemo Alldieck</author>
+<author pid="245/8900">Patrick Peluse</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="70/3697">Lourdes Agapito</author>
+<author pid="46/6186">Hern&#225;n Badino</author>
+<author pid="d/FernandoDelaTorre">Fernando De la Torre</author>
+<title>SelfPose: 3D Egocentric Pose Estimation from a Headset Mounted Camera.</title>
+<year>2020</year>
+<volume>abs/2011.01519</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2011.01519</ee>
+<url>db/journals/corr/corr2011.html#abs-2011-01519</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2011-13961" mdate="2020-12-01">
+<author pid="138/0487">Albert Pumarola</author>
+<author pid="182/5401">Enric Corona</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="44/991">Francesc Moreno-Noguer</author>
+<title>D-NeRF: Neural Radiance Fields for Dynamic Scenes.</title>
+<year>2020</year>
+<volume>abs/2011.13961</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2011.13961</ee>
+<url>db/journals/corr/corr2011.html#abs-2011-13961</url>
+</article>
+</r>
+<r><article key="journals/tog/HabermannXZPT19" mdate="2023-09-30">
+<author orcid="0000-0003-3899-7515" pid="227/2744">Marc Habermann</author>
+<author orcid="0000-0001-9548-5108" pid="190/7431">Weipeng Xu</author>
+<author pid="52/8573">Michael Zollh&#246;fer</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author orcid="0000-0001-6104-6625" pid="55/3346">Christian Theobalt</author>
+<title>LiveCap: Real-Time Human Performance Capture From Monocular Video.</title>
+<pages>14:1-14:17</pages>
+<year>2019</year>
+<volume>38</volume>
+<journal>ACM Trans. Graph.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3311970</ee>
+<url>db/journals/tog/tog38.html#HabermannXZPT19</url>
+</article>
+</r>
+<r><inproceedings key="conf/3dim/LazovaIP19" mdate="2019-11-05">
+<author pid="160/8243">Verica Lazova</author>
+<author pid="172/1246">Eldar Insafutdinov</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>360-Degree Textures of People in Clothing from a Single Image.</title>
+<pages>643-653</pages>
+<year>2019</year>
+<booktitle>3DV</booktitle>
+<ee>https://doi.org/10.1109/3DV.2019.00076</ee>
+<crossref>conf/3dim/2019</crossref>
+<url>db/conf/3dim/3dim2019.html#LazovaIP19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/AlldieckMBTP19" mdate="2023-11-12">
+<author orcid="0000-0002-9107-4173" pid="153/9814">Thiemo Alldieck</author>
+<author orcid="0000-0003-0579-480X" pid="m/MarcusAMagnor">Marcus A. Magnor</author>
+<author pid="204/2998">Bharat Lal Bhatnagar</author>
+<author orcid="0000-0001-6104-6625" pid="55/3346">Christian Theobalt</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>Learning to Reconstruct People in Clothing From a Single RGB Camera.</title>
+<pages>1175-1186</pages>
+<year>2019</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_CVPR_2019/html/Alldieck_Learning_to_Reconstruct_People_in_Clothing_From_a_Single_RGB_CVPR_2019_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR.2019.00127</ee>
+<crossref>conf/cvpr/2019</crossref>
+<url>db/conf/cvpr/cvpr2019.html#AlldieckMBTP19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/YuZZZDPL19" mdate="2023-03-21">
+<author pid="67/1014-7">Tao Yu 0007</author>
+<author orcid="0000-0003-1339-2480" pid="218/6627">Zerong Zheng</author>
+<author pid="20/8000">Yuan Zhong</author>
+<author pid="12/2484-2">Jianhui Zhao 0002</author>
+<author pid="39/4543">Qionghai Dai</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="84/1411">Yebin Liu</author>
+<title>SimulCap : Single-View Human Performance Capture With Cloth Simulation.</title>
+<pages>5504-5514</pages>
+<year>2019</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_CVPR_2019/html/Yu_SimulCap__Single-View_Human_Performance_Capture_With_Cloth_Simulation_CVPR_2019_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR.2019.00565</ee>
+<crossref>conf/cvpr/2019</crossref>
+<url>db/conf/cvpr/cvpr2019.html#YuZZZDPL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/HabibieXMPT19" mdate="2023-09-30">
+<author pid="159/5555">Ikhsanul Habibie</author>
+<author pid="190/7431">Weipeng Xu</author>
+<author pid="177/8791">Dushyant Mehta</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author orcid="0000-0001-6104-6625" pid="55/3346">Christian Theobalt</author>
+<title>In the Wild Human Pose Estimation Using Explicit 2D Features and Intermediate 3D Representations.</title>
+<pages>10905-10914</pages>
+<year>2019</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_CVPR_2019/html/Habibie_In_the_Wild_Human_Pose_Estimation_Using_Explicit_2D_Features_CVPR_2019_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR.2019.01116</ee>
+<crossref>conf/cvpr/2019</crossref>
+<url>db/conf/cvpr/cvpr2019.html#HabibieXMPT19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccv/AlldieckPTM19" mdate="2023-11-12">
+<author orcid="0000-0002-9107-4173" pid="153/9814">Thiemo Alldieck</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author orcid="0000-0001-6104-6625" pid="55/3346">Christian Theobalt</author>
+<author orcid="0000-0003-0579-480X" pid="m/MarcusAMagnor">Marcus A. Magnor</author>
+<title>Tex2Shape: Detailed Full Human Body Geometry From a Single Image.</title>
+<pages>2293-2303</pages>
+<year>2019</year>
+<booktitle>ICCV</booktitle>
+<ee>https://doi.org/10.1109/ICCV.2019.00238</ee>
+<crossref>conf/iccv/2019</crossref>
+<url>db/conf/iccv/iccv2019.html#AlldieckPTM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccv/BhatnagarTTP19" mdate="2023-09-30">
+<author pid="204/2998">Bharat Lal Bhatnagar</author>
+<author pid="172/9163">Garvita Tiwari</author>
+<author orcid="0000-0001-6104-6625" pid="55/3346">Christian Theobalt</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>Multi-Garment Net: Learning to Dress 3D People From Images.</title>
+<pages>5419-5429</pages>
+<year>2019</year>
+<booktitle>ICCV</booktitle>
+<ee>https://doi.org/10.1109/ICCV.2019.00552</ee>
+<crossref>conf/iccv/2019</crossref>
+<url>db/conf/iccv/iccv2019.html#BhatnagarTTP19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccv/MahmoodGTPB19" mdate="2020-03-05">
+<author pid="148/8727">Naureen Mahmood</author>
+<author pid="239/4212">Nima Ghorbani</author>
+<author pid="06/6143">Nikolaus F. Troje</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="b/MichaelJBlack">Michael J. Black</author>
+<title>AMASS: Archive of Motion Capture As Surface Shapes.</title>
+<pages>5441-5450</pages>
+<year>2019</year>
+<booktitle>ICCV</booktitle>
+<ee>https://doi.org/10.1109/ICCV.2019.00554</ee>
+<crossref>conf/iccv/2019</crossref>
+<url>db/conf/iccv/iccv2019.html#MahmoodGTPB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wacv/SattarPF19" mdate="2019-03-12">
+<author pid="159/1925">Hosnieh Sattar</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="07/5701">Mario Fritz</author>
+<title>Fashion Is Taking Shape: Understanding Clothing Preference Based on Body Shape From Online Sources.</title>
+<pages>968-977</pages>
+<year>2019</year>
+<booktitle>WACV</booktitle>
+<ee>https://doi.org/10.1109/WACV.2019.00108</ee>
+<crossref>conf/wacv/2019</crossref>
+<url>db/conf/wacv/wacv2019.html#SattarPF19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1903-05885" mdate="2019-03-31">
+<author pid="153/9814">Thiemo Alldieck</author>
+<author pid="m/MarcusAMagnor">Marcus A. Magnor</author>
+<author pid="204/2998">Bharat Lal Bhatnagar</author>
+<author pid="55/3346">Christian Theobalt</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>Learning to Reconstruct People in Clothing from a Single RGB Camera.</title>
+<year>2019</year>
+<volume>abs/1903.05885</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1903.05885</ee>
+<url>db/journals/corr/corr1903.html#abs-1903-05885</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1903-06323" mdate="2020-09-16">
+<author pid="67/1014-7">Tao Yu 0007</author>
+<author pid="218/6627">Zerong Zheng</author>
+<author pid="20/8000">Yuan Zhong</author>
+<author pid="12/2484">Jianhui Zhao</author>
+<author pid="39/4543">Qionghai Dai</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="84/1411">Yebin Liu</author>
+<title>SimulCap : Single-View Human Performance Capture with Cloth Simulation.</title>
+<year>2019</year>
+<volume>abs/1903.06323</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1903.06323</ee>
+<url>db/journals/corr/corr1903.html#abs-1903-06323</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1904-03278" mdate="2019-04-24">
+<author pid="148/8727">Naureen Mahmood</author>
+<author pid="239/4212">Nima Ghorbani</author>
+<author pid="06/6143">Nikolaus F. Troje</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="b/MichaelJBlack">Michael J. Black</author>
+<title>AMASS: Archive of Motion Capture as Surface Shapes.</title>
+<year>2019</year>
+<volume>abs/1904.03278</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1904.03278</ee>
+<url>db/journals/corr/corr1904.html#abs-1904-03278</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1904-03289" mdate="2019-04-24">
+<author pid="159/5555">Ikhsanul Habibie</author>
+<author pid="190/7431">Weipeng Xu</author>
+<author pid="177/8791">Dushyant Mehta</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="55/3346">Christian Theobalt</author>
+<title>In the Wild Human Pose Estimation Using Explicit 2D Features and Intermediate 3D Representations.</title>
+<year>2019</year>
+<volume>abs/1904.03289</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1904.03289</ee>
+<url>db/journals/corr/corr1904.html#abs-1904-03289</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1904-08645" mdate="2019-04-26">
+<author pid="153/9814">Thiemo Alldieck</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="55/3346">Christian Theobalt</author>
+<author pid="m/MarcusAMagnor">Marcus A. Magnor</author>
+<title>Tex2Shape: Detailed Full Human Body Geometry from a Single Image.</title>
+<year>2019</year>
+<volume>abs/1904.08645</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1904.08645</ee>
+<url>db/journals/corr/corr1904.html#abs-1904-08645</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-11503" mdate="2019-06-03">
+<author pid="159/1925">Hosnieh Sattar</author>
+<author pid="128/4803">Katharina Krombholz</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="07/5701">Mario Fritz</author>
+<title>Shape Evasion: Preventing Body Shape Inference of Multi-Stage Approaches.</title>
+<year>2019</year>
+<volume>abs/1905.11503</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.11503</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-11503</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1907-00837" mdate="2019-09-24">
+<author pid="177/8791">Dushyant Mehta</author>
+<author pid="190/7494">Oleksandr Sotnychenko</author>
+<author pid="169/4769-1">Franziska Mueller 0001</author>
+<author pid="190/7431">Weipeng Xu</author>
+<author pid="232/2002">Mohamed Elgharib</author>
+<author pid="f/PFua">Pascal Fua</author>
+<author pid="s/HansPeterSeidel">Hans-Peter Seidel</author>
+<author pid="130/1812">Helge Rhodin</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="55/3346">Christian Theobalt</author>
+<title>XNect: Real-time Multi-person 3D Human Pose Estimation with a Single RGB Camera.</title>
+<year>2019</year>
+<volume>abs/1907.00837</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1907.00837</ee>
+<url>db/journals/corr/corr1907.html#abs-1907-00837</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1907-13615" mdate="2021-12-14">
+<author pid="57/8221">Qianli Ma</author>
+<author pid="22/845-1">Siyu Tang 0001</author>
+<author pid="99/6464">Sergi Pujades</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="165/9837">Anurag Ranjan</author>
+<author pid="b/MichaelJBlack">Michael J. Black</author>
+<title>Dressing 3D Humans using a Conditional Mesh-VAE-GAN.</title>
+<year>2019</year>
+<volume>abs/1907.13615</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1907.13615</ee>
+<url>db/journals/corr/corr1907.html#abs-1907-13615</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1908-06903" mdate="2019-08-26">
+<author pid="204/2998">Bharat Lal Bhatnagar</author>
+<author pid="172/9163">Garvita Tiwari</author>
+<author pid="55/3346">Christian Theobalt</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>Multi-Garment Net: Learning to Dress 3D People from Images.</title>
+<year>2019</year>
+<volume>abs/1908.06903</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1908.06903</ee>
+<url>db/journals/corr/corr1908.html#abs-1908-06903</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1908-07117" mdate="2019-08-26">
+<author pid="160/8243">Verica Lazova</author>
+<author pid="172/1246">Eldar Insafutdinov</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>360-Degree Textures of People in Clothing from a Single Image.</title>
+<year>2019</year>
+<volume>abs/1908.07117</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1908.07117</ee>
+<url>db/journals/corr/corr1908.html#abs-1908-07117</url>
+</article>
+</r>
+<r><article key="journals/tog/HuangKABHP18" mdate="2022-06-10">
+<author pid="48/7457">Yinghao Huang</author>
+<author pid="158/2987">Manuel Kaufmann</author>
+<author pid="152/9962">Emre Aksan</author>
+<author pid="b/MichaelJBlack">Michael J. Black</author>
+<author pid="82/2289">Otmar Hilliges</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>Deep inertial poser: learning to reconstruct human pose from sparse inertial measurements in real time.</title>
+<pages>185</pages>
+<year>2018</year>
+<volume>37</volume>
+<journal>ACM Trans. Graph.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1145/3272127.3275108</ee>
+<url>db/journals/tog/tog37.html#HuangKABHP18</url>
+</article>
+</r>
+<r><inproceedings key="conf/3dim/AlldieckMXTP18" mdate="2023-11-12">
+<author orcid="0000-0002-9107-4173" pid="153/9814">Thiemo Alldieck</author>
+<author orcid="0000-0003-0579-480X" pid="m/MarcusAMagnor">Marcus A. Magnor</author>
+<author pid="190/7431">Weipeng Xu</author>
+<author orcid="0000-0001-6104-6625" pid="55/3346">Christian Theobalt</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>Detailed Human Avatars from Monocular Video.</title>
+<pages>98-109</pages>
+<year>2018</year>
+<booktitle>3DV</booktitle>
+<ee>https://doi.org/10.1109/3DV.2018.00022</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/3DV.2018.00022</ee>
+<crossref>conf/3dim/2018</crossref>
+<url>db/conf/3dim/3dv2018.html#AlldieckMXTP18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/3dim/MehtaSMX0PT18" mdate="2023-09-30">
+<author pid="177/8791">Dushyant Mehta</author>
+<author pid="190/7494">Oleksandr Sotnychenko</author>
+<author pid="169/4769-1">Franziska Mueller 0001</author>
+<author pid="190/7431">Weipeng Xu</author>
+<author pid="78/1463-2">Srinath Sridhar 0002</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author orcid="0000-0001-6104-6625" pid="55/3346">Christian Theobalt</author>
+<title>Single-Shot Multi-person 3D Pose Estimation from Monocular RGB.</title>
+<pages>120-130</pages>
+<year>2018</year>
+<booktitle>3DV</booktitle>
+<ee>https://doi.org/10.1109/3DV.2018.00024</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/3DV.2018.00024</ee>
+<crossref>conf/3dim/2018</crossref>
+<url>db/conf/3dim/3dv2018.html#MehtaSMX0PT18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/3dim/OmranLPGS18" mdate="2023-09-30">
+<author pid="154/6713">Mohamed Omran</author>
+<author pid="144/3202">Christoph Lassner</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="78/1502">Peter V. Gehler</author>
+<author orcid="0000-0001-9683-5237" pid="s/BerntSchiele">Bernt Schiele</author>
+<title>Neural Body Fitting: Unifying Deep Learning and Model Based Human Pose and Shape Estimation.</title>
+<pages>484-494</pages>
+<year>2018</year>
+<booktitle>3DV</booktitle>
+<ee>https://doi.org/10.1109/3DV.2018.00062</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/3DV.2018.00062</ee>
+<crossref>conf/3dim/2018</crossref>
+<url>db/conf/3dim/3dv2018.html#OmranLPGS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/YuZGZDLPL18" mdate="2023-09-30">
+<author pid="67/1014-7">Tao Yu 0007</author>
+<author pid="218/6627">Zerong Zheng</author>
+<author pid="176/1428">Kaiwen Guo</author>
+<author pid="12/2484-2">Jianhui Zhao 0002</author>
+<author pid="39/4543">Qionghai Dai</author>
+<author orcid="0000-0002-4019-3420" pid="17/5705-15">Hao Li 0015</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="84/1411">Yebin Liu</author>
+<title>DoubleFusion: Real-Time Capture of Human Performances With Inner Body Shapes From a Single Depth Sensor.</title>
+<pages>7287-7296</pages>
+<year>2018</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_cvpr_2018/html/Yu_DoubleFusion_Real-Time_Capture_CVPR_2018_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR.2018.00761</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CVPR.2018.00761</ee>
+<crossref>conf/cvpr/2018</crossref>
+<url>db/conf/cvpr/cvpr2018.html#YuZGZDLPL18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/AlldieckMXTP18" mdate="2023-11-12">
+<author orcid="0000-0002-9107-4173" pid="153/9814">Thiemo Alldieck</author>
+<author orcid="0000-0003-0579-480X" pid="m/MarcusAMagnor">Marcus A. Magnor</author>
+<author pid="190/7431">Weipeng Xu</author>
+<author orcid="0000-0001-6104-6625" pid="55/3346">Christian Theobalt</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>Video Based Reconstruction of 3D People Models.</title>
+<pages>8387-8397</pages>
+<year>2018</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_cvpr_2018/html/Alldieck_Video_Based_Reconstruction_CVPR_2018_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR.2018.00875</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CVPR.2018.00875</ee>
+<crossref>conf/cvpr/2018</crossref>
+<url>db/conf/cvpr/cvpr2018.html#AlldieckMXTP18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dagm/HabermannXRZPT18" mdate="2019-02-27">
+<author orcid="0000-0003-3899-7515" pid="227/2744">Marc Habermann</author>
+<author orcid="0000-0001-9548-5108" pid="190/7431">Weipeng Xu</author>
+<author orcid="0000-0003-2692-0801" pid="130/1812">Helge Rhodin</author>
+<author orcid="0000-0003-1219-0625" pid="52/8573">Michael Zollh&#246;fer</author>
+<author orcid="0000-0001-5115-7794" pid="66/8652">Gerard Pons-Moll</author>
+<author orcid="0000-0001-6104-6625" pid="55/3346">Christian Theobalt</author>
+<title>NRST: Non-rigid Surface Tracking from Monocular Video.</title>
+<pages>335-348</pages>
+<year>2018</year>
+<booktitle>GCPR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-12939-2_23</ee>
+<crossref>conf/dagm/2018</crossref>
+<url>db/conf/dagm/gcpr2018.html#HabermannXRZPT18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/MarcardHBRP18" mdate="2018-10-08">
+<author pid="182/7921">Timo von Marcard</author>
+<author pid="152/5024">Roberto Henschel</author>
+<author pid="b/MichaelJBlack">Michael J. Black</author>
+<author pid="09/2973">Bodo Rosenhahn</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>Recovering Accurate 3D Human Pose in the Wild Using IMUs and a Moving Camera.</title>
+<pages>614-631</pages>
+<year>2018</year>
+<booktitle>ECCV (10)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-01249-6_37</ee>
+<crossref>conf/eccv/2018-10</crossref>
+<url>db/conf/eccv/eccv2018-10.html#MarcardHBRP18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1803-04758" mdate="2018-08-13">
+<author pid="153/9814">Thiemo Alldieck</author>
+<author pid="m/MarcusAMagnor">Marcus A. Magnor</author>
+<author pid="190/7431">Weipeng Xu</author>
+<author pid="55/3346">Christian Theobalt</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>Video Based Reconstruction of 3D People Models.</title>
+<year>2018</year>
+<volume>abs/1803.04758</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1803.04758</ee>
+<url>db/journals/corr/corr1803.html#abs-1803-04758</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1804-06023" mdate="2022-05-02">
+<author pid="67/1014-7">Tao Yu 0007</author>
+<author pid="218/6627">Zerong Zheng</author>
+<author pid="176/1428">Kaiwen Guo</author>
+<author pid="12/2484-2">Jianhui Zhao 0002</author>
+<author pid="39/4543">Qionghai Dai</author>
+<author pid="17/5705">Hao Li</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="84/1411">Yebin Liu</author>
+<title>DoubleFusion: Real-time Capture of Human Performances with Inner Body Shapes from a Single Depth Sensor.</title>
+<year>2018</year>
+<volume>abs/1804.06023</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1804.06023</ee>
+<url>db/journals/corr/corr1804.html#abs-1804-06023</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1807-03235" mdate="2018-08-13">
+<author pid="159/1925">Hosnieh Sattar</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="07/5701">Mario Fritz</author>
+<title>Fashion is Taking Shape: Understanding Clothing Preference Based on Body Shape From Online Sources.</title>
+<year>2018</year>
+<volume>abs/1807.03235</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1807.03235</ee>
+<url>db/journals/corr/corr1807.html#abs-1807-03235</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1808-01338" mdate="2018-09-02">
+<author pid="153/9814">Thiemo Alldieck</author>
+<author pid="m/MarcusAMagnor">Marcus A. Magnor</author>
+<author pid="190/7431">Weipeng Xu</author>
+<author pid="55/3346">Christian Theobalt</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>Detailed Human Avatars from Monocular Video.</title>
+<year>2018</year>
+<volume>abs/1808.01338</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1808.01338</ee>
+<url>db/journals/corr/corr1808.html#abs-1808-01338</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1808-05942" mdate="2018-09-02">
+<author pid="154/6713">Mohamed Omran</author>
+<author pid="144/3202">Christoph Lassner</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="78/1502">Peter V. Gehler</author>
+<author pid="s/BerntSchiele">Bernt Schiele</author>
+<title>Neural Body Fitting: Unifying Deep Learning and Model-Based Human Pose and Shape Estimation.</title>
+<year>2018</year>
+<volume>abs/1808.05942</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1808.05942</ee>
+<url>db/journals/corr/corr1808.html#abs-1808-05942</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1810-02648" mdate="2018-10-30">
+<author pid="227/2744">Marc Habermann</author>
+<author pid="190/7431">Weipeng Xu</author>
+<author pid="52/8573">Michael Zollh&#246;fer</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="55/3346">Christian Theobalt</author>
+<title>ReTiCaM: Real-time Human Performance Capture from Monocular Video.</title>
+<year>2018</year>
+<volume>abs/1810.02648</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1810.02648</ee>
+<url>db/journals/corr/corr1810.html#abs-1810-02648</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1810-04703" mdate="2018-10-30">
+<author pid="48/7457">Yinghao Huang</author>
+<author pid="158/2987">Manuel Kaufmann</author>
+<author pid="152/9962">Emre Aksan</author>
+<author pid="b/MichaelJBlack">Michael J. Black</author>
+<author pid="82/2289">Otmar Hilliges</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>Deep Inertial Poser: Learning to Reconstruct Human Pose from Sparse Inertial Measurements in Real Time.</title>
+<year>2018</year>
+<volume>abs/1810.04703</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1810.04703</ee>
+<url>db/journals/corr/corr1810.html#abs-1810-04703</url>
+</article>
+</r>
+<r><article key="journals/cgf/MarcardRBP17" mdate="2017-06-16">
+<author pid="182/7921">Timo von Marcard</author>
+<author pid="09/2973">Bodo Rosenhahn</author>
+<author pid="b/MichaelJBlack">Michael J. Black</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>Sparse Inertial Poser: Automatic 3D Human Pose Estimation from Sparse IMUs.</title>
+<pages>349-360</pages>
+<year>2017</year>
+<volume>36</volume>
+<journal>Comput. Graph. Forum</journal>
+<number>2</number>
+<ee>https://doi.org/10.1111/cgf.13131</ee>
+<url>db/journals/cgf/cgf36.html#MarcardRBP17</url>
+</article>
+</r>
+<r><article key="journals/tog/KimPPBKBL17" mdate="2018-11-06">
+<author pid="63/7199">Meekyoung Kim</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="99/6464">Sergi Pujades</author>
+<author pid="165/9833">Seungbae Bang</author>
+<author pid="19/615">Jinwook Kim</author>
+<author pid="b/MichaelJBlack">Michael J. Black</author>
+<author orcid="0000-0001-6604-4709" pid="74/1889">Sung-Hee Lee</author>
+<title>Data-driven physics for human soft tissue animation.</title>
+<pages>54:1-54:12</pages>
+<year>2017</year>
+<volume>36</volume>
+<journal>ACM Trans. Graph.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3072959.3073685</ee>
+<url>db/journals/tog/tog36.html#KimPPBKBL17</url>
+</article>
+</r>
+<r><article key="journals/tog/Pons-MollPHB17" mdate="2018-11-06">
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="99/6464">Sergi Pujades</author>
+<author pid="204/0033">Sonny Hu</author>
+<author pid="b/MichaelJBlack">Michael J. Black</author>
+<title>ClothCap: seamless 4D clothing capture and retargeting.</title>
+<pages>73:1-73:15</pages>
+<year>2017</year>
+<volume>36</volume>
+<journal>ACM Trans. Graph.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3072959.3073711</ee>
+<url>db/journals/tog/tog36.html#Pons-MollPHB17</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/ZhangPBP17" mdate="2023-03-24">
+<author pid="94/3019">Chao Zhang</author>
+<author pid="99/6464">Sergi Pujades</author>
+<author pid="b/MichaelJBlack">Michael J. Black</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>Detailed, Accurate, Human Shape Estimation from Clothed 3D Scan Sequences.</title>
+<pages>5484-5493</pages>
+<year>2017</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2017.582</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CVPR.2017.582</ee>
+<crossref>conf/cvpr/2017</crossref>
+<url>db/conf/cvpr/cvpr2017.html#ZhangPBP17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/Bogo0PB17" mdate="2023-03-24">
+<author pid="132/2146">Federica Bogo</author>
+<author pid="16/5949-2">Javier Romero 0002</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="b/MichaelJBlack">Michael J. Black</author>
+<title>Dynamic FAUST: Registering Human Bodies in Motion.</title>
+<pages>5573-5582</pages>
+<year>2017</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2017.591</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CVPR.2017.591</ee>
+<crossref>conf/cvpr/2017</crossref>
+<url>db/conf/cvpr/cvpr2017.html#Bogo0PB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccv/LassnerPG17" mdate="2023-03-23">
+<author pid="144/3202">Christoph Lassner</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="78/1502">Peter V. Gehler</author>
+<title>A Generative Model of People in Clothing.</title>
+<pages>853-862</pages>
+<year>2017</year>
+<booktitle>ICCV</booktitle>
+<ee>https://doi.org/10.1109/ICCV.2017.98</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICCV.2017.98</ee>
+<crossref>conf/iccv/2017</crossref>
+<url>db/conf/iccv/iccv2017.html#LassnerPG17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/ZhangPBP17" mdate="2018-08-13">
+<author pid="94/3019">Chao Zhang</author>
+<author pid="99/6464">Sergi Pujades</author>
+<author pid="b/MichaelJBlack">Michael J. Black</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>Detailed, accurate, human shape estimation from clothed 3D scan sequences.</title>
+<year>2017</year>
+<volume>abs/1703.04454</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1703.04454</ee>
+<url>db/journals/corr/corr1703.html#ZhangPBP17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/MarcardRBP17" mdate="2018-08-13">
+<author pid="182/7921">Timo von Marcard</author>
+<author pid="09/2973">Bodo Rosenhahn</author>
+<author pid="b/MichaelJBlack">Michael J. Black</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>Sparse Inertial Poser: Automatic 3D Human Pose Estimation from Sparse IMUs.</title>
+<year>2017</year>
+<volume>abs/1703.08014</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1703.08014</ee>
+<url>db/journals/corr/corr1703.html#MarcardRBP17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/LassnerPG17" mdate="2018-08-13">
+<author pid="144/3202">Christoph Lassner</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="78/1502">Peter V. Gehler</author>
+<title>A Generative Model of People in Clothing.</title>
+<year>2017</year>
+<volume>abs/1705.04098</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1705.04098</ee>
+<url>db/journals/corr/corr1705.html#LassnerPG17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1712-03453" mdate="2019-09-24">
+<author pid="177/8791">Dushyant Mehta</author>
+<author pid="190/7494">Oleksandr Sotnychenko</author>
+<author pid="169/4769-1">Franziska Mueller 0001</author>
+<author pid="190/7431">Weipeng Xu</author>
+<author pid="78/1463-2">Srinath Sridhar 0002</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="55/3346">Christian Theobalt</author>
+<title>Single-Shot Multi-Person 3D Body Pose Estimation From Monocular RGB Input.</title>
+<year>2017</year>
+<volume>abs/1712.03453</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1712.03453</ee>
+<url>db/journals/corr/corr1712.html#abs-1712-03453</url>
+</article>
+</r>
+<r><article key="journals/pami/MarcardPR16" mdate="2018-11-14">
+<author pid="182/7921">Timo von Marcard</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="09/2973">Bodo Rosenhahn</author>
+<title>Human Pose Estimation from Video and IMUs.</title>
+<pages>1533-1547</pages>
+<year>2016</year>
+<volume>38</volume>
+<journal>IEEE Trans. Pattern Anal. Mach. Intell.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1109/TPAMI.2016.2522398</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TPAMI.2016.2522398</ee>
+<ee>https://www.wikidata.org/entity/Q39005293</ee>
+<url>db/journals/pami/pami38.html#MarcardPR16</url>
+</article>
+</r>
+<r><inproceedings key="conf/siggraph/No16" mdate="2018-11-06">
+<author pid="b/MichaelJBlack">Michael J. Black</author>
+<author pid="16/5949-2">Javier Romero 0002</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="132/2146">Federica Bogo</author>
+<author pid="148/8727">Naureen Mahmood</author>
+<title>Learning human body shapes in motion.</title>
+<pages>17:1-17:411</pages>
+<year>2016</year>
+<booktitle>SIGGRAPH Courses</booktitle>
+<ee>https://doi.org/10.1145/2897826.2927326</ee>
+<crossref>conf/siggraph/2016courses</crossref>
+<url>db/conf/siggraph/siggraph2016courses.html#No16</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/de/Pons-Moll15" mdate="2021-07-17">
+<author pid="66/8652">Gerard Pons-Moll</author>
+<title>Human pose estimation from video and inertial sensors.</title>
+<year>2015</year>
+<pages>1-140</pages>
+<school>University of Hanover</school>
+<ee>https://d-nb.info/107256873X</ee>
+</phdthesis>
+</r>
+<r><article key="journals/ijcv/Pons-MollTSHF15" mdate="2020-10-22">
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="68/6729-1">Jonathan Taylor 0001</author>
+<author pid="47/572">Jamie Shotton</author>
+<author orcid="0000-0001-9667-0292" pid="91/3132">Aaron Hertzmann</author>
+<author pid="f/AndrewWFitzgibbon">Andrew W. Fitzgibbon</author>
+<title>Metric Regression Forests for Correspondence Estimation.</title>
+<pages>163-175</pages>
+<year>2015</year>
+<volume>113</volume>
+<journal>Int. J. Comput. Vis.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s11263-015-0818-9</ee>
+<url>db/journals/ijcv/ijcv113.html#Pons-MollTSHF15</url>
+</article>
+</r>
+<r><article key="journals/tog/Pons-Moll0MB15" mdate="2019-10-19">
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="16/5949-2">Javier Romero 0002</author>
+<author orcid="0000-0001-6285-785X" pid="148/8727">Naureen Mahmood</author>
+<author pid="b/MichaelJBlack">Michael J. Black</author>
+<title>Dyna: a model of dynamic human shape in motion.</title>
+<pages>120:1-120:14</pages>
+<year>2015</year>
+<volume>34</volume>
+<journal>ACM Trans. Graph.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/2766993</ee>
+<url>db/journals/tog/tog34.html#Pons-Moll0MB15</url>
+</article>
+</r>
+<r><article key="journals/tog/LoperM0PB15" mdate="2019-10-19">
+<author pid="56/6429">Matthew Loper</author>
+<author orcid="0000-0001-6285-785X" pid="148/8727">Naureen Mahmood</author>
+<author pid="16/5949-2">Javier Romero 0002</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author orcid="0000-0001-6077-4540" pid="b/MichaelJBlack">Michael J. Black</author>
+<title>SMPL: a skinned multi-person linear model.</title>
+<pages>248:1-248:16</pages>
+<year>2015</year>
+<volume>34</volume>
+<journal>ACM Trans. Graph.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1145/2816795.2818013</ee>
+<ee>https://www.wikidata.org/entity/Q60150266</ee>
+<url>db/journals/tog/tog34.html#LoperM0PB15</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/Pons-MollFR14" mdate="2023-03-24">
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author orcid="0000-0003-0734-7114" pid="07/2099">David J. Fleet</author>
+<author pid="09/2973">Bodo Rosenhahn</author>
+<title>Posebits for Monocular Human Pose Estimation.</title>
+<pages>2345-2352</pages>
+<year>2014</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2014.300</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CVPR.2014.300</ee>
+<crossref>conf/cvpr/2014</crossref>
+<url>db/conf/cvpr/cvpr2014.html#Pons-MollFR14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bmvc/Pons-MollTSHF13" mdate="2021-02-03">
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="68/6729-1">Jonathan Taylor 0001</author>
+<author pid="47/572">Jamie Shotton</author>
+<author orcid="0000-0001-9667-0292" pid="91/3132">Aaron Hertzmann</author>
+<author pid="f/AndrewWFitzgibbon">Andrew W. Fitzgibbon</author>
+<title>Metric Regression Forests for Human Pose Estimation.</title>
+<year>2013</year>
+<booktitle>BMVC</booktitle>
+<ee type="oa">https://doi.org/10.5244/C.27.4</ee>
+<crossref>conf/bmvc/2013</crossref>
+<url>db/conf/bmvc/bmvc2013.html#Pons-MollTSHF13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/Leal-TaixePR12" mdate="2023-03-24">
+<author pid="47/8483">Laura Leal-Taix&#233;</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="09/2973">Bodo Rosenhahn</author>
+<title>Branch-and-price global optimization for multi-view multi-target tracking.</title>
+<pages>1987-1994</pages>
+<year>2012</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2012.6247901</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CVPR.2012.6247901</ee>
+<crossref>conf/cvpr/2012</crossref>
+<url>db/conf/cvpr/cvpr2012.html#Leal-TaixePR12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dagm/KuznetsovaPR12" mdate="2017-05-21">
+<author pid="117/5897">Alina Kuznetsova</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="09/2973">Bodo Rosenhahn</author>
+<title>PCA-Enhanced Stochastic Optimization Methods.</title>
+<pages>377-386</pages>
+<year>2012</year>
+<booktitle>DAGM/OAGM Symposium</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-32717-9_38</ee>
+<crossref>conf/dagm/2012</crossref>
+<url>db/conf/dagm/dagm2012.html#KuznetsovaPR12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dagm/Pons-MollLTR11" mdate="2017-05-21">
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="47/8483">Laura Leal-Taix&#233;</author>
+<author pid="91/10067">Tri Truong</author>
+<author pid="09/2973">Bodo Rosenhahn</author>
+<title>Efficient and Robust Shape Matching for Model Based Human Motion Capture.</title>
+<pages>416-425</pages>
+<year>2011</year>
+<booktitle>DAGM-Symposium</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-23123-0_42</ee>
+<crossref>conf/dagm/2011</crossref>
+<url>db/conf/dagm/dagm2011.html#Pons-MollLTR11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccv/Pons-MollBGLMSR11" mdate="2023-03-23">
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="15/6039">Andreas Baak</author>
+<author pid="13/6920">Juergen Gall</author>
+<author pid="47/8483">Laura Leal-Taix&#233;</author>
+<author orcid="0000-0001-6062-7524" pid="01/1071">Meinard M&#252;ller</author>
+<author pid="s/HansPeterSeidel">Hans-Peter Seidel</author>
+<author pid="09/2973">Bodo Rosenhahn</author>
+<title>Outdoor human motion capture using inverse kinematics and von mises-fisher sampling.</title>
+<pages>1243-1250</pages>
+<year>2011</year>
+<booktitle>ICCV</booktitle>
+<ee>https://doi.org/10.1109/ICCV.2011.6126375</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICCV.2011.6126375</ee>
+<crossref>conf/iccv/2011</crossref>
+<url>db/conf/iccv/iccv2011.html#Pons-MollBGLMSR11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccvw/Leal-TaixePR11" mdate="2023-03-24">
+<author pid="47/8483">Laura Leal-Taix&#233;</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="09/2973">Bodo Rosenhahn</author>
+<title>Everybody needs somebody: Modeling social and grouping behavior on a linear programming multiple people tracker.</title>
+<pages>120-127</pages>
+<year>2011</year>
+<booktitle>ICCV Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICCVW.2011.6130233</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICCVW.2011.6130233</ee>
+<crossref>conf/iccvw/2011</crossref>
+<url>db/conf/iccvw/iccvw2011.html#Leal-TaixePR11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tfcv/Leal-TaixePR11" mdate="2017-05-19">
+<author pid="47/8483">Laura Leal-Taix&#233;</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="09/2973">Bodo Rosenhahn</author>
+<title>Exploiting Pedestrian Interaction via Global Optimization and Social Behaviors.</title>
+<pages>1-26</pages>
+<year>2011</year>
+<booktitle>Theoretical Foundations of Computer Vision</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-34091-8_1</ee>
+<crossref>conf/tfcv/2011</crossref>
+<url>db/conf/tfcv/tfcv2011.html#Leal-TaixePR11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tfcv/Pons-MollLGR11" mdate="2017-05-19">
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="47/8483">Laura Leal-Taix&#233;</author>
+<author pid="13/6920">Juergen Gall</author>
+<author pid="09/2973">Bodo Rosenhahn</author>
+<title>Data-Driven Manifolds for Outdoor Motion Capture.</title>
+<pages>305-328</pages>
+<year>2011</year>
+<booktitle>Theoretical Foundations of Computer Vision</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-34091-8_14</ee>
+<crossref>conf/tfcv/2011</crossref>
+<url>db/conf/tfcv/tfcv2011.html#Pons-MollLGR11</url>
+</inproceedings>
+</r>
+<r><incollection key="books/daglib/p/Pons-MollR11" mdate="2017-05-16">
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="09/2973">Bodo Rosenhahn</author>
+<title>Model-Based Pose Estimation.</title>
+<pages>139-170</pages>
+<year>2011</year>
+<booktitle>Visual Analysis of Humans</booktitle>
+<ee>https://doi.org/10.1007/978-0-85729-997-0_9</ee>
+<crossref>books/daglib/0028268</crossref>
+<url>db/books/daglib/0028268.html#Pons-MollR11</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/cvpr/Pons-MollBHMSR10" mdate="2023-03-24">
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="15/6039">Andreas Baak</author>
+<author pid="70/8653">Thomas Helten</author>
+<author orcid="0000-0001-6062-7524" pid="01/1071">Meinard M&#252;ller</author>
+<author pid="s/HansPeterSeidel">Hans-Peter Seidel</author>
+<author pid="09/2973">Bodo Rosenhahn</author>
+<title>Multisensor-fusion for 3D full-body human motion capture.</title>
+<pages>663-670</pages>
+<year>2010</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2010.5540153</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CVPR.2010.5540153</ee>
+<crossref>conf/cvpr/2010</crossref>
+<url>db/conf/cvpr/cvpr2010.html#Pons-MollBHMSR10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/BaakHMPRS10" mdate="2023-07-27">
+<author pid="15/6039">Andreas Baak</author>
+<author pid="70/8653">Thomas Helten</author>
+<author orcid="0000-0001-6062-7524" pid="01/1071">Meinard M&#252;ller</author>
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="09/2973">Bodo Rosenhahn</author>
+<author pid="s/HansPeterSeidel">Hans-Peter Seidel</author>
+<title>Analyzing and Evaluating Markerless Motion Tracking Using Inertial Sensors.</title>
+<pages>139-152</pages>
+<year>2010</year>
+<booktitle>ECCV Workshops (1)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-35749-7_11</ee>
+<crossref>conf/eccv/2010w1</crossref>
+<url>db/conf/eccv/eccv2010w1.html#BaakHMPRS10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wacv/Pons-MollR09" mdate="2017-05-19">
+<author pid="66/8652">Gerard Pons-Moll</author>
+<author pid="09/2973">Bodo Rosenhahn</author>
+<title>Ball joints for Marker-less human Motion Capture.</title>
+<pages>1-8</pages>
+<year>2009</year>
+<booktitle>WACV</booktitle>
+<ee>https://doi.org/10.1109/WACV.2009.5403056</ee>
+<crossref>conf/wacv/2009</crossref>
+<url>db/conf/wacv/wacv2009.html#Pons-MollR09</url>
+</inproceedings>
+</r>
+<coauthors n="133" nc="1">
+<co c="0"><na f="a/Agapito:Lourdes" pid="70/3697">Lourdes Agapito</na></co>
+<co c="0"><na f="a/Akata:Zeynep" pid="117/4838">Zeynep Akata</na></co>
+<co c="0"><na f="a/Aksan:Emre" pid="152/9962">Emre Aksan</na></co>
+<co c="0"><na f="a/Aleny=agrave=:Guillem" pid="50/377">Guillem Aleny&#224;</na></co>
+<co c="0"><na f="a/Alldieck:Thiemo" pid="153/9814">Thiemo Alldieck</na></co>
+<co c="0"><na f="a/Antic:Dimitrije" pid="316/9873">Dimitrije Antic</na></co>
+<co c="0"><na f="a/Aouada:Djamila" pid="20/7872">Djamila Aouada</na></co>
+<co c="0"><na f="b/Baak:Andreas" pid="15/6039">Andreas Baak</na></co>
+<co c="0"><na f="b/Badino:Hern=aacute=n" pid="46/6186">Hern&#225;n Badino</na></co>
+<co c="0"><na f="b/Bang:Seungbae" pid="165/9833">Seungbae Bang</na></co>
+<co c="0"><na f="b/Bansal:Aayush" pid="148/7044">Aayush Bansal</na></co>
+<co c="0"><na f="b/Bhatnagar:Bharat_Lal" pid="204/2998">Bharat Lal Bhatnagar</na></co>
+<co c="0"><na f="b/Black:Michael_J=" pid="b/MichaelJBlack">Michael J. Black</na></co>
+<co c="0"><na f="b/Bogo:Federica" pid="132/2146">Federica Bogo</na></co>
+<co c="0"><na f="b/Brazil:Garrick" pid="202/2306">Garrick Brazil</na></co>
+<co c="0"><na f="c/Cherenkova:Kseniya" pid="225/4715">Kseniya Cherenkova</na></co>
+<co c="0"><na f="c/Chibane:Julian" pid="260/0133">Julian Chibane</na></co>
+<co c="0"><na f="c/Corona:Enric" pid="182/5401">Enric Corona</na></co>
+<co c="0"><na f="d/Dai:Qionghai" pid="39/4543">Qionghai Dai</na></co>
+<co c="0"><na f="d/Deng:Boyang" pid="203/8282">Boyang Deng</na></co>
+<co c="0"><na f="e/Elgharib:Mohamed" pid="232/2002">Mohamed Elgharib</na></co>
+<co c="0"><na f="e/Engelmann:Francis" pid="181/4077">Francis Engelmann</na></co>
+<co c="0"><na f="f/Fitzgibbon:Andrew_W=" pid="f/AndrewWFitzgibbon">Andrew W. Fitzgibbon</na></co>
+<co c="0"><na f="f/Fleet:David_J=" pid="07/2099">David J. Fleet</na></co>
+<co c="0"><na f="f/Fofi:David" pid="74/4332">David Fofi</na></co>
+<co c="0"><na f="f/Fritz:Mario" pid="07/5701">Mario Fritz</na></co>
+<co c="0"><na f="f/Fua:Pascal" pid="f/PFua">Pascal Fua</na></co>
+<co c="0"><na f="g/Gall:Juergen" pid="13/6920">Juergen Gall</na></co>
+<co c="0"><na f="g/Gehler:Peter_V=" pid="78/1502">Peter V. Gehler</na></co>
+<co c="0"><na f="g/Ghorbani:Nima" pid="239/4212">Nima Ghorbani</na></co>
+<co c="0"><na f="g/Guo:Kaiwen" pid="176/1428">Kaiwen Guo</na></co>
+<co c="0"><na f="g/Gusev:Gleb" pid="117/9143">Gleb Gusev</na></co>
+<co c="0"><na f="g/Guzov:Vladimir" pid="289/0612">Vladimir Guzov</na></co>
+<co c="0"><na f="h/Habermann:Marc" pid="227/2744">Marc Habermann</na></co>
+<co c="0"><na f="h/Habibie:Ikhsanul" pid="159/5555">Ikhsanul Habibie</na></co>
+<co c="0"><na f="h/Helten:Thomas" pid="70/8653">Thomas Helten</na></co>
+<co c="0"><na f="h/Henschel:Roberto" pid="152/5024">Roberto Henschel</na></co>
+<co c="0"><na f="h/Hertzmann:Aaron" pid="91/3132">Aaron Hertzmann</na></co>
+<co c="0"><na f="h/Hilliges:Otmar" pid="82/2289">Otmar Hilliges</na></co>
+<co c="0"><na f="h/Hinton:Geoffrey_E=" pid="10/3248">Geoffrey E. Hinton</na></co>
+<co c="0"><na f="h/Hu:Sonny" pid="204/0033">Sonny Hu</na></co>
+<co c="0"><na f="h/Huang:Yinghao" pid="48/7457">Yinghao Huang</na></co>
+<co c="0"><na f="i/Insafutdinov:Eldar" pid="172/1246">Eldar Insafutdinov</na></co>
+<co c="0"><na f="j/Jeruzalski:Timothy" pid="173/2643">Timothy Jeruzalski</na></co>
+<co c="0"><na f="k/Kabadayi:Berna" pid="361/7074">Berna Kabadayi</na></co>
+<co c="0"><na f="k/Kacem_0001:Anis" pid="116/8798">Anis Kacem 0001</na></co>
+<co c="0"><na f="k/Kanazawa:Angjoo" pid="119/1305">Angjoo Kanazawa</na></co>
+<co c="0"><na f="k/Kaufmann:Manuel" pid="158/2987">Manuel Kaufmann</na></co>
+<co c="0"><na f="k/Kim:Jinwook" pid="19/615">Jinwook Kim</na></co>
+<co c="0"><na f="k/Kim:Meekyoung" pid="63/7199">Meekyoung Kim</na></co>
+<co c="0"><na f="k/Krombholz:Katharina" pid="128/4803">Katharina Krombholz</na></co>
+<co c="0"><na f="k/Kuznetsova:Alina" pid="117/5897">Alina Kuznetsova</na></co>
+<co c="0"><na f="l/Lassner:Christoph" pid="144/3202">Christoph Lassner</na></co>
+<co c="0"><na f="l/Lazova:Verica" pid="160/8243">Verica Lazova</na></co>
+<co c="0"><na f="l/Leal=Taix=eacute=:Laura" pid="47/8483">Laura Leal-Taix&#233;</na></co>
+<co c="0"><na f="l/Lee:Sung=Hee" pid="74/1889">Sung-Hee Lee</na></co>
+<co c="0"><na f="l/Lenssen:Jan_Eric" pid="195/9868">Jan Eric Lenssen</na></co>
+<co c="0"><na f="l/Lewis:John_P=" pid="83/6305">John P. Lewis</na></co>
+<co c="0"><na f="l/Li:Hao" pid="17/5705">Hao Li</na></co>
+<co c="0"><na f="l/Li_0015:Hao" pid="17/5705-15">Hao Li 0015</na></co>
+<co c="0"><na f="l/Liao:Zhouyingcheng" pid="222/7899">Zhouyingcheng Liao</na></co>
+<co c="0"><na f="l/Liu:Lingjie" pid="204/0052">Lingjie Liu</na></co>
+<co c="0"><na f="l/Liu_0002:Xiaoming" pid="l/XiaomingLiu0002">Xiaoming Liu 0002</na></co>
+<co c="0"><na f="l/Liu:Yebin" pid="84/1411">Yebin Liu</na></co>
+<co c="0"><na f="l/Loper:Matthew" pid="56/6429">Matthew Loper</na></co>
+<co c="0"><na f="m/Ma:Qianli" pid="57/8221">Qianli Ma</na></co>
+<co c="0"><na f="m/Magnor:Marcus_A=" pid="m/MarcusAMagnor">Marcus A. Magnor</na></co>
+<co c="0"><na f="m/Mahmood:Naureen" pid="148/8727">Naureen Mahmood</na></co>
+<co c="0"><na f="m/Marcard:Timo_von" pid="182/7921">Timo von Marcard</na></co>
+<co c="0"><na f="m/Marin:Riccardo" pid="223/9863">Riccardo Marin</na></co>
+<co c="0"><na f="m/Mehta:Dushyant" pid="177/8791">Dushyant Mehta</na></co>
+<co c="0"><na f="m/Mir:Aymen" pid="260/0109">Aymen Mir</na></co>
+<co c="0"><na f="m/Moreno=Noguer:Francesc" pid="44/991">Francesc Moreno-Noguer</na></co>
+<co c="0"><na f="m/Mueller_0001:Franziska" pid="169/4769-1">Franziska Mueller 0001</na></co>
+<co c="0"><na f="m/M=uuml=ller:Meinard" pid="01/1071">Meinard M&#252;ller</na></co>
+<co c="0"><na f="n/Norouzi_0002:Mohammad" pid="12/7659-2">Mohammad Norouzi 0002</na></co>
+<co c="0"><na f="o/Olszewski:Kyle" pid="165/9717">Kyle Olszewski</na></co>
+<co c="0"><na f="o/Omran:Mohamed" pid="154/6713">Mohamed Omran</na></co>
+<co c="0"><na f="o/Ottersten:Bj=ouml=rn_E=" pid="45/2903">Bj&#246;rn E. Ottersten</na></co>
+<co c="0"><na f="p/Papadopoulos_0002:Konstantinos" pid="24/2285-2">Konstantinos Papadopoulos 0002</na></co>
+<co c="0"><na f="p/Patel:Chaitanya" pid="247/5667">Chaitanya Patel</na></co>
+<co c="0"><na f="p/Peluse:Patrick" pid="245/8900">Patrick Peluse</na></co>
+<co c="0" n="2"><na f="p/Petrov_0001:Ilia_A=" pid="131/3876">Ilia A. Petrov 0001</na><na>Ilya A. Petrov 0001</na></co>
+<co c="0"><na f="p/Puig:Xavier" pid="50/8429">Xavier Puig</na></co>
+<co c="0"><na f="p/Pujades:Sergi" pid="99/6464">Sergi Pujades</na></co>
+<co c="0"><na f="p/Pumarola:Albert" pid="138/0487">Albert Pumarola</na></co>
+<co c="0"><na f="r/Ranjan:Anurag" pid="165/9837">Anurag Ranjan</na></co>
+<co c="0"><na f="r/Rhodin:Helge" pid="130/1812">Helge Rhodin</na></co>
+<co c="0"><na f="r/Romero_0002:Javier" pid="16/5949-2">Javier Romero 0002</na></co>
+<co c="0"><na f="r/Rosenhahn:Bodo" pid="09/2973">Bodo Rosenhahn</na></co>
+<co c="0"><na f="s/Saint_0001:Alexandre" pid="214/9318">Alexandre Saint 0001</na></co>
+<co c="0"><na f="s/Saito:Jun" pid="62/5972">Jun Saito</na></co>
+<co c="0"><na f="s/Sarafianos:Nikolaos" pid="169/3215">Nikolaos Sarafianos</na></co>
+<co c="0"><na f="s/Sattar:Hosnieh" pid="159/1925">Hosnieh Sattar</na></co>
+<co c="0"><na f="s/Sattler:Torsten" pid="51/9054">Torsten Sattler</na></co>
+<co c="0"><na f="s/Schiele:Bernt" pid="s/BerntSchiele">Bernt Schiele</na></co>
+<co c="0"><na f="s/Seidel:Hans=Peter" pid="s/HansPeterSeidel">Hans-Peter Seidel</na></co>
+<co c="0"><na f="s/Shotton:Jamie" pid="47/572">Jamie Shotton</na></co>
+<co c="0"><na f="s/Sminchisescu:Cristian" pid="96/3826">Cristian Sminchisescu</na></co>
+<co c="0"><na f="s/Sotnychenko:Oleksandr" pid="190/7494">Oleksandr Sotnychenko</na></co>
+<co c="0"><na f="s/Sridhar_0002:Srinath" pid="78/1463-2">Srinath Sridhar 0002</na></co>
+<co c="0"><na f="s/Starke:Sebastian" pid="178/7616">Sebastian Starke</na></co>
+<co c="0"><na f="t/Tagliasacchi:Andrea" pid="46/5514">Andrea Tagliasacchi</na></co>
+<co c="0"><na f="t/Tang_0001:Siyu" pid="22/845-1">Siyu Tang 0001</na></co>
+<co c="0"><na f="t/Taylor_0001:Jonathan" pid="68/6729-1">Jonathan Taylor 0001</na></co>
+<co c="0"><na f="t/Theobalt:Christian" pid="55/3346">Christian Theobalt</na></co>
+<co c="0"><na f="t/Thies:Justus" pid="145/9981">Justus Thies</na></co>
+<co c="0"><na f="t/Tiwari:Garvita" pid="172/9163">Garvita Tiwari</na></co>
+<co c="0"><na f="t/Tom=egrave=:Denis" pid="169/9835">Denis Tom&#232;</na></co>
+<co c="0"><na f="t/Torre:Fernando_De_la" pid="d/FernandoDelaTorre">Fernando De la Torre</na></co>
+<co c="0"><na f="t/Tran_0006:Tuan_Anh" pid="322/0527">Tuan Anh Tran 0006</na></co>
+<co c="0"><na f="t/Troje:Nikolaus_F=" pid="06/6143">Nikolaus F. Troje</na></co>
+<co c="0"><na f="t/Truong:Tri" pid="91/10067">Tri Truong</na></co>
+<co c="0"><na f="t/Tulyakov:Sergey" pid="40/6115">Sergey Tulyakov</na></co>
+<co c="0"><na f="t/Tung:Tony" pid="54/1097">Tony Tung</na></co>
+<co c="0"><na f="x/Xian:Yongqin" pid="177/9313">Yongqin Xian</na></co>
+<co c="0"><na f="x/Xie:Xianghui" pid="27/6971">Xianghui Xie</na></co>
+<co c="0"><na f="x/Xu:Weipeng" pid="190/7431">Weipeng Xu</na></co>
+<co c="0"><na f="x/Xu:Yuanlu" pid="126/4435">Yuanlu Xu</na></co>
+<co c="0"><na f="x/Xue:Yuxuan" pid="254/6994">Yuxuan Xue</na></co>
+<co c="0"><na f="y/Yang:Jimei" pid="73/3039">Jimei Yang</na></co>
+<co c="0"><na f="y/Yang:Jinlong" pid="78/11310">Jinlong Yang</na></co>
+<co c="0"><na f="y/Yu_0007:Tao" pid="67/1014-7">Tao Yu 0007</na></co>
+<co c="0"><na f="z/Zhang:Chao" pid="94/3019">Chao Zhang</na></co>
+<co c="0"><na f="z/Zhang:Xiaohan" pid="96/6053">Xiaohan Zhang</na></co>
+<co c="0"><na f="z/Zhao:Jianhui" pid="12/2484">Jianhui Zhao</na></co>
+<co c="0"><na f="z/Zhao_0002:Jianhui" pid="12/2484-2">Jianhui Zhao 0002</na></co>
+<co c="0"><na f="z/Zheng:Zerong" pid="218/6627">Zerong Zheng</na></co>
+<co c="0"><na f="z/Zhong:Yuan" pid="20/8000">Yuan Zhong</na></co>
+<co c="0"><na f="z/Zhou:Keyang" pid="213/7305">Keyang Zhou</na></co>
+<co c="0"><na f="z/Zhou_0009:Yang" pid="07/4580-9">Yang Zhou 0009</na></co>
+<co c="0"><na f="z/Zielonka:Wojciech" pid="84/6152">Wojciech Zielonka</na></co>
+<co c="0"><na f="z/Zollh=ouml=fer:Michael" pid="52/8573">Michael Zollh&#246;fer</na></co>
+</coauthors>
+</dblpperson>
+

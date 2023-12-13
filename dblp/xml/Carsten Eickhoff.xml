@@ -1,0 +1,2397 @@
+<?xml version="1.0"?>
+<dblpperson name="Carsten Eickhoff" pid="42/8700" n="155">
+<person key="homepages/42/8700" mdate="2023-09-26">
+<author pid="42/8700">Carsten Eickhoff</author>
+<url>https://orcid.org/0000-0001-9895-4061</url>
+<url>https://www.wikidata.org/entity/Q58150922</url>
+<url>https://orkg.org/resource/R109165</url>
+</person>
+<r><inproceedings key="conf/acl/BlinovaZJEB23" mdate="2023-08-10">
+<author pid="351/5269">Sofia Blinova</author>
+<author pid="27/3481">Xinyu Zhou</author>
+<author pid="17/4402">Martin Jaggi</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<author pid="54/8382">Seyed Ali Bahrainian</author>
+<title>SIMSUM: Document-level Text Simplification via Simultaneous Summarization.</title>
+<pages>9927-9944</pages>
+<year>2023</year>
+<booktitle>ACL (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2023.acl-long.552</ee>
+<ee type="oa">https://aclanthology.org/2023.acl-long.552</ee>
+<crossref>conf/acl/2023-1</crossref>
+<url>db/conf/acl/acl2023-1.html#BlinovaZJEB23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/HeussCMRE23" mdate="2023-10-27">
+<author orcid="0000-0001-5360-9627" pid="309/7337">Maria Heuss</author>
+<author orcid="0000-0002-2724-8247" pid="85/2738">Daniel Cohen</author>
+<author orcid="0000-0002-9938-0212" pid="183/7693">Masoud Mansoury</author>
+<author orcid="0000-0002-1086-0202" pid="r/MdRijke">Maarten de Rijke</author>
+<author orcid="0000-0001-9895-4061" pid="42/8700">Carsten Eickhoff</author>
+<title>Predictive Uncertainty-based Bias Mitigation in Ranking.</title>
+<pages>762-772</pages>
+<year>2023</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/3583780.3615011</ee>
+<crossref>conf/cikm/2023</crossref>
+<url>db/conf/cikm/cikm2023.html#HeussCMRE23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eacl/KumarLZCESR23" mdate="2023-10-05">
+<author orcid="0000-0002-4828-8328" pid="66/3984">Deepak Kumar</author>
+<author pid="287/9927">Oleg Lesota</author>
+<author pid="232/1820">George Zerveas</author>
+<author pid="85/2738">Daniel Cohen</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<author pid="77/271">Markus Schedl</author>
+<author pid="150/5089">Navid Rekabsaz</author>
+<title>Parameter-efficient Modularised Bias Mitigation via AdapterFusion.</title>
+<pages>2730-2743</pages>
+<year>2023</year>
+<booktitle>EACL</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2023.eacl-main.201</ee>
+<ee type="oa">https://aclanthology.org/2023.eacl-main.201</ee>
+<crossref>conf/eacl/2023</crossref>
+<url>db/conf/eacl/eacl2023.html#KumarLZCESR23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/ZerveasRE23" mdate="2023-12-11">
+<author pid="232/1820">George Zerveas</author>
+<author pid="150/5089">Navid Rekabsaz</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>Enhancing the Ranking Context of Dense Retrieval through Reciprocal Nearest Neighbors.</title>
+<pages>10779-10803</pages>
+<year>2023</year>
+<booktitle>EMNLP</booktitle>
+<ee>https://aclanthology.org/2023.emnlp-main.665</ee>
+<crossref>conf/emnlp/2023</crossref>
+<url>db/conf/emnlp/emnlp2023.html#ZerveasRE23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/RudmanCE23" mdate="2023-12-11">
+<author pid="299/8116">William Rudman</author>
+<author pid="05/5358">Catherine Chen</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>Outlier Dimensions Encode Task Specific Knowledge.</title>
+<pages>14596-14605</pages>
+<year>2023</year>
+<booktitle>EMNLP</booktitle>
+<ee>https://aclanthology.org/2023.emnlp-main.901</ee>
+<crossref>conf/emnlp/2023</crossref>
+<url>db/conf/emnlp/emnlp2023.html#RudmanCE23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclr/MerulloCEP23" mdate="2023-06-30">
+<author pid="248/8361">Jack Merullo</author>
+<author pid="208/4745">Louis Castricato</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<author pid="141/4059">Ellie Pavlick</author>
+<title>Linearly Mapping from Image to Text Space.</title>
+<year>2023</year>
+<booktitle>ICLR</booktitle>
+<ee type="oa">https://openreview.net/pdf?id=8tYRqb05pVn</ee>
+<crossref>conf/iclr/2023</crossref>
+<url>db/conf/iclr/iclr2023.html#MerulloCEP23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2301-03470" mdate="2023-01-10">
+<author pid="198/8530">Ilkay Yildiz Potter</author>
+<author pid="232/1820">George Zerveas</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<author pid="198/4076">Dominique Duncan</author>
+<title>Unsupervised Multivariate Time-Series Transformers for Seizure Identification on EEG.</title>
+<year>2023</year>
+<volume>abs/2301.03470</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2301.03470</ee>
+<url>db/journals/corr/corr2301.html#abs-2301-03470</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2302-06321" mdate="2023-02-20">
+<author pid="66/3984">Deepak Kumar</author>
+<author pid="287/9927">Oleg Lesota</author>
+<author pid="232/1820">George Zerveas</author>
+<author pid="85/2738">Daniel Cohen</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<author pid="77/271">Markus Schedl</author>
+<author pid="150/5089">Navid Rekabsaz</author>
+<title>Parameter-efficient Modularised Bias Mitigation via AdapterFusion.</title>
+<year>2023</year>
+<volume>abs/2302.06321</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2302.06321</ee>
+<url>db/journals/corr/corr2302.html#abs-2302-06321</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2303-04092" mdate="2023-03-15">
+<author pid="144/1524">Ruochen Zhang</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>CroCoSum: A Benchmark Dataset for Cross-Lingual Code-Switched Summarization.</title>
+<year>2023</year>
+<volume>abs/2303.04092</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2303.04092</ee>
+<url>db/journals/corr/corr2303.html#abs-2303-04092</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2305-15222" mdate="2023-06-06">
+<author pid="199/3285">Koyena Pal</author>
+<author pid="54/8382">Seyed Ali Bahrainian</author>
+<author pid="232/8275">Laura Mercurio</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>Neural Summarization of Electronic Health Records.</title>
+<year>2023</year>
+<volume>abs/2305.15222</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2305.15222</ee>
+<url>db/journals/corr/corr2305.html#abs-2305-15222</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2305-15720" mdate="2023-06-06">
+<author pid="232/1820">George Zerveas</author>
+<author pid="150/5089">Navid Rekabsaz</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>Enhancing the Ranking Context of Dense Retrieval Methods through Reciprocal Nearest Neighbors.</title>
+<year>2023</year>
+<volume>abs/2305.15720</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2305.15720</ee>
+<url>db/journals/corr/corr2305.html#abs-2305-15720</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2305-16130" mdate="2023-06-07">
+<author pid="248/8361">Jack Merullo</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<author pid="141/4059">Ellie Pavlick</author>
+<title>Language Models Implement Simple Word2Vec-style Vector Arithmetic.</title>
+<year>2023</year>
+<volume>abs/2305.16130</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2305.16130</ee>
+<url>db/journals/corr/corr2305.html#abs-2305-16130</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2305-19358" mdate="2023-06-07">
+<author pid="299/8116">William Rudman</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>Stable Anisotropic Regularization.</title>
+<year>2023</year>
+<volume>abs/2305.19358</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2305.19358</ee>
+<url>db/journals/corr/corr2305.html#abs-2305-19358</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2306-10175" mdate="2023-08-06">
+<author orcid="0009-0009-8734-436X" pid="05/5358">Catherine Chen</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>SSE: A Metric for Evaluating Search System Explainability.</title>
+<year>2023</year>
+<volume>abs/2306.10175</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2306.10175</ee>
+<url>db/journals/corr/corr2306.html#abs-2306-10175</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2307-05435" mdate="2023-07-24">
+<author pid="322/7058">Michal Golovanevsky</author>
+<author pid="352/2869">Eva Schiller</author>
+<author pid="352/2606">Akira Nair</author>
+<author pid="180/5813">Ritambhara Singh</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>One-Versus-Others Attention: Scalable Multimodal Integration.</title>
+<year>2023</year>
+<volume>abs/2307.05435</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2307.05435</ee>
+<url>db/journals/corr/corr2307.html#abs-2307-05435</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2309-09833" mdate="2023-09-22">
+<author pid="309/7337">Maria Heuss</author>
+<author pid="85/2738">Daniel Cohen</author>
+<author pid="183/7693">Masoud Mansoury</author>
+<author pid="r/MdRijke">Maarten de Rijke</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>Predictive Uncertainty-based Bias Mitigation in Ranking.</title>
+<year>2023</year>
+<volume>abs/2309.09833</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2309.09833</ee>
+<url>db/journals/corr/corr2309.html#abs-2309-09833</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2310-08037" mdate="2023-10-24">
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>Impact Factors for Computer Science Conferences.</title>
+<year>2023</year>
+<volume>abs/2310.08037</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2310.08037</ee>
+<url>db/journals/corr/corr2310.html#abs-2310-08037</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2310-08744" mdate="2023-10-25">
+<author pid="248/8361">Jack Merullo</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<author pid="141/4059">Ellie Pavlick</author>
+<title>Circuit Component Reuse Across Tasks in Transformer Language Models.</title>
+<year>2023</year>
+<volume>abs/2310.08744</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2310.08744</ee>
+<url>db/journals/corr/corr2310.html#abs-2310-08744</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2310-17715" mdate="2023-11-02">
+<author pid="299/8116">William Rudman</author>
+<author pid="05/5358">Catherine Chen</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>Outlier Dimensions Encode Task-Specific Knowledge.</title>
+<year>2023</year>
+<volume>abs/2310.17715</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2310.17715</ee>
+<url>db/journals/corr/corr2310.html#abs-2310-17715</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2311-06724" mdate="2023-11-15">
+<author pid="54/8382">Seyed Ali Bahrainian</author>
+<author pid="17/4402">Martin Jaggi</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>Controllable Topic-Focused Abstractive Summarization.</title>
+<year>2023</year>
+<volume>abs/2311.06724</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2311.06724</ee>
+<url>db/journals/corr/corr2311.html#abs-2311-06724</url>
+</article>
+</r>
+<r><article key="journals/jamia/GolovanevskyES22" mdate="2023-01-02">
+<author pid="322/7058">Michal Golovanevsky</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<author pid="180/5813">Ritambhara Singh</author>
+<title>Multimodal attention-based deep learning for Alzheimer's disease diagnosis.</title>
+<pages>2014-2022</pages>
+<year>2022</year>
+<volume>29</volume>
+<journal>J. Am. Medical Informatics Assoc.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1093/jamia/ocac168</ee>
+<url>db/journals/jamia/jamia29.html#GolovanevskyES22</url>
+</article>
+</r>
+<r><article key="journals/npjdm/KimCJWWYHETLWSH22" mdate="2023-09-08">
+<author orcid="0000-0002-6146-3581" pid="259/8851">Chris K. Kim</author>
+<author pid="343/7709">Ji Whae Choi</author>
+<author pid="180/5168">Zhicheng Jiao</author>
+<author pid="37/6085">Dongcui Wang</author>
+<author pid="88/3604">Jing Wu</author>
+<author pid="343/7665">Thomas Y. Yi</author>
+<author pid="343/7769">Kasey C. Halsey</author>
+<author orcid="0000-0003-1417-7096" pid="343/7978">Feyisope Eweje</author>
+<author orcid="0000-0002-8126-1258" pid="343/7710">Thi My Linh Tran</author>
+<author pid="52/5716">Chang Liu</author>
+<author orcid="0000-0001-7369-0602" pid="220/8219">Robin Wang</author>
+<author pid="343/7968">John Sollee</author>
+<author pid="309/0643">Celina Hsieh</author>
+<author pid="42/10254">Ken Chang</author>
+<author pid="343/8174">Fang-Xue Yang</author>
+<author pid="180/5813">Ritambhara Singh</author>
+<author pid="343/8022">Jie-Lin Ou</author>
+<author pid="318/9388">Raymond Y. Huang</author>
+<author pid="91/1593">Cai Feng</author>
+<author pid="85/1391">Michael D. Feldman</author>
+<author pid="43/656">Tao Liu</author>
+<author pid="343/8137">Ji Sheng Gong</author>
+<author pid="343/8058">Shaolei Lu</author>
+<author orcid="0000-0001-9895-4061" pid="42/8700">Carsten Eickhoff</author>
+<author pid="01/5235">Xue Feng</author>
+<author pid="238/2692">Ihab Kamel</author>
+<author pid="186/9183">Ronnie Sebro</author>
+<author pid="340/7046">Michael Atalay</author>
+<author pid="343/8116">Terrance Healey</author>
+<author orcid="0000-0001-9869-4685" pid="00/5170-1">Yong Fan 0001</author>
+<author pid="309/0869">Wei-hua Liao</author>
+<author orcid="0000-0003-1516-0480" pid="75/2669-1">Jianxin Wang 0001</author>
+<author orcid="0000-0002-7460-8866" pid="318/0459">Harrison Bai</author>
+<title>An automated COVID-19 triage pipeline using artificial intelligence based on chest radiographs and clinical data.</title>
+<year>2022</year>
+<volume>5</volume>
+<journal>npj Digit. Medicine</journal>
+<ee>https://doi.org/10.1038/s41746-021-00546-w</ee>
+<ee>https://www.wikidata.org/entity/Q112682995</ee>
+<url>db/journals/npjdm/npjdm5.html#KimCJWWYHETLWSH22</url>
+</article>
+</r>
+<r><article key="journals/tois/BahrainianZCE22" mdate="2022-12-07">
+<author pid="54/8382">Seyed Ali Bahrainian</author>
+<author pid="232/1820">George Zerveas</author>
+<author orcid="0000-0001-8672-0700" pid="c/FabioCrestani">Fabio Crestani</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>CATS: Customizable Abstractive Topic-based Summarization.</title>
+<pages>5:1-5:24</pages>
+<year>2022</year>
+<volume>40</volume>
+<journal>ACM Trans. Inf. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3464299</ee>
+<url>db/journals/tois/tois40.html#BahrainianZCE22</url>
+</article>
+</r>
+<r><inproceedings key="conf/acl/BahrainianFE22" mdate="2022-08-01">
+<author pid="54/8382">Seyed Ali Bahrainian</author>
+<author pid="306/1619">Sheridan Feucht</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>NEWTS: A Corpus for News Topic-Focused Summarization.</title>
+<pages>493-503</pages>
+<year>2022</year>
+<booktitle>ACL (Findings)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2022.findings-acl.42</ee>
+<ee type="oa">https://aclanthology.org/2022.findings-acl.42</ee>
+<crossref>conf/acl/2022f</crossref>
+<url>db/conf/acl/acl2022f.html#BahrainianFE22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/RudmanGRE22" mdate="2022-08-01">
+<author pid="299/8116">William Rudman</author>
+<author pid="299/8280">Nate Gillman</author>
+<author pid="299/8497">Taylor Rayne</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>IsoScore: Measuring the Uniformity of Embedding Space Utilization.</title>
+<pages>3325-3339</pages>
+<year>2022</year>
+<booktitle>ACL (Findings)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2022.findings-acl.262</ee>
+<ee type="oa">https://aclanthology.org/2022.findings-acl.262</ee>
+<crossref>conf/acl/2022f</crossref>
+<url>db/conf/acl/acl2022f.html#RudmanGRE22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/amia/Garcia-AgundezE22" mdate="2023-02-08">
+<author pid="182/5201">Augusto Garcia-Agundez</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>When BERT Fails - The Limits of EHR Classification.</title>
+<year>2022</year>
+<booktitle>AMIA</booktitle>
+<ee>https://knowledge.amia.org/76677-amia-1.4637602/f008-1.4640715/f008-1.4640716/1097-1.4641737/683-1.4641734</ee>
+<crossref>conf/amia/2022</crossref>
+<url>db/conf/amia/amia2022.html#Garcia-AgundezE22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/blackboxnlp/JurayjRE22" mdate="2023-08-10">
+<author pid="321/1018">William Jurayj</author>
+<author pid="299/8116">William Rudman</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>Garden Path Traversal in GPT-2.</title>
+<pages>305-313</pages>
+<year>2022</year>
+<booktitle>BlackboxNLP@EMNLP</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2022.blackboxnlp-1.25</ee>
+<ee type="oa">https://aclanthology.org/2022.blackboxnlp-1.25</ee>
+<crossref>conf/blackboxnlp/2022</crossref>
+<url>db/conf/blackboxnlp/blackboxnlp2022.html#JurayjRE22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cinc/RudmanMME22" mdate="2023-04-18">
+<author pid="299/8116">William Rudman</author>
+<author pid="248/8361">Jack Merullo</author>
+<author pid="232/8275">Laura Mercurio</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>ACQuA: Anomaly Classification with Quasi-Attractors.</title>
+<pages>1-4</pages>
+<year>2022</year>
+<booktitle>CinC</booktitle>
+<ee>https://doi.org/10.22489/CinC.2022.201</ee>
+<crossref>conf/cinc/2022</crossref>
+<url>db/conf/cinc/cinc2022.html#RudmanMME22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/ZerveasRCE22" mdate="2023-08-10">
+<author pid="232/1820">George Zerveas</author>
+<author pid="150/5089">Navid Rekabsaz</author>
+<author pid="85/2738">Daniel Cohen</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>CODER: An efficient framework for improving retrieval through COntextual Document Embedding Reranking.</title>
+<pages>10626-10644</pages>
+<year>2022</year>
+<booktitle>EMNLP</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2022.emnlp-main.727</ee>
+<ee type="oa">https://aclanthology.org/2022.emnlp-main.727</ee>
+<crossref>conf/emnlp/2022</crossref>
+<url>db/conf/emnlp/emnlp2022.html#ZerveasRCE22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmla/PotterZED22" mdate="2023-03-29">
+<author pid="198/8530">Ilkay Yildiz Potter</author>
+<author pid="232/1820">George Zerveas</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<author pid="198/4076">Dominique Duncan</author>
+<title>Unsupervised Multivariate Time-Series Transformers for Seizure Identification on EEG.</title>
+<pages>1304-1311</pages>
+<year>2022</year>
+<booktitle>ICMLA</booktitle>
+<ee>https://doi.org/10.1109/ICMLA55696.2022.00208</ee>
+<crossref>conf/icmla/2022</crossref>
+<url>db/conf/icmla/icmla2022.html#PotterZED22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/ZerveasRCE22" mdate="2022-07-08">
+<author pid="232/1820">George Zerveas</author>
+<author pid="150/5089">Navid Rekabsaz</author>
+<author pid="85/2738">Daniel Cohen</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>Mitigating Bias in Search Results Through Contextual Document Reranking and Neutrality Regularization.</title>
+<pages>2532-2538</pages>
+<year>2022</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/3477495.3531891</ee>
+<crossref>conf/sigir/2022</crossref>
+<url>db/conf/sigir/sigir2022.html#ZerveasRCE22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/CohenD0MRE22" mdate="2022-07-08">
+<author pid="85/2738">Daniel Cohen</author>
+<author pid="323/9669">Kevin Du</author>
+<author pid="147/9120-1">Bhaskar Mitra 0001</author>
+<author pid="232/8275">Laura Mercurio</author>
+<author pid="150/5089">Navid Rekabsaz</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>Inconsistent Ranking Assumptions in Medical Search and Their Downstream Consequences.</title>
+<pages>2572-2577</pages>
+<year>2022</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/3477495.3531898</ee>
+<crossref>conf/sigir/2022</crossref>
+<url>db/conf/sigir/sigir2022.html#CohenD0MRE22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/starsem/MerulloEEP22" mdate="2022-09-26">
+<author pid="248/8361">Jack Merullo</author>
+<author pid="169/3346">Dylan Ebert</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<author pid="141/4059">Ellie Pavlick</author>
+<title>Pretraining on Interactions for Learning Grounded Affordance Representations.</title>
+<pages>258-277</pages>
+<year>2022</year>
+<booktitle>*SEM@NAACL-HLT</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2022.starsem-1.23</ee>
+<crossref>conf/starsem/2022</crossref>
+<url>db/conf/starsem/starsem2022.html#MerulloEEP22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2205-01873" mdate="2022-05-05">
+<author pid="231/0912">Yuanfei Dai</author>
+<author pid="10/2272">Wenzhong Guo</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>Wasserstein Adversarial Learning based Temporal Knowledge Graph Embedding.</title>
+<year>2022</year>
+<volume>abs/2205.01873</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2205.01873</ee>
+<url>db/journals/corr/corr2205.html#abs-2205-01873</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2205-12302" mdate="2022-05-30">
+<author pid="321/1018">William Jurayj</author>
+<author pid="299/8116">William Rudman</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>Garden-Path Traversal within GPT-2.</title>
+<year>2022</year>
+<volume>abs/2205.12302</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2205.12302</ee>
+<url>db/journals/corr/corr2205.html#abs-2205-12302</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2205-15661" mdate="2022-06-01">
+<author pid="54/8382">Seyed Ali Bahrainian</author>
+<author pid="306/1619">Sheridan Feucht</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>NEWTS: A Corpus for News Topic-Focused Summarization.</title>
+<year>2022</year>
+<volume>abs/2205.15661</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2205.15661</ee>
+<url>db/journals/corr/corr2205.html#abs-2205-15661</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2206-08826" mdate="2022-06-22">
+<author pid="322/7058">Michal Golovanevsky</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<author pid="180/5813">Ritambhara Singh</author>
+<title>Multimodal Attention-based Deep Learning for Alzheimer's Disease Diagnosis.</title>
+<year>2022</year>
+<volume>abs/2206.08826</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2206.08826</ee>
+<url>db/journals/corr/corr2206.html#abs-2206-08826</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2207-02272" mdate="2022-07-13">
+<author pid="248/8361">Jack Merullo</author>
+<author pid="169/3346">Dylan Ebert</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<author pid="141/4059">Ellie Pavlick</author>
+<title>Pretraining on Interactions for Learning Grounded Affordance Representations.</title>
+<year>2022</year>
+<volume>abs/2207.02272</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2207.02272</ee>
+<url>db/journals/corr/corr2207.html#abs-2207-02272</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2208-10245" mdate="2022-08-29">
+<author pid="182/5201">Augusto Garcia-Agundez</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>When BERT Fails - The Limits of EHR Classification.</title>
+<year>2022</year>
+<volume>abs/2208.10245</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2208.10245</ee>
+<url>db/journals/corr/corr2208.html#abs-2208-10245</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2209-15162" mdate="2022-10-06">
+<author pid="248/8361">Jack Merullo</author>
+<author pid="208/4745">Louis Castricato</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<author pid="141/4059">Ellie Pavlick</author>
+<title>Linearly Mapping from Image to Text Space.</title>
+<year>2022</year>
+<volume>abs/2209.15162</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2209.15162</ee>
+<url>db/journals/corr/corr2209.html#abs-2209-15162</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2210-09430" mdate="2023-08-06">
+<author orcid="0009-0009-8734-436X" pid="05/5358">Catherine Chen</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>Evaluating Search Explainability with Psychometrics and Crowdsourcing.</title>
+<year>2022</year>
+<volume>abs/2210.09430</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2210.09430</ee>
+<url>db/journals/corr/corr2210.html#abs-2210-09430</url>
+</article>
+</r>
+<r><article key="journals/bib/DaiGGE21" mdate="2022-09-26">
+<author pid="231/0912">Yuanfei Dai</author>
+<author pid="234/4626">Chenhao Guo</author>
+<author pid="10/2272">Wenzhong Guo</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>Drug-drug interaction prediction with Wasserstein Adversarial Autoencoder-based knowledge graph embeddings.</title>
+<year>2021</year>
+<volume>22</volume>
+<journal>Briefings Bioinform.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1093/bib/bbaa256</ee>
+<ee>https://www.wikidata.org/entity/Q101128381</ee>
+<ee>https://orkg.org/resource/R109037</ee>
+<url>db/journals/bib/bib22.html#DaiGGE21</url>
+</article>
+</r>
+<r><inproceedings key="conf/emnlp/BahrainianJE21" mdate="2022-01-20">
+<author pid="54/8382">Seyed Ali Bahrainian</author>
+<author pid="17/4402">Martin Jaggi</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>Self-Supervised Neural Topic Modeling.</title>
+<pages>3341-3350</pages>
+<year>2021</year>
+<booktitle>EMNLP (Findings)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2021.findings-emnlp.284</ee>
+<ee type="oa">https://aclanthology.org/2021.findings-emnlp.284</ee>
+<crossref>conf/emnlp/2021f</crossref>
+<url>db/conf/emnlp/emnlp2021f.html#BahrainianJE21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ictir/LesotaRCGES21" mdate="2021-09-10">
+<author pid="287/9927">Oleg Lesota</author>
+<author pid="150/5089">Navid Rekabsaz</author>
+<author pid="85/2738">Daniel Cohen</author>
+<author pid="295/9693">Klaus Antonius Grasserbauer</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<author pid="77/271">Markus Schedl</author>
+<title>A Modern Perspective on Query Likelihood with Deep Generative Retrieval Models.</title>
+<pages>185-195</pages>
+<year>2021</year>
+<booktitle>ICTIR</booktitle>
+<ee>https://doi.org/10.1145/3471158.3472229</ee>
+<crossref>conf/ictir/2021</crossref>
+<url>db/conf/ictir/ictir2021.html#LesotaRCGES21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/ZerveasJPBE21" mdate="2021-11-15">
+<author pid="232/1820">George Zerveas</author>
+<author pid="276/0265">Srideepika Jayaraman</author>
+<author pid="28/1282-2">Dhaval Patel 0002</author>
+<author pid="08/6630">Anuradha Bhamidipaty</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>A Transformer-based Framework for Multivariate Time Series Representation Learning.</title>
+<pages>2114-2124</pages>
+<year>2021</year>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/3447548.3467401</ee>
+<crossref>conf/kdd/2021</crossref>
+<url>db/conf/kdd/kdd2021.html#ZerveasJPBE21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/naacl/ZhangE21" mdate="2021-08-06">
+<author pid="144/1524">Ruochen Zhang</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>SOCCER: An Information-Sparse Discourse State Tracking Collection in the Sports Commentary Domain.</title>
+<pages>4325-4333</pages>
+<year>2021</year>
+<booktitle>NAACL-HLT</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2021.naacl-main.342</ee>
+<ee type="oa">https://aclanthology.org/2021.naacl-main.342/</ee>
+<crossref>conf/naacl/2021</crossref>
+<url>db/conf/naacl/naacl2021.html#ZhangE21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/CohenMLRE21" mdate="2022-04-28">
+<author pid="85/2738">Daniel Cohen</author>
+<author pid="147/9120-1">Bhaskar Mitra 0001</author>
+<author pid="287/9927">Oleg Lesota</author>
+<author pid="150/5089">Navid Rekabsaz</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>Not All Relevance Scores are Equal: Efficient Uncertainty and Calibration Modeling for Deep Retrieval Models.</title>
+<pages>654-664</pages>
+<year>2021</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/3404835.3462951</ee>
+<crossref>conf/sigir/2021</crossref>
+<url>db/conf/sigir/sigir2021.html#CohenMLRE21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/RekabsazLSBE21" mdate="2021-07-15">
+<author pid="150/5089">Navid Rekabsaz</author>
+<author pid="287/9927">Oleg Lesota</author>
+<author pid="77/271">Markus Schedl</author>
+<author pid="150/5373">Jon Brassey</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>TripClick: The Log Files of a Large Health Web Search Engine.</title>
+<pages>2507-2513</pages>
+<year>2021</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/3404835.3463242</ee>
+<crossref>conf/sigir/2021</crossref>
+<url>db/conf/sigir/sigir2021.html#RekabsazLSBE21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2103-07901" mdate="2021-03-23">
+<author pid="150/5089">Navid Rekabsaz</author>
+<author pid="287/9927">Oleg Lesota</author>
+<author pid="77/271">Markus Schedl</author>
+<author pid="150/5373">Jon Brassey</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>TripClick: The Log Files of a Large Health Web Search Engine.</title>
+<year>2021</year>
+<volume>abs/2103.07901</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.07901</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-07901</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2103-13546" mdate="2021-04-07">
+<author pid="77/600">Abdullah Ahmed</author>
+<author pid="289/1768">Adeel Abbasi</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>Benchmarking Modern Named Entity Recognition Techniques for Free-text Health Record De-identification.</title>
+<year>2021</year>
+<volume>abs/2103.13546</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.13546</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-13546</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2105-04651" mdate="2022-04-28">
+<author pid="85/2738">Daniel Cohen</author>
+<author pid="147/9120-1">Bhaskar Mitra 0001</author>
+<author pid="287/9927">Oleg Lesota</author>
+<author pid="150/5089">Navid Rekabsaz</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>Not All Relevance Scores are Equal: Efficient Uncertainty and Calibration Modeling for Deep Retrieval Models.</title>
+<year>2021</year>
+<volume>abs/2105.04651</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2105.04651</ee>
+<url>db/journals/corr/corr2105.html#abs-2105-04651</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2106-01972" mdate="2021-06-10">
+<author pid="144/1524">Ruochen Zhang</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>SOCCER: An Information-Sparse Discourse State Tracking Collection in the Sports Commentary Domain.</title>
+<year>2021</year>
+<volume>abs/2106.01972</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2106.01972</ee>
+<url>db/journals/corr/corr2106.html#abs-2106-01972</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2106-13618" mdate="2021-06-30">
+<author pid="287/9927">Oleg Lesota</author>
+<author pid="150/5089">Navid Rekabsaz</author>
+<author pid="85/2738">Daniel Cohen</author>
+<author pid="295/9693">Klaus Antonius Grasserbauer</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<author pid="77/271">Markus Schedl</author>
+<title>A Modern Perspective on Query Likelihood with Deep Generative Retrieval Models.</title>
+<year>2021</year>
+<volume>abs/2106.13618</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2106.13618</ee>
+<url>db/journals/corr/corr2106.html#abs-2106-13618</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2107-13751" mdate="2021-08-03">
+<author pid="80/5432">Zhizhong Chen</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>The Cross-Lingual Arabic Information REtrieval (CLAIRE) System.</title>
+<year>2021</year>
+<volume>abs/2107.13751</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2107.13751</ee>
+<url>db/journals/corr/corr2107.html#abs-2107-13751</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2107-13752" mdate="2021-08-03">
+<author pid="80/5432">Zhizhong Chen</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>ExpertRank: A Multi-level Coarse-grained Expert-based Listwise Ranking Loss.</title>
+<year>2021</year>
+<volume>abs/2107.13752</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2107.13752</ee>
+<url>db/journals/corr/corr2107.html#abs-2107-13752</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2108-03586" mdate="2021-08-11">
+<author pid="80/5432">Zhizhong Chen</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>PoolRank: Max/Min Pooling-based Ranking Loss for Listwise Learning &#38; Ranking Balance.</title>
+<year>2021</year>
+<volume>abs/2108.03586</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2108.03586</ee>
+<url>db/journals/corr/corr2108.html#abs-2108-03586</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2108-07344" mdate="2021-08-20">
+<author pid="299/8116">William Rudman</author>
+<author pid="299/8280">Nate Gillman</author>
+<author pid="299/8497">Taylor Rayne</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>IsoScore: Measuring the Uniformity of Vector Space Utilization.</title>
+<year>2021</year>
+<volume>abs/2108.07344</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2108.07344</ee>
+<url>db/journals/corr/corr2108.html#abs-2108-07344</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2111-05940" mdate="2021-11-16">
+<author pid="249/7096">Babak Hemmatian</author>
+<author pid="306/1619">Sheridan Feucht</author>
+<author pid="306/1239">Rachel Avram</author>
+<author pid="306/1430">Alexander Wey</author>
+<author pid="306/1565">Muskaan Garg</author>
+<author pid="306/1309">Kate Spitalnic</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<author pid="141/4059">Ellie Pavlick</author>
+<author pid="89/5305">Bj&#246;rn Sandstede</author>
+<author pid="55/2167">Steven A. Sloman</author>
+<title>A Novel Corpus of Discourse Structure in Humans and Computers.</title>
+<year>2021</year>
+<volume>abs/2111.05940</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2111.05940</ee>
+<url>db/journals/corr/corr2111.html#abs-2111-05940</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2111-10695" mdate="2021-11-26">
+<author pid="307/3089">Toni Sagayaraj</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>Image-Like Graph Representations for Improved Molecular Property Prediction.</title>
+<year>2021</year>
+<volume>abs/2111.10695</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2111.10695</ee>
+<url>db/journals/corr/corr2111.html#abs-2111-10695</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2112-08766" mdate="2022-01-03">
+<author pid="232/1820">George Zerveas</author>
+<author pid="150/5089">Navid Rekabsaz</author>
+<author pid="85/2738">Daniel Cohen</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>CODER: An efficient framework for improving retrieval through COntextualized Document Embedding Reranking.</title>
+<year>2021</year>
+<volume>abs/2112.08766</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2112.08766</ee>
+<url>db/journals/corr/corr2112.html#abs-2112-08766</url>
+</article>
+</r>
+<r><article key="journals/npjdm/RankPKSKSFEM20" mdate="2023-09-30">
+<author orcid="0000-0002-5984-4836" pid="344/0080">Nina Rank</author>
+<author orcid="0000-0002-7921-8103" pid="243/1908">Boris Pfahringer</author>
+<author orcid="0000-0002-2009-6375" pid="71/8525">J&#246;rg Kempfert</author>
+<author pid="344/0511">Christof Stamm</author>
+<author orcid="0000-0003-1631-4824" pid="69/7091">Titus K&#252;hne</author>
+<author pid="344/0346">Felix Schoenrath</author>
+<author orcid="0000-0002-7911-8620" pid="60/4048">Volkmar Falk</author>
+<author orcid="0000-0001-9895-4061" pid="42/8700">Carsten Eickhoff</author>
+<author orcid="0000-0002-6944-2478" pid="162/7950">Alexander Meyer</author>
+<title>Deep-learning-based real-time prediction of acute kidney injury outperforms human predictive performance.</title>
+<year>2020</year>
+<volume>3</volume>
+<journal>npj Digit. Medicine</journal>
+<ee>https://doi.org/10.1038/s41746-020-00346-8</ee>
+<ee>https://www.wikidata.org/entity/Q101146276</ee>
+<url>db/journals/npjdm/npjdm3.html#RankPKSKSFEM20</url>
+</article>
+</r>
+<r><article key="journals/sigir/ArampatzisCEFJK20" mdate="2022-12-07">
+<author pid="15/3521">Avi Arampatzis</author>
+<author pid="150/5362">Linda Cappellato</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<author pid="f/NicolaFerro">Nicola Ferro 0001</author>
+<author pid="83/5350">Hideo Joho</author>
+<author orcid="0000-0002-8312-0694" pid="22/3088">Evangelos Kanoulas</author>
+<author pid="16/1917">Christina Lioma</author>
+<author pid="37/3908">Aur&#233;lie N&#233;v&#233;ol</author>
+<author orcid="0000-0003-4148-9028" pid="09/2945">Theodora Tsikrika</author>
+<author pid="44/6029">Stefanos Vrochidis</author>
+<title>Report on CLEF 2020.</title>
+<pages>11:1-11:10</pages>
+<year>2020</year>
+<volume>54</volume>
+<journal>SIGIR Forum</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3483382.3483396</ee>
+<url>db/journals/sigir/sigir54.html#ArampatzisCEFJK20</url>
+</article>
+</r>
+<r><inproceedings key="conf/amia/EismanSEZCWS20" mdate="2021-08-04">
+<author pid="212/8825">Aaron S. Eisman</author>
+<author pid="276/5753">Nishant R. Shah</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<author pid="232/1820">George Zerveas</author>
+<author pid="59/4077">Elizabeth S. Chen</author>
+<author pid="65/5670">Wen-Chih Wu</author>
+<author pid="46/2509">Indra Neil Sarkar</author>
+<title>Extracting Angina Symptoms from Clinical Notes Using Pre-Trained Transformer Architectures.</title>
+<year>2020</year>
+<booktitle>AMIA</booktitle>
+<ee>https://knowledge.amia.org/72332-amia-1.4602255/t003-1.4606204/t003-1.4606205/3417153-1.4606530/3410611-1.4606527</ee>
+<crossref>conf/amia/2020</crossref>
+<url>db/conf/amia/amia2020.html#EismanSEZCWS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emnlp/WebsonCEP20" mdate="2021-08-06">
+<author pid="276/1456">Albert Webson</author>
+<author pid="80/5432">Zhizhong Chen</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<author pid="141/4059">Ellie Pavlick</author>
+<title>Do &#34;Undocumented Workers&#34; == &#34;Illegal Aliens&#34;? Differentiating Denotation and Connotation in Vector Spaces.</title>
+<pages>4090-4105</pages>
+<year>2020</year>
+<booktitle>EMNLP (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2020.emnlp-main.335</ee>
+<ee type="oa">https://aclanthology.org/2020.emnlp-main.335/</ee>
+<crossref>conf/emnlp/2020-1</crossref>
+<url>db/conf/emnlp/emnlp2020-1.html#WebsonCEP20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/RamosE20" mdate="2020-07-27">
+<author pid="247/6348">Jerome Ramos</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>Search Result Explanations Improve Efficiency and Trust.</title>
+<pages>1597-1600</pages>
+<year>2020</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/3397271.3401279</ee>
+<crossref>conf/sigir/2020</crossref>
+<url>db/conf/sigir/sigir2020.html#RamosE20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsdm/EickhoffKW20" mdate="2020-01-24">
+<author pid="42/8700">Carsten Eickhoff</author>
+<author pid="96/7992">Yubin Kim</author>
+<author pid="w/RyenWWhite">Ryen W. White</author>
+<title>Overview of the Health Search and Data Mining (HSDM 2020) Workshop.</title>
+<pages>901-902</pages>
+<year>2020</year>
+<booktitle>WSDM</booktitle>
+<ee>https://doi.org/10.1145/3336191.3371879</ee>
+<crossref>conf/wsdm/2020</crossref>
+<url>db/conf/wsdm/wsdm2020.html#EickhoffKW20</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/clef/2020w" mdate="2023-03-10">
+<editor pid="150/5362">Linda Cappellato</editor>
+<editor pid="42/8700">Carsten Eickhoff</editor>
+<editor pid="f/NicolaFerro">Nicola Ferro 0001</editor>
+<editor pid="37/3908">Aur&#233;lie N&#233;v&#233;ol</editor>
+<title>Working Notes of CLEF 2020 - Conference and Labs of the Evaluation Forum, Thessaloniki, Greece, September 22-25, 2020.</title>
+<booktitle>CLEF (Working Notes)</booktitle>
+<publisher>CEUR-WS.org</publisher>
+<series href="db/series/ceurws/index.html">CEUR Workshop Proceedings</series>
+<volume>2696</volume>
+<year>2020</year>
+<ee type="oa">https://ceur-ws.org/Vol-2696</ee>
+<ee>https://nbn-resolving.org/urn:nbn:de:0074-2696-0</ee>
+<url>db/conf/clef/clef2020w.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/clef/2020" mdate="2020-09-16">
+<editor orcid="0000-0003-2415-4592" pid="15/3521">Avi Arampatzis</editor>
+<editor orcid="0000-0002-8312-0694" pid="22/3088">Evangelos Kanoulas</editor>
+<editor pid="09/2945">Theodora Tsikrika</editor>
+<editor orcid="0000-0002-2505-9178" pid="44/6029">Stefanos Vrochidis</editor>
+<editor orcid="0000-0002-6611-652X" pid="83/5350">Hideo Joho</editor>
+<editor orcid="0000-0003-2600-2701" pid="16/1917">Christina Lioma</editor>
+<editor orcid="0000-0001-9895-4061" pid="42/8700">Carsten Eickhoff</editor>
+<editor orcid="0000-0002-1846-9144" pid="37/3908">Aur&#233;lie N&#233;v&#233;ol</editor>
+<editor orcid="0000-0002-8649-4691" pid="150/5362">Linda Cappellato</editor>
+<editor orcid="0000-0001-9219-6239" pid="f/NicolaFerro">Nicola Ferro 0001</editor>
+<title>Experimental IR Meets Multilinguality, Multimodality, and Interaction - 11th International Conference of the CLEF Association, CLEF 2020, Thessaloniki, Greece, September 22-25, 2020, Proceedings</title>
+<booktitle>CLEF</booktitle>
+<publisher>Springer</publisher>
+<year>2020</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>12260</volume>
+<isbn>978-3-030-58218-0</isbn>
+<isbn>978-3-030-58219-7</isbn>
+<ee>https://doi.org/10.1007/978-3-030-58219-7</ee>
+<url>db/conf/clef/clef2020.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/wsdm/2020hsdm" mdate="2023-03-10">
+<editor pid="42/8700">Carsten Eickhoff</editor>
+<editor pid="96/7992">Yubin Kim</editor>
+<editor pid="w/RyenWWhite">Ryen W. White</editor>
+<title>Proceedings of the ACM WSDM 2020 Health Search and Data Mining Workshop, co-located with the 13th ACM International WSDM Conference, HSDM@WSDM 2020, Houston, TX, USA, February 3, 2020.</title>
+<booktitle>HSDM@WSDM</booktitle>
+<publisher>CEUR-WS.org</publisher>
+<series href="db/series/ceurws/index.html">CEUR Workshop Proceedings</series>
+<volume>2551</volume>
+<year>2020</year>
+<ee type="oa">https://ceur-ws.org/Vol-2551</ee>
+<ee>https://nbn-resolving.org/urn:nbn:de:0074-2551-0</ee>
+<url>db/conf/wsdm/hsdm2020.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2004-07341" mdate="2020-04-21">
+<author pid="231/0912">Yuanfei Dai</author>
+<author pid="234/4626">Chenhao Guo</author>
+<author pid="10/2272">Wenzhong Guo</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>Wasserstein Adversarial Autoencoders for Knowledge Graph Embedding based Drug-Drug Interaction Prediction.</title>
+<year>2020</year>
+<volume>abs/2004.07341</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2004.07341</ee>
+<url>db/journals/corr/corr2004.html#abs-2004-07341</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2006-13721" mdate="2023-04-25">
+<author pid="268/5415">Cindy Li</author>
+<author pid="268/5893">Elizabeth Chen</author>
+<author pid="73/5451">Guergana Savova</author>
+<author pid="25/104">Hamish Fraser 0001</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>Mining Misdiagnosis Patterns from Biomedical Literature.</title>
+<year>2020</year>
+<volume>abs/2006.13721</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2006.13721</ee>
+<url>db/journals/corr/corr2006.html#abs-2006-13721</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2006-13737" mdate="2020-07-02">
+<author pid="243/0329">Gil Alon</author>
+<author pid="268/5893">Elizabeth Chen</author>
+<author pid="73/5451">Guergana Savova</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>Diagnosis Prevalence vs. Efficacy in Machine-learning Based Diagnostic Decision Support.</title>
+<year>2020</year>
+<volume>abs/2006.13737</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2006.13737</ee>
+<url>db/journals/corr/corr2006.html#abs-2006-13737</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2009-04016" mdate="2020-09-17">
+<author pid="232/1820">George Zerveas</author>
+<author pid="144/1524">Ruochen Zhang</author>
+<author pid="260/2050">Leila Kim</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>Brown University at TREC Deep Learning 2019.</title>
+<year>2020</year>
+<volume>abs/2009.04016</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2009.04016</ee>
+<url>db/journals/corr/corr2009.html#abs-2009-04016</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2010-02803" mdate="2021-11-15">
+<author pid="232/1820">George Zerveas</author>
+<author pid="276/0265">Srideepika Jayaraman</author>
+<author pid="28/1282-2">Dhaval Patel 0002</author>
+<author pid="08/6630">Anuradha Bhamidipaty</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>A Transformer-based Framework for Multivariate Time Series Representation Learning.</title>
+<year>2020</year>
+<volume>abs/2010.02803</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2010.02803</ee>
+<url>db/journals/corr/corr2010.html#abs-2010-02803</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2010-02976" mdate="2020-10-13">
+<author pid="276/1456">Albert Webson</author>
+<author pid="80/5432">Zhizhong Chen</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<author pid="141/4059">Ellie Pavlick</author>
+<title>Are &#34;Undocumented Workers&#34; the Same as &#34;Illegal Aliens&#34;? Disentangling Denotation and Connotation in Vector Spaces.</title>
+<year>2020</year>
+<volume>abs/2010.02976</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2010.02976</ee>
+<url>db/journals/corr/corr2010.html#abs-2010-02976</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2010-05757" mdate="2020-10-20">
+<author pid="212/8825">Aaron S. Eisman</author>
+<author pid="276/5753">Nishant R. Shah</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<author pid="232/1820">George Zerveas</author>
+<author pid="59/4077">Elizabeth S. Chen</author>
+<author pid="65/5670">Wen-Chih Wu</author>
+<author pid="46/2509">Indra Neil Sarkar</author>
+<title>Extracting Angina Symptoms from Clinical Notes Using Pre-Trained Transformer Architectures.</title>
+<year>2020</year>
+<volume>abs/2010.05757</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2010.05757</ee>
+<url>db/journals/corr/corr2010.html#abs-2010-05757</url>
+</article>
+</r>
+<r><article key="journals/bioinformatics/MustafaSKERK19" mdate="2020-06-16">
+<author orcid="0000-0002-2125-6086" pid="235/6534">Harun Mustafa</author>
+<author pid="235/6579">Ingo Schilken</author>
+<author orcid="0000-0001-6200-5972" pid="235/6577">Mikhail Karasikov</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<author orcid="0000-0001-5486-8532" pid="33/3796">Gunnar R&#228;tsch</author>
+<author orcid="0000-0002-3411-0692" pid="17/11107">Andr&#233; Kahles</author>
+<title>Dynamic compression schemes for graph coloring.</title>
+<pages>407-414</pages>
+<year>2019</year>
+<volume>35</volume>
+<journal>Bioinform.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.1093/bioinformatics/bty632</ee>
+<ee>https://www.wikidata.org/entity/Q57525353</ee>
+<url>db/journals/bioinformatics/bioinformatics35.html#MustafaSKERK19</url>
+</article>
+</r>
+<r><article key="journals/ijmi/RaiskinEB19" mdate="2020-05-30">
+<author orcid="0000-0002-8392-9792" pid="250/6772">Yarden Raiskin</author>
+<author orcid="0000-0001-9895-4061" pid="42/8700">Carsten Eickhoff</author>
+<author orcid="0000-0002-6097-2480" pid="134/2299">Patrick E. Beeler</author>
+<title>Categorization of free-text drug orders using character-level recurrent neural networks.</title>
+<pages>20-28</pages>
+<year>2019</year>
+<volume>129</volume>
+<journal>Int. J. Medical Informatics</journal>
+<ee>https://doi.org/10.1016/j.ijmedinf.2019.05.020</ee>
+<ee>https://www.wikidata.org/entity/Q92840303</ee>
+<url>db/journals/ijmi/ijmi129.html#RaiskinEB19</url>
+</article>
+</r>
+<r><inproceedings key="conf/ecir/HofstatterRLEH19" mdate="2019-04-09">
+<author pid="238/6322">Sebastian Hofst&#228;tter</author>
+<author pid="150/5089">Navid Rekabsaz</author>
+<author pid="22/6000">Mihai Lupu</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<author pid="55/6683">Allan Hanbury</author>
+<title>Enriching Word Embeddings for Patent Retrieval with Global Context.</title>
+<pages>810-818</pages>
+<year>2019</year>
+<booktitle>ECIR (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-15712-8_57</ee>
+<crossref>conf/ecir/2019-1</crossref>
+<url>db/conf/ecir/ecir2019-1.html#HofstatterRLEH19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ictir/EickhoffGPBF19" mdate="2023-04-25">
+<author pid="42/8700">Carsten Eickhoff</author>
+<author pid="247/5747">Floran Gmehlin</author>
+<author pid="247/6306">Anu V. Patel</author>
+<author pid="188/1401">Jocelyn Boullier</author>
+<author pid="25/104">Hamish Fraser 0001</author>
+<title>DC3 - A Diagnostic Case Challenge Collection for Clinical Decision Support.</title>
+<pages>141-144</pages>
+<year>2019</year>
+<booktitle>ICTIR</booktitle>
+<ee>https://doi.org/10.1145/3341981.3344239</ee>
+<crossref>conf/ictir/2019</crossref>
+<url>db/conf/ictir/ictir2019.html#EickhoffGPBF19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ictir/WerraSUE19" mdate="2019-09-29">
+<author pid="223/1855">Leandro von Werra</author>
+<author pid="19/7216">Marcel Sch&#246;ngens</author>
+<author pid="249/6236">Ece D. Gamsiz Uzun</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>Generative Adversarial Networks in Precision Oncology.</title>
+<pages>145-148</pages>
+<year>2019</year>
+<booktitle>ICTIR</booktitle>
+<ee>https://doi.org/10.1145/3341981.3344238</ee>
+<crossref>conf/ictir/2019</crossref>
+<url>db/conf/ictir/ictir2019.html#WerraSUE19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/HofstatterREH19" mdate="2019-07-21">
+<author pid="238/6322">Sebastian Hofst&#228;tter</author>
+<author pid="150/5089">Navid Rekabsaz</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<author pid="55/6683">Allan Hanbury</author>
+<title>On the Effect of Low-Frequency Terms on Neural-IR Models.</title>
+<pages>1137-1140</pages>
+<year>2019</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/3331184.3331344</ee>
+<crossref>conf/sigir/2019</crossref>
+<url>db/conf/sigir/sigir2019.html#HofstatterREH19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/trec/AhmedAZNTWE19" mdate="2021-02-03">
+<author pid="77/600">Abdullah Ahmed</author>
+<author pid="243/0329">Gil Alon</author>
+<author pid="260/2037">Bashar Zaidat</author>
+<author pid="260/2122">Isaac Nathoo</author>
+<author pid="260/2072">Hwai-Liang Tung</author>
+<author pid="79/4301">Charles Wang</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>Brown University at TREC Precision Medicine 2019.</title>
+<year>2019</year>
+<booktitle>TREC</booktitle>
+<ee type="oa">https://trec.nist.gov/pubs/trec28/papers/Brown.PM.pdf</ee>
+<crossref>conf/trec/2019</crossref>
+<url>db/conf/trec/trec2019.html#AhmedAZNTWE19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/trec/ZerveasZKE19" mdate="2021-02-03">
+<author pid="232/1820">George Zerveas</author>
+<author pid="144/1524">Ruochen Zhang</author>
+<author pid="260/2050">Leila Kim</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>Brown University at TREC Deep Learning 2019.</title>
+<year>2019</year>
+<booktitle>TREC</booktitle>
+<ee type="oa">https://trec.nist.gov/pubs/trec28/papers/Brown.DL.pdf</ee>
+<crossref>conf/trec/2019</crossref>
+<url>db/conf/trec/trec2019.html#ZerveasZKE19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1904-12683" mdate="2019-05-02">
+<author pid="238/6322">Sebastian Hofst&#228;tter</author>
+<author pid="150/5089">Navid Rekabsaz</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<author pid="55/6683">Allan Hanbury</author>
+<title>On the Effect of Low-Frequency Terms on Neural-IR Models.</title>
+<year>2019</year>
+<volume>abs/1904.12683</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1904.12683</ee>
+<url>db/journals/corr/corr1904.html#abs-1904-12683</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1908-08581" mdate="2023-04-25">
+<author pid="42/8700">Carsten Eickhoff</author>
+<author pid="247/5747">Floran Gmehlin</author>
+<author pid="247/6306">Anu V. Patel</author>
+<author pid="188/1401">Jocelyn Boullier</author>
+<author pid="25/104">Hamish Fraser 0001</author>
+<title>DC3 - A Diagnostic Case Challenge Collection for Clinical Decision Support.</title>
+<year>2019</year>
+<volume>abs/1908.08581</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1908.08581</ee>
+<url>db/journals/corr/corr1908.html#abs-1908-08581</url>
+</article>
+</r>
+<r><article key="journals/tois/YangE18" mdate="2022-01-08">
+<author orcid="0000-0002-2565-0574" pid="62/5839-22">Jing Yang 0022</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>Unsupervised Learning of Parsimonious General-Purpose Embeddings for User and Location Modeling.</title>
+<pages>32:1-32:33</pages>
+<year>2018</year>
+<volume>36</volume>
+<journal>ACM Trans. Inf. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3182165</ee>
+<url>db/journals/tois/tois36.html#YangE18</url>
+</article>
+</r>
+<r><inproceedings key="conf/amia/WeiE18" mdate="2021-08-04">
+<author pid="14/4301">Xing Wei</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>Distant Supervision in Clinical Information Retrieval.</title>
+<year>2018</year>
+<booktitle>AMIA</booktitle>
+<ee>https://knowledge.amia.org/67852-amia-1.4259402/t007-1.4262189/t007-1.4262190/2972889-1.4262275/2975665-1.4262272</ee>
+<crossref>conf/amia/2018</crossref>
+<url>db/conf/amia/amia2018.html#WeiE18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clef/HerreraEAM18" mdate="2023-03-10">
+<author pid="12/10072">Alba Garcia Seco de Herrera</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<author pid="175/1436">Vincent Andrearczyk</author>
+<author pid="93/4446">Henning M&#252;ller</author>
+<title>Overview of the ImageCLEF 2018 Caption Prediction Tasks.</title>
+<year>2018</year>
+<booktitle>CLEF (Working Notes)</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-2125/invited_paper_4.pdf</ee>
+<crossref>conf/clef/2018w</crossref>
+<url>db/conf/clef/clef2018w.html#HerreraEAM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clef/IonescuMVHEACLK18" mdate="2023-09-30">
+<author pid="53/948">Bogdan Ionescu</author>
+<author pid="93/4446">Henning M&#252;ller</author>
+<author orcid="0000-0001-7450-6707" pid="30/1805">Mauricio Villegas</author>
+<author orcid="0000-0002-6509-5325" pid="12/10072">Alba Garcia Seco de Herrera</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<author pid="175/1436">Vincent Andrearczyk</author>
+<author pid="159/1631">Yashin Dicente Cid</author>
+<author orcid="0000-0001-9686-3705" pid="204/2860">Vitali Liauchuk</author>
+<author orcid="0000-0002-8154-5875" pid="97/4066">Vassili Kovalev</author>
+<author pid="92/5132">Sadid A. Hasan</author>
+<author pid="92/4467">Yuan Ling</author>
+<author pid="119/3097">Oladimeji Farri</author>
+<author pid="160/9050">Joey Liu</author>
+<author pid="209/9732">Matthew P. Lungren</author>
+<author pid="16/10574">Duc-Tien Dang-Nguyen</author>
+<author pid="00/7629-1">Luca Piras 0001</author>
+<author pid="129/8082">Michael Riegler 0001</author>
+<author orcid="0000-0002-7778-8743" pid="156/1503">Liting Zhou</author>
+<author pid="33/1111">Mathias Lux</author>
+<author orcid="0000-0003-2903-3968" pid="40/5060">Cathal Gurrin</author>
+<title>Overview of ImageCLEF 2018: Challenges, Datasets and Evaluation.</title>
+<pages>309-334</pages>
+<year>2018</year>
+<booktitle>CLEF</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-98932-7_28</ee>
+<crossref>conf/clef/2018</crossref>
+<url>db/conf/clef/clef2018.html#IonescuMVHEACLK18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecir/VogelsGE18" mdate="2018-11-02">
+<author orcid="0000-0002-5884-4842" pid="169/7392">Thijs Vogels</author>
+<author pid="168/8242">Octavian-Eugen Ganea</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>Web2Text: Deep Structured Boilerplate Removal.</title>
+<pages>167-179</pages>
+<year>2018</year>
+<booktitle>ECIR</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-76941-7_13</ee>
+<crossref>conf/ecir/2018</crossref>
+<url>db/conf/ecir/ecir2018.html#VogelsGE18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecir/GalkoE18" mdate="2018-03-22">
+<author pid="213/7661">Ferenc Galk&#243;</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>Biomedical Question Answering via Weighted Neural Network Passage Retrieval.</title>
+<pages>523-528</pages>
+<year>2018</year>
+<booktitle>ECIR</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-76941-7_39</ee>
+<crossref>conf/ecir/2018</crossref>
+<url>db/conf/ecir/ecir2018.html#GalkoE18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/trec/BaruahDQE18" mdate="2020-03-12">
+<author pid="240/8671">Prakrit Baruah</author>
+<author pid="240/8702">Riya Dulepet</author>
+<author pid="233/5070">Kyle Qian</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>Brown University at TREC Precision Medicine 2018.</title>
+<year>2018</year>
+<booktitle>TREC</booktitle>
+<ee type="oa">https://trec.nist.gov/pubs/trec27/papers/Brown-PM.pdf</ee>
+<crossref>conf/trec/2018</crossref>
+<url>db/conf/trec/trec2018.html#BaruahDQE18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsdm/Eickhoff18" mdate="2018-11-06">
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>Cognitive Biases in Crowdsourcing.</title>
+<pages>162-170</pages>
+<year>2018</year>
+<booktitle>WSDM</booktitle>
+<ee>https://doi.org/10.1145/3159652.3159654</ee>
+<crossref>conf/wsdm/2018</crossref>
+<url>db/conf/wsdm/wsdm2018.html#Eickhoff18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1801-02607" mdate="2018-08-13">
+<author pid="169/7392">Thijs Vogels</author>
+<author pid="168/8242">Octavian-Eugen Ganea</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>Web2Text: Deep Structured Boilerplate Removal.</title>
+<year>2018</year>
+<volume>abs/1801.02607</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1801.02607</ee>
+<url>db/journals/corr/corr1801.html#abs-1801-02607</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1801-02832" mdate="2018-08-13">
+<author pid="213/7661">Ferenc Galk&#243;</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>Biomedical Question Answering via Weighted Neural Network Passage Retrieval.</title>
+<year>2018</year>
+<volume>abs/1801.02832</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1801.02832</ee>
+<url>db/journals/corr/corr1801.html#abs-1801-02832</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1811-05402" mdate="2018-11-24">
+<author pid="14/4301">Xing Wei</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>Embedding Electronic Health Records for Clinical Information Retrieval.</title>
+<year>2018</year>
+<volume>abs/1811.05402</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1811.05402</ee>
+<url>db/journals/corr/corr1811.html#abs-1811-05402</url>
+</article>
+</r>
+<r><article key="journals/ir/EickhoffGHH17" mdate="2020-03-06">
+<author pid="42/8700">Carsten Eickhoff</author>
+<author orcid="0000-0003-2273-3996" pid="09/6688">Jacek Gwizdka</author>
+<author pid="73/906">Claudia Hauff</author>
+<author pid="05/5662">Jiyin He</author>
+<title>Introduction to the special issue on search as learning.</title>
+<pages>399-402</pages>
+<year>2017</year>
+<volume>20</volume>
+<journal>Inf. Retr. J.</journal>
+<number>5</number>
+<ee type="oa">https://doi.org/10.1007/s10791-017-9315-9</ee>
+<url>db/journals/ir/ir20.html#EickhoffGHH17</url>
+</article>
+</r>
+<r><inproceedings key="conf/clef/EickhoffSHM17" mdate="2023-03-10">
+<author pid="42/8700">Carsten Eickhoff</author>
+<author pid="204/2888">Immanuel Schwall</author>
+<author pid="12/10072">Alba Garcia Seco de Herrera</author>
+<author pid="93/4446">Henning M&#252;ller</author>
+<title>Overview of ImageCLEFcaption 2017 - Image Caption Prediction and Concept Detection for Biomedical Images.</title>
+<year>2017</year>
+<booktitle>CLEF (Working Notes)</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1866/invited_paper_7.pdf</ee>
+<crossref>conf/clef/2017w</crossref>
+<url>db/conf/clef/clef2017w.html#EickhoffSHM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clef/HollmannE17" mdate="2023-03-10">
+<author pid="204/2755">Noah Hollmann</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>Ranking and Feedback-based Stopping for Recall-Centric Document Retrieval.</title>
+<year>2017</year>
+<booktitle>CLEF (Working Notes)</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1866/paper_102.pdf</ee>
+<crossref>conf/clef/2017w</crossref>
+<url>db/conf/clef/clef2017w.html#HollmannE17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clef/IonescuMVABDCEH17" mdate="2023-09-30">
+<author pid="53/948">Bogdan Ionescu</author>
+<author pid="93/4446">Henning M&#252;ller</author>
+<author orcid="0000-0001-7450-6707" pid="30/1805">Mauricio Villegas</author>
+<author pid="37/4018">Helbert Arenas</author>
+<author pid="90/3132">Giulia Boato</author>
+<author pid="16/10574">Duc-Tien Dang-Nguyen</author>
+<author pid="159/1631">Yashin Dicente Cid</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<author orcid="0000-0002-6509-5325" pid="12/10072">Alba Garcia Seco de Herrera</author>
+<author orcid="0000-0003-2903-3968" pid="40/5060">Cathal Gurrin</author>
+<author pid="204/2648">Md Bayzidul Islam</author>
+<author orcid="0000-0002-8154-5875" pid="97/4066">Vassili Kovalev</author>
+<author orcid="0000-0001-9686-3705" pid="204/2860">Vitali Liauchuk</author>
+<author pid="m/JosianeMothe">Josiane Mothe</author>
+<author pid="00/7629-1">Luca Piras 0001</author>
+<author pid="129/8082">Michael Riegler 0001</author>
+<author pid="204/2888">Immanuel Schwall</author>
+<title>Overview of ImageCLEF 2017: Information Extraction from Images.</title>
+<pages>315-337</pages>
+<year>2017</year>
+<booktitle>CLEF</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-65813-1_28</ee>
+<crossref>conf/clef/2017</crossref>
+<url>db/conf/clef/clef2017.html#IonescuMVABDCEH17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/JagermanER17" mdate="2022-04-09">
+<author orcid="0000-0002-5169-495X" pid="144/7357">Rolf Jagerman</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<author orcid="0000-0002-1086-0202" pid="r/MdRijke">Maarten de Rijke</author>
+<title>Computing Web-scale Topic Models using an Asynchronous Parameter Server.</title>
+<pages>1337-1340</pages>
+<year>2017</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/3077136.3084135</ee>
+<crossref>conf/sigir/2017</crossref>
+<url>db/conf/sigir/sigir2017.html#JagermanER17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/trec/EghlidiGMWE17" mdate="2020-03-12">
+<author pid="174/4070">Negar Foroutan Eghlidi</author>
+<author pid="223/1837">Jannick Griner</author>
+<author pid="223/1836">Nicolas Mesot</author>
+<author pid="223/1855">Leandro von Werra</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>ETH Zurich at TREC Precision Medicine 2017.</title>
+<year>2017</year>
+<booktitle>TREC</booktitle>
+<ee type="oa">https://trec.nist.gov/pubs/trec26/papers/ETH-PM.pdf</ee>
+<crossref>conf/trec/2017</crossref>
+<url>db/conf/trec/trec2017.html#EghlidiGMWE17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/YangE17" mdate="2019-09-10">
+<author pid="62/5839-22">Jing Yang 0022</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>Unsupervised Spatio-Temporal Embeddings for User and Location Modelling.</title>
+<year>2017</year>
+<volume>abs/1704.03507</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1704.03507</ee>
+<url>db/journals/corr/corr1704.html#YangE17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/MezeiE17" mdate="2018-08-13">
+<author pid="203/8863">Zsolt Mezei</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>Evaluating Music Recommender Systems for Groups.</title>
+<year>2017</year>
+<volume>abs/1707.09790</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1707.09790</ee>
+<url>db/journals/corr/corr1707.html#MezeiE17</url>
+</article>
+</r>
+<r><article key="journals/sigweb/EickhoffV16" mdate="2022-12-07">
+<author pid="42/8700">Carsten Eickhoff</author>
+<author orcid="0000-0002-2888-4202" pid="v/ArjenPdeVries">Arjen P. de Vries</author>
+<title>&#34;Robust statistical methods in web retrieval&#34; by Carsten Eickhoff and Arjen P. de Vries, with Martin Vesely as coordinator.</title>
+<pages>4:1-4:11</pages>
+<year>2016</year>
+<volume>2016</volume>
+<journal>SIGWEB Newsl.</journal>
+<number>Winter</number>
+<ee>https://doi.org/10.1145/2857659.2857663</ee>
+<url>db/journals/sigweb/sigweb2016.html#EickhoffV16</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/BansalEH16" mdate="2018-11-06">
+<author pid="97/7205">Piyush Bansal</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<author pid="h/ThHofmann">Thomas Hofmann</author>
+<title>Active Content-Based Crowdsourcing Task Selection.</title>
+<pages>529-538</pages>
+<year>2016</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/2983323.2983716</ee>
+<crossref>conf/cikm/2016</crossref>
+<url>db/conf/cikm/cikm2016.html#BansalEH16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecir/LiEV16" mdate="2022-01-03">
+<author pid="06/721">Wen Li</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<author orcid="0000-0002-2888-4202" pid="v/ArjenPdeVries">Arjen P. de Vries</author>
+<title>Probabilistic Local Expert Retrieval.</title>
+<pages>227-239</pages>
+<year>2016</year>
+<booktitle>ECIR</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-30671-1_17</ee>
+<crossref>conf/ecir/2016</crossref>
+<url>db/conf/ecir/ecir2016.html#LiEV16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/VeigaE16" mdate="2018-11-06">
+<author pid="183/0592">Maria Han Veiga</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>A Cross-Platform Collection of Social Network Profiles.</title>
+<pages>665-668</pages>
+<year>2016</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/2911451.2914666</ee>
+<crossref>conf/sigir/2016</crossref>
+<url>db/conf/sigir/sigir2016.html#VeigaE16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/WeingartE16" mdate="2023-03-10">
+<author pid="183/8626">Nino Weingart</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>Retrieval Techniques for Contextual Learning.</title>
+<year>2016</year>
+<booktitle>SAL@SIGIR</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1647/SAL2016_paper_16.pdf</ee>
+<crossref>conf/sigir/2016sal</crossref>
+<url>db/conf/sigir/sal2016.html#WeingartE16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/trec/GreuterJKMMRE16" mdate="2020-03-12">
+<author pid="196/0728">Simon Greuter</author>
+<author pid="196/0812">Philip Junker</author>
+<author pid="183/6301">Lorenz Kuhn</author>
+<author pid="131/6668">Felix Mance</author>
+<author pid="196/0793">Virgile Mermet</author>
+<author pid="196/0759">Angela Rellstab</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>ETH Zurich at TREC Clinical Decision Support 2016.</title>
+<year>2016</year>
+<booktitle>TREC</booktitle>
+<ee type="oa">http://trec.nist.gov/pubs/trec25/papers/ETH-CL.pdf</ee>
+<crossref>conf/trec/2016</crossref>
+<url>db/conf/trec/trec2016.html#GreuterJKMMRE16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/GaneaGLEH16" mdate="2022-10-02">
+<author pid="168/8242">Octavian-Eugen Ganea</author>
+<author pid="178/3588">Marina Ganea</author>
+<author orcid="0000-0001-7015-2710" pid="14/5780">Aur&#233;lien Lucchi</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<author pid="h/ThHofmann">Thomas Hofmann</author>
+<title>Probabilistic Bag-Of-Hyperlinks Model for Entity Linking.</title>
+<pages>927-938</pages>
+<year>2016</year>
+<booktitle>WWW</booktitle>
+<ee>https://doi.org/10.1145/2872427.2882988</ee>
+<crossref>conf/www/2016</crossref>
+<url>db/conf/www/www2016.html#GaneaGLEH16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/SardaEH16" mdate="2018-08-13">
+<author pid="175/1308">Siddharth Sarda</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<author pid="h/ThHofmann">Thomas Hofmann</author>
+<title>Semantic Place Descriptors for Classification and Map Discovery.</title>
+<year>2016</year>
+<volume>abs/1601.05952</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1601.05952</ee>
+<url>db/journals/corr/corr1601.html#SardaEH16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/JagermanE16" mdate="2018-08-13">
+<author pid="144/7357">Rolf Jagerman</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>Web-scale Topic Models in Spark: An Asynchronous Parameter Server.</title>
+<year>2016</year>
+<volume>abs/1605.07422</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1605.07422</ee>
+<url>db/journals/corr/corr1605.html#JagermanE16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/VuurensEV16" mdate="2018-08-13">
+<author pid="119/7122">Jeroen B. P. Vuurens</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<author pid="v/ArjenPdeVries">Arjen P. de Vries</author>
+<title>Efficient Parallel Learning of Word2Vec.</title>
+<year>2016</year>
+<volume>abs/1606.07822</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1606.07822</ee>
+<url>db/journals/corr/corr1606.html#VuurensEV16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/VeigaE16" mdate="2018-08-13">
+<author pid="183/0592">Maria Han Veiga</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>Privacy Leakage through Innocent Content Sharing in Online Social Networks.</title>
+<year>2016</year>
+<volume>abs/1607.02714</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1607.02714</ee>
+<url>db/journals/corr/corr1607.html#VeigaE16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/VeigaE16a" mdate="2018-08-13">
+<author pid="183/0592">Maria Han Veiga</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>A Cross-Platform Collection of Social Network Profiles.</title>
+<year>2016</year>
+<volume>abs/1607.03274</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1607.03274</ee>
+<url>db/journals/corr/corr1607.html#VeigaE16a</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/KuhnE16" mdate="2018-08-13">
+<author pid="183/6301">Lorenz Kuhn</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>Implicit Negative Feedback in Clinical Information Retrieval.</title>
+<year>2016</year>
+<volume>abs/1607.03296</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1607.03296</ee>
+<url>db/journals/corr/corr1607.html#KuhnE16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/GrnarovaSHE16" mdate="2020-05-08">
+<author pid="150/0166">Paulina Grnarova</author>
+<author pid="61/4643-5">Florian Schmidt 0005</author>
+<author pid="170/0022">Stephanie L. Hyland</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>Neural Document Embeddings for Intensive Care Patient Mortality Prediction.</title>
+<year>2016</year>
+<volume>abs/1612.00467</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1612.00467</ee>
+<url>db/journals/corr/corr1612.html#GrnarovaSHE16</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/DavtyanEH15" mdate="2018-11-06">
+<author pid="29/10154">Martin Davtyan</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<author pid="h/ThHofmann">Thomas Hofmann</author>
+<title>Exploiting Document Content for Efficient Aggregation of Crowdsourcing Votes.</title>
+<pages>783-790</pages>
+<year>2015</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/2806416.2806460</ee>
+<crossref>conf/cikm/2015</crossref>
+<url>db/conf/cikm/cikm2015.html#DavtyanEH15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecir/Eickhoff15" mdate="2023-03-10">
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>Human Intelligence in Search and Retrieval.</title>
+<pages>3</pages>
+<year>2015</year>
+<booktitle>GamifIR@ECIR</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1345/preface.pdf</ee>
+<crossref>conf/ecir/2015gamifir</crossref>
+<url>db/conf/ecir/gamifir2015.html#Eickhoff15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/EickhoffDT15" mdate="2018-11-06">
+<author pid="42/8700">Carsten Eickhoff</author>
+<author pid="134/2150">Sebastian Dungs</author>
+<author pid="117/4344">Vu Tran 0001</author>
+<title>An Eye-Tracking Study of Query Reformulation.</title>
+<pages>13-22</pages>
+<year>2015</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/2766462.2767703</ee>
+<crossref>conf/sigir/2015</crossref>
+<url>db/conf/sigir/sigir2015.html#EickhoffDT15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/EickhoffVH15" mdate="2022-01-03">
+<author pid="42/8700">Carsten Eickhoff</author>
+<author orcid="0000-0002-2888-4202" pid="v/ArjenPdeVries">Arjen P. de Vries</author>
+<author pid="h/ThHofmann">Thomas Hofmann</author>
+<title>Modelling Term Dependence with Copulas.</title>
+<pages>783-786</pages>
+<year>2015</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/2766462.2767831</ee>
+<crossref>conf/sigir/2015</crossref>
+<url>db/conf/sigir/sigir2015.html#EickhoffVH15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/GaneaHLEH15" mdate="2018-08-13">
+<author pid="168/8242">Octavian-Eugen Ganea</author>
+<author pid="178/3588">Marina Horlescu</author>
+<author pid="14/5780">Aur&#233;lien Lucchi</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<author pid="h/ThHofmann">Thomas Hofmann</author>
+<title>Probabilistic Bag-Of-Hyperlinks Model for Entity Linking.</title>
+<year>2015</year>
+<volume>abs/1509.02301</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1509.02301</ee>
+<url>db/journals/corr/corr1509.html#GaneaHLEH15</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/EickhoffV14" mdate="2022-01-03">
+<author pid="42/8700">Carsten Eickhoff</author>
+<author orcid="0000-0002-2888-4202" pid="v/ArjenPdeVries">Arjen P. de Vries</author>
+<title>Modelling Complex Relevance Spaces with Copulas.</title>
+<pages>1831-1834</pages>
+<year>2014</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/2661829.2661925</ee>
+<crossref>conf/cikm/2014</crossref>
+<url>db/conf/cikm/cikm2014.html#EickhoffV14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecir/Eickhoff14" mdate="2018-11-06">
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>Crowd-powered experts: helping surgeons interpret breast cancer images.</title>
+<pages>53-56</pages>
+<year>2014</year>
+<booktitle>GamifIR@ECIR</booktitle>
+<ee>https://doi.org/10.1145/2594776.2594788</ee>
+<crossref>conf/ecir/2014gamifir</crossref>
+<url>db/conf/ecir/gamifir2014.html#Eickhoff14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecir/LiEV14" mdate="2017-06-02">
+<author pid="06/721">Wen Li</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<author orcid="0000-0002-2888-4202" pid="v/ArjenPdeVries">Arjen P. de Vries</author>
+<title>Geo-spatial Domain Expertise in Microblogs.</title>
+<pages>487-492</pages>
+<year>2014</year>
+<booktitle>ECIR</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-06028-6_46</ee>
+<crossref>conf/ecir/2014</crossref>
+<url>db/conf/ecir/ecir2014.html#LiEV14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iiix/LiEV14" mdate="2018-11-06">
+<author pid="06/721">Wen Li</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<author orcid="0000-0002-2888-4202" pid="v/ArjenPdeVries">Arjen P. de Vries</author>
+<title>Interactive summarization of social media.</title>
+<pages>312-315</pages>
+<year>2014</year>
+<booktitle>IIiX</booktitle>
+<ee>https://doi.org/10.1145/2637002.2637050</ee>
+<crossref>conf/iiix/2014</crossref>
+<url>db/conf/iiix/iiix2014.html#LiEV14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsdm/EickhoffTWD14" mdate="2019-06-02">
+<author pid="42/8700">Carsten Eickhoff</author>
+<author pid="38/129">Jaime Teevan</author>
+<author pid="w/RyenWWhite">Ryen White</author>
+<author pid="d/SusanTDumais">Susan T. Dumais</author>
+<title>Lessons from the journey: a query log analysis of within-session learning.</title>
+<pages>223-232</pages>
+<year>2014</year>
+<booktitle>WSDM</booktitle>
+<ee>https://doi.org/10.1145/2556195.2556217</ee>
+<ee>https://www.wikidata.org/entity/Q61773367</ee>
+<crossref>conf/wsdm/2014</crossref>
+<url>db/conf/wsdm/wsdm2014.html#EickhoffTWD14</url>
+</inproceedings>
+</r>
+<r><article key="journals/ir/EickhoffV13" mdate="2018-06-26">
+<author pid="42/8700">Carsten Eickhoff</author>
+<author orcid="0000-0002-2888-4202" pid="v/ArjenPdeVries">Arjen P. de Vries</author>
+<title>Increasing cheat robustness of crowdsourcing tasks.</title>
+<pages>121-137</pages>
+<year>2013</year>
+<volume>16</volume>
+<journal>Inf. Retr.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.1007/s10791-011-9181-9</ee>
+<url>db/journals/ir/ir16.html#EickhoffV13</url>
+</article>
+</r>
+<r><inproceedings key="conf/ecir/EickhoffLV13" mdate="2017-06-02">
+<author pid="42/8700">Carsten Eickhoff</author>
+<author pid="06/721">Wen Li</author>
+<author orcid="0000-0002-2888-4202" pid="v/ArjenPdeVries">Arjen P. de Vries</author>
+<title>Exploiting User Comments for Audio-Visual Content Indexing and Retrieval.</title>
+<pages>38-49</pages>
+<year>2013</year>
+<booktitle>ECIR</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-36973-5_4</ee>
+<crossref>conf/ecir/2013</crossref>
+<url>db/conf/ecir/ecir2013.html#EickhoffLV13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecir/EickhoffCBD13" mdate="2017-05-21">
+<author pid="42/8700">Carsten Eickhoff</author>
+<author pid="42/4842">Kevyn Collins-Thompson</author>
+<author pid="33/6188">Paul N. Bennett</author>
+<author pid="d/SusanTDumais">Susan T. Dumais</author>
+<title>Designing Human-Readable User Profiles for Search Evaluation.</title>
+<pages>701-705</pages>
+<year>2013</year>
+<booktitle>ECIR</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-36973-5_64</ee>
+<crossref>conf/ecir/2013</crossref>
+<url>db/conf/ecir/ecir2013.html#EickhoffCBD13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/EickhoffVC13" mdate="2018-11-06">
+<author pid="42/8700">Carsten Eickhoff</author>
+<author orcid="0000-0002-2888-4202" pid="v/ArjenPdeVries">Arjen P. de Vries</author>
+<author pid="42/4842">Kevyn Collins-Thompson</author>
+<title>Copulas for information retrieval.</title>
+<pages>663-672</pages>
+<year>2013</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/2484028.2484066</ee>
+<crossref>conf/sigir/2013</crossref>
+<url>db/conf/sigir/sigir2013.html#EickhoffVC13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsdm/EickhoffCBD13" mdate="2018-11-06">
+<author pid="42/8700">Carsten Eickhoff</author>
+<author pid="42/4842">Kevyn Collins-Thompson</author>
+<author pid="33/6188">Paul N. Bennett</author>
+<author pid="d/SusanTDumais">Susan T. Dumais</author>
+<title>Personalizing atypical web search sessions.</title>
+<pages>285-294</pages>
+<year>2013</year>
+<booktitle>WSDM</booktitle>
+<ee>https://doi.org/10.1145/2433396.2433434</ee>
+<crossref>conf/wsdm/2013</crossref>
+<url>db/conf/wsdm/wsdm2013.html#EickhoffCBD13</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/dir/2013" mdate="2023-03-10">
+<editor pid="42/8700">Carsten Eickhoff</editor>
+<editor pid="v/ArjenPdeVries">Arjen P. de Vries</editor>
+<title>Proceedings of the 13th Dutch-Belgian Workshop on Information Retrieval, Delft, The Netherlands, April 26th, 2013</title>
+<booktitle>DIR</booktitle>
+<publisher>CEUR-WS.org</publisher>
+<series href="db/series/ceurws/index.html">CEUR Workshop Proceedings</series>
+<volume>986</volume>
+<year>2013</year>
+<ee type="oa">https://ceur-ws.org/Vol-986</ee>
+<ee>https://nbn-resolving.org/urn:nbn:de:0074-986-5</ee>
+<url>db/conf/dir/dir2013.html</url>
+</proceedings>
+</r>
+<r><article key="journals/sigir/KazaiEB12" mdate="2018-11-06">
+<author pid="k/GabriellaKazai">Gabriella Kazai</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<author pid="b/PBrusilovsky">Peter Brusilovsky</author>
+<title>Report on BooksOnline'11: 4th workshop on online books, complementary social media, and crowdsourcing.</title>
+<pages>43-50</pages>
+<year>2012</year>
+<volume>46</volume>
+<journal>SIGIR Forum</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/2215676.2215680</ee>
+<url>db/journals/sigir/sigir46.html#KazaiEB12</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/GyllstromEVM12" mdate="2018-11-06">
+<author pid="13/1086">Karl Gyllstrom</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<author orcid="0000-0002-2888-4202" pid="v/ArjenPdeVries">Arjen P. de Vries</author>
+<author pid="m/MarieFrancineMoens">Marie-Francine Moens</author>
+<title>The downside of markup: examining the harmful effects of CSS and javascript on indexing today's web.</title>
+<pages>1990-1994</pages>
+<year>2012</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/2396761.2398558</ee>
+<crossref>conf/cikm/2012</crossref>
+<url>db/conf/cikm/cikm2012.html#GyllstromEVM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/KazaiLEB12" mdate="2022-10-02">
+<author pid="k/GabriellaKazai">Gabriella Kazai</author>
+<author orcid="0000-0003-1414-6329" pid="67/5797">Monica Landoni</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<author orcid="0000-0002-1902-1464" pid="b/PBrusilovsky">Peter Brusilovsky</author>
+<title>Booksonline'12: 5th workshop on online books, complementary social media and their impact.</title>
+<pages>2764-2765</pages>
+<year>2012</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/2396761.2398757</ee>
+<crossref>conf/cikm/2012</crossref>
+<url>db/conf/cikm/cikm2012.html#KazaiLEB12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecir/AzzopardiDTEGGHJKMMPSV12" mdate="2017-06-02">
+<author pid="29/4018">Leif Azzopardi</author>
+<author pid="33/11145">Douglas Dowie</author>
+<author pid="47/8313">Sergio Duarte Torres</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<author pid="00/4905">Richard Glassey</author>
+<author pid="13/1086">Karl Gyllstrom</author>
+<author orcid="0000-0003-4967-2900" pid="19/3140">Djoerd Hiemstra</author>
+<author pid="d/FranciskadeJong">Franciska de Jong</author>
+<author pid="69/9457">Frea Kruisinga</author>
+<author pid="38/11145">Kelly Ann Marshall</author>
+<author pid="m/MarieFrancineMoens">Sien Moens</author>
+<author pid="54/7270">Tamara Polajnar</author>
+<author pid="96/7893">Frans van der Sluis</author>
+<author orcid="0000-0002-2888-4202" pid="v/ArjenPdeVries">Arjen P. de Vries</author>
+<title>EmSe: Supporting Children's Information Needs within a Hospital Environment.</title>
+<pages>578-580</pages>
+<year>2012</year>
+<booktitle>ECIR</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-28997-2_70</ee>
+<crossref>conf/ecir/2012</crossref>
+<url>db/conf/ecir/ecir2012.html#AzzopardiDTEGGHJKMMPSV12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iiix/EickhoffDV12" mdate="2018-11-06">
+<author pid="42/8700">Carsten Eickhoff</author>
+<author pid="151/3264">Pieter Dekker</author>
+<author orcid="0000-0002-2888-4202" pid="v/ArjenPdeVries">Arjen P. de Vries</author>
+<title>Supporting children's web search in school environments.</title>
+<pages>129-137</pages>
+<year>2012</year>
+<booktitle>IIiX</booktitle>
+<ee>https://doi.org/10.1145/2362724.2362748</ee>
+<crossref>conf/iiix/2012</crossref>
+<url>db/conf/iiix/iiix2012.html#EickhoffDV12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iiix/EickhoffAHJVDDGGKMMPS12" mdate="2018-11-06">
+<author pid="42/8700">Carsten Eickhoff</author>
+<author pid="29/4018">Leif Azzopardi</author>
+<author orcid="0000-0003-4967-2900" pid="19/3140">Djoerd Hiemstra</author>
+<author pid="d/FranciskadeJong">Franciska de Jong</author>
+<author orcid="0000-0002-2888-4202" pid="v/ArjenPdeVries">Arjen P. de Vries</author>
+<author pid="33/11145">Douglas Dowie</author>
+<author pid="47/8313">Sergio Duarte Torres</author>
+<author pid="00/4905">Richard Glassey</author>
+<author pid="13/1086">Karl Gyllstrom</author>
+<author pid="69/9457">Frea Kruisinga</author>
+<author pid="38/11145">Kelly Ann Marshall</author>
+<author pid="m/MarieFrancineMoens">Sien Moens</author>
+<author pid="54/7270">Tamara Polajnar</author>
+<author pid="96/7893">Frans van der Sluis</author>
+<title>EmSe: initial evaluation of a child-friendly medical search system.</title>
+<pages>282-285</pages>
+<year>2012</year>
+<booktitle>IIiX</booktitle>
+<ee>https://doi.org/10.1145/2362724.2362775</ee>
+<crossref>conf/iiix/2012</crossref>
+<url>db/conf/iiix/iiix2012.html#EickhoffAHJVDDGGKMMPS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lrec/LeuskiEGL12" mdate="2019-08-19">
+<author pid="96/4225">Anton Leuski</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<author pid="126/8812">James Ganis</author>
+<author pid="56/3029">Victor Lavrenko</author>
+<title>The BladeMistress Corpus: From Talk to Action in Virtual Worlds.</title>
+<pages>4060-4067</pages>
+<year>2012</year>
+<booktitle>LREC</booktitle>
+<ee type="oa">http://www.lrec-conf.org/proceedings/lrec2012/summaries/206.html</ee>
+<crossref>conf/lrec/2012</crossref>
+<url>db/conf/lrec/lrec2012.html#LeuskiEGL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/EickhoffHVS12" mdate="2021-10-14">
+<author pid="42/8700">Carsten Eickhoff</author>
+<author orcid="0000-0002-5214-8512" pid="68/9124-1">Christopher G. Harris 0001</author>
+<author orcid="0000-0002-2888-4202" pid="v/ArjenPdeVries">Arjen P. de Vries</author>
+<author orcid="0000-0001-8791-403X" pid="14/1927">Padmini Srinivasan</author>
+<title>Quality through flow and immersion: gamifying crowdsourced relevance assessments.</title>
+<pages>871-880</pages>
+<year>2012</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/2348283.2348400</ee>
+<crossref>conf/sigir/2012</crossref>
+<url>db/conf/sigir/sigir2012.html#EickhoffHVS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/Eickhoff12" mdate="2018-11-06">
+<author pid="42/8700">Carsten Eickhoff</author>
+<title>Relevance as a subjective and situational multidimensional concept.</title>
+<pages>998</pages>
+<year>2012</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/2348283.2348422</ee>
+<crossref>conf/sigir/2012</crossref>
+<url>db/conf/sigir/sigir2012.html#Eickhoff12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/LiEV12" mdate="2018-11-06">
+<author pid="06/721">Wen Li</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<author orcid="0000-0002-2888-4202" pid="v/ArjenPdeVries">Arjen P. de Vries</author>
+<title>Want a coffee?: predicting users' trails.</title>
+<pages>1171-1172</pages>
+<year>2012</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/2348283.2348524</ee>
+<crossref>conf/sigir/2012</crossref>
+<url>db/conf/sigir/sigir2012.html#LiEV12</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/cikm/2012books" mdate="2022-02-15">
+<editor pid="k/GabriellaKazai">Gabriella Kazai</editor>
+<editor pid="67/5797">Monica Landoni</editor>
+<editor pid="42/8700">Carsten Eickhoff</editor>
+<editor pid="b/PBrusilovsky">Peter Brusilovsky</editor>
+<title>Proceedings of the Fifth ACM Workshop on Research Advances in Large Digital Book Repositories and Complementary Media, BooksOnline@CIKM '12, Maui, Hawaii, USA, October 29, 2012</title>
+<booktitle>BooksOnline@CIKM</booktitle>
+<publisher>ACM</publisher>
+<year>2012</year>
+<isbn>978-1-4503-1714-6</isbn>
+<ee>https://doi.org/10.1145/2390116</ee>
+<url>db/conf/cikm/books2012.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/cikm/LiSVEL11" mdate="2019-12-06">
+<author pid="06/721">Wen Li</author>
+<author pid="12/2720">Pavel Serdyukov</author>
+<author orcid="0000-0002-2888-4202" pid="v/ArjenPdeVries">Arjen P. de Vries</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<author pid="75/107">Martha A. Larson</author>
+<title>The where in the tweet.</title>
+<pages>2473-2476</pages>
+<year>2011</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/2063576.2063995</ee>
+<crossref>conf/cikm/2011</crossref>
+<url>db/conf/cikm/cikm2011.html#LiSVEL11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/KazaiEB11" mdate="2018-11-06">
+<author pid="k/GabriellaKazai">Gabriella Kazai</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<author orcid="0000-0002-1902-1464" pid="b/PBrusilovsky">Peter Brusilovsky</author>
+<title>BooksOnline'11: 4th workshop on online books, complementary social media, and crowdsourcing.</title>
+<pages>2619-2620</pages>
+<year>2011</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/2063576.2064042</ee>
+<crossref>conf/cikm/2011</crossref>
+<url>db/conf/cikm/cikm2011.html#KazaiEB11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecir/EickhoffPGTG11" mdate="2017-05-21">
+<author pid="42/8700">Carsten Eickhoff</author>
+<author pid="54/7270">Tamara Polajnar</author>
+<author pid="13/1086">Karl Gyllstrom</author>
+<author pid="47/8313">Sergio Duarte Torres</author>
+<author pid="00/4905">Richard Glassey</author>
+<title>Web Search Query Assistance Functionality for Young Audiences.</title>
+<pages>776-779</pages>
+<year>2011</year>
+<booktitle>ECIR</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-20161-5_92</ee>
+<crossref>conf/ecir/2011</crossref>
+<url>db/conf/ecir/ecir2011.html#EickhoffPGTG11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/trec/Eickhoff0SV11" mdate="2020-03-12">
+<author pid="42/8700">Carsten Eickhoff</author>
+<author pid="68/9124-1">Christopher G. Harris 0001</author>
+<author pid="14/1927">Padmini Srinivasan</author>
+<author pid="v/ArjenPdeVries">Arjen P. de Vries</author>
+<title>GeAnn at the TREC 2011 Crowdsourcing Track.</title>
+<year>2011</year>
+<booktitle>TREC</booktitle>
+<ee type="oa">http://trec.nist.gov/pubs/trec20/papers/GeAnn.crowdsourcing.pdf</ee>
+<crossref>conf/trec/2011</crossref>
+<url>db/conf/trec/trec2011.html#Eickhoff0SV11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/trec/LiEV11" mdate="2020-03-12">
+<author pid="06/721">Wen Li</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<author pid="v/ArjenPdeVries">Arjen P. de Vries</author>
+<title>DMIR on Microblog Track 2011.</title>
+<year>2011</year>
+<booktitle>TREC</booktitle>
+<ee type="oa">http://trec.nist.gov/pubs/trec20/papers/TUD-DMIR.microblog.pdf</ee>
+<crossref>conf/trec/2011</crossref>
+<url>db/conf/trec/trec2011.html#LiEV11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/trec/VuurensEV11" mdate="2020-03-12">
+<author pid="119/7122">Jeroen B. P. Vuurens</author>
+<author pid="42/8700">Carsten Eickhoff</author>
+<author pid="v/ArjenPdeVries">Arjen P. de Vries</author>
+<title>Managing the Quality of Large-Scale Crowdsourcing.</title>
+<year>2011</year>
+<booktitle>TREC</booktitle>
+<ee type="oa">http://trec.nist.gov/pubs/trec20/papers/TUD_DMIR.crowdsourcing.4-20update.pdf</ee>
+<crossref>conf/trec/2011</crossref>
+<url>db/conf/trec/trec2011.html#VuurensEV11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsdm/EickhoffSV11" mdate="2018-11-06">
+<author pid="42/8700">Carsten Eickhoff</author>
+<author pid="12/2720">Pavel Serdyukov</author>
+<author orcid="0000-0002-2888-4202" pid="v/ArjenPdeVries">Arjen P. de Vries</author>
+<title>A combined topical/non-topical approach to identifying web sites for children.</title>
+<pages>505-514</pages>
+<year>2011</year>
+<booktitle>WSDM</booktitle>
+<ee>https://doi.org/10.1145/1935826.1935900</ee>
+<crossref>conf/wsdm/2011</crossref>
+<url>db/conf/wsdm/wsdm2011.html#EickhoffSV11</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/cikm/2011books" mdate="2022-05-04">
+<editor pid="k/GabriellaKazai">Gabriella Kazai</editor>
+<editor pid="42/8700">Carsten Eickhoff</editor>
+<editor pid="b/PBrusilovsky">Peter Brusilovsky</editor>
+<title>Proceedings of the 4th ACM Workshop on Online books, complementary social media and crowdsourcing, BooksOnline 2011, Glasgow, United Kingdom, October 24, 2011</title>
+<booktitle>BooksOnline</booktitle>
+<publisher>ACM</publisher>
+<year>2011</year>
+<ee>https://dl.acm.org/doi/10.1145/2064058</ee>
+<url>db/conf/cikm/books2011.html</url>
+<isbn>978-1-4503-0961-5</isbn>
+</proceedings>
+</r>
+<r><inproceedings key="conf/cikm/EickhoffSV10" mdate="2018-11-06">
+<author pid="42/8700">Carsten Eickhoff</author>
+<author pid="12/2720">Pavel Serdyukov</author>
+<author orcid="0000-0002-2888-4202" pid="v/ArjenPdeVries">Arjen P. de Vries</author>
+<title>Web page classification on child suitability.</title>
+<pages>1425-1428</pages>
+<year>2010</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/1871437.1871638</ee>
+<crossref>conf/cikm/2010</crossref>
+<url>db/conf/cikm/cikm2010.html#EickhoffSV10</url>
+</inproceedings>
+</r>
+<coauthors n="228" nc="6">
+<co c="0"><na f="a/Abbasi:Adeel" pid="289/1768">Adeel Abbasi</na></co>
+<co c="0"><na f="a/Ahmed:Abdullah" pid="77/600">Abdullah Ahmed</na></co>
+<co c="0"><na f="a/Alon:Gil" pid="243/0329">Gil Alon</na></co>
+<co c="0"><na f="a/Andrearczyk:Vincent" pid="175/1436">Vincent Andrearczyk</na></co>
+<co c="0"><na f="a/Arampatzis:Avi" pid="15/3521">Avi Arampatzis</na></co>
+<co c="0"><na f="a/Arenas:Helbert" pid="37/4018">Helbert Arenas</na></co>
+<co c="0"><na f="a/Atalay:Michael" pid="340/7046">Michael Atalay</na></co>
+<co c="0"><na f="a/Avram:Rachel" pid="306/1239">Rachel Avram</na></co>
+<co c="0"><na f="a/Azzopardi:Leif" pid="29/4018">Leif Azzopardi</na></co>
+<co c="0"><na f="b/Bahrainian:Seyed_Ali" pid="54/8382">Seyed Ali Bahrainian</na></co>
+<co c="0"><na f="b/Bai:Harrison" pid="318/0459">Harrison Bai</na></co>
+<co c="0"><na f="b/Bansal:Piyush" pid="97/7205">Piyush Bansal</na></co>
+<co c="4"><na f="b/Baruah:Prakrit" pid="240/8671">Prakrit Baruah</na></co>
+<co c="5"><na f="b/Beeler:Patrick_E=" pid="134/2299">Patrick E. Beeler</na></co>
+<co c="0"><na f="b/Bennett:Paul_N=" pid="33/6188">Paul N. Bennett</na></co>
+<co c="0"><na f="b/Bhamidipaty:Anuradha" pid="08/6630">Anuradha Bhamidipaty</na></co>
+<co c="0"><na f="b/Blinova:Sofia" pid="351/5269">Sofia Blinova</na></co>
+<co c="0"><na f="b/Boato:Giulia" pid="90/3132">Giulia Boato</na></co>
+<co c="0"><na f="b/Boullier:Jocelyn" pid="188/1401">Jocelyn Boullier</na></co>
+<co c="0"><na f="b/Brassey:Jon" pid="150/5373">Jon Brassey</na></co>
+<co c="0"><na f="b/Brusilovsky:Peter" pid="b/PBrusilovsky">Peter Brusilovsky</na></co>
+<co c="0"><na f="c/Cappellato:Linda" pid="150/5362">Linda Cappellato</na></co>
+<co c="0"><na f="c/Castricato:Louis" pid="208/4745">Louis Castricato</na></co>
+<co c="0"><na f="c/Chang:Ken" pid="42/10254">Ken Chang</na></co>
+<co c="0"><na f="c/Chen:Catherine" pid="05/5358">Catherine Chen</na></co>
+<co c="0"><na f="c/Chen:Elizabeth" pid="268/5893">Elizabeth Chen</na></co>
+<co c="0"><na f="c/Chen:Elizabeth_S=" pid="59/4077">Elizabeth S. Chen</na></co>
+<co c="0"><na f="c/Chen:Zhizhong" pid="80/5432">Zhizhong Chen</na></co>
+<co c="0"><na f="c/Choi:Ji_Whae" pid="343/7709">Ji Whae Choi</na></co>
+<co c="0"><na f="c/Cid:Yashin_Dicente" pid="159/1631">Yashin Dicente Cid</na></co>
+<co c="0"><na f="c/Cohen:Daniel" pid="85/2738">Daniel Cohen</na></co>
+<co c="0"><na f="c/Collins=Thompson:Kevyn" pid="42/4842">Kevyn Collins-Thompson</na></co>
+<co c="0"><na f="c/Crestani:Fabio" pid="c/FabioCrestani">Fabio Crestani</na></co>
+<co c="3"><na f="d/Dai:Yuanfei" pid="231/0912">Yuanfei Dai</na></co>
+<co c="0"><na f="d/Dang=Nguyen:Duc=Tien" pid="16/10574">Duc-Tien Dang-Nguyen</na></co>
+<co c="0"><na f="d/Davtyan:Martin" pid="29/10154">Martin Davtyan</na></co>
+<co c="0"><na f="d/Dekker:Pieter" pid="151/3264">Pieter Dekker</na></co>
+<co c="0"><na f="d/Dowie:Douglas" pid="33/11145">Douglas Dowie</na></co>
+<co c="0"><na f="d/Du:Kevin" pid="323/9669">Kevin Du</na></co>
+<co c="4"><na f="d/Dulepet:Riya" pid="240/8702">Riya Dulepet</na></co>
+<co c="0"><na f="d/Dumais:Susan_T=" pid="d/SusanTDumais">Susan T. Dumais</na></co>
+<co c="0"><na f="d/Duncan:Dominique" pid="198/4076">Dominique Duncan</na></co>
+<co c="0"><na f="d/Dungs:Sebastian" pid="134/2150">Sebastian Dungs</na></co>
+<co c="0"><na f="e/Ebert:Dylan" pid="169/3346">Dylan Ebert</na></co>
+<co c="0"><na f="e/Eghlidi:Negar_Foroutan" pid="174/4070">Negar Foroutan Eghlidi</na></co>
+<co c="0"><na f="e/Eisman:Aaron_S=" pid="212/8825">Aaron S. Eisman</na></co>
+<co c="0"><na f="e/Eweje:Feyisope" pid="343/7978">Feyisope Eweje</na></co>
+<co c="1"><na f="f/Falk:Volkmar" pid="60/4048">Volkmar Falk</na></co>
+<co c="0"><na f="f/Fan_0001:Yong" pid="00/5170-1">Yong Fan 0001</na></co>
+<co c="0"><na f="f/Farri:Oladimeji" pid="119/3097">Oladimeji Farri</na></co>
+<co c="0"><na f="f/Feldman:Michael_D=" pid="85/1391">Michael D. Feldman</na></co>
+<co c="0"><na f="f/Feng:Cai" pid="91/1593">Cai Feng</na></co>
+<co c="0"><na f="f/Feng:Xue" pid="01/5235">Xue Feng</na></co>
+<co c="0"><na f="f/Ferro_0001:Nicola" pid="f/NicolaFerro">Nicola Ferro 0001</na></co>
+<co c="0"><na f="f/Feucht:Sheridan" pid="306/1619">Sheridan Feucht</na></co>
+<co c="0" n="2"><na f="f/Fraser:Hamish_S=_F=" pid="25/104">Hamish S. F. Fraser</na><na>Hamish Fraser 0001</na></co>
+<co c="-1"><na f="g/Galk=oacute=:Ferenc" pid="213/7661">Ferenc Galk&#243;</na></co>
+<co c="0" n="2"><na f="g/Ganea:Marina" pid="178/3588">Marina Ganea</na><na>Marina Horlescu</na></co>
+<co c="0"><na f="g/Ganea:Octavian=Eugen" pid="168/8242">Octavian-Eugen Ganea</na></co>
+<co c="0"><na f="g/Ganis:James" pid="126/8812">James Ganis</na></co>
+<co c="-1"><na f="g/Garcia=Agundez:Augusto" pid="182/5201">Augusto Garcia-Agundez</na></co>
+<co c="0"><na f="g/Garg:Muskaan" pid="306/1565">Muskaan Garg</na></co>
+<co c="0"><na f="g/Gillman:Nate" pid="299/8280">Nate Gillman</na></co>
+<co c="0"><na f="g/Glassey:Richard" pid="00/4905">Richard Glassey</na></co>
+<co c="0"><na f="g/Gmehlin:Floran" pid="247/5747">Floran Gmehlin</na></co>
+<co c="0"><na f="g/Golovanevsky:Michal" pid="322/7058">Michal Golovanevsky</na></co>
+<co c="0"><na f="g/Gong:Ji_Sheng" pid="343/8137">Ji Sheng Gong</na></co>
+<co c="0"><na f="g/Grasserbauer:Klaus_Antonius" pid="295/9693">Klaus Antonius Grasserbauer</na></co>
+<co c="2"><na f="g/Greuter:Simon" pid="196/0728">Simon Greuter</na></co>
+<co c="0"><na f="g/Griner:Jannick" pid="223/1837">Jannick Griner</na></co>
+<co c="0"><na f="g/Grnarova:Paulina" pid="150/0166">Paulina Grnarova</na></co>
+<co c="3"><na f="g/Guo:Chenhao" pid="234/4626">Chenhao Guo</na></co>
+<co c="3"><na f="g/Guo:Wenzhong" pid="10/2272">Wenzhong Guo</na></co>
+<co c="0"><na f="g/Gurrin:Cathal" pid="40/5060">Cathal Gurrin</na></co>
+<co c="0"><na f="g/Gwizdka:Jacek" pid="09/6688">Jacek Gwizdka</na></co>
+<co c="0"><na f="g/Gyllstrom:Karl" pid="13/1086">Karl Gyllstrom</na></co>
+<co c="0"><na f="h/Halsey:Kasey_C=" pid="343/7769">Kasey C. Halsey</na></co>
+<co c="0"><na f="h/Hanbury:Allan" pid="55/6683">Allan Hanbury</na></co>
+<co c="0"><na f="h/Harris_0001:Christopher_G=" pid="68/9124-1">Christopher G. Harris 0001</na></co>
+<co c="0"><na f="h/Hasan:Sadid_A=" pid="92/5132">Sadid A. Hasan</na></co>
+<co c="0"><na f="h/Hauff:Claudia" pid="73/906">Claudia Hauff</na></co>
+<co c="0"><na f="h/He:Jiyin" pid="05/5662">Jiyin He</na></co>
+<co c="0"><na f="h/Healey:Terrance" pid="343/8116">Terrance Healey</na></co>
+<co c="0"><na f="h/Hemmatian:Babak" pid="249/7096">Babak Hemmatian</na></co>
+<co c="0"><na f="h/Herrera:Alba_Garcia_Seco_de" pid="12/10072">Alba Garcia Seco de Herrera</na></co>
+<co c="0"><na f="h/Heuss:Maria" pid="309/7337">Maria Heuss</na></co>
+<co c="0"><na f="h/Hiemstra:Djoerd" pid="19/3140">Djoerd Hiemstra</na></co>
+<co c="0"><na f="h/Hofmann:Thomas" pid="h/ThHofmann">Thomas Hofmann</na></co>
+<co c="0"><na f="h/Hofst=auml=tter:Sebastian" pid="238/6322">Sebastian Hofst&#228;tter</na></co>
+<co c="-1"><na f="h/Hollmann:Noah" pid="204/2755">Noah Hollmann</na></co>
+<co c="0"><na f="h/Hsieh:Celina" pid="309/0643">Celina Hsieh</na></co>
+<co c="0"><na f="h/Huang:Raymond_Y=" pid="318/9388">Raymond Y. Huang</na></co>
+<co c="0"><na f="h/Hyland:Stephanie_L=" pid="170/0022">Stephanie L. Hyland</na></co>
+<co c="0"><na f="i/Ionescu:Bogdan" pid="53/948">Bogdan Ionescu</na></co>
+<co c="0"><na f="i/Islam:Md_Bayzidul" pid="204/2648">Md Bayzidul Islam</na></co>
+<co c="0"><na f="j/Jagerman:Rolf" pid="144/7357">Rolf Jagerman</na></co>
+<co c="0"><na f="j/Jaggi:Martin" pid="17/4402">Martin Jaggi</na></co>
+<co c="0"><na f="j/Jayaraman:Srideepika" pid="276/0265">Srideepika Jayaraman</na></co>
+<co c="0"><na f="j/Jiao:Zhicheng" pid="180/5168">Zhicheng Jiao</na></co>
+<co c="0"><na f="j/Joho:Hideo" pid="83/5350">Hideo Joho</na></co>
+<co c="0"><na f="j/Jong:Franciska_de" pid="d/FranciskadeJong">Franciska de Jong</na></co>
+<co c="2"><na f="j/Junker:Philip" pid="196/0812">Philip Junker</na></co>
+<co c="0"><na f="j/Jurayj:William" pid="321/1018">William Jurayj</na></co>
+<co c="0"><na f="k/Kahles:Andr=eacute=" pid="17/11107">Andr&#233; Kahles</na></co>
+<co c="0"><na f="k/Kamel:Ihab" pid="238/2692">Ihab Kamel</na></co>
+<co c="0"><na f="k/Kanoulas:Evangelos" pid="22/3088">Evangelos Kanoulas</na></co>
+<co c="0"><na f="k/Karasikov:Mikhail" pid="235/6577">Mikhail Karasikov</na></co>
+<co c="0"><na f="k/Kazai:Gabriella" pid="k/GabriellaKazai">Gabriella Kazai</na></co>
+<co c="1"><na f="k/Kempfert:J=ouml=rg" pid="71/8525">J&#246;rg Kempfert</na></co>
+<co c="0"><na f="k/Kim:Chris_K=" pid="259/8851">Chris K. Kim</na></co>
+<co c="0"><na f="k/Kim:Leila" pid="260/2050">Leila Kim</na></co>
+<co c="0"><na f="k/Kim:Yubin" pid="96/7992">Yubin Kim</na></co>
+<co c="0"><na f="k/Kovalev:Vassili" pid="97/4066">Vassili Kovalev</na></co>
+<co c="0"><na f="k/Kruisinga:Frea" pid="69/9457">Frea Kruisinga</na></co>
+<co c="2"><na f="k/Kuhn:Lorenz" pid="183/6301">Lorenz Kuhn</na></co>
+<co c="1"><na f="k/K=uuml=hne:Titus" pid="69/7091">Titus K&#252;hne</na></co>
+<co c="0"><na f="k/Kumar:Deepak" pid="66/3984">Deepak Kumar</na></co>
+<co c="0"><na f="l/Landoni:Monica" pid="67/5797">Monica Landoni</na></co>
+<co c="0"><na f="l/Larson:Martha_A=" pid="75/107">Martha A. Larson</na></co>
+<co c="0"><na f="l/Lavrenko:Victor" pid="56/3029">Victor Lavrenko</na></co>
+<co c="0"><na f="l/Lesota:Oleg" pid="287/9927">Oleg Lesota</na></co>
+<co c="0"><na f="l/Leuski:Anton" pid="96/4225">Anton Leuski</na></co>
+<co c="0"><na f="l/Li:Cindy" pid="268/5415">Cindy Li</na></co>
+<co c="0"><na f="l/Li:Wen" pid="06/721">Wen Li</na></co>
+<co c="0"><na f="l/Liao:Wei=hua" pid="309/0869">Wei-hua Liao</na></co>
+<co c="0"><na f="l/Liauchuk:Vitali" pid="204/2860">Vitali Liauchuk</na></co>
+<co c="0"><na f="l/Ling:Yuan" pid="92/4467">Yuan Ling</na></co>
+<co c="0"><na f="l/Lioma:Christina" pid="16/1917">Christina Lioma</na></co>
+<co c="0"><na f="l/Liu:Chang" pid="52/5716">Chang Liu</na></co>
+<co c="0"><na f="l/Liu:Joey" pid="160/9050">Joey Liu</na></co>
+<co c="0"><na f="l/Liu:Tao" pid="43/656">Tao Liu</na></co>
+<co c="0"><na f="l/Lu:Shaolei" pid="343/8058">Shaolei Lu</na></co>
+<co c="0"><na f="l/Lucchi:Aur=eacute=lien" pid="14/5780">Aur&#233;lien Lucchi</na></co>
+<co c="0"><na f="l/Lungren:Matthew_P=" pid="209/9732">Matthew P. Lungren</na></co>
+<co c="0"><na f="l/Lupu:Mihai" pid="22/6000">Mihai Lupu</na></co>
+<co c="0"><na f="l/Lux:Mathias" pid="33/1111">Mathias Lux</na></co>
+<co c="2"><na f="m/Mance:Felix" pid="131/6668">Felix Mance</na></co>
+<co c="0"><na f="m/Mansoury:Masoud" pid="183/7693">Masoud Mansoury</na></co>
+<co c="0"><na f="m/Marshall:Kelly_Ann" pid="38/11145">Kelly Ann Marshall</na></co>
+<co c="0"><na f="m/Mercurio:Laura" pid="232/8275">Laura Mercurio</na></co>
+<co c="2"><na f="m/Mermet:Virgile" pid="196/0793">Virgile Mermet</na></co>
+<co c="0"><na f="m/Merullo:Jack" pid="248/8361">Jack Merullo</na></co>
+<co c="0"><na f="m/Mesot:Nicolas" pid="223/1836">Nicolas Mesot</na></co>
+<co c="1"><na f="m/Meyer:Alexander" pid="162/7950">Alexander Meyer</na></co>
+<co c="-1"><na f="m/Mezei:Zsolt" pid="203/8863">Zsolt Mezei</na></co>
+<co c="0"><na f="m/Mitra_0001:Bhaskar" pid="147/9120-1">Bhaskar Mitra 0001</na></co>
+<co c="0" n="2"><na f="m/Moens:Marie=Francine" pid="m/MarieFrancineMoens">Marie-Francine Moens</na><na>Sien Moens</na></co>
+<co c="0"><na f="m/Mothe:Josiane" pid="m/JosianeMothe">Josiane Mothe</na></co>
+<co c="0"><na f="m/M=uuml=ller:Henning" pid="93/4446">Henning M&#252;ller</na></co>
+<co c="0"><na f="m/Mustafa:Harun" pid="235/6534">Harun Mustafa</na></co>
+<co c="0"><na f="n/Nair:Akira" pid="352/2606">Akira Nair</na></co>
+<co c="0"><na f="n/Nathoo:Isaac" pid="260/2122">Isaac Nathoo</na></co>
+<co c="0"><na f="n/N=eacute=v=eacute=ol:Aur=eacute=lie" pid="37/3908">Aur&#233;lie N&#233;v&#233;ol</na></co>
+<co c="0"><na f="o/Ou:Jie=Lin" pid="343/8022">Jie-Lin Ou</na></co>
+<co c="0"><na f="p/Pal:Koyena" pid="199/3285">Koyena Pal</na></co>
+<co c="0"><na f="p/Patel:Anu_V=" pid="247/6306">Anu V. Patel</na></co>
+<co c="0"><na f="p/Patel_0002:Dhaval" pid="28/1282-2">Dhaval Patel 0002</na></co>
+<co c="0"><na f="p/Pavlick:Ellie" pid="141/4059">Ellie Pavlick</na></co>
+<co c="1"><na f="p/Pfahringer:Boris" pid="243/1908">Boris Pfahringer</na></co>
+<co c="0"><na f="p/Piras_0001:Luca" pid="00/7629-1">Luca Piras 0001</na></co>
+<co c="0"><na f="p/Polajnar:Tamara" pid="54/7270">Tamara Polajnar</na></co>
+<co c="4"><na f="q/Qian:Kyle" pid="233/5070">Kyle Qian</na></co>
+<co c="5"><na f="r/Raiskin:Yarden" pid="250/6772">Yarden Raiskin</na></co>
+<co c="-1"><na f="r/Ramos:Jerome" pid="247/6348">Jerome Ramos</na></co>
+<co c="1"><na f="r/Rank:Nina" pid="344/0080">Nina Rank</na></co>
+<co c="0"><na f="r/R=auml=tsch:Gunnar" pid="33/3796">Gunnar R&#228;tsch</na></co>
+<co c="0"><na f="r/Rayne:Taylor" pid="299/8497">Taylor Rayne</na></co>
+<co c="0"><na f="r/Rekabsaz:Navid" pid="150/5089">Navid Rekabsaz</na></co>
+<co c="2"><na f="r/Rellstab:Angela" pid="196/0759">Angela Rellstab</na></co>
+<co c="0"><na f="r/Riegler_0001:Michael" pid="129/8082">Michael Riegler 0001</na></co>
+<co c="0"><na f="r/Rijke:Maarten_de" pid="r/MdRijke">Maarten de Rijke</na></co>
+<co c="0"><na f="r/Rudman:William" pid="299/8116">William Rudman</na></co>
+<co c="-1"><na f="s/Sagayaraj:Toni" pid="307/3089">Toni Sagayaraj</na></co>
+<co c="0"><na f="s/Sandstede:Bj=ouml=rn" pid="89/5305">Bj&#246;rn Sandstede</na></co>
+<co c="0"><na f="s/Sarda:Siddharth" pid="175/1308">Siddharth Sarda</na></co>
+<co c="0"><na f="s/Sarkar:Indra_Neil" pid="46/2509">Indra Neil Sarkar</na></co>
+<co c="0" n="2"><na f="s/Savova:Guergana_K=" pid="73/5451">Guergana K. Savova</na><na>Guergana Savova</na></co>
+<co c="0"><na f="s/Schedl:Markus" pid="77/271">Markus Schedl</na></co>
+<co c="0"><na f="s/Schilken:Ingo" pid="235/6579">Ingo Schilken</na></co>
+<co c="0"><na f="s/Schiller:Eva" pid="352/2869">Eva Schiller</na></co>
+<co c="0"><na f="s/Schmidt_0005:Florian" pid="61/4643-5">Florian Schmidt 0005</na></co>
+<co c="1"><na f="s/Schoenrath:Felix" pid="344/0346">Felix Schoenrath</na></co>
+<co c="0"><na f="s/Sch=ouml=ngens:Marcel" pid="19/7216">Marcel Sch&#246;ngens</na></co>
+<co c="0"><na f="s/Schwall:Immanuel" pid="204/2888">Immanuel Schwall</na></co>
+<co c="0"><na f="s/Sebro:Ronnie" pid="186/9183">Ronnie Sebro</na></co>
+<co c="0"><na f="s/Serdyukov:Pavel" pid="12/2720">Pavel Serdyukov</na></co>
+<co c="0"><na f="s/Shah:Nishant_R=" pid="276/5753">Nishant R. Shah</na></co>
+<co c="0"><na f="s/Singh:Ritambhara" pid="180/5813">Ritambhara Singh</na></co>
+<co c="0"><na f="s/Sloman:Steven_A=" pid="55/2167">Steven A. Sloman</na></co>
+<co c="0"><na f="s/Sluis:Frans_van_der" pid="96/7893">Frans van der Sluis</na></co>
+<co c="0"><na f="s/Sollee:John" pid="343/7968">John Sollee</na></co>
+<co c="0"><na f="s/Spitalnic:Kate" pid="306/1309">Kate Spitalnic</na></co>
+<co c="0"><na f="s/Srinivasan:Padmini" pid="14/1927">Padmini Srinivasan</na></co>
+<co c="1"><na f="s/Stamm:Christof" pid="344/0511">Christof Stamm</na></co>
+<co c="0"><na f="t/Teevan:Jaime" pid="38/129">Jaime Teevan</na></co>
+<co c="0"><na f="t/Torres:Sergio_Duarte" pid="47/8313">Sergio Duarte Torres</na></co>
+<co c="0"><na f="t/Tran:Thi_My_Linh" pid="343/7710">Thi My Linh Tran</na></co>
+<co c="0"><na f="t/Tran_0001:Vu" pid="117/4344">Vu Tran 0001</na></co>
+<co c="0"><na f="t/Tsikrika:Theodora" pid="09/2945">Theodora Tsikrika</na></co>
+<co c="0"><na f="t/Tung:Hwai=Liang" pid="260/2072">Hwai-Liang Tung</na></co>
+<co c="0"><na f="u/Uzun:Ece_D=_Gamsiz" pid="249/6236">Ece D. Gamsiz Uzun</na></co>
+<co c="-1"><na f="v/Veiga:Maria_Han" pid="183/0592">Maria Han Veiga</na></co>
+<co c="0"><na f="v/Villegas:Mauricio" pid="30/1805">Mauricio Villegas</na></co>
+<co c="0"><na f="v/Vogels:Thijs" pid="169/7392">Thijs Vogels</na></co>
+<co c="0"><na f="v/Vries:Arjen_P=_de" pid="v/ArjenPdeVries">Arjen P. de Vries</na></co>
+<co c="0"><na f="v/Vrochidis:Stefanos" pid="44/6029">Stefanos Vrochidis</na></co>
+<co c="0"><na f="v/Vuurens:Jeroen_B=_P=" pid="119/7122">Jeroen B. P. Vuurens</na></co>
+<co c="0"><na f="w/Wang:Charles" pid="79/4301">Charles Wang</na></co>
+<co c="0"><na f="w/Wang:Dongcui" pid="37/6085">Dongcui Wang</na></co>
+<co c="0"><na f="w/Wang_0001:Jianxin" pid="75/2669-1">Jianxin Wang 0001</na></co>
+<co c="0"><na f="w/Wang:Robin" pid="220/8219">Robin Wang</na></co>
+<co c="0"><na f="w/Webson:Albert" pid="276/1456">Albert Webson</na></co>
+<co c="0"><na f="w/Wei:Xing" pid="14/4301">Xing Wei</na></co>
+<co c="-1"><na f="w/Weingart:Nino" pid="183/8626">Nino Weingart</na></co>
+<co c="0"><na f="w/Werra:Leandro_von" pid="223/1855">Leandro von Werra</na></co>
+<co c="0"><na f="w/Wey:Alexander" pid="306/1430">Alexander Wey</na></co>
+<co c="0" n="2"><na f="w/White:Ryen_W=" pid="w/RyenWWhite">Ryen W. White</na><na>Ryen White</na></co>
+<co c="0"><na f="w/Wu:Jing" pid="88/3604">Jing Wu</na></co>
+<co c="0"><na f="w/Wu:Wen=Chih" pid="65/5670">Wen-Chih Wu</na></co>
+<co c="0"><na f="y/Yang:Fang=Xue" pid="343/8174">Fang-Xue Yang</na></co>
+<co c="-1"><na f="y/Yang_0022:Jing" pid="62/5839-22">Jing Yang 0022</na></co>
+<co c="0"><na f="y/Yi:Thomas_Y=" pid="343/7665">Thomas Y. Yi</na></co>
+<co c="0" n="2"><na f="y/Yildiz:Ilkay" pid="198/8530">Ilkay Yildiz</na><na>Ilkay Yildiz Potter</na></co>
+<co c="0"><na f="z/Zaidat:Bashar" pid="260/2037">Bashar Zaidat</na></co>
+<co c="0"><na f="z/Zerveas:George" pid="232/1820">George Zerveas</na></co>
+<co c="0"><na f="z/Zhang:Ruochen" pid="144/1524">Ruochen Zhang</na></co>
+<co c="0"><na f="z/Zhou:Liting" pid="156/1503">Liting Zhou</na></co>
+<co c="0"><na f="z/Zhou:Xinyu" pid="27/3481">Xinyu Zhou</na></co>
+</coauthors>
+</dblpperson>
+
