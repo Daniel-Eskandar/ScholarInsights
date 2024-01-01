@@ -23,3 +23,7 @@
 ### 2.2 AI Publications per Year by Research Field for Each Professor
 
 ![](analysis/plots/publications_per_professor_by_research_field.gif)
+
+## 3. Research Space Analysis
+
+![](analysis/plots/research_space.gif)
