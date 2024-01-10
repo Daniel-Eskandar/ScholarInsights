@@ -27,3 +27,13 @@
 ## 3. Research Space Analysis
 
 ![](analysis/plots/research_space.gif)
+
+## 4. Professor cooperation Networks
+
+## 4.1 Cooperation network with research field groups
+
+![](analysis/plots/prof_group_network.png)
+
+## 4.2 Circular cooperation overview
+
+![](analysis/plots/prof_circle_network.png)
