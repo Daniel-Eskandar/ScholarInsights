@@ -27,3 +27,29 @@
 ## 3. Research Space Analysis
 
 ![](analysis/plots/research_space.gif)
+
+## 4. Professor cooperation Networks
+
+## 4.1 Cooperation network with research field groups
+
+![](analysis/plots/prof_group_network.png)
+
+## 4.2 Circular cooperation overview
+
+![](analysis/plots/prof_circle_network.png)
+
+## 4.3 Top Collaborators for each Professor
+
+![](analysis/plots/professor_collaborators_importance.gif)
+
+## 4.4 Partition Fractions for the top Collaborators for all Professors combined
+
+![](analysis/plots/collaboration_fractions_boxplot.png)
+
+## 4.5 Mean Partition Fractions for the top Collaborators of all Professors
+
+![](analysis/plots/average_collab_fractions.png)
+
+## 4.6 Research Space Analysis combined with Professor Cooperation Count
+
+![](analysis/plots/research_space_network.gif)
