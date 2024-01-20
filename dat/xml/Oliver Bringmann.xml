@@ -1,0 +1,3597 @@
+<?xml version="1.0"?>
+<dblpperson name="Oliver Bringmann 0001" pid="06/6843" n="216">
+<person key="homepages/06/6843" mdate="2020-03-10">
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<url>http://www.ti.uni-tuebingen.de/Oliver-Bringmann.1448.0.html</url>
+<url>https://scholar.google.com/citations?user=pk53ZkAAAAAJ</url>
+<url>https://orcid.org/0000-0002-1615-507X</url>
+<note type="affiliation">University of T&#252;bingen, Department of Computer Science, Germany</note>
+</person>
+<homonyms n="2">
+<h f="b/Bringmann:Oliver"><name>Oliver Bringmann</name>
+</h>
+<h f="b/Bringmann_0002:Oliver"><person key="homepages/06/6843-2" mdate="2019-03-29">
+<author pid="06/6843-2">Oliver Bringmann 0002</author>
+<note label="PhD 2001" type="affiliation">Dresden University of Technology, Germany</note>
+</person>
+</h>
+</homonyms>
+<r><article key="journals/at/GamerdingerTVRB23" mdate="2023-06-17">
+<author pid="283/0185">J&#246;rg Gamerdinger</author>
+<author pid="327/9187">Sven Teufel</author>
+<author pid="228/4766">Georg Volk</author>
+<author pid="349/4645">Anna-Lisa R&#252;eck</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>Analyzing track management strategies for multi object tracking in cooperative autonomous driving scenarios.</title>
+<pages>287-293</pages>
+<year>2023</year>
+<month>April</month>
+<volume>71</volume>
+<journal>Autom.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1515/auto-2022-0157</ee>
+<url>db/journals/at/at71.html#GamerdingerTVRB23</url>
+</article>
+</r>
+<r><article key="journals/qip/GarhoferB23" mdate="2023-11-09">
+<author orcid="0000-0002-6857-3214" pid="343/3202">Simon Garhofer</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>Using an A<sup>*</sup>-based framework for decomposing combinatorial optimization problems to employ NISQ computers.</title>
+<pages>357</pages>
+<year>2023</year>
+<month>October</month>
+<volume>22</volume>
+<journal>Quantum Inf. Process.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1007/s11128-023-04115-w</ee>
+<url>db/journals/qip/qip22.html#GarhoferB23</url>
+</article>
+</r>
+<r><inproceedings key="conf/aicas/BraatzRSB23" mdate="2023-07-24">
+<author pid="352/3529">Yannick Braatz</author>
+<author pid="285/1927">Dennis Sebastian Rieber</author>
+<author pid="252/2274">Taha Soliman</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>Simulation-driven Latency Estimations for Multi-core Machine Learning Accelerators.</title>
+<pages>1-5</pages>
+<year>2023</year>
+<booktitle>AICAS</booktitle>
+<ee>https://doi.org/10.1109/AICAS57966.2023.10168589</ee>
+<crossref>conf/aicas/2023</crossref>
+<url>db/conf/aicas/aicas2023.html#BraatzRSB23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asap/BraatzRSB23" mdate="2023-10-19">
+<author pid="352/3529">Yannick Braatz</author>
+<author pid="285/1927">Dennis Sebastian Rieber</author>
+<author pid="252/2274">Taha Soliman</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>SimPyler: A Compiler-Based Simulation Framework for Machine Learning Accelerators.</title>
+<pages>213-220</pages>
+<year>2023</year>
+<booktitle>ASAP</booktitle>
+<ee>https://doi.org/10.1109/ASAP57973.2023.00042</ee>
+<crossref>conf/asap/2023</crossref>
+<url>db/conf/asap/asap2023.html#BraatzRSB23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coins/GrossGB23" mdate="2023-08-04">
+<author pid="274/6118">Christoph Gro&#223;</author>
+<author pid="353/4212">Florian Gehring</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>Towards Sustainable Energy Communities: Local Optimization of Battery Usage in P2P Energy Trading.</title>
+<pages>1-7</pages>
+<year>2023</year>
+<booktitle>COINS</booktitle>
+<ee>https://doi.org/10.1109/COINS57856.2023.10189231</ee>
+<crossref>conf/coins/2023</crossref>
+<url>db/conf/coins/coins2023.html#GrossGB23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isc2/FleckPNPPAMRBNBBZ23" mdate="2023-11-14">
+<author pid="136/5816">Tobias Fleck</author>
+<author pid="253/6191">Svetlana Pavlitska</author>
+<author pid="238/1729">Sven Nitzsche</author>
+<author pid="238/1725">Brian Pachideh</author>
+<author pid="335/2522">Federico Nicol&#225;s Peccia</author>
+<author pid="284/3748">Soikat Hasan Ahmed</author>
+<author pid="309/1959">Svea Marie Meyer</author>
+<author pid="120/7344">Mathis Richter</author>
+<author pid="360/4639">Kevin Broertjes</author>
+<author pid="62/5283">Emre Neftci</author>
+<author pid="b/JurgenBecker">J&#252;rgen Becker 0001</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="97/3452">J. Marius Z&#246;llner</author>
+<title>Low-Power Traffic Surveillance using Multiple RGB and Event Cameras: A Survey.</title>
+<pages>1-7</pages>
+<year>2023</year>
+<booktitle>ISC2</booktitle>
+<ee>https://doi.org/10.1109/ISC257844.2023.10293592</ee>
+<crossref>conf/isc2/2023</crossref>
+<url>db/conf/isc2/isc2023.html#FleckPNPPAMRBNBBZ23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ivs/GamerdingerTVB23" mdate="2023-08-08">
+<author pid="283/0185">J&#246;rg Gamerdinger</author>
+<author pid="327/9187">Sven Teufel</author>
+<author pid="228/4766">Georg Volk</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>CoLD Fusion: A Real-time Capable Spline-based Fusion Algorithm for Collective Lane Detection.</title>
+<pages>1-8</pages>
+<year>2023</year>
+<booktitle>IV</booktitle>
+<ee>https://doi.org/10.1109/IV55152.2023.10186632</ee>
+<crossref>conf/ivs/2023</crossref>
+<url>db/conf/ivs/ivs2023.html#GamerdingerTVB23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ivs/LaufenbergTKB23" mdate="2023-08-08">
+<author pid="167/1659">Jo Laufenberg</author>
+<author pid="353/5815">Susanne Throner</author>
+<author pid="89/6634">Thomas Kropf</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>Attack Simulation and Adaptation in CAN for Training and Evaluation of IDS.</title>
+<pages>1-6</pages>
+<year>2023</year>
+<booktitle>IV</booktitle>
+<ee>https://doi.org/10.1109/IV55152.2023.10186799</ee>
+<crossref>conf/ivs/2023</crossref>
+<url>db/conf/ivs/ivs2023.html#LaufenbergTKB23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ivs/TeufelGVGB23" mdate="2023-08-08">
+<author pid="327/9187">Sven Teufel</author>
+<author pid="283/0185">J&#246;rg Gamerdinger</author>
+<author pid="228/4766">Georg Volk</author>
+<author pid="161/0144">Christoph Gerum</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>Enhancing Robustness of LiDAR-Based Perception in Adverse Weather using Point Cloud Augmentations.</title>
+<pages>1-6</pages>
+<year>2023</year>
+<booktitle>IV</booktitle>
+<ee>https://doi.org/10.1109/IV55152.2023.10186696</ee>
+<crossref>conf/ivs/2023</crossref>
+<url>db/conf/ivs/ivs2023.html#TeufelGVGB23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mlmi-ws/WernerGRNB23" mdate="2023-10-18">
+<author pid="10/6122">Julia Werner</author>
+<author pid="161/0144">Christoph Gerum</author>
+<author pid="321/4276">Moritz Reiber</author>
+<author pid="266/3193">J&#246;rg Nick</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>Precise Localization Within the GI Tract by Combining Classification of CNNs and Time-Series Analysis of HMMs.</title>
+<pages>174-183</pages>
+<year>2023</year>
+<booktitle>MLMI@MICCAI (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-45676-3_18</ee>
+<crossref>conf/mlmi-ws/2023-2</crossref>
+<url>db/conf/mlmi-ws/mlmi2023-2.html#WernerGRNB23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2309-05380" mdate="2023-09-15">
+<author pid="327/9187">Sven Teufel</author>
+<author pid="283/0185">J&#246;rg Gamerdinger</author>
+<author pid="228/4766">Georg Volk</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>Collective PV-RCNN: A Novel Fusion Technique using Collective Detections for Enhanced Local LiDAR-Based Perception.</title>
+<year>2023</year>
+<volume>abs/2309.05380</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2309.05380</ee>
+<url>db/journals/corr/corr2309.html#abs-2309-05380</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2310-07895" mdate="2023-10-24">
+<author pid="10/6122">Julia Werner</author>
+<author pid="161/0144">Christoph Gerum</author>
+<author pid="321/4276">Moritz Reiber</author>
+<author pid="266/3193">J&#246;rg Nick</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>Precise localization within the GI tract by combining classification of CNNs and time-series analysis of HMMs.</title>
+<year>2023</year>
+<volume>abs/2310.07895</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2310.07895</ee>
+<url>db/journals/corr/corr2310.html#abs-2310-07895</url>
+</article>
+</r>
+<r><article key="journals/tmlr/RusakSPEGBBB22" mdate="2023-05-19">
+<author pid="245/2556">Evgenia Rusak</author>
+<author pid="16/8643-1">Steffen Schneider 0001</author>
+<author pid="347/4580">George Pachitariu</author>
+<author pid="268/6652">Luisa Eck</author>
+<author pid="78/1502">Peter Vincent Gehler</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="37/11107">Wieland Brendel</author>
+<author pid="77/3005">Matthias Bethge</author>
+<title>If your data distribution shifts, use self-learning.</title>
+<year>2022</year>
+<volume>2022</volume>
+<journal>Trans. Mach. Learn. Res.</journal>
+<ee type="oa">https://openreview.net/forum?id=vqRzLv6POg</ee>
+<url>db/journals/tmlr/tmlr2022.html#RusakSPEGBBB22</url>
+</article>
+</r>
+<r><inproceedings key="conf/cases/LubeckJWB22" mdate="2022-11-16">
+<author pid="176/2607">Konstantin L&#252;beck</author>
+<author pid="333/3981">Alexander Louis-Ferdinand Jung</author>
+<author pid="333/2756">Felix Wedlich</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>Work-in-Progress: Ultra-fast yet Accurate Performance Prediction for Deep Neural Network Accelerators.</title>
+<pages>27-28</pages>
+<year>2022</year>
+<booktitle>CASES</booktitle>
+<ee>https://doi.org/10.1109/CASES55004.2022.00020</ee>
+<crossref>conf/cases/2022</crossref>
+<url>db/conf/cases/cases2022.html#LubeckJWB22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/EckerAMHKHDAWMS22" mdate="2023-09-30">
+<author pid="e/WolfgangEcker">Wolfgang Ecker</author>
+<author pid="191/6868">Peer Adelt</author>
+<author pid="m/WMuller3">Wolfgang M&#252;ller 0003</author>
+<author pid="h/ReinholdHeckmann">Reinhold Heckmann</author>
+<author pid="33/1954">Milos Krstic</author>
+<author pid="130/1375">Vladimir Herdt</author>
+<author orcid="0000-0002-9872-1740" pid="d/RolfDrechsler">Rolf Drechsler</author>
+<author pid="72/2036">Gerhard Angst</author>
+<author pid="80/5500">Ralf Wimmer 0001</author>
+<author pid="115/8576">Andreas Mauderer</author>
+<author pid="229/8788">Rafael Stahl</author>
+<author pid="321/0396">Karsten Emrich</author>
+<author pid="96/8188">Daniel Mueller-Gritschneder</author>
+<author orcid="0000-0003-4031-3258" pid="b/BerndBecker">Bernd Becker 0001</author>
+<author pid="31/6987">Philipp Scholl</author>
+<author pid="49/1027">Eyck Jentzsch</author>
+<author pid="171/7622">Jan Schlamelcher</author>
+<author pid="76/1329">Kim Gr&#252;ttner</author>
+<author pid="278/9119">Paul Palomero Bernardo</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="320/9836">Mihaela Damian</author>
+<author pid="133/5083">Julian Oppermann</author>
+<author pid="84/1948-1">Andreas Koch 0001</author>
+<author pid="93/4823">J&#246;rg Bormann</author>
+<author pid="68/7231">Johannes Partzsch</author>
+<author pid="44/6754">Christian Mayr 0001</author>
+<author pid="69/4734">Wolfgang Kunz</author>
+<title>The Scale4Edge RISC-V Ecosystem.</title>
+<pages>808-813</pages>
+<year>2022</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.23919/DATE54114.2022.9774593</ee>
+<crossref>conf/date/2022</crossref>
+<url>db/conf/date/date2022.html#EckerAMHKHDAWMS22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsd/GerumFHBLB22" mdate="2023-01-09">
+<author pid="161/0144">Christoph Gerum</author>
+<author pid="278/8684">Adrian Frischknecht</author>
+<author pid="329/5428">Tobias Hald</author>
+<author pid="278/9119">Paul Palomero Bernardo</author>
+<author pid="176/2607">Konstantin L&#252;beck</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>Hardware Accelerator and Neural Network Co-Optimization for Ultra-Low-Power Audio Processing Devices.</title>
+<pages>365-369</pages>
+<year>2022</year>
+<booktitle>DSD</booktitle>
+<ee>https://doi.org/10.1109/DSD57027.2022.00056</ee>
+<crossref>conf/dsd/2022</crossref>
+<url>db/conf/dsd/dsd2022.html#GerumFHBLB22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/itsc/VolkGBTB22" mdate="2022-11-10">
+<author pid="228/4766">Georg Volk</author>
+<author pid="283/0185">J&#246;rg Gamerdinger</author>
+<author pid="228/4600">Alexander von Bernuth</author>
+<author pid="327/9187">Sven Teufel</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>Environment-aware Optimization of Track-to-Track Fusion for Collective Perception.</title>
+<pages>2385-2392</pages>
+<year>2022</year>
+<booktitle>ITSC</booktitle>
+<ee>https://doi.org/10.1109/ITSC55140.2022.9922388</ee>
+<crossref>conf/itsc/2022</crossref>
+<url>db/conf/itsc/itsc2022.html#VolkGBTB22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vehits/ReichenbacherRK22" mdate="2023-09-30">
+<author pid="297/3777">Christian Reichenb&#228;cher</author>
+<author pid="315/3980">Maximilian Rasch</author>
+<author orcid="0000-0003-0880-0304" pid="315/4690">Zafer Kayatas</author>
+<author pid="167/3703">Florian Wirthm&#252;ller</author>
+<author pid="98/1046">Jochen Hipp</author>
+<author pid="04/21-2">Thao Dang 0002</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>Identifying Scenarios in Field Data to Enable Validation of Highly Automated Driving Systems.</title>
+<pages>134-142</pages>
+<year>2022</year>
+<booktitle>VEHITS</booktitle>
+<ee>https://doi.org/10.5220/0011081500003191</ee>
+<crossref>conf/vehits/2022</crossref>
+<url>db/conf/vehits/vehits2022.html#ReichenbacherRK22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vtc/LaufenbergK022" mdate="2022-09-01">
+<author pid="167/1659">Jo Laufenberg</author>
+<author pid="89/6634">Thomas Kropf</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>A Framework for CAN Communication and Attack Simulation.</title>
+<pages>1-7</pages>
+<year>2022</year>
+<booktitle>VTC Spring</booktitle>
+<ee>https://doi.org/10.1109/VTC2022-Spring54318.2022.9860568</ee>
+<crossref>conf/vtc/2022s</crossref>
+<url>db/conf/vtc/vtc2022s.html#LaufenbergK022</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vtc/TeufelVB022" mdate="2022-09-01">
+<author pid="327/9187">Sven Teufel</author>
+<author pid="228/4766">Georg Volk</author>
+<author pid="228/4600">Alexander von Bernuth</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>Simulating Realistic Rain, Snow, and Fog Variations For Comprehensive Performance Characterization of LiDAR Perception.</title>
+<pages>1-7</pages>
+<year>2022</year>
+<booktitle>VTC Spring</booktitle>
+<ee>https://doi.org/10.1109/VTC2022-Spring54318.2022.9860868</ee>
+<crossref>conf/vtc/2022s</crossref>
+<url>db/conf/vtc/vtc2022s.html#TeufelVB022</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2203-03515" mdate="2022-03-16">
+<author pid="297/3777">Christian Reichenb&#228;cher</author>
+<author pid="315/3980">Maximilian Rasch</author>
+<author pid="315/4690">Zafer Kayatas</author>
+<author pid="167/3703">Florian Wirthm&#252;ller</author>
+<author pid="98/1046">Jochen Hipp</author>
+<author pid="04/21-2">Thao Dang 0002</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>Identifying Scenarios in Field Data to Enable Validation of Highly Automated Driving Systems.</title>
+<year>2022</year>
+<volume>abs/2203.03515</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2203.03515</ee>
+<url>db/journals/corr/corr2203.html#abs-2203-03515</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2205-15568" mdate="2022-06-01">
+<author pid="285/1927">Dennis Rieber</author>
+<author pid="321/4276">Moritz Reiber</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="56/3662">Holger Fr&#246;ning</author>
+<title>HW-Aware Initialization of DNN Auto-Tuning to Improve Exploration Time and Robustness.</title>
+<year>2022</year>
+<volume>abs/2205.15568</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2205.15568</ee>
+<url>db/journals/corr/corr2205.html#abs-2205-15568</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2209-03807" mdate="2022-10-05">
+<author pid="161/0144">Christoph Gerum</author>
+<author pid="278/8684">Adrian Frischknecht</author>
+<author pid="329/5428">Tobias Hald</author>
+<author pid="278/9119">Paul Palomero Bernardo</author>
+<author pid="176/2607">Konstantin L&#252;beck</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>Hardware Accelerator and Neural Network Co-Optimization for Ultra-Low-Power Audio Processing Devices.</title>
+<year>2022</year>
+<volume>abs/2209.03807</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2209.03807</ee>
+<url>db/journals/corr/corr2209.html#abs-2209-03807</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2212-03034" mdate="2023-09-30">
+<author orcid="0000-0002-3587-0415" pid="335/2522">Federico Nicol&#225;s Peccia</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>Integration of a systolic array based hardware accelerator into a DNN operator auto-tuning framework.</title>
+<year>2022</year>
+<volume>abs/2212.03034</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2212.03034</ee>
+<url>db/journals/corr/corr2212.html#abs-2212-03034</url>
+</article>
+</r>
+<r><article key="journals/taco/BenzB21" mdate="2022-01-08">
+<author orcid="0000-0002-6522-6006" pid="218/1192">Joscha Benz</author>
+<author orcid="0000-0002-1615-507X" pid="06/6843">Oliver Bringmann 0001</author>
+<title>Scenario-Aware Program Specialization for Timing Predictability.</title>
+<pages>54:1-54:26</pages>
+<year>2021</year>
+<volume>18</volume>
+<journal>ACM Trans. Archit. Code Optim.</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.1145/3473333</ee>
+<url>db/journals/taco/taco18.html#BenzB21</url>
+</article>
+</r>
+<r><inproceedings key="conf/codes/0001EFFG0HKMBP021" mdate="2022-07-18">
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="e/WolfgangEcker">Wolfgang Ecker</author>
+<author pid="251/9140">Ingo Feldner</author>
+<author pid="278/8684">Adrian Frischknecht</author>
+<author pid="161/0144">Christoph Gerum</author>
+<author pid="h/TimoHamalainen">Timo H&#228;m&#228;l&#228;inen 0001</author>
+<author pid="191/2451">Muhammad Abdullah Hanif</author>
+<author pid="120/7218">Michael J. Klaiber</author>
+<author pid="96/8188">Daniel Mueller-Gritschneder</author>
+<author pid="278/9119">Paul Palomero Bernardo</author>
+<author pid="306/7035">Sebastian Siegfried Prebeck</author>
+<author orcid="0000-0002-2607-8135" pid="s/MuhammadShafique">Muhammad Shafique 0001</author>
+<title>Automated HW/SW co-design for edge AI: state, challenges and steps ahead.</title>
+<pages>11-20</pages>
+<year>2021</year>
+<booktitle>CODES+ISSS</booktitle>
+<ee>https://doi.org/10.1145/3478684.3479261</ee>
+<ee>https://ieeexplore.ieee.org/document/9603364</ee>
+<crossref>conf/codes/2021</crossref>
+<url>db/conf/codes/codes2021.html#0001EFFG0HKMBP021</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icann/MohantyFGB21" mdate="2021-09-16">
+<author orcid="0000-0001-9257-5175" pid="301/5642">Anwesh Mohanty</author>
+<author orcid="0000-0002-1795-0948" pid="278/8684">Adrian Frischknecht</author>
+<author orcid="0000-0002-1715-567X" pid="161/0144">Christoph Gerum</author>
+<author orcid="0000-0002-1615-507X" pid="06/6843">Oliver Bringmann 0001</author>
+<title>Behavior of Keyword Spotting Networks Under Noisy Conditions.</title>
+<pages>369-378</pages>
+<year>2021</year>
+<booktitle>ICANN (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-86362-3_30</ee>
+<crossref>conf/icann/2021-1</crossref>
+<url>db/conf/icann/icann2021-1.html#MohantyFGB21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/indin/HielscherBVRSB21" mdate="2021-10-18">
+<author pid="253/6112">Leon Hielscher</author>
+<author pid="303/9054">Alexander Bloeck</author>
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="64/10499-3">Sebastian Reiter 0003</author>
+<author pid="303/8534">Marc Staiger</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>Platform Generation for Edge AI Devices with Custom Hardware Accelerators.</title>
+<pages>1-8</pages>
+<year>2021</year>
+<booktitle>INDIN</booktitle>
+<ee>https://doi.org/10.1109/INDIN45523.2021.9557519</ee>
+<crossref>conf/indin/2021</crossref>
+<url>db/conf/indin/indin2021.html#HielscherBVRSB21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/itsc/VolkDSBFB21" mdate="2022-04-09">
+<author pid="228/4766">Georg Volk</author>
+<author pid="231/2329">Quentin Delooz</author>
+<author pid="218/4521">Florian A. Schiegg</author>
+<author pid="228/4600">Alexander von Bernuth</author>
+<author orcid="0000-0001-5254-6425" pid="20/3246">Andreas Festag</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>Towards Realistic Evaluation of Collective Perception for Connected and Automated Driving.</title>
+<pages>1049-1056</pages>
+<year>2021</year>
+<booktitle>ITSC</booktitle>
+<ee>https://doi.org/10.1109/ITSC48978.2021.9564783</ee>
+<crossref>conf/itsc/2021</crossref>
+<url>db/conf/itsc/itsc2021.html#VolkDSBFB21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/itsc/BernuthVB21" mdate="2021-11-03">
+<author pid="228/4600">Alexander von Bernuth</author>
+<author pid="228/4766">Georg Volk</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>Augmenting Image Data Sets With Water Spray Caused by Vehicles on Wet Roads.</title>
+<pages>3055-3060</pages>
+<year>2021</year>
+<booktitle>ITSC</booktitle>
+<ee>https://doi.org/10.1109/ITSC48978.2021.9564826</ee>
+<crossref>conf/itsc/2021</crossref>
+<url>db/conf/itsc/itsc2021.html#BernuthVB21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/samos/CornagliaVB21" mdate="2022-04-29">
+<author pid="167/0248">Alessandro Cornaglia</author>
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>Accurate LLVM IR to Binary CFGs Mapping for Simulation of Optimized Embedded Software.</title>
+<pages>3-15</pages>
+<year>2021</year>
+<booktitle>SAMOS</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-04580-6_1</ee>
+<crossref>conf/samos/2021</crossref>
+<url>db/conf/samos/samos2021.html#CornagliaVB21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2104-12928" mdate="2022-03-24">
+<author pid="245/2556">Evgenia Rusak</author>
+<author pid="16/8643-1">Steffen Schneider 0001</author>
+<author pid="78/1502">Peter V. Gehler</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="37/11107">Wieland Brendel</author>
+<author pid="77/3005">Matthias Bethge</author>
+<title>Adapting ImageNet-scale models to complex distribution shifts with self-learning.</title>
+<year>2021</year>
+<volume>abs/2104.12928</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2104.12928</ee>
+<url>db/journals/corr/corr2104.html#abs-2104-12928</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2106-03368" mdate="2021-06-10">
+<author pid="64/10499-3">Sebastian Reiter 0003</author>
+<author pid="35/7128">Marc Zeller</author>
+<author pid="05/8783">Kai H&#246;fig</author>
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Verification of Component Fault Trees Using Error Effect Simulations.</title>
+<year>2021</year>
+<volume>abs/2106.03368</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2106.03368</ee>
+<url>db/journals/corr/corr2106.html#abs-2106-03368</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2109-07930" mdate="2021-09-22">
+<author pid="301/5642">Anwesh Mohanty</author>
+<author pid="278/8684">Adrian Frischknecht</author>
+<author pid="161/0144">Christoph Gerum</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>Behavior of Keyword Spotting Networks Under Noisy Conditions.</title>
+<year>2021</year>
+<volume>abs/2109.07930</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2109.07930</ee>
+<url>db/journals/corr/corr2109.html#abs-2109-07930</url>
+</article>
+</r>
+<r><article key="journals/at/MastRGB20" mdate="2020-07-22">
+<author orcid="0000-0002-6047-2347" pid="238/7776">Johannes Mast</author>
+<author orcid="0000-0002-2373-0845" pid="238/7980">Stefan R&#228;dle</author>
+<author pid="61/5225">Joachim Gerlach</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>A computational intelligence based approach for optimized operation scheduling of energy plants.</title>
+<pages>118-129</pages>
+<year>2020</year>
+<volume>68</volume>
+<journal>Autom.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1515/auto-2019-0100</ee>
+<url>db/journals/at/at68.html#MastRGB20</url>
+</article>
+</r>
+<r><article key="journals/ijpp/GruttnerHFHLHSB20" mdate="2020-10-09">
+<author pid="76/1329">Kim Gr&#252;ttner</author>
+<author pid="12/5769">Philipp A. Hartmann</author>
+<author pid="150/8274">Tiemo Fandrey</author>
+<author pid="71/6641">Kai Hylla</author>
+<author pid="95/6374-2">Daniel Lorenz 0002</author>
+<author pid="58/8937">Stefan Hauck-Stattelmann</author>
+<author pid="31/675">Bj&#246;rn Sander</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="n/WolfgangNebel">Wolfgang Nebel</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>A Timed-Value Stream Based ESL Timing and Power Estimation and Simulation Framework for Heterogeneous MPSoCs.</title>
+<pages>957-1007</pages>
+<year>2020</year>
+<volume>48</volume>
+<journal>Int. J. Parallel Program.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s10766-020-00656-0</ee>
+<url>db/journals/ijpp/ijpp48.html#GruttnerHFHLHSB20</url>
+</article>
+</r>
+<r><article key="journals/sensors/KohlerOWWWB20" mdate="2022-04-09">
+<author orcid="0000-0002-9351-9324" pid="97/3780">Michael Kohler</author>
+<author pid="210/8813">Daniel W. O'Hagan</author>
+<author pid="24/1957">Matthias Weiss</author>
+<author pid="313/0651">David Wegner</author>
+<author pid="257/2362">Josef Worms</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>Statistical Analysis of Bistatic Radar Ground Clutter for Different German Rural Environments.</title>
+<pages>3311</pages>
+<year>2020</year>
+<volume>20</volume>
+<journal>Sensors</journal>
+<number>11</number>
+<ee type="oa">https://doi.org/10.3390/s20113311</ee>
+<ee>https://www.wikidata.org/entity/Q96345739</ee>
+<url>db/journals/sensors/sensors20.html#KohlerOWWWB20</url>
+</article>
+</r>
+<r><article key="journals/tcad/BernardoGFLB20" mdate="2020-12-17">
+<author orcid="0000-0002-6642-3976" pid="278/9119">Paul Palomero Bernardo</author>
+<author orcid="0000-0002-1715-567X" pid="161/0144">Christoph Gerum</author>
+<author orcid="0000-0002-1795-0948" pid="278/8684">Adrian Frischknecht</author>
+<author orcid="0000-0002-2701-5881" pid="176/2607">Konstantin L&#252;beck</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>UltraTrail: A Configurable Ultralow-Power TC-ResNet AI Accelerator for Efficient Keyword Spotting.</title>
+<pages>4240-4251</pages>
+<year>2020</year>
+<volume>39</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/TCAD.2020.3012320</ee>
+<url>db/journals/tcad/tcad39.html#BernardoGFLB20</url>
+</article>
+</r>
+<r><article key="journals/tcad/CamposanoB20" mdate="2020-11-23">
+<author pid="51/1501">Ra&#250;l Camposano</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>Wolfgang Rosenstiel.</title>
+<pages>4308</pages>
+<year>2020</year>
+<volume>39</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/TCAD.2020.3026564</ee>
+<url>db/journals/tcad/tcad39.html#CamposanoB20</url>
+</article>
+</r>
+<r><inproceedings key="conf/aspdac/CornagliaHV0R20" mdate="2020-03-30">
+<author pid="167/0248">Alessandro Cornaglia</author>
+<author pid="261/7890">Md. Shakib Hasan</author>
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>JIT-Based Context-Sensitive Timing Simulation for Efficient Platform Exploration.</title>
+<pages>369-374</pages>
+<year>2020</year>
+<booktitle>ASP-DAC</booktitle>
+<ee>https://doi.org/10.1109/ASP-DAC47756.2020.9045255</ee>
+<crossref>conf/aspdac/2020</crossref>
+<url>db/conf/aspdac/aspdac2020.html#CornagliaHV0R20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bigdataconf/Melendez-Vazquez20" mdate="2021-04-08">
+<author pid="289/2516">Ivan Melendez-Vazquez</author>
+<author pid="289/2987">Rolando D&#252;lling</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>Multipath Temporal Convolutional Network for Remaining Useful Life Estimation.</title>
+<pages>4137-4146</pages>
+<year>2020</year>
+<booktitle>IEEE BigData</booktitle>
+<ee>https://doi.org/10.1109/BigData50022.2020.9377816</ee>
+<crossref>conf/bigdataconf/2020</crossref>
+<url>db/conf/bigdataconf/bigdataconf2020.html#Melendez-Vazquez20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coins/GrossSM020" mdate="2022-10-02">
+<author orcid="0000-0002-0367-6554" pid="274/6118">Christoph Gro&#223;</author>
+<author pid="274/5780">Mark Schwed</author>
+<author pid="26/4817">Stefan M&#252;ller</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>enerDAG - Towards a DLT-based Local Energy Trading Platform.</title>
+<pages>1-8</pages>
+<year>2020</year>
+<booktitle>COINS</booktitle>
+<ee>https://doi.org/10.1109/COINS49042.2020.9191415</ee>
+<crossref>conf/coins/2020</crossref>
+<url>db/conf/coins/coins2020.html#GrossSM020</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/RusakSZB0BB20" mdate="2020-12-03">
+<author pid="245/2556">Evgenia Rusak</author>
+<author pid="172/1043">Lukas Schott</author>
+<author pid="227/2603">Roland S. Zimmermann</author>
+<author pid="232/1887">Julian Bitterwolf</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="77/3005">Matthias Bethge</author>
+<author pid="37/11107">Wieland Brendel</author>
+<title>A Simple Way to Make Neural Networks Robust Against Diverse Image Corruptions.</title>
+<pages>53-69</pages>
+<year>2020</year>
+<booktitle>ECCV (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58580-8_4</ee>
+<crossref>conf/eccv/2020-3</crossref>
+<url>db/conf/eccv/eccv2020-3.html#RusakSZB0BB20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ets/LaufenbergK020" mdate="2020-07-15">
+<author pid="167/1659">Jo Laufenberg</author>
+<author pid="89/6634">Thomas Kropf</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>Automated Graph-Based Fault Injection Into Virtual Prototypes for Robustness Evaluation.</title>
+<pages>1-2</pages>
+<year>2020</year>
+<booktitle>ETS</booktitle>
+<ee>https://doi.org/10.1109/ETS48528.2020.9131573</ee>
+<crossref>conf/ets/2020</crossref>
+<url>db/conf/ets/ets2020.html#LaufenbergK020</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/euromicro/NovacekK0V0R20" mdate="2020-10-21">
+<author pid="198/2085">Jan Novacek</author>
+<author pid="166/4454">Arthur K&#252;hlwein</author>
+<author pid="64/10499-3">Sebastian Reiter 0003</author>
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Lemons: Leveraging Model-Based Techniques to Enable Non-Intrusive Semantic Enrichment in Wireless Sensor Networks.</title>
+<pages>561-568</pages>
+<year>2020</year>
+<booktitle>SEAA</booktitle>
+<ee>https://doi.org/10.1109/SEAA51224.2020.00092</ee>
+<crossref>conf/euromicro/2020</crossref>
+<url>db/conf/euromicro/euromicro2020.html#NovacekK0V0R20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/glvlsi/Schlicker020" mdate="2021-03-10">
+<author pid="53/10774">Philipp Schlicker</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>Gate-Level Models for Fast Cross-Level Power Density Estimation.</title>
+<pages>507-512</pages>
+<year>2020</year>
+<booktitle>ACM Great Lakes Symposium on VLSI</booktitle>
+<ee>https://doi.org/10.1145/3386263.3406911</ee>
+<crossref>conf/glvlsi/2020</crossref>
+<url>db/conf/glvlsi/glvlsi2020.html#Schlicker020</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ieeesensors/BaehrF0R020" mdate="2022-12-13">
+<author pid="262/8388">Ulrich Baehr</author>
+<author pid="115/8508">Marvin Freier</author>
+<author pid="267/2241-3">Matthew Lewis 0003</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>A New Method for Detecting Leaks in MEMS Accelerometers at Wafer-Level.</title>
+<pages>1-4</pages>
+<year>2020</year>
+<booktitle>IEEE SENSORS</booktitle>
+<ee>https://doi.org/10.1109/SENSORS47125.2020.9278875</ee>
+<crossref>conf/ieeesensors/2020</crossref>
+<url>db/conf/ieeesensors/ieeesensors2020.html#BaehrF0R020</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/itsc/VolkGBB20" mdate="2021-02-26">
+<author pid="228/4766">Georg Volk</author>
+<author pid="283/0185">J&#246;rg Gamerdinger</author>
+<author pid="228/4600">Alexander von Bernuth</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>A Comprehensive Safety Metric to Evaluate Perception in Autonomous Systems.</title>
+<pages>1-8</pages>
+<year>2020</year>
+<booktitle>ITSC</booktitle>
+<ee>https://doi.org/10.1109/ITSC45102.2020.9294708</ee>
+<crossref>conf/itsc/2020</crossref>
+<url>db/conf/itsc/itsc2020.html#VolkGBB20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/SchneiderRE0BB20" mdate="2022-03-24">
+<author pid="16/8643-1">Steffen Schneider 0001</author>
+<author pid="245/2556">Evgenia Rusak</author>
+<author pid="268/6652">Luisa Eck</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="37/11107">Wieland Brendel</author>
+<author pid="77/3005">Matthias Bethge</author>
+<title>Improving robustness against common corruptions by covariate shift adaptation.</title>
+<year>2020</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2020/hash/85690f81aadc1749175c187784afc9ee-Abstract.html</ee>
+<crossref>conf/nips/2020</crossref>
+<url>db/conf/nips/neurips2020.html#SchneiderRE0BB20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2001-06057" mdate="2020-01-30">
+<author pid="245/2556">Evgenia Rusak</author>
+<author pid="172/1043">Lukas Schott</author>
+<author pid="227/2603">Roland S. Zimmermann</author>
+<author pid="232/1887">Julian Bitterwolf</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="77/3005">Matthias Bethge</author>
+<author pid="37/11107">Wieland Brendel</author>
+<title>Increasing the robustness of DNNs against image corruptions by playing the Game of Noise.</title>
+<year>2020</year>
+<volume>abs/2001.06057</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2001.06057</ee>
+<url>db/journals/corr/corr2001.html#abs-2001-06057</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2006-16971" mdate="2022-03-24">
+<author pid="16/8643-1">Steffen Schneider 0001</author>
+<author pid="245/2556">Evgenia Rusak</author>
+<author pid="268/6652">Luisa Eck</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="37/11107">Wieland Brendel</author>
+<author pid="77/3005">Matthias Bethge</author>
+<title>Improving robustness against common corruptions by covariate shift adaptation.</title>
+<year>2020</year>
+<volume>abs/2006.16971</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2006.16971</ee>
+<url>db/journals/corr/corr2006.html#abs-2006-16971</url>
+</article>
+</r>
+<r><article key="journals/tvt/HerberthKSGB19" mdate="2020-06-25">
+<author orcid="0000-0003-0522-5586" pid="221/0339">Roland Herberth</author>
+<author orcid="0000-0002-1314-5079" pid="237/7483">Sidney K&#246;rper</author>
+<author orcid="0000-0002-4674-9020" pid="237/7102">Tim Stiesch</author>
+<author orcid="0000-0002-0870-7540" pid="120/0644">Frank Gauterin</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>Automated Scheduling for Optimal Parallelization to Reduce the Duration of Vehicle Software Updates.</title>
+<pages>2921-2933</pages>
+<year>2019</year>
+<volume>68</volume>
+<journal>IEEE Trans. Veh. Technol.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TVT.2019.2895109</ee>
+<url>db/journals/tvt/tvt68.html#HerberthKSGB19</url>
+</article>
+</r>
+<r><inproceedings key="conf/acssc/MishraS019" mdate="2020-11-04">
+<author pid="49/8950">Kumar Vijay Mishra</author>
+<author pid="231/5392">Zora Slavik</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>ReMCW: Reduced Bandwidth FMCW Radar for Autonomous Driving.</title>
+<pages>1427-1431</pages>
+<year>2019</year>
+<booktitle>ACSSC</booktitle>
+<ee>https://doi.org/10.1109/IEEECONF44664.2019.9048773</ee>
+<crossref>conf/acssc/2019</crossref>
+<url>db/conf/acssc/acssc2019.html#MishraS019</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/arcs/Lubeck019" mdate="2019-05-31">
+<author orcid="0000-0002-2701-5881" pid="176/2607">Konstantin L&#252;beck</author>
+<author orcid="0000-0002-1615-507X" pid="06/6843">Oliver Bringmann 0001</author>
+<title>A Heterogeneous and Reconfigurable Embedded Architecture for Energy-Efficient Execution of Convolutional Neural Networks.</title>
+<pages>267-280</pages>
+<year>2019</year>
+<booktitle>ARCS</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-18656-2_20</ee>
+<crossref>conf/arcs/2019</crossref>
+<url>db/conf/arcs/arcs2019.html#Lubeck019</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aspdac/PetersonB19" mdate="2019-03-29">
+<author pid="131/4906">Dustin Peterson</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>Fully-automated synthesis of power management controllers from UPF.</title>
+<pages>76-81</pages>
+<year>2019</year>
+<booktitle>ASP-DAC</booktitle>
+<ee>https://doi.org/10.1145/3287624.3287664</ee>
+<crossref>conf/aspdac/2019</crossref>
+<url>db/conf/aspdac/aspdac2019.html#PetersonB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aspdac/CornagliaVBR19" mdate="2019-03-29">
+<author pid="167/0248">Alessandro Cornaglia</author>
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>SIMULTime: Context-sensitive timing simulation on intermediate code representation for rapid platform explorations.</title>
+<pages>526-531</pages>
+<year>2019</year>
+<booktitle>ASP-DAC</booktitle>
+<ee>https://doi.org/10.1145/3287624.3287625</ee>
+<crossref>conf/aspdac/2019</crossref>
+<url>db/conf/aspdac/aspdac2019.html#CornagliaVBR19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bigdataconf/MelendezDB19" mdate="2021-03-31">
+<author orcid="0000-0002-5835-3242" pid="259/6720">Ivan Melendez</author>
+<author pid="78/359">Rolando D&#246;lling</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>Self-supervised Multi-stage Estimation of Remaining Useful Life for Electric Drive Units.</title>
+<pages>4402-4411</pages>
+<year>2019</year>
+<booktitle>IEEE BigData</booktitle>
+<ee>https://doi.org/10.1109/BigData47090.2019.9005535</ee>
+<crossref>conf/bigdataconf/2019</crossref>
+<url>db/conf/bigdataconf/bigdataconf2019.html#MelendezDB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/evoW/MastRGB19" mdate="2019-04-12">
+<author orcid="0000-0002-6047-2347" pid="238/7776">Johannes Mast</author>
+<author orcid="0000-0002-2373-0845" pid="238/7980">Stefan R&#228;dle</author>
+<author orcid="0000-0002-0601-5188" pid="61/5225">Joachim Gerlach</author>
+<author orcid="0000-0002-1615-507X" pid="06/6843">Oliver Bringmann 0001</author>
+<title>Ant Colony Optimization for Optimized Operation Scheduling of Combined Heat and Power Plants.</title>
+<pages>90-105</pages>
+<year>2019</year>
+<booktitle>EvoApplications</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-16692-2_7</ee>
+<crossref>conf/evoW/2019a</crossref>
+<url>db/conf/evoW/evoappl2019.html#MastRGB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fdl/HerdtGDGJB0SSK19" mdate="2022-10-21">
+<author pid="130/1375">Vladimir Herdt</author>
+<author orcid="0000-0002-1490-6175" pid="68/758">Daniel Gro&#223;e</author>
+<author orcid="0000-0002-9872-1740" pid="d/RolfDrechsler">Rolf Drechsler</author>
+<author pid="161/0144">Christoph Gerum</author>
+<author pid="91/7866">Alexander Jung</author>
+<author pid="218/1192">Joscha Benz</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="08/1117-10">Michael Schwarz 0010</author>
+<author pid="95/2383">Dominik Stoffel</author>
+<author pid="69/4734">Wolfgang Kunz</author>
+<title>Systematic RISC-V based Firmware Design<sup>&#8902;</sup>.</title>
+<pages>1-8</pages>
+<year>2019</year>
+<booktitle>FDL</booktitle>
+<ee>https://doi.org/10.1109/FDL.2019.8876945</ee>
+<crossref>conf/fdl/2019</crossref>
+<url>db/conf/fdl/fdl2019.html#HerdtGDGJB0SSK19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccad2/Melendez-Vazquez19" mdate="2023-05-01">
+<author orcid="0000-0002-5835-3242" pid="289/2516">Ivan Melendez-Vazquez</author>
+<author pid="78/359">Rolando D&#246;lling</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>Fault Diagnosis Approach for Pedelec Drive Units Based on Support Vector Machines.</title>
+<pages>1-6</pages>
+<year>2019</year>
+<booktitle>ICCAD</booktitle>
+<ee>https://doi.org/10.1109/ICCAD46983.2019.9037941</ee>
+<crossref>conf/iccad2/2019</crossref>
+<url>db/conf/iccad2/iccad2019.html#Melendez-Vazquez19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccve/KorperHG019" mdate="2020-03-27">
+<author orcid="0000-0002-1314-5079" pid="237/7483">Sidney K&#246;rper</author>
+<author pid="221/0339">Roland Herberth</author>
+<author pid="120/0644">Frank Gauterin</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>Harmonizing Heterogeneous Diagnostic Data of a Vehicle Fleet for Data-Driven Analytics.</title>
+<pages>1-6</pages>
+<year>2019</year>
+<booktitle>ICCVE</booktitle>
+<ee>https://doi.org/10.1109/ICCVE45908.2019.8965126</ee>
+<crossref>conf/iccve/2019</crossref>
+<url>db/conf/iccve/iccve2019.html#KorperHG019</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isse2/NovacekV0R19" mdate="2021-11-04">
+<author pid="198/2085">Jan Novacek</author>
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Ontology-based Requirements Transformation.</title>
+<pages>1-8</pages>
+<year>2019</year>
+<booktitle>ISSE</booktitle>
+<ee>https://doi.org/10.1109/ISSE46696.2019.8984265</ee>
+<crossref>conf/isse2/2019</crossref>
+<url>db/conf/isse2/isse2019.html#NovacekV0R19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/itsc/BernuthV019" mdate="2019-12-09">
+<author pid="228/4600">Alexander von Bernuth</author>
+<author pid="228/4766">Georg Volk</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>Simulating Photo-realistic Snow and Fog on Existing Images for Enhanced CNN Training and Evaluation.</title>
+<pages>41-46</pages>
+<year>2019</year>
+<booktitle>ITSC</booktitle>
+<ee>https://doi.org/10.1109/ITSC.2019.8917367</ee>
+<crossref>conf/itsc/2019</crossref>
+<url>db/conf/itsc/itsc2019.html#BernuthV019</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/itsc/VolkMBH019" mdate="2019-12-09">
+<author pid="228/4766">Georg Volk</author>
+<author pid="26/4817">Stefan M&#252;ller</author>
+<author pid="228/4600">Alexander von Bernuth</author>
+<author pid="166/4938">Dennis Hospach</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>Towards Robust CNN-based Object Detection through Augmentation with Synthetic Rain Variations.</title>
+<pages>285-292</pages>
+<year>2019</year>
+<booktitle>ITSC</booktitle>
+<ee>https://doi.org/10.1109/ITSC.2019.8917269</ee>
+<crossref>conf/itsc/2019</crossref>
+<url>db/conf/itsc/itsc2019.html#VolkMBH019</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ivs/VolkB019" mdate="2021-02-26">
+<author pid="228/4766">Georg Volk</author>
+<author pid="228/4600">Alexander von Bernuth</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>Environment-aware Development of Robust Vision-based Cooperative Perception Systems.</title>
+<pages>126-133</pages>
+<year>2019</year>
+<booktitle>IV</booktitle>
+<ee>https://doi.org/10.1109/IVS.2019.8814148</ee>
+<crossref>conf/ivs/2019</crossref>
+<url>db/conf/ivs/ivs2019.html#VolkB019</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mbmv/RudolfSBHRB19" mdate="2019-07-11">
+<author pid="244/5961">Jens Rudolf</author>
+<author pid="146/6745">Manuel Strobel</author>
+<author pid="218/1192">Joscha Benz</author>
+<author pid="37/6859">Christian Haubelt</author>
+<author pid="94/517">Martin Radetzki</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>Automated Sensor Firmware Development - Generation, Optimization, and Analysis.</title>
+<pages>1-12</pages>
+<year>2019</year>
+<booktitle>MBMV</booktitle>
+<ee>https://ieeexplore.ieee.org/document/8727161/</ee>
+<crossref>conf/mbmv/2019</crossref>
+<url>db/conf/mbmv/mbmv2019.html#RudolfSBHRB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/models/KuhlweinPHR019" mdate="2022-02-23">
+<author pid="166/4454">Arthur K&#252;hlwein</author>
+<author pid="253/6223">Anton Paule</author>
+<author pid="253/6112">Leon Hielscher</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>Firmware Synthesis for Ultra-Thin IoT Devices Based on Model Integration.</title>
+<pages>339-346</pages>
+<year>2019</year>
+<booktitle>MoDELS (Companion)</booktitle>
+<ee>https://doi.org/10.1109/MODELS-C.2019.00053</ee>
+<crossref>conf/models/2019c</crossref>
+<url>db/conf/models/models2019c.html#KuhlweinPHR019</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/modelsward/Kuhlwein0R019" mdate="2020-01-20">
+<author pid="166/4454">Arthur K&#252;hlwein</author>
+<author pid="64/10499-3">Sebastian Reiter 0003</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>Bridging XML and UML - An Automated Framework.</title>
+<pages>378-385</pages>
+<year>2019</year>
+<booktitle>MODELSWARD</booktitle>
+<ee>https://doi.org/10.5220/0007470403800387</ee>
+<crossref>conf/modelsward/2019</crossref>
+<url>db/conf/modelsward/modelsward2019.html#Kuhlwein0R019</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/newcas/Peterson019" mdate="2020-02-04">
+<author pid="131/4906">Dustin Peterson</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>Power-Gating Models for Rapid Design Exploration.</title>
+<pages>1-4</pages>
+<year>2019</year>
+<booktitle>NEWCAS</booktitle>
+<ee>https://doi.org/10.1109/NEWCAS44328.2019.8961232</ee>
+<crossref>conf/newcas/2019</crossref>
+<url>db/conf/newcas/newcas2019.html#Peterson019</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/spa/KohlerSWON019" mdate="2021-10-14">
+<author orcid="0000-0002-9351-9324" pid="97/3780">Michael Kohler</author>
+<author pid="257/2356">Alexander Saam</author>
+<author pid="257/2362">Josef Worms</author>
+<author pid="210/8813">Daniel W. O'Hagan</author>
+<author pid="198/2085">Jan Novacek</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>Delay Estimation for Time Synchronization of a Bistatic Transfer Function Measurement Setup to Single Received Pulses.</title>
+<pages>62-66</pages>
+<year>2019</year>
+<booktitle>SPA</booktitle>
+<ee>https://doi.org/10.23919/SPA.2019.8936787</ee>
+<crossref>conf/spa/2019</crossref>
+<url>db/conf/spa/spa2019.html#KohlerSWON019</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1907-07484" mdate="2021-10-14">
+<author pid="217/2962">Claudio Michaelis</author>
+<author pid="245/2711">Benjamin Mitzkus</author>
+<author pid="176/0076">Robert Geirhos</author>
+<author pid="245/2556">Evgenia Rusak</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author orcid="0000-0003-2392-5105" pid="26/7228">Alexander S. Ecker</author>
+<author pid="77/3005">Matthias Bethge</author>
+<author pid="37/11107">Wieland Brendel</author>
+<title>Benchmarking Robustness in Object Detection: Autonomous Driving when Winter is Coming.</title>
+<year>2019</year>
+<volume>abs/1907.07484</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1907.07484</ee>
+<url>db/journals/corr/corr1907.html#abs-1907-07484</url>
+</article>
+</r>
+<r><article key="journals/mr/AhariV0R18" mdate="2020-02-22">
+<author orcid="0000-0001-6569-0936" pid="144/4691">Ali Ahari</author>
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Mission profile-based assessment of semiconductor technologies for automotive applications.</title>
+<pages>129-138</pages>
+<year>2018</year>
+<volume>91</volume>
+<journal>Microelectron. Reliab.</journal>
+<ee>https://doi.org/10.1016/j.microrel.2018.08.008</ee>
+<url>db/journals/mr/mr91.html#AhariV0R18</url>
+</article>
+</r>
+<r><inproceedings key="conf/acssc/SlavikBRE18" mdate="2019-03-29">
+<author pid="231/5392">Zora Slavik</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<author pid="e/YoninaCEldar">Yonina C. Eldar</author>
+<title>Implications and methods for co-existing automotive radar and communication systems.</title>
+<pages>952-956</pages>
+<year>2018</year>
+<booktitle>ACSSC</booktitle>
+<ee>https://doi.org/10.1109/ACSSC.2018.8645513</ee>
+<crossref>conf/acssc/2018</crossref>
+<url>db/conf/acssc/acssc2018.html#SlavikBRE18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aspdac/PetersonBB18" mdate="2019-03-29">
+<author pid="131/4906">Dustin Peterson</author>
+<author pid="214/9864">Yannick Boekle</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>Detecting non-functional circuit activity in SoC designs.</title>
+<pages>464-469</pages>
+<year>2018</year>
+<booktitle>ASP-DAC</booktitle>
+<ee>https://doi.org/10.1109/ASPDAC.2018.8297367</ee>
+<ee>http://dl.acm.org/citation.cfm?id=3201720</ee>
+<crossref>conf/aspdac/2018</crossref>
+<url>db/conf/aspdac/aspdac2018.html#PetersonBB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/BenzGB18" mdate="2019-03-29">
+<author pid="218/1192">Joscha Benz</author>
+<author pid="161/0144">Christoph Gerum</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>Advancing source-level timing simulation using loop acceleration.</title>
+<pages>1393-1398</pages>
+<year>2018</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.23919/DATE.2018.8342230</ee>
+<crossref>conf/date/2018</crossref>
+<url>db/conf/date/date2018.html#BenzGB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsd/Mahmoodi0VBR18" mdate="2023-03-23">
+<author pid="217/2707">Yasamin Mahmoodi</author>
+<author pid="64/10499-3">Sebastian Reiter 0003</author>
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Attack Surface Modeling and Assessment for Penetration Testing of IoT System Designs.</title>
+<pages>177-181</pages>
+<year>2018</year>
+<booktitle>DSD</booktitle>
+<ee>https://doi.org/10.1109/DSD.2018.00043</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DSD.2018.00043</ee>
+<crossref>conf/dsd/2018</crossref>
+<url>db/conf/dsd/dsd2018.html#Mahmoodi0VBR18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsn/AgrawalFBR18" mdate="2023-03-24">
+<author pid="24/584">Vikas Agrawal</author>
+<author pid="223/7092">Marcel Frueh</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Evaluating Optical Flow Vectors Under Varying Computer-Generated Snow Intensities and Pixel Density for Autonomous Vehicles.</title>
+<pages>247-254</pages>
+<year>2018</year>
+<booktitle>DSN Workshops</booktitle>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DSN-W.2018.00071</ee>
+<crossref>conf/dsn/2018w</crossref>
+<url>db/conf/dsn/dsn2018w.html#AgrawalFBR18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ets/ZhouBBR18" mdate="2019-03-29">
+<author pid="122/4575">Yumin Zhou</author>
+<author pid="115/4376">Sebastian Burg</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>A software reconfigurable assertion checking unit for run-time error detection.</title>
+<pages>1-6</pages>
+<year>2018</year>
+<booktitle>ETS</booktitle>
+<ee>https://doi.org/10.1109/ETS.2018.8400691</ee>
+<crossref>conf/ets/2018</crossref>
+<url>db/conf/ets/ets2018.html#ZhouBBR18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/euromicro/NovacekACHVBR18" mdate="2023-03-24">
+<author pid="198/2085">Jan Novacek</author>
+<author pid="144/4691">Ali Ahari</author>
+<author pid="167/0248">Alessandro Cornaglia</author>
+<author pid="189/9637">Frederik Haxel</author>
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Ontology-Supported Design Parameter Management for Change Impact Analysis.</title>
+<pages>9-16</pages>
+<year>2018</year>
+<booktitle>SEAA</booktitle>
+<ee>https://doi.org/10.1109/SEAA.2018.00011</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SEAA.2018.00011</ee>
+<crossref>conf/euromicro/2018</crossref>
+<url>db/conf/euromicro/euromicro2018.html#NovacekACHVBR18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fdl/KirchnerOB18" mdate="2019-03-29">
+<author pid="229/8791">Aljoscha Kirchner</author>
+<author pid="78/6545">Jan-Hendrik Oetjens</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>Using SysML for Modelling and Code Generation for Smart Sensor ASICs.</title>
+<pages>5-16</pages>
+<year>2018</year>
+<booktitle>FDL</booktitle>
+<ee>https://doi.org/10.1109/FDL.2018.8524051</ee>
+<crossref>conf/fdl/2018</crossref>
+<url>db/conf/fdl/fdl2018.html#KirchnerOB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icsenst/BaehrFLR018" mdate="2020-06-15">
+<author pid="262/8388">Ulrich Baehr</author>
+<author pid="115/8508">Marvin Freier</author>
+<author pid="267/2241-3">Matthew Lewis 0003</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>Rapid Sensitivity Curve Measurement for MEMS Accelerometers.</title>
+<pages>77-82</pages>
+<year>2018</year>
+<booktitle>ICST</booktitle>
+<ee>https://doi.org/10.1109/ICSensT.2018.8603572</ee>
+<crossref>conf/icsenst/2018</crossref>
+<url>db/conf/icsenst/icst2018.html#BaehrFLR018</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/itsc/HolderRWDMMSMSB18" mdate="2023-04-22">
+<author pid="194/2698">Martin Holder</author>
+<author orcid="0000-0003-3309-0623" pid="214/7123">Philipp Rosenberger</author>
+<author pid="38/5748">Hermann Winner</author>
+<author pid="231/5650">Thomas Dhondt</author>
+<author orcid="0000-0002-8221-6686" pid="124/0652">Vamsi Prakash Makkapati</author>
+<author pid="223/6146">F. Michael Maier</author>
+<author pid="92/7859">Helmut Schreiber</author>
+<author pid="289/1618">Zolt&#225;n Ferenc Magosi</author>
+<author pid="231/5392">Zora Slavik</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Measurements revealing Challenges in Radar Sensor Modeling for Virtual Validation of Autonomous Driving.</title>
+<pages>2616-2622</pages>
+<year>2018</year>
+<booktitle>ITSC</booktitle>
+<ee>https://doi.org/10.1109/ITSC.2018.8569423</ee>
+<crossref>conf/itsc/2018</crossref>
+<url>db/conf/itsc/itsc2018.html#HolderRWDMMSMSB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ivs/BernuthVB18" mdate="2019-03-29">
+<author pid="228/4600">Alexander von Bernuth</author>
+<author pid="228/4766">Georg Volk</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>Rendering Physically Correct Raindrops on Windshields for Robustness Verification of Camera-based Object Recognition.</title>
+<pages>922-927</pages>
+<year>2018</year>
+<booktitle>Intelligent Vehicles Symposium</booktitle>
+<ee>https://doi.org/10.1109/IVS.2018.8500494</ee>
+<crossref>conf/ivs/2018</crossref>
+<url>db/conf/ivs/ivs2018.html#BernuthVB18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/modelsward/Mahmoodi0VBR18" mdate="2019-03-29">
+<author pid="217/2707">Yasamin Mahmoodi</author>
+<author pid="64/10499-3">Sebastian Reiter 0003</author>
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Model-guided Security Analysis of Interconnected Embedded Systems.</title>
+<pages>602-609</pages>
+<year>2018</year>
+<booktitle>MODELSWARD</booktitle>
+<ee>https://doi.org/10.5220/0006724606020609</ee>
+<crossref>conf/modelsward/2018</crossref>
+<url>db/conf/modelsward/modelsward2018.html#Mahmoodi0VBR18</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijsc/NovacekVBR17" mdate="2020-07-03">
+<author pid="198/2085">Jan Novacek</author>
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Reasoning-Supported Robustness Validation of Automotive E/E Components.</title>
+<pages>473-496</pages>
+<year>2017</year>
+<volume>11</volume>
+<journal>Int. J. Semantic Comput.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1142/S1793351X17400190</ee>
+<url>db/journals/ijsc/ijsc11.html#NovacekVBR17</url>
+</article>
+</r>
+<r><article key="journals/itsm/KoehlerVBR17" mdate="2020-08-25">
+<author orcid="0000-0001-9441-0972" pid="135/8907">Stefan Koehler</author>
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Energy-Efficiency Optimization of Torque Vectoring Control for Battery Electric Vehicles.</title>
+<pages>59-74</pages>
+<year>2017</year>
+<volume>9</volume>
+<journal>IEEE Intell. Transp. Syst. Mag.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/MITS.2017.2709799</ee>
+<url>db/journals/itsm/itsm9.html#KoehlerVBR17</url>
+</article>
+</r>
+<r><inproceedings key="conf/date/OttlikGVRB17" mdate="2019-03-29">
+<author pid="122/3749">Sebastian Ottlik</author>
+<author pid="161/0144">Christoph Gerum</author>
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>Context-sensitive timing automata for fast source level simulation.</title>
+<pages>512-517</pages>
+<year>2017</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.23919/DATE.2017.7927042</ee>
+<ee>http://dl.acm.org/citation.cfm?id=3130497</ee>
+<crossref>conf/date/2017</crossref>
+<url>db/conf/date/date2017.html#OttlikGVRB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icsa/HoppeEVB17" mdate="2023-03-24">
+<author pid="09/5756">Tobias Hoppe</author>
+<author pid="153/0971">Harald Eisenmann</author>
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>Digital Space Systems Engineering through Semantic Data Models.</title>
+<pages>93-96</pages>
+<year>2017</year>
+<booktitle>ICSA</booktitle>
+<ee>https://doi.org/10.1109/ICSA.2017.35</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICSA.2017.35</ee>
+<crossref>conf/icsa/2017</crossref>
+<url>db/conf/icsa/icsa2017.html#HoppeEVB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/imbsa/ReiterZHVBR17" mdate="2019-03-29">
+<author pid="64/10499-3">Sebastian Reiter 0003</author>
+<author pid="35/7128">Marc Zeller</author>
+<author pid="05/8783">Kai H&#246;fig</author>
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Verification of Component Fault Trees Using Error Effect Simulations.</title>
+<pages>212-226</pages>
+<year>2017</year>
+<booktitle>IMBSA</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-64119-5_14</ee>
+<crossref>conf/imbsa/2017</crossref>
+<url>db/conf/imbsa/imbsa2017.html#ReiterZHVBR17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/modelsward/HoppeEVB17" mdate="2019-03-29">
+<author pid="09/5756">Tobias Hoppe</author>
+<author pid="153/0971">Harald Eisenmann</author>
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>SEMF - The Semantic Engineering Modeling Framework - Bringing Semantics into the Eclipse Modeling Framework for Space Systems Engineering.</title>
+<pages>293-301</pages>
+<year>2017</year>
+<booktitle>MODELSWARD</booktitle>
+<ee>https://doi.org/10.5220/0006118702930301</ee>
+<crossref>conf/modelsward/2017</crossref>
+<url>db/conf/modelsward/modelsward2017.html#HoppeEVB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semco/NovacekVBR17" mdate="2023-03-23">
+<author pid="198/2085">Jan Novacek</author>
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Reasoning-Supported Robustness Validation of Automotive E/E Components.</title>
+<pages>220-226</pages>
+<year>2017</year>
+<booktitle>ICSC</booktitle>
+<ee>https://doi.org/10.1109/ICSC.2017.28</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICSC.2017.28</ee>
+<crossref>conf/semco/2017</crossref>
+<url>db/conf/semco/icsc2017.html#NovacekVBR17</url>
+</inproceedings>
+</r>
+<r><incollection key="reference/hwswco/BringmannOV17" mdate="2019-08-06">
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="122/3749">Sebastian Ottlik</author>
+<author pid="76/4280">Alexander Viehl</author>
+<title>Precise Software Timing Simulation Considering Execution Contexts.</title>
+<pages>621-651</pages>
+<year>2017</year>
+<crossref>reference/hwswco/2017</crossref>
+<booktitle>Handbook of Hardware/Software Codesign</booktitle>
+<ee>https://doi.org/10.1007/978-94-017-7267-9_21</ee>
+<url>db/reference/hwswco/hwswco2017.html#BringmannOV17</url>
+</incollection>
+</r>
+<r><incollection key="reference/hwswco/BringmannGO17" mdate="2019-08-06">
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="161/0144">Christoph Gerum</author>
+<author pid="122/3749">Sebastian Ottlik</author>
+<title>Timing Models for Fast Embedded Software Performance Analysis.</title>
+<pages>655-682</pages>
+<year>2017</year>
+<crossref>reference/hwswco/2017</crossref>
+<booktitle>Handbook of Hardware/Software Codesign</booktitle>
+<ee>https://doi.org/10.1007/978-94-017-7267-9_22</ee>
+<url>db/reference/hwswco/hwswco2017.html#BringmannGO17</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/aspdac/OttlikBAVRB16" mdate="2019-03-29">
+<author pid="122/3749">Sebastian Ottlik</author>
+<author pid="123/8152">Jan Micha Borrmann</author>
+<author pid="177/5241">Sadik Asbach</author>
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>Trace-based context-sensitive timing simulation considering execution path variations.</title>
+<pages>159-165</pages>
+<year>2016</year>
+<booktitle>ASP-DAC</booktitle>
+<ee>https://doi.org/10.1109/ASPDAC.2016.7428005</ee>
+<crossref>conf/aspdac/2016</crossref>
+<url>db/conf/aspdac/aspdac2016.html#OttlikBAVRB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aspdac/PetersonB16" mdate="2019-03-29">
+<author pid="131/4906">Dustin Peterson</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>SMoSi: A framework for the derivation of sleep mode traces from RTL simulations.</title>
+<pages>330-335</pages>
+<year>2016</year>
+<booktitle>ASP-DAC</booktitle>
+<ee>https://doi.org/10.1109/ASPDAC.2016.7428033</ee>
+<crossref>conf/aspdac/2016</crossref>
+<url>db/conf/aspdac/aspdac2016.html#PetersonB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/coolchips/KuhnAOABR16" mdate="2023-03-23">
+<author pid="149/4772">Johannes Maximilian K&#252;hn</author>
+<author orcid="0000-0002-1253-8620" pid="96/9352">Akram Ben Ahmed</author>
+<author pid="168/6295">Hayate Okuhara</author>
+<author pid="59/1558">Hideharu Amano</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>MuCCRA4-BB: A fine-grained body biasing capable DRP.</title>
+<pages>1-3</pages>
+<year>2016</year>
+<booktitle>COOL Chips</booktitle>
+<ee>https://doi.org/10.1109/CoolChips.2016.7503676</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CoolChips.2016.7503676</ee>
+<crossref>conf/coolchips/2016</crossref>
+<url>db/conf/coolchips/coolchips2016.html#KuhnAOABR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dac/KuhnABR16" mdate="2019-03-29">
+<author pid="149/4772">Johannes Maximilian K&#252;hn</author>
+<author pid="59/1558">Hideharu Amano</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Leveraging FDSOI through body bias domain partitioning and bias search.</title>
+<pages>79:1-79:6</pages>
+<year>2016</year>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/2897937.2898039</ee>
+<crossref>conf/dac/2016</crossref>
+<url>db/conf/dac/dac2016.html#KuhnABR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/HospachMRB16" mdate="2021-08-09">
+<author pid="166/4938">Dennis Hospach</author>
+<author pid="26/4817">Stefan M&#252;ller</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>Simulation of falling rain for robustness testing of video-based surround sensing systems.</title>
+<pages>233-236</pages>
+<year>2016</year>
+<booktitle>DATE</booktitle>
+<ee>https://ieeexplore.ieee.org/document/7459310/</ee>
+<crossref>conf/date/2016</crossref>
+<url>db/conf/date/date2016.html#HospachMRB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/LaufenbergRVBKR16" mdate="2021-08-09">
+<author pid="167/1659">Jo Laufenberg</author>
+<author pid="64/10499-3">Sebastian Reiter 0003</author>
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="89/6634">Thomas Kropf</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Combining graph-based guidance with error effect simulation for efficient safety analysis.</title>
+<pages>1132-1135</pages>
+<year>2016</year>
+<booktitle>DATE</booktitle>
+<ee>https://ieeexplore.ieee.org/document/7459479/</ee>
+<crossref>conf/date/2016</crossref>
+<url>db/conf/date/date2016.html#LaufenbergRVBKR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/SchulzB16" mdate="2021-08-09">
+<author pid="03/6099">Simon Schulz</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>Accelerating source-level timing simulation.</title>
+<pages>1574-1579</pages>
+<year>2016</year>
+<booktitle>DATE</booktitle>
+<ee>https://ieeexplore.ieee.org/document/7459564/</ee>
+<crossref>conf/date/2016</crossref>
+<url>db/conf/date/date2016.html#SchulzB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsd/ValentinaVBR16" mdate="2023-03-23">
+<author pid="139/8821">Rhea Valentina</author>
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Adaptive Control of the Heating System for Optimized Energy Consumption in Electric Vehicles.</title>
+<pages>607-612</pages>
+<year>2016</year>
+<booktitle>DSD</booktitle>
+<ee>https://doi.org/10.1109/DSD.2016.79</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DSD.2016.79</ee>
+<crossref>conf/dsd/2016</crossref>
+<url>db/conf/dsd/dsd2016.html#ValentinaVBR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hldvt/ReiterVBR16" mdate="2023-03-23">
+<author pid="64/10499-3">Sebastian Reiter 0003</author>
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Fault injection ecosystem for assisted safety validation of automotive systems.</title>
+<pages>62-69</pages>
+<year>2016</year>
+<booktitle>HLDVT</booktitle>
+<ee>https://doi.org/10.1109/HLDVT.2016.7748256</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/HLDVT.2016.7748256</ee>
+<crossref>conf/hldvt/2016</crossref>
+<url>db/conf/hldvt/hldvt2016.html#ReiterVBR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iolts/ZhouBR16" mdate="2019-03-29">
+<author pid="122/4575">Yumin Zhou</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Flexible in-silicon checking of run-time programmable assertions.</title>
+<pages>78-83</pages>
+<year>2016</year>
+<booktitle>IOLTS</booktitle>
+<ee>https://doi.org/10.1109/IOLTS.2016.7604676</ee>
+<crossref>conf/iolts/2016</crossref>
+<url>db/conf/iolts/iolts2016.html#ZhouBR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isba/BurgCB16" mdate="2019-03-29">
+<author pid="115/4376">Sebastian Burg</author>
+<author pid="180/7351">Pranav Channakeshava</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>Linebased end-to-display encryption for secure documents.</title>
+<pages>1-6</pages>
+<year>2016</year>
+<booktitle>ISBA</booktitle>
+<ee>https://doi.org/10.1109/ISBA.2016.7477242</ee>
+<crossref>conf/isba/2016</crossref>
+<url>db/conf/isba/isba2016.html#BurgCB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/itsc/HongVBR16" mdate="2019-08-02">
+<author pid="82/5918-5">Wei Hong 0005</author>
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>An application case study of state-based power optimization with partial networking.</title>
+<pages>2313-2318</pages>
+<year>2016</year>
+<booktitle>ITSC</booktitle>
+<ee>https://doi.org/10.1109/ITSC.2016.7795929</ee>
+<crossref>conf/itsc/2016</crossref>
+<url>db/conf/itsc/itsc2016.html#HongVBR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/itsc/HongVBR16a" mdate="2019-08-02">
+<author pid="82/5918-5">Wei Hong 0005</author>
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Safety consideration in state-based power optimization with partial networking - A case study.</title>
+<pages>2325-2330</pages>
+<year>2016</year>
+<booktitle>ITSC</booktitle>
+<ee>https://doi.org/10.1109/ITSC.2016.7795931</ee>
+<crossref>conf/itsc/2016</crossref>
+<url>db/conf/itsc/itsc2016.html#HongVBR16a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ivs/HongVLBR16" mdate="2019-08-02">
+<author pid="82/5918-5">Wei Hong 0005</author>
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="184/2605">Juguang Lin</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Impact analysis of AUTOSAR energy saving mechanisms for automotive networks.</title>
+<pages>1097-1102</pages>
+<year>2016</year>
+<booktitle>Intelligent Vehicles Symposium</booktitle>
+<ee>https://doi.org/10.1109/IVS.2016.7535526</ee>
+<crossref>conf/ivs/2016</crossref>
+<url>db/conf/ivs/ivs2016.html#HongVLBR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mbmv/LubeckMSPRB16" mdate="2019-03-29">
+<author pid="176/2607">Konstantin L&#252;beck</author>
+<author pid="176/2558">David Morgenstern</author>
+<author pid="72/6505">Thomas Schweizer</author>
+<author pid="131/4906">Dustin Peterson</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>Neues Konzept zur Steigerung der Zuverl&#228;ssigkeit einer ARM-basierten Prozessorarchitektur unter Verwendung eines CGRAs.</title>
+<pages>46-58</pages>
+<year>2016</year>
+<booktitle>MBMV</booktitle>
+<ee>https://doi.org/10.6094/UNIFR/10637</ee>
+<crossref>conf/mbmv/2016</crossref>
+<url>db/conf/mbmv/mbmv2016.html#LubeckMSPRB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mbmv/SchweizerSBR16" mdate="2019-03-29">
+<author pid="72/6505">Thomas Schweizer</author>
+<author pid="29/10350">Murat Simsek</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Eine Tcl-basierte Methode zur Fehlerinjektion und Fehlereffektsimulation/-emulation auf Xilinx-FPGAs.</title>
+<pages>59-71</pages>
+<year>2016</year>
+<booktitle>MBMV</booktitle>
+<ee>https://doi.org/10.6094/UNIFR/10638</ee>
+<crossref>conf/mbmv/2016</crossref>
+<url>db/conf/mbmv/mbmv2016.html#SchweizerSBR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/modelsward/HennigHEVB16" mdate="2021-08-11">
+<author pid="67/1113">Christian Hennig</author>
+<author pid="09/5756">Tobias Hoppe</author>
+<author pid="153/0971">Harald Eisenmann</author>
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>SCDML: A Language for Conceptual Data Modeling in Model-based Systems Engineering.</title>
+<pages>184-192</pages>
+<year>2016</year>
+<booktitle>MODELSWARD</booktitle>
+<ee>https://doi.org/10.5220/0005676501840192</ee>
+<ee>https://ieeexplore.ieee.org/document/7954359</ee>
+<crossref>conf/modelsward/2016</crossref>
+<url>db/conf/modelsward/modelsward2016.html#HennigHEVB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/modelsward/HennigEVB16" mdate="2021-08-11">
+<author pid="67/1113">Christian Hennig</author>
+<author pid="153/0971">Harald Eisenmann</author>
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>A Methodology for Deriving Conceptual Data Models from Systems Engineering Artefacts.</title>
+<pages>497-508</pages>
+<year>2016</year>
+<booktitle>MODELSWARD</booktitle>
+<ee>https://doi.org/10.5220/0005676604970508</ee>
+<ee>https://ieeexplore.ieee.org/document/7954399</ee>
+<crossref>conf/modelsward/2016</crossref>
+<url>db/conf/modelsward/modelsward2016.html#HennigEVB16</url>
+</inproceedings>
+</r>
+<r><article key="journals/dt/OttaviPGBMATPRB15" mdate="2023-09-30">
+<author orcid="0000-0002-5064-7342" pid="84/5657">Marco Ottavi</author>
+<author orcid="0000-0002-3626-6404" pid="72/5613">Salvatore Pontarelli</author>
+<author pid="79/1691">Dimitris Gizopoulos</author>
+<author orcid="0000-0001-5065-7906" pid="b/CristianaBolchini">Cristiana Bolchini</author>
+<author pid="10/2633">Maria K. Michael</author>
+<author orcid="0000-0001-9569-0072" pid="12/10348">Lorena Anghel</author>
+<author pid="55/3589">Mehdi Baradaran Tahoori</author>
+<author orcid="0000-0002-6236-4227" pid="16/6466">Antonis M. Paschalis</author>
+<author pid="60/2579">Pedro Reviriego</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="59/4837">Viacheslav Izosimov</author>
+<author pid="36/6150">Hans A. R. Manhaeve</author>
+<author orcid="0000-0002-0935-9322" pid="23/1111">Christos Strydis</author>
+<author pid="75/4940">Said Hamdioui</author>
+<title>Dependable Multicore Architectures at Nanoscale: The View From Europe.</title>
+<pages>17-28</pages>
+<year>2015</year>
+<volume>32</volume>
+<journal>IEEE Des. Test</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/MDAT.2014.2359572</ee>
+<url>db/journals/dt/dt32.html#OttaviPGBMATPRB15</url>
+</article>
+</r>
+<r><inproceedings key="conf/coolchips/KuhnABR15" mdate="2023-03-23">
+<author pid="149/4772">Johannes Maximilian K&#252;hn</author>
+<author pid="59/1558">Hideharu Amano</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Fined-grained body biasing for frequency scaling in advanced SOI processes.</title>
+<pages>1-3</pages>
+<year>2015</year>
+<booktitle>COOL Chips</booktitle>
+<ee>https://doi.org/10.1109/CoolChips.2015.7158655</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CoolChips.2015.7158655</ee>
+<crossref>conf/coolchips/2015</crossref>
+<url>db/conf/coolchips/coolchips2015.html#KuhnABR15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/GerumBR15" mdate="2021-08-09">
+<author pid="161/0144">Christoph Gerum</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Source level performance simulation of GPU cores.</title>
+<pages>217-222</pages>
+<year>2015</year>
+<booktitle>DATE</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=2755800</ee>
+<ee>https://ieeexplore.ieee.org/document/7092385/</ee>
+<crossref>conf/date/2015</crossref>
+<url>db/conf/date/date2015.html#GerumBR15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/KuhnPABR15" mdate="2021-08-09">
+<author pid="149/4772">Johannes Maximilian K&#252;hn</author>
+<author pid="131/4906">Dustin Peterson</author>
+<author pid="59/1558">Hideharu Amano</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Spatial and temporal granularity limits of body biasing in UTBB-FDSOI.</title>
+<pages>876-879</pages>
+<year>2015</year>
+<booktitle>DATE</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=2757015</ee>
+<ee>https://ieeexplore.ieee.org/document/7092508/</ee>
+<crossref>conf/date/2015</crossref>
+<url>db/conf/date/date2015.html#KuhnPABR15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/BringmannEGGMSS15" mdate="2021-08-09">
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="e/WolfgangEcker">Wolfgang Ecker</author>
+<author pid="96/2951">Andreas Gerstlauer</author>
+<author pid="125/2351">Ajay Goyal</author>
+<author pid="96/8188">Daniel Mueller-Gritschneder</author>
+<author pid="161/0822">Prasanth Sasidharan</author>
+<author pid="137/5178">Simranjit Singh</author>
+<title>The next generation of virtual prototyping: ultra-fast yet accurate simulation of HW/SW systems.</title>
+<pages>1698-1707</pages>
+<year>2015</year>
+<booktitle>DATE</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=2757206</ee>
+<ee>https://ieeexplore.ieee.org/document/7092666/</ee>
+<crossref>conf/date/2015</crossref>
+<url>db/conf/date/date2015.html#BringmannEGGMSS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsd/ReiterVBR15" mdate="2023-03-23">
+<author pid="64/10499-3">Sebastian Reiter 0003</author>
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>White-Box Error Effect Simulation for Assisted Safety Analysis.</title>
+<pages>534-538</pages>
+<year>2015</year>
+<booktitle>DSD</booktitle>
+<ee>https://doi.org/10.1109/DSD.2015.83</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DSD.2015.83</ee>
+<crossref>conf/dsd/2015</crossref>
+<url>db/conf/dsd/dsd2015.html#ReiterVBR15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ih/BurgPB15" mdate="2019-03-29">
+<author pid="115/4376">Sebastian Matthias Burg</author>
+<author pid="131/4906">Dustin Peterson</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>End-to-Display Encryption: A Pixel-Domain Encryption with Security Benefit.</title>
+<pages>123-128</pages>
+<year>2015</year>
+<booktitle>IH&#38;MMSec</booktitle>
+<ee>https://doi.org/10.1145/2756601.2756613</ee>
+<crossref>conf/ih/2015</crossref>
+<url>db/conf/ih/ihmmsec2015.html#BurgPB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/itsc/BorrmannHVBR15" mdate="2019-03-29">
+<author pid="123/8152">Jan Micha Borrmann</author>
+<author pid="189/9637">Frederik Haxel</author>
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Safe and Efficient Runtime Resource Management in Heterogeneous Systems for Automated Driving.</title>
+<pages>353-360</pages>
+<year>2015</year>
+<booktitle>ITSC</booktitle>
+<ee>https://doi.org/10.1109/ITSC.2015.67</ee>
+<crossref>conf/itsc/2015</crossref>
+<url>db/conf/itsc/itsc2015.html#BorrmannHVBR15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/itsc/HongSVBR15" mdate="2019-08-02">
+<author pid="82/5918-5">Wei Hong 0005</author>
+<author pid="95/9617">Salman Siddiqui</author>
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Exploiting Pretended Networking for Energy Saving in Automotive Networks.</title>
+<pages>2587-2593</pages>
+<year>2015</year>
+<booktitle>ITSC</booktitle>
+<ee>https://doi.org/10.1109/ITSC.2015.416</ee>
+<crossref>conf/itsc/2015</crossref>
+<url>db/conf/itsc/itsc2015.html#HongSVBR15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/itsc/MullerHBGR15" mdate="2019-03-29">
+<author pid="26/4817">Stefan M&#252;ller</author>
+<author pid="166/4938">Dennis Hospach</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="61/5225">Joachim Gerlach</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Robustness Evaluation and Improvement for Vision-Based Advanced Driver Assistance Systems.</title>
+<pages>2659-2664</pages>
+<year>2015</year>
+<booktitle>ITSC</booktitle>
+<ee>https://doi.org/10.1109/ITSC.2015.427</ee>
+<crossref>conf/itsc/2015</crossref>
+<url>db/conf/itsc/itsc2015.html#MullerHBGR15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ivs/KoehlerVBR15" mdate="2019-03-29">
+<author pid="135/8907">Stefan Koehler</author>
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Improved energy efficiency and vehicle dynamics for battery electric vehicles through torque vectoring control.</title>
+<pages>749-754</pages>
+<year>2015</year>
+<booktitle>Intelligent Vehicles Symposium</booktitle>
+<ee>https://doi.org/10.1109/IVS.2015.7225774</ee>
+<crossref>conf/ivs/2015</crossref>
+<url>db/conf/ivs/ivs2015.html#KoehlerVBR15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ivs/HongHBVBR15" mdate="2019-08-02">
+<author pid="82/5918-5">Wei Hong 0005</author>
+<author pid="167/3374">Otto Hucke</author>
+<author pid="60/7211">Andreas Burger</author>
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>State-based power optimization using mixed-criticality filter for automotive networks.</title>
+<pages>773-778</pages>
+<year>2015</year>
+<booktitle>Intelligent Vehicles Symposium</booktitle>
+<ee>https://doi.org/10.1109/IVS.2015.7225778</ee>
+<crossref>conf/ivs/2015</crossref>
+<url>db/conf/ivs/ivs2015.html#HongHBVBR15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mbmv/MullerHGBR15" mdate="2019-03-29">
+<author pid="26/4817">Stefan M&#252;ller</author>
+<author pid="166/4938">Dennis Hospach</author>
+<author pid="61/5225">Joachim Gerlach</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Framework for Varied Sensor Perception in Virtual Prototypes.</title>
+<pages>145-154</pages>
+<year>2015</year>
+<booktitle>MBMV</booktitle>
+<crossref>conf/mbmv/2015</crossref>
+<url>db/conf/mbmv/mbmv2015.html#MullerHGBR15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/modelsward/HennigEVB15" mdate="2021-08-11">
+<author pid="67/1113">Christian Hennig</author>
+<author pid="153/0971">Harald Eisenmann</author>
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>On Languages for Conceptual Data Modeling in Multi-disciplinary Space Systems Engineering.</title>
+<pages>384-393</pages>
+<year>2015</year>
+<booktitle>MODELSWARD</booktitle>
+<ee>https://doi.org/10.5220/0005329003840393</ee>
+<ee>https://ieeexplore.ieee.org/document/7323121/</ee>
+<crossref>conf/modelsward/2015</crossref>
+<url>db/conf/modelsward/modelsward2015.html#HennigEVB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/samos/GerumRB15" mdate="2019-03-29">
+<author pid="161/0144">Christoph Gerum</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>Improving accuracy of source level timing simulation for GPUs using a probabilistic resource model.</title>
+<pages>18-25</pages>
+<year>2015</year>
+<booktitle>SAMOS</booktitle>
+<ee>https://doi.org/10.1109/SAMOS.2015.7363655</ee>
+<crossref>conf/samos/2015</crossref>
+<url>db/conf/samos/samos2015.html#GerumRB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/se/PresslerVBR15" mdate="2019-03-29">
+<author pid="98/7358">Michael Pressler</author>
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Fast Software Performance Evaluation for Embedded Hardware in Componentbased Embedded Systems.</title>
+<pages>47-48</pages>
+<year>2015</year>
+<booktitle>Software Engineering &#38; Management</booktitle>
+<crossref>conf/se/2015</crossref>
+<url>db/conf/se/se2015.html#PresslerVBR15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aspdac/BurgerVBHGBR14" mdate="2019-03-29">
+<author pid="60/7211">Andreas Burger</author>
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="31/1363">Andreas Braun</author>
+<author pid="75/8857">Finn Haedicke</author>
+<author pid="68/758">Daniel Gro&#223;e</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Constraint-based platform variants specification for early system verification.</title>
+<pages>800-805</pages>
+<year>2014</year>
+<booktitle>ASP-DAC</booktitle>
+<ee>https://doi.org/10.1109/ASPDAC.2014.6742988</ee>
+<crossref>conf/aspdac/2014</crossref>
+<url>db/conf/aspdac/aspdac2014.html#BurgerVBHGBR14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cases/OttlikSVRB14" mdate="2019-03-29">
+<author pid="122/3749">Sebastian Ottlik</author>
+<author pid="58/8937">Stefan Stattelmann</author>
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>Context-sensitive timing simulation of binary embedded software.</title>
+<pages>14:1-14:10</pages>
+<year>2014</year>
+<booktitle>CASES</booktitle>
+<ee>https://doi.org/10.1145/2656106.2656117</ee>
+<crossref>conf/cases/2014</crossref>
+<url>db/conf/cases/cases2014.html#OttlikSVRB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cbse/PresslerVBR14" mdate="2019-03-29">
+<author pid="98/7358">Michael Pressler</author>
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Execution cost estimation for software deployment in component-based embedded systems.</title>
+<pages>123-128</pages>
+<year>2014</year>
+<booktitle>CBSE</booktitle>
+<ee>https://doi.org/10.1145/2602458.2602462</ee>
+<crossref>conf/cbse/2014</crossref>
+<url>db/conf/cbse/cbse2014.html#PresslerVBR14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dac/OetjensBBBBCCDEGKKLM0MPPRRRSSTV14" mdate="2022-05-25">
+<author pid="78/6545">Jan-Hendrik Oetjens</author>
+<author pid="90/2630">Nico Bannow</author>
+<author pid="63/4934-1">Markus Becker 0001</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="60/7211">Andreas Burger</author>
+<author pid="163/3632">Moomen Chaari</author>
+<author orcid="0000-0002-0503-6235" pid="c/SamarjitChakraborty">Samarjit Chakraborty</author>
+<author orcid="0000-0002-9872-1740" pid="d/RolfDrechsler">Rolf Drechsler</author>
+<author pid="e/WolfgangEcker">Wolfgang Ecker</author>
+<author pid="76/1329">Kim Gr&#252;ttner</author>
+<author pid="31/2413">Thomas Kruse</author>
+<author pid="63/8120">Christoph Kuznik</author>
+<author pid="10/1634-1">Hoang Minh Le 0001</author>
+<author pid="115/8576">Andreas Mauderer</author>
+<author pid="m/WMuller3">Wolfgang M&#252;ller 0003</author>
+<author pid="96/8188">Daniel M&#252;ller-Gritschneder</author>
+<author pid="07/2911">Frank Poppen</author>
+<author pid="50/1951">Hendrik Post</author>
+<author pid="64/10499-3">Sebastian Reiter 0003</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<author pid="07/1267">S. Roth</author>
+<author orcid="0000-0003-4431-7619" pid="07/6841">Ulf Schlichtmann</author>
+<author pid="06/8190">Andreas von Schwerin</author>
+<author pid="163/3707">Bogdan-Andrei Tabacaru</author>
+<author pid="76/4280">Alexander Viehl</author>
+<title>Safety Evaluation of Automotive Electronics Using Virtual Prototypes: State of the Art and Research Challenges.</title>
+<pages>113:1-113:6</pages>
+<year>2014</year>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/2593069.2602976</ee>
+<ee>https://www.wikidata.org/entity/Q59242318</ee>
+<crossref>conf/dac/2014</crossref>
+<url>db/conf/dac/dac2014.html#OetjensBBBBCCDEGKKLM0MPPRRRSSTV14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/NirmaierBHVBRP14" mdate="2019-03-29">
+<author pid="10/10853">Thomas Nirmaier</author>
+<author pid="60/7211">Andreas Burger</author>
+<author pid="65/11158">Manuel Harrant</author>
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<author pid="65/1714">Georg Pelz</author>
+<title>Mission profile aware robustness assessment of automotive power devices.</title>
+<pages>1-6</pages>
+<year>2014</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.7873/DATE.2014.078</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2616686</ee>
+<crossref>conf/date/2014</crossref>
+<url>db/conf/date/date2014.html#NirmaierBHVBRP14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gi/HoppeEVBH14" mdate="2023-07-04">
+<author pid="09/5756">Tobias Hoppe</author>
+<author pid="153/0971">Harald Eisenmann</author>
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="67/1113">Christian Hennig</author>
+<title>Sicherstellen semantischer Integrit&#228;t im Big Data Umfeld - Problemstellung und L&#246;sungsansatz.</title>
+<pages>1215-1227</pages>
+<year>2014</year>
+<booktitle>GI-Jahrestagung</booktitle>
+<crossref>conf/gi/2014</crossref>
+<url>db/conf/gi/gi2014.html#HoppeEVBH14</url>
+<ee>https://dl.gi.de/handle/20.500.12116/2730</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iecon/ValentinaVBR14" mdate="2019-03-29">
+<author pid="139/8821">Rhea Valentina</author>
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Battery aging estimation for eco-driving strategy and electric vehicles sustainability.</title>
+<pages>5622-5627</pages>
+<year>2014</year>
+<booktitle>IECON</booktitle>
+<ee>https://doi.org/10.1109/IECON.2014.7049361</ee>
+<crossref>conf/iecon/2014</crossref>
+<url>db/conf/iecon/iecon2014.html#ValentinaVBR14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/itsc/BorrmannHNVZBR14" mdate="2019-03-29">
+<author pid="123/8152">Jan Micha Borrmann</author>
+<author pid="189/9637">Frederik Haxel</author>
+<author pid="24/3578">Dennis Nienh&#252;ser</author>
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="97/3452">J. Marius Z&#246;llner</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>STELLaR - A case-study on SysTEmaticaLLy embedding a Traffic Light Recognition.</title>
+<pages>1258-1265</pages>
+<year>2014</year>
+<booktitle>ITSC</booktitle>
+<ee>https://doi.org/10.1109/ITSC.2014.6957860</ee>
+<crossref>conf/itsc/2014</crossref>
+<url>db/conf/itsc/itsc2014.html#BorrmannHNVZBR14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/itsc/HospachMBGR14" mdate="2019-03-29">
+<author pid="166/4938">Dennis Hospach</author>
+<author pid="26/4817">Stefan M&#252;ller</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="61/5225">Joachim Gerlach</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Simulation and evaluation of sensor characteristics in vision based advanced driver assistance systems.</title>
+<pages>2610-2615</pages>
+<year>2014</year>
+<booktitle>ITSC</booktitle>
+<ee>https://doi.org/10.1109/ITSC.2014.6958108</ee>
+<crossref>conf/itsc/2014</crossref>
+<url>db/conf/itsc/itsc2014.html#HospachMBGR14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ivs/KoehlerVBR14" mdate="2019-03-29">
+<author pid="135/8907">Stefan Koehler</author>
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Energy-efficient torque distribution for axle-individually propelled electric vehicles.</title>
+<pages>1109-1114</pages>
+<year>2014</year>
+<booktitle>Intelligent Vehicles Symposium</booktitle>
+<ee>https://doi.org/10.1109/IVS.2014.6856499</ee>
+<crossref>conf/ivs/2014</crossref>
+<url>db/conf/ivs/ivs2014.html#KoehlerVBR14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ivs/ValentinaVBR14" mdate="2019-03-29">
+<author pid="139/8821">Rhea Valentina</author>
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>HVAC system modeling for range prediction of electric vehicles.</title>
+<pages>1145-1150</pages>
+<year>2014</year>
+<booktitle>Intelligent Vehicles Symposium</booktitle>
+<ee>https://doi.org/10.1109/IVS.2014.6856500</ee>
+<crossref>conf/ivs/2014</crossref>
+<url>db/conf/ivs/ivs2014.html#ValentinaVBR14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mbmv/BurgHHEBRKB14" mdate="2019-03-29">
+<author pid="115/4376">Sebastian Burg</author>
+<author pid="13/3839">Patrick Heckeler</author>
+<author pid="116/1744">Stefan Huster</author>
+<author pid="121/4267">Hanno Eichelberger</author>
+<author pid="36/2078">J&#246;rg Behrend</author>
+<author pid="12/6927">J&#252;rgen Ruf</author>
+<author pid="89/6634">Thomas Kropf</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>LoCEG: Local Preprocessing in SAT-Solving through Counter-Example Generation.</title>
+<pages>193-196</pages>
+<year>2014</year>
+<booktitle>MBMV</booktitle>
+<crossref>conf/mbmv/2014</crossref>
+<url>db/conf/mbmv/mbmv2014.html#BurgHHEBRKB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/reconfig/SchulzBSR14" mdate="2019-03-29">
+<author pid="03/6099">Simon Schulz</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="72/6505">Thomas Schweizer</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Rotated parallel mapping: A novel approach for mapping data parallel applications on CGRAs.</title>
+<pages>1-6</pages>
+<year>2014</year>
+<booktitle>ReConFig</booktitle>
+<ee>https://doi.org/10.1109/ReConFig.2014.7032554</ee>
+<crossref>conf/reconfig/2014</crossref>
+<url>db/conf/reconfig/reconfig2014.html#SchulzBSR14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/samos/GruttnerHFHLSSBNR14" mdate="2019-03-29">
+<author pid="76/1329">Kim Gr&#252;ttner</author>
+<author pid="12/5769">Philipp A. Hartmann</author>
+<author pid="150/8274">Tiemo Fandrey</author>
+<author pid="71/6641">Kai Hylla</author>
+<author pid="95/6374-2">Daniel Lorenz 0002</author>
+<author pid="58/8937">Stefan Stattelmann</author>
+<author pid="31/675">Bj&#246;rn Sander</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="n/WolfgangNebel">Wolfgang Nebel</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>An ESL timing &#38; power estimation and simulation framework for heterogeneous socs.</title>
+<pages>181-190</pages>
+<year>2014</year>
+<booktitle>ICSAMOS</booktitle>
+<ee>https://doi.org/10.1109/SAMOS.2014.6893210</ee>
+<crossref>conf/samos/2014ic</crossref>
+<url>db/conf/samos/samos2014ic.html#GruttnerHFHLSSBNR14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/simutools/ReiterBVBR14" mdate="2019-03-29">
+<author pid="64/10499-3">Sebastian Reiter 0003</author>
+<author pid="60/7211">Andreas Burger</author>
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Virtual prototyping evaluation framework for automotive embedded systems engineering.</title>
+<pages>1-10</pages>
+<year>2014</year>
+<booktitle>SimuTools</booktitle>
+<ee>https://doi.org/10.4108/icst.simutools.2014.254625</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2643096</ee>
+<crossref>conf/simutools/2014</crossref>
+<url>db/conf/simutools/simutools2014.html#ReiterBVBR14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aspdac/ReiterPVBR13" mdate="2019-03-29">
+<author pid="64/10499-3">Sebastian Reiter 0003</author>
+<author pid="98/7358">Michael Pressler</author>
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Reliability assessment of safety-relevant automotive systems in a model-based design flow.</title>
+<pages>417-422</pages>
+<year>2013</year>
+<booktitle>ASP-DAC</booktitle>
+<ee>https://doi.org/10.1109/ASPDAC.2013.6509632</ee>
+<crossref>conf/aspdac/2013</crossref>
+<url>db/conf/aspdac/aspdac2013.html#ReiterPVBR13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/SchonwaldVBR13" mdate="2019-03-29">
+<author pid="87/5279">Timo Sch&#246;nwald</author>
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Shared memory aware MPSoC software deployment.</title>
+<pages>1771-1776</pages>
+<year>2013</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.7873/DATE.2013.356</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2485707</ee>
+<crossref>conf/date/2013</crossref>
+<url>db/conf/date/date2013.html#SchonwaldVBR13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fdl/HongJVBKPBR13" mdate="2021-08-09">
+<author pid="82/5918-5">Wei Hong 0005</author>
+<author pid="119/0280">Jyoti Joshi</author>
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="90/2630">Nico Bannow</author>
+<author pid="137/4306">Angela Kramer</author>
+<author pid="50/1951">Hendrik Post</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Advanced features for industry-level logging and tracing of C-based designs.</title>
+<pages>1-6</pages>
+<year>2013</year>
+<booktitle>FDL</booktitle>
+<ee>https://ieeexplore.ieee.org/document/6646650/</ee>
+<crossref>conf/fdl/2013</crossref>
+<url>db/conf/fdl/fdl2013.html#HongJVBKPBR13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpt/PetersonBSR13" mdate="2019-03-29">
+<author pid="131/4906">Dustin Peterson</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="72/6505">Thomas Schweizer</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>StML: Bridging the gap between FPGA design and HDL circuit description.</title>
+<pages>278-285</pages>
+<year>2013</year>
+<booktitle>FPT</booktitle>
+<ee>https://doi.org/10.1109/FPT.2013.6718366</ee>
+<crossref>conf/fpt/2013</crossref>
+<url>db/conf/fpt/fpt2013.html#PetersonBSR13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ivs/KoehlerVBR13" mdate="2019-03-29">
+<author pid="135/8907">Stefan Koehler</author>
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Advanced driver assistance system for optimized recuperation under consideration of parameter uncertainties.</title>
+<pages>738-743</pages>
+<year>2013</year>
+<booktitle>Intelligent Vehicles Symposium</booktitle>
+<ee>https://doi.org/10.1109/IVS.2013.6629555</ee>
+<crossref>conf/ivs/2013</crossref>
+<url>db/conf/ivs/ivs2013.html#KoehlerVBR13</url>
+</inproceedings>
+</r>
+<r><article key="journals/it/NienhuserBKSZGSBZ12" mdate="2023-08-28">
+<author pid="24/3578">Dennis Nienh&#252;ser</author>
+<author pid="61/11061">Tobias B&#228;r</author>
+<author pid="99/11061">Ralf Kohlhaas</author>
+<author pid="14/973">Thomas Schamm</author>
+<author pid="07/3752">Jochen Zimmermann</author>
+<author pid="17/410">Thomas Gumpp</author>
+<author pid="15/7860">Marcus Strand</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="97/3452">Johann Marius Z&#246;llner</author>
+<title>Energy Efficient Driving and Operation Strategies Based on Situation Awareness and Reasoning.</title>
+<pages>5-16</pages>
+<year>2012</year>
+<volume>54</volume>
+<journal>it Inf. Technol.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1524/itit.2012.0658</ee>
+<ee>https://www.wikidata.org/entity/Q115722322</ee>
+<url>db/journals/it/it54.html#NienhuserBKSZGSBZ12</url>
+</article>
+</r>
+<r><inproceedings key="conf/dasip/BorrmannVBR12" mdate="2021-08-09">
+<author pid="123/8152">Jan Micha Borrmann</author>
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Parallel video-based traffic sign recognition on the Intel SCC many-core platform.</title>
+<pages>1-2</pages>
+<year>2012</year>
+<booktitle>DASIP</booktitle>
+<ee>https://ieeexplore.ieee.org/document/6385420/</ee>
+<crossref>conf/dasip/2012</crossref>
+<url>db/conf/dasip/dasip2012.html#BorrmannVBR12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dasip/SchonwaldKRVBR12" mdate="2021-08-09">
+<author pid="87/5279">Timo Sch&#246;nwald</author>
+<author pid="45/2101-3">Alexander Koch 0003</author>
+<author pid="66/11146">Benjamin Ranft</author>
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Stereo depth map computation on a Tilera TILEPro64 embedded multicore processor.</title>
+<pages>1-2</pages>
+<year>2012</year>
+<booktitle>DASIP</booktitle>
+<ee>https://ieeexplore.ieee.org/document/6385425/</ee>
+<crossref>conf/dasip/2012</crossref>
+<url>db/conf/dasip/dasip2012.html#SchonwaldKRVBR12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/StattelmannGCBR12" mdate="2023-03-24">
+<author pid="58/8937">Stefan Stattelmann</author>
+<author pid="52/4082">Gernot Gebhard</author>
+<author pid="34/5800">Christoph Cullmann</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Hybrid source-level simulation of data caches using abstract cache models.</title>
+<pages>376-381</pages>
+<year>2012</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.1109/DATE.2012.6176500</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DATE.2012.6176500</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2492805</ee>
+<crossref>conf/date/2012</crossref>
+<url>db/conf/date/date2012.html#StattelmannGCBR12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/KnoedlerSLJHKSBZ12" mdate="2023-03-24">
+<author pid="09/11158">Kosmas Knoedler</author>
+<author pid="73/11157">Jochen Steinmann</author>
+<author pid="60/11157">Sylvain Laversanne</author>
+<author pid="89/1488">Stephen Jones</author>
+<author pid="54/11158">Arno Huss</author>
+<author pid="56/8742">Emre Kural</author>
+<author pid="145/4311">David Sanchez</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="07/3752">Jochen Zimmermann</author>
+<title>Optimal energy management and recovery for FEV.</title>
+<pages>683-684</pages>
+<year>2012</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.1109/DATE.2012.6176557</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DATE.2012.6176557</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2492880</ee>
+<crossref>conf/date/2012</crossref>
+<url>db/conf/date/date2012.html#KnoedlerSLJHKSBZ12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/ZimmermannBR12" mdate="2023-03-24">
+<author pid="07/3752">Jochen Zimmermann</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Analysis of multi-domain scenarios for optimized dynamic power management strategies.</title>
+<pages>862-865</pages>
+<year>2012</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.1109/DATE.2012.6176617</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DATE.2012.6176617</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2492922</ee>
+<crossref>conf/date/2012</crossref>
+<url>db/conf/date/date2012.html#ZimmermannBR12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsd/SchonwaldVBR12" mdate="2023-03-23">
+<author pid="87/5279">Timo Sch&#246;nwald</author>
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Distance-Constrained Force-Directed Process Mapping for MPSoC Architectures.</title>
+<pages>592-599</pages>
+<year>2012</year>
+<booktitle>DSD</booktitle>
+<ee>https://doi.org/10.1109/DSD.2012.45</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DSD.2012.45</ee>
+<crossref>conf/dsd/2012</crossref>
+<url>db/conf/dsd/dsd2012.html#SchonwaldVBR12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ets/HenkelBHRW12" mdate="2021-07-25">
+<author pid="h/JorgHenkel">J&#246;rg Henkel</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="62/5988">Andreas Herkersdorf</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<author orcid="0000-0002-9010-086X" pid="48/6980">Norbert Wehn</author>
+<title>Dependable embedded systems: The German research foundation DFG priority program SPP 1500.</title>
+<pages>1</pages>
+<year>2012</year>
+<booktitle>ETS</booktitle>
+<ee>https://doi.org/10.1109/ETS.2012.6233053</ee>
+<crossref>conf/ets/2012</crossref>
+<url>db/conf/ets/ets2012.html#HenkelBHRW12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mbmv/SchonwaldRBR12" mdate="2019-03-29">
+<author pid="87/5279">Timo Sch&#246;nwald</author>
+<author pid="66/11146">Benjamin Ranft</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Latency-Optimized Force-directed Process Mapping for MPSoC Architectures.</title>
+<pages>145-156</pages>
+<year>2012</year>
+<booktitle>MBMV</booktitle>
+<crossref>conf/mbmv/2012</crossref>
+<url>db/conf/mbmv/mbmv2012.html#SchonwaldRBR12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sies/SchonwaldVBR12" mdate="2019-03-29">
+<author pid="87/5279">Timo Sch&#246;nwald</author>
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Optimized software mapping for advanced driver assistance systems.</title>
+<pages>181-190</pages>
+<year>2012</year>
+<booktitle>SIES</booktitle>
+<ee>https://doi.org/10.1109/SIES.2012.6356584</ee>
+<crossref>conf/sies/2012</crossref>
+<url>db/conf/sies/sies2012.html#SchonwaldVBR12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sies/ZimmermannSVBR12" mdate="2019-03-29">
+<author pid="07/3752">Jochen Zimmermann</author>
+<author pid="58/8937">Stefan Stattelmann</author>
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Model-driven virtual prototyping for real-time simulation of distributed embedded systems.</title>
+<pages>201-210</pages>
+<year>2012</year>
+<booktitle>SIES</booktitle>
+<ee>https://doi.org/10.1109/SIES.2012.6356586</ee>
+<crossref>conf/sies/2012</crossref>
+<url>db/conf/sies/sies2012.html#ZimmermannSVBR12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sies/StattelmannOVBR12" mdate="2019-03-29">
+<author pid="58/8937">Stefan Stattelmann</author>
+<author pid="122/3749">Sebastian Ottlik</author>
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Combining instruction set simulation and WCET analysis for embedded software performance estimation.</title>
+<pages>295-298</pages>
+<year>2012</year>
+<booktitle>SIES</booktitle>
+<ee>https://doi.org/10.1109/SIES.2012.6356600</ee>
+<crossref>conf/sies/2012</crossref>
+<url>db/conf/sies/sies2012.html#StattelmannOVBR12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/codes/HenkelBBBBCEEHHHKLMPRSSTTWW11" mdate="2021-07-25">
+<author pid="h/JorgHenkel">J&#246;rg Henkel</author>
+<author pid="55/2100">Lars Bauer</author>
+<author pid="30/6301">Joachim Becker</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="05/3396">Uwe Brinkschulte</author>
+<author orcid="0000-0002-0503-6235" pid="c/SamarjitChakraborty">Samarjit Chakraborty</author>
+<author pid="49/887">Michael Engel</author>
+<author pid="e/RolfErnst">Rolf Ernst</author>
+<author pid="h/HHartig">Hermann H&#228;rtig</author>
+<author pid="50/392">Lars Hedrich</author>
+<author pid="62/5988">Andreas Herkersdorf</author>
+<author pid="27/2697">R&#252;diger Kapitza</author>
+<author orcid="0000-0001-8224-4161" pid="57/863">Daniel Lohmann</author>
+<author pid="m/PeterMarwedel">Peter Marwedel</author>
+<author orcid="0000-0002-6893-063X" pid="68/3728">Marco Platzner</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<author orcid="0000-0003-4431-7619" pid="07/6841">Ulf Schlichtmann</author>
+<author pid="s/OlafSpinczyk">Olaf Spinczyk</author>
+<author pid="55/3589">Mehdi Baradaran Tahoori</author>
+<author pid="t/JurgenTeich">J&#252;rgen Teich</author>
+<author orcid="0000-0002-9010-086X" pid="48/6980">Norbert Wehn</author>
+<author pid="02/1297">Hans-Joachim Wunderlich</author>
+<title>Design and architectures for dependable embedded systems.</title>
+<pages>69-78</pages>
+<year>2011</year>
+<booktitle>CODES+ISSS</booktitle>
+<ee>https://doi.org/10.1145/2039370.2039384</ee>
+<crossref>conf/codes/2011</crossref>
+<url>db/conf/codes/codes2011.html#HenkelBBBBCEEHHHKLMPRSSTTWW11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/codes/StattelmannBR11" mdate="2019-03-29">
+<author pid="58/8937">Stefan Stattelmann</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Dominator homomorphism based code matching for source-level simulation of embedded software.</title>
+<pages>305-314</pages>
+<year>2011</year>
+<booktitle>CODES+ISSS</booktitle>
+<ee>https://doi.org/10.1145/2039370.2039417</ee>
+<crossref>conf/codes/2011</crossref>
+<url>db/conf/codes/codes2011.html#StattelmannBR11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dac/StattelmannBR11" mdate="2019-03-29">
+<author pid="58/8937">Stefan Stattelmann</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Fast and accurate source-level simulation of software timing considering complex code optimizations.</title>
+<pages>486-491</pages>
+<year>2011</year>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/2024724.2024838</ee>
+<crossref>conf/dac/2011</crossref>
+<url>db/conf/dac/dac2011.html#StattelmannBR11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/StattelmannBR11" mdate="2023-03-24">
+<author pid="58/8937">Stefan Stattelmann</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Fast and accurate resource conflict simulation for performance analysis of multi-core systems.</title>
+<pages>210-215</pages>
+<year>2011</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.1109/DATE.2011.5763044</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DATE.2011.5763044</ee>
+<crossref>conf/date/2011</crossref>
+<url>db/conf/date/date2011.html#StattelmannBR11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/CroneBCDER11" mdate="2021-08-09">
+<author pid="80/6600">Allan Crone</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="32/10053">C. Chevallaz</author>
+<author pid="07/10053">B. Dickman</author>
+<author pid="92/4282">Volkan Esen</author>
+<author pid="38/10052">M. Rohleder</author>
+<title>State of the art verification methodologies in 2015.</title>
+<pages>1339</pages>
+<year>2011</year>
+<booktitle>DATE</booktitle>
+<ee>https://ieeexplore.ieee.org/document/5763215/</ee>
+<crossref>conf/date/2011</crossref>
+<url>db/conf/date/date2011.html#CroneBCDER11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icac/BernauerABR11" mdate="2019-03-29">
+<author pid="80/3411">Andreas Bernauer</author>
+<author pid="79/10781">Gunnar Arndt</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Autonomous multi-processor-SoC optimization with distributed learning classifier systems XCS.</title>
+<pages>213-216</pages>
+<year>2011</year>
+<booktitle>ICAC</booktitle>
+<ee>https://doi.org/10.1145/1998582.1998632</ee>
+<crossref>conf/icac/2011</crossref>
+<url>db/conf/icac/icac2011.html#BernauerABR11</url>
+</inproceedings>
+</r>
+<r><incollection key="books/sp/Muller2011/BernauerZBHR11" mdate="2019-03-29">
+<author pid="80/3411">Andreas Bernauer</author>
+<author pid="92/278">Johannes Zeppenfeld</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="62/5988">Andreas Herkersdorf</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Combining Software and Hardware LCS for Lightweight On-chip Learning.</title>
+<pages>253-265</pages>
+<year>2011</year>
+<booktitle>Organic Computing</booktitle>
+<ee>https://doi.org/10.1007/978-3-0348-0130-0_16</ee>
+<crossref>books/sp/muller11</crossref>
+<url>db/books/collections/Muller2011.html#BernauerZBHR11</url>
+</incollection>
+</r>
+<r><incollection key="books/sp/Muller2011/BouajilaZSBBRH11" mdate="2019-03-29">
+<author pid="71/656">Abdelmajid Bouajila</author>
+<author pid="92/278">Johannes Zeppenfeld</author>
+<author pid="37/3374">Walter Stechele</author>
+<author pid="80/3411">Andreas Bernauer</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<author pid="62/5988">Andreas Herkersdorf</author>
+<title>Autonomic System on Chip Platform.</title>
+<pages>413-425</pages>
+<year>2011</year>
+<booktitle>Organic Computing</booktitle>
+<ee>https://doi.org/10.1007/978-3-0348-0130-0_27</ee>
+<crossref>books/sp/muller11</crossref>
+<url>db/books/collections/Muller2011.html#BouajilaZSBBRH11</url>
+</incollection>
+</r>
+<r><incollection key="books/sp/Muller2011/ZeppenfeldBSBBRH11" mdate="2019-03-29">
+<author pid="92/278">Johannes Zeppenfeld</author>
+<author pid="71/656">Abdelmajid Bouajila</author>
+<author pid="37/3374">Walter Stechele</author>
+<author pid="80/3411">Andreas Bernauer</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<author pid="62/5988">Andreas Herkersdorf</author>
+<title>Applying ASoC to Multi-core Applications for Workload Management.</title>
+<pages>461-472</pages>
+<year>2011</year>
+<booktitle>Organic Computing</booktitle>
+<ee>https://doi.org/10.1007/978-3-0348-0130-0_30</ee>
+<crossref>books/sp/muller11</crossref>
+<url>db/books/collections/Muller2011.html#ZeppenfeldBSBBRH11</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/date/MullerBGRNZB10" mdate="2019-03-29">
+<author pid="59/650-4">Matthias M&#252;ller 0004</author>
+<author pid="27/3402">Axel G. Braun</author>
+<author pid="61/5225">Joachim Gerlach</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<author pid="24/3578">Dennis Nienh&#252;ser</author>
+<author pid="97/3452">Johann Marius Z&#246;llner</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>Design of an automotive traffic sign recognition system targeting a multi-core SoC implementation.</title>
+<pages>532-537</pages>
+<year>2010</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.1109/DATE.2010.5457147</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1871052</ee>
+<crossref>conf/date/2010</crossref>
+<url>db/conf/date/date2010.html#MullerBGRNZB10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/BraunBLR10" mdate="2019-03-29">
+<author pid="31/1363">Andreas Braun</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="21/3398">Djones Lettnin</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Simulation-based verification of the MOST NetInterface specification revision 3.0.</title>
+<pages>538-543</pages>
+<year>2010</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.1109/DATE.2010.5457148</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1871053</ee>
+<crossref>conf/date/2010</crossref>
+<url>db/conf/date/date2010.html#BraunBLR10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fdl/StattelmannVBR10" mdate="2019-03-29">
+<author pid="58/8937">Stefan Stattelmann</author>
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Reconstructing Line References from Optimized Binary Code for Source-Level Annotation.</title>
+<pages>62-67</pages>
+<year>2010</year>
+<booktitle>FDL</booktitle>
+<crossref>conf/fdl/2010</crossref>
+<url>db/conf/fdl/fdl2010.html#StattelmannVBR10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip10-3/BernauerZBHR10" mdate="2019-03-29">
+<author pid="80/3411">Andreas Bernauer</author>
+<author pid="92/278">Johannes Zeppenfeld</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="62/5988">Andreas Herkersdorf</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Combining Software and Hardware LCS for Lightweight On-Chip Learning.</title>
+<pages>278-289</pages>
+<year>2010</year>
+<booktitle>DIPES/BICC</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-15234-4_27</ee>
+<crossref>conf/ifip10-3/2010dipes</crossref>
+<url>db/conf/ifip10-3/dipes2010.html#BernauerZBHR10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnn/RakitschBBR10" mdate="2019-03-29">
+<author pid="18/9780">Barbara Rakitsch</author>
+<author pid="80/3411">Andreas Bernauer</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Pruning population size in XCS for complex problems.</title>
+<pages>1-8</pages>
+<year>2010</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN.2010.5596377</ee>
+<crossref>conf/ijcnn/2010</crossref>
+<url>db/conf/ijcnn/ijcnn2010.html#RakitschBBR10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/codes/SanderSB09" mdate="2019-03-29">
+<author pid="31/675">Bj&#246;rn Sander</author>
+<author pid="19/2233">J&#252;rgen Schnerr</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>ESL power analysis of embedded processors for temperature and reliability estimations.</title>
+<pages>239-248</pages>
+<year>2009</year>
+<booktitle>CODES+ISSS</booktitle>
+<ee>https://doi.org/10.1145/1629435.1629469</ee>
+<crossref>conf/codes/2009</crossref>
+<url>db/conf/codes/codes2009.html#SanderSB09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/codes/ViehlPB09" mdate="2019-03-29">
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="98/7358">Michael Pressler</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>Bottom-up performance analysis considering time slice based software scheduling at system level.</title>
+<pages>423-432</pages>
+<year>2009</year>
+<booktitle>CODES+ISSS</booktitle>
+<ee>https://doi.org/10.1145/1629435.1629493</ee>
+<crossref>conf/codes/2009</crossref>
+<url>db/conf/codes/codes2009.html#ViehlPB09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/ViehlPBR09" mdate="2019-03-29">
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="98/7358">Michael Pressler</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>White box performance analysis considering static non-preemptive software scheduling.</title>
+<pages>513-518</pages>
+<year>2009</year>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.1109/DATE.2009.5090718</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1874746</ee>
+<crossref>conf/date/2009</crossref>
+<url>db/conf/date/date2009.html#ViehlPBR09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsd/SchonwaldZBR09" mdate="2023-03-23">
+<author pid="87/5279">Timo Sch&#246;nwald</author>
+<author pid="07/3752">Jochen Zimmermann</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Network-on-Chip Architecture Exploration Framework.</title>
+<pages>375-382</pages>
+<year>2009</year>
+<booktitle>DSD</booktitle>
+<ee>https://doi.org/10.1109/DSD.2009.192</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DSD.2009.192</ee>
+<crossref>conf/dsd/2009</crossref>
+<url>db/conf/dsd/dsd2009.html#SchonwaldZBR09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/saso/BernauerBR09" mdate="2023-03-24">
+<author pid="80/3411">Andreas Bernauer</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Generic Self-Adaptation to Reduce Design Effort for System-on-Chip.</title>
+<pages>126-135</pages>
+<year>2009</year>
+<booktitle>SASO</booktitle>
+<ee>https://doi.org/10.1109/SASO.2009.41</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SASO.2009.41</ee>
+<crossref>conf/saso/2009</crossref>
+<url>db/conf/saso/saso2009.html#BernauerBR09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/codes/KrauseEBR08" mdate="2019-03-29">
+<author pid="90/2046-2">Matthias Krause 0002</author>
+<author pid="21/2573">Dominik Englert</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Combination of instruction set simulation and abstract RTOS model execution for fast and accurate target software evaluation.</title>
+<pages>143-148</pages>
+<year>2008</year>
+<booktitle>CODES+ISSS</booktitle>
+<ee>https://doi.org/10.1145/1450135.1450168</ee>
+<crossref>conf/codes/2008</crossref>
+<url>db/conf/codes/codes2008.html#KrauseEBR08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dac/SchnerrBVR08" mdate="2019-03-29">
+<author pid="19/2233">J&#252;rgen Schnerr</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>High-performance timing simulation of embedded software.</title>
+<pages>290-295</pages>
+<year>2008</year>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/1391469.1391543</ee>
+<crossref>conf/dac/2008</crossref>
+<url>db/conf/dac/dac2008.html#SchnerrBVR08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fdl/ViehlSBR08" mdate="2019-03-29">
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="31/675">Bj&#246;rn Sander</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Integrated Requirement Evaluation of Non-Functional System-on-Chip Properties.</title>
+<pages>105-110</pages>
+<year>2008</year>
+<booktitle>FDL</booktitle>
+<ee>https://doi.org/10.1109/FDL.2008.4641430</ee>
+<crossref>conf/fdl/2008</crossref>
+<url>db/conf/fdl/fdl2008.html#ViehlSBR08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fdl/ZimmermannBGSN08" mdate="2019-03-29">
+<author pid="07/3752">Jochen Zimmermann</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="61/5225">Joachim Gerlach</author>
+<author pid="83/2156">Florian Schaefer</author>
+<author pid="75/1465">Ulrich Nageldinger</author>
+<title>Comprehensive Platform and Component Modeling of Heterogeneous Interconnected Systems (invited).</title>
+<pages>227-232</pages>
+<year>2008</year>
+<booktitle>FDL</booktitle>
+<ee>https://doi.org/10.1109/FDL.2008.4641450</ee>
+<crossref>conf/fdl/2008</crossref>
+<url>db/conf/fdl/fdl2008.html#ZimmermannBGSN08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fdl/ViehlSBR08a" mdate="2019-03-29">
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="31/675">Bj&#246;rn Sander</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Analysis of Non-functional Properties of MPSoC Designs.</title>
+<pages>309-324</pages>
+<year>2008</year>
+<booktitle>FDL (Selected Papers)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4020-9714-0_20</ee>
+<crossref>conf/fdl/2008s</crossref>
+<url>db/conf/fdl/fdl2008s.html#ViehlSBR08a</url>
+</inproceedings>
+</r>
+<r><inproceedings publtype="informal" key="conf/dagstuhl/BernauerFSBR08" mdate="2019-03-29">
+<author pid="80/3411">Andreas Bernauer</author>
+<author pid="67/3816">Dirk Fritz</author>
+<author pid="31/675">Bj&#246;rn Sander</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Current state of ASoC design methodology.</title>
+<year>2008</year>
+<booktitle>Organic Computing - Controlled Self-organization</booktitle>
+<ee type="oa">http://drops.dagstuhl.de/opus/volltexte/2008/1564/</ee>
+<crossref>conf/dagstuhl/2008P8141</crossref>
+<url>db/conf/dagstuhl/P8141.html#BernauerFSBR08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aspdac/SiebenbornVBR07" mdate="2023-03-23">
+<author pid="18/3528">Axel Siebenborn</author>
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Control-Flow Aware Communication and Conflict Analysis of Parallel Processes.</title>
+<pages>32-37</pages>
+<year>2007</year>
+<crossref>conf/aspdac/2007</crossref>
+<booktitle>ASP-DAC</booktitle>
+<ee>https://doi.org/10.1109/ASPDAC.2007.357788</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ASPDAC.2007.357788</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1323448</ee>
+<url>db/conf/aspdac/aspdac2007.html#SiebenbornVBR07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/codes/ViehlSBR07" mdate="2019-03-29">
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="27/5418">Markus Schwarz</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Probabilistic performance risk analysis at system-level.</title>
+<pages>185-190</pages>
+<year>2007</year>
+<booktitle>CODES+ISSS</booktitle>
+<ee>https://doi.org/10.1145/1289816.1289862</ee>
+<crossref>conf/codes/2007</crossref>
+<url>db/conf/codes/codes2007.html#ViehlSBR07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/KrauseBHTR07" mdate="2023-03-24">
+<author pid="90/2046-2">Matthias Krause 0002</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="37/96">Andr&#233; Hergenhan</author>
+<author pid="89/6535">G&#246;khan Tabanoglu</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Timing simulation of interconnected AUTOSAR software-components.</title>
+<pages>474-479</pages>
+<year>2007</year>
+<crossref>conf/date/2007</crossref>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.1109/DATE.2007.364638</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DATE.2007.364638</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1266469</ee>
+<url>db/conf/date/date2007.html#KrauseBHTR07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsd/SchonwaldZBR07" mdate="2019-03-29">
+<author pid="87/5279">Timo Sch&#246;nwald</author>
+<author pid="07/3752">Jochen Zimmermann</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Fully Adaptive Fault-Tolerant Routing Algorithm for Network-on-Chip Architectures.</title>
+<pages>527-534</pages>
+<year>2007</year>
+<booktitle>DSD</booktitle>
+<ee>https://doi.org/10.1109/DSD.2007.4341518</ee>
+<crossref>conf/dsd/2007</crossref>
+<url>db/conf/dsd/dsd2007.html#SchonwaldZBR07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iess/ViehlSBR07" mdate="2019-03-29">
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="27/5418">Markus Schwarz</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>A Hybrid Approach for System-Level Design Evaluation.</title>
+<pages>165-178</pages>
+<year>2007</year>
+<crossref>conf/iess/2007</crossref>
+<booktitle>IESS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-0-387-72258-0_15</ee>
+<url>db/conf/iess/iess2007.html#ViehlSBR07</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0710-4644" mdate="2019-03-29">
+<author pid="19/2233">J&#252;rgen Schnerr</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Cycle Accurate Binary Translation for Simulation Acceleration in Rapid Prototyping of SoCs</title>
+<ee type="oa">http://arxiv.org/abs/0710.4644</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/0710.4644</volume>
+<url>db/journals/corr/corr0710.html#abs-0710-4644</url>
+</article>
+</r>
+<r><inproceedings key="conf/dac/KlingaufGBPB06" mdate="2019-03-29">
+<author pid="43/4290">Wolfgang Klingauf</author>
+<author pid="84/6518">Robert G&#252;nzel</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="34/1947">Pavel Parfuntseu</author>
+<author pid="29/3452">Mark Burton</author>
+<title>GreenBus: a generic interconnect fabric for transaction level modelling.</title>
+<pages>905-910</pages>
+<year>2006</year>
+<crossref>conf/dac/2006</crossref>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/1146909.1147139</ee>
+<url>db/conf/dac/dac2006.html#KlingaufGBPB06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/ViehlSBR06" mdate="2023-03-24">
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="87/5279">Timo Sch&#246;nwald</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Formal performance analysis and simulation of UML/SysML models for ESL design.</title>
+<pages>242-247</pages>
+<year>2006</year>
+<crossref>conf/date/2006p</crossref>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.1109/DATE.2006.244110</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DATE.2006.244110</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1131548</ee>
+<url>db/conf/date/date2006p.html#ViehlSBR06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gi/BernauerBRBSH06" mdate="2023-07-04">
+<author pid="80/3411">Andreas Bernauer</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<author pid="71/656">Abdelmajid Bouajila</author>
+<author pid="37/3374">Walter Stechele</author>
+<author pid="62/5988">Andreas Herkersdorf</author>
+<title>An Architecture for Runtime Evaluation of SoC Reliability.</title>
+<pages>177-184</pages>
+<year>2006</year>
+<crossref>conf/gi/2006-1</crossref>
+<booktitle>GI Jahrestagung (1)</booktitle>
+<url>db/conf/gi/gi2006-1.html#BernauerBRBSH06</url>
+<ee type="oa">https://dl.gi.de/handle/20.500.12116/23672</ee>
+<ee>http://subs.emis.de/LNI/Proceedings/Proceedings93/article4740.html</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip10/BouajilaBHRBS06" mdate="2019-03-29">
+<author pid="71/656">Abdelmajid Bouajila</author>
+<author pid="80/3411">Andreas Bernauer</author>
+<author pid="62/5988">Andreas Herkersdorf</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="37/3374">Walter Stechele</author>
+<title>Error Detection Techniques Applicable in an Architecture Framework and Design Methodology for Autonomic SoCs.</title>
+<pages>107-113</pages>
+<year>2006</year>
+<booktitle>BICC</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-0-387-34733-2_11</ee>
+<crossref>conf/ifip10/2006</crossref>
+<url>db/conf/ifip10/bicc2006.html#BouajilaBHRBS06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mbmv/KrauseBR06" mdate="2019-03-29">
+<author pid="90/2046-2">Matthias Krause 0002</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Communication Refinement and Target Software Generation using SystemC.</title>
+<pages>30-37</pages>
+<year>2006</year>
+<booktitle>MBMV</booktitle>
+<crossref>conf/mbmv/2006</crossref>
+<url>db/conf/mbmv/mbmv2006.html#KrauseBR06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mbmv/ViehlBR06" mdate="2019-03-29">
+<author pid="76/4280">Alexander Viehl</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Virtual Prototyping und fr&#252;he Evaluierung von Systems-on-Chip mit UML2 und SysML.</title>
+<pages>266-270</pages>
+<year>2006</year>
+<booktitle>MBMV</booktitle>
+<crossref>conf/mbmv/2006</crossref>
+<url>db/conf/mbmv/mbmv2006.html#ViehlBR06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vlsi/BouajilaZSHBBR06" mdate="2019-03-29">
+<author pid="71/656">Abdelmajid Bouajila</author>
+<author pid="92/278">Johannes Zeppenfeld</author>
+<author pid="37/3374">Walter Stechele</author>
+<author pid="62/5988">Andreas Herkersdorf</author>
+<author pid="80/3411">Andreas Bernauer</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Organic Computing at the System on Chip Level.</title>
+<pages>338-341</pages>
+<year>2006</year>
+<crossref>conf/vlsi/2006soc</crossref>
+<booktitle>VLSI-SoC</booktitle>
+<ee>https://doi.org/10.1109/VLSISOC.2006.313257</ee>
+<url>db/conf/vlsi/vlsisoc2006.html#BouajilaZSHBBR06</url>
+</inproceedings>
+</r>
+<r><article key="journals/dafes/KrauseBR05" mdate="2020-10-02">
+<author pid="90/2046-2">Matthias Krause 0002</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Target software generation: an approach for automatic mapping of SystemC specifications onto real-time operating systems.</title>
+<pages>229-251</pages>
+<year>2005</year>
+<volume>10</volume>
+<journal>Des. Autom. Embed. Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10617-006-0590-8</ee>
+<url>db/journals/dafes/dafes10.html#KrauseBR05</url>
+</article>
+</r>
+<r><inproceedings key="conf/arcs/LipsaHRBS05" mdate="2019-03-29">
+<author pid="30/1900">Gabriel Mihai Lipsa</author>
+<author pid="62/5988">Andreas Herkersdorf</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="37/3374">Walter Stechele</author>
+<title>Towards a Framework and a Design Methodology for Autonomous SoC.</title>
+<pages>101-108</pages>
+<year>2005</year>
+<crossref>conf/arcs/2005drs</crossref>
+<booktitle>ARCS Workshops</booktitle>
+<url>db/conf/arcs/arcs2005drs.html#LipsaHRBS05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/codes/BringmannRS05" mdate="2019-03-29">
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<author pid="18/3528">Axel Siebenborn</author>
+<title>Conflict analysis in multiprocess synthesis for optimized system integration.</title>
+<pages>15-20</pages>
+<year>2005</year>
+<crossref>conf/codes/2005</crossref>
+<booktitle>CODES+ISSS</booktitle>
+<ee>https://doi.org/10.1145/1084834.1084844</ee>
+<url>db/conf/codes/codes2005.html#BringmannRS05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/SchnerrBR05" mdate="2023-03-24">
+<author pid="19/2233">J&#252;rgen Schnerr</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Cycle Accurate Binary Translation for Simulation Acceleration in Rapid Prototyping of SoCs.</title>
+<pages>792-797</pages>
+<year>2005</year>
+<crossref>conf/date/2005</crossref>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.1109/DATE.2005.106</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DATE.2005.106</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1049217</ee>
+<url>db/conf/date/date2005.html#SchnerrBR05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fdl/BraunGRSB05" mdate="2020-12-03">
+<author pid="27/3402">Axel G. Braun</author>
+<author pid="61/5225">Joachim Gerlach</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<author pid="18/3528">Axel Siebenborn</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>SystemC-Based Communication and Performance Analysis.</title>
+<pages>33-48</pages>
+<year>2005</year>
+<booktitle>FDL</booktitle>
+<ee type="archive">http://www.ecsi-association.org/ecsi/main.asp?l1=library&#38;fn=def&#38;id=476</ee>
+<crossref>conf/fdl/2005</crossref>
+<url>db/conf/fdl/fdl2005.html#BraunGRSB05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icac/LipsaHRBS05" mdate="2023-03-24">
+<author pid="30/1900">Gabriel Mihai Lipsa</author>
+<author pid="62/5988">Andreas Herkersdorf</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="37/3374">Walter Stechele</author>
+<title>Towards a Framework and a Design Methodology for Autonomic SoC.</title>
+<pages>391-392</pages>
+<year>2005</year>
+<crossref>conf/icac/2005</crossref>
+<booktitle>ICAC</booktitle>
+<ee>https://doi.org/10.1109/ICAC.2005.61</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICAC.2005.61</ee>
+<url>db/conf/icac/icac2005.html#LipsaHRBS05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/SiebenbornBR04" mdate="2023-03-24">
+<author pid="18/3528">Axel Siebenborn</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Communication Analysis for System-On-Chip Design.</title>
+<pages>648-655</pages>
+<year>2004</year>
+<crossref>conf/date/2004</crossref>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.1109/DATE.2004.1268918</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DATE.2004.1268918</ee>
+<ee>http://dl.acm.org/citation.cfm?id=969084</ee>
+<url>db/conf/date/date2004-1.html#SiebenbornBR04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/parelec/SiebenbornBR04" mdate="2023-03-23">
+<author pid="18/3528">Axel Siebenborn</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Communication Analysis for Network-on-Chip Design.</title>
+<pages>315-320</pages>
+<year>2004</year>
+<crossref>conf/parelec/2004</crossref>
+<booktitle>PARELEC</booktitle>
+<ee>https://doi.org/10.1109/PCEE.2004.19</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/PCEE.2004.19</ee>
+<url>db/conf/parelec/parelec2004.html#SiebenbornBR04</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/dnb/Bringmann03" mdate="2021-07-17">
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<title>Synchronisationsanalyse zur Multi-Proze&#223;-Synthese.</title>
+<year>2003</year>
+<pages>1-193</pages>
+<publisher>Logos-Verlag</publisher>
+<school>Karlsruhe Institute of Technology, Germany</school>
+<isbn>978-3-8325-0274-4</isbn>
+<ee>https://d-nb.info/96834254X</ee>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/codes/SiebenbornBR02" mdate="2019-03-29">
+<author pid="18/3528">Axel Siebenborn</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Worst-case performance analysis of parallel, communicating software processes.</title>
+<pages>37-42</pages>
+<year>2002</year>
+<crossref>conf/codes/2002</crossref>
+<booktitle>CODES</booktitle>
+<ee>https://doi.org/10.1145/774789.774798</ee>
+<url>db/conf/codes/codes2002.html#SiebenbornBR02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isss/BringmannRM02" mdate="2023-03-24">
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<author pid="28/3933">Carsten Menn</author>
+<title>Controller Estimation for FPGA Target Architectures during High-Level Synthesis.</title>
+<pages>56-61</pages>
+<year>2002</year>
+<crossref>conf/isss/2002</crossref>
+<booktitle>ISSS</booktitle>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISSS.2002.1227152</ee>
+<ee>https://doi.org/10.1145/581199.581213</ee>
+<url>db/conf/isss/isss2002.html#BringmannRM02</url>
+</inproceedings>
+</r>
+<r><article key="journals/it/BringmannR00" mdate="2020-09-08">
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Hierarchische Synthese f&#252;r anwendungsspezifische Prototypenimplementierungen (Hierarchical Synthesis for Application-Specific Prototyping Implementations).</title>
+<pages>34-39</pages>
+<year>2000</year>
+<volume>42</volume>
+<journal>Informationstechnik Tech. Inform.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1524/itit.2000.42.2.34</ee>
+<url>db/journals/it/it42.html#BringmannR00</url>
+</article>
+</r>
+<r><inproceedings key="conf/date/BringmannRM00" mdate="2023-03-24">
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<author pid="28/3933">Carsten Menn</author>
+<title>Target Architecture Oriented High-Level Synthesis for Multi-FPGA Based Emulation.</title>
+<pages>326-332</pages>
+<year>2000</year>
+<crossref>conf/date/2000</crossref>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.1109/DATE.2000.840291</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DATE.2000.840291</ee>
+<ee>https://doi.org/10.1145/343647.343790</ee>
+<url>db/conf/date/date2000.html#BringmannRM00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gi/BringmannR99" mdate="2019-03-29">
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Hierarchische Synthese f&#252;r die Emulation von integrierten Steuerungssystemen.</title>
+<pages>146-153</pages>
+<year>1999</year>
+<crossref>conf/gi/1999</crossref>
+<booktitle>GI Jahrestagung</booktitle>
+<url>db/conf/gi/gi99.html#BringmannR99</url>
+<ee>https://doi.org/10.1007/978-3-662-01069-3_24</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rsp/BringmannRMFSH99" mdate="2023-03-23">
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<author pid="76/745">Annette Muth</author>
+<author pid="31/2660">Georg F&#228;rber</author>
+<author pid="60/4647">Frank Slomka</author>
+<author pid="96/613">Richard Hofmann</author>
+<title>Mixed Abstraction Level Hardware Synthesis from SDL for Rapid Prototyping.</title>
+<pages>114-119</pages>
+<year>1999</year>
+<crossref>conf/rsp/1999</crossref>
+<booktitle>IEEE International Workshop on Rapid System Prototyping</booktitle>
+<ee>https://doi.org/10.1109/IWRSP.1999.779040</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/IWRSP.1999.779040</ee>
+<url>db/conf/rsp/rsp1999.html#BringmannRMFSH99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/date/BringmannR98" mdate="2023-03-24">
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Cross-Level Hierarchical High-Level Synthesis.</title>
+<pages>451-456</pages>
+<year>1998</year>
+<crossref>conf/date/1998</crossref>
+<booktitle>DATE</booktitle>
+<ee>https://doi.org/10.1109/DATE.1998.655897</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DATE.1998.655897</ee>
+<ee>http://dl.acm.org/citation.cfm?id=368267</ee>
+<url>db/conf/date/date1998.html#BringmannR98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isss/BringmannRR98" mdate="2023-03-24">
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<author pid="61/3562">Dirk Reichardt</author>
+<title>Synchronization Detection for Multi-Process Hierarchical Synthesis.</title>
+<pages>105-110</pages>
+<year>1998</year>
+<crossref>conf/isss/1998</crossref>
+<booktitle>ISSS</booktitle>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ISSS.1998.730608</ee>
+<ee>http://dl.acm.org/citation.cfm?id=293037</ee>
+<url>db/conf/isss/isss1998.html#BringmannRR98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccad/BringmannR97" mdate="2023-03-24">
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Resource sharing in hierarchical synthesis.</title>
+<pages>318-325</pages>
+<year>1997</year>
+<crossref>conf/iccad/1997</crossref>
+<booktitle>ICCAD</booktitle>
+<ee>https://doi.org/10.1109/ICCAD.1997.643537</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICCAD.1997.643537</ee>
+<ee>https://dl.acm.org/citation.cfm?id=266499</ee>
+<url>db/conf/iccad/iccad1997.html#BringmannR97</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eurodac/WeinmannBR95" mdate="2023-03-24">
+<author pid="78/2431">Ulrich Weinmann</author>
+<author pid="06/6843">Oliver Bringmann 0001</author>
+<author pid="r/WRosenstiel">Wolfgang Rosenstiel</author>
+<title>Device selection for system partitioning.</title>
+<pages>2-7</pages>
+<year>1995</year>
+<booktitle>EURO-DAC</booktitle>
+<ee>https://doi.org/10.1109/EURDAC.1995.527381</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/EURDAC.1995.527381</ee>
+<ee>http://dl.acm.org/citation.cfm?id=224272</ee>
+<crossref>conf/eurodac/1995</crossref>
+<url>db/conf/eurodac/euro-dac1995.html#WeinmannBR95</url>
+</inproceedings>
+</r>
+<coauthors n="305" nc="3">
+<co c="0"><na f="a/Adelt:Peer" pid="191/6868">Peer Adelt</na></co>
+<co c="0"><na f="a/Agrawal:Vikas" pid="24/584">Vikas Agrawal</na></co>
+<co c="0"><na f="a/Ahari:Ali" pid="144/4691">Ali Ahari</na></co>
+<co c="0"><na f="a/Ahmed:Akram_Ben" pid="96/9352">Akram Ben Ahmed</na></co>
+<co c="0"><na f="a/Ahmed:Soikat_Hasan" pid="284/3748">Soikat Hasan Ahmed</na></co>
+<co c="0"><na f="a/Amano:Hideharu" pid="59/1558">Hideharu Amano</na></co>
+<co c="0"><na f="a/Anghel:Lorena" pid="12/10348">Lorena Anghel</na></co>
+<co c="0"><na f="a/Angst:Gerhard" pid="72/2036">Gerhard Angst</na></co>
+<co c="0"><na f="a/Arndt:Gunnar" pid="79/10781">Gunnar Arndt</na></co>
+<co c="0"><na f="a/Asbach:Sadik" pid="177/5241">Sadik Asbach</na></co>
+<co c="0"><na f="b/Baehr:Ulrich" pid="262/8388">Ulrich Baehr</na></co>
+<co c="0"><na f="b/Bannow:Nico" pid="90/2630">Nico Bannow</na></co>
+<co c="0"><na f="b/B=auml=r:Tobias" pid="61/11061">Tobias B&#228;r</na></co>
+<co c="0"><na f="b/Bauer:Lars" pid="55/2100">Lars Bauer</na></co>
+<co c="0"><na f="b/Becker_0001:Bernd" pid="b/BerndBecker">Bernd Becker 0001</na></co>
+<co c="0"><na f="b/Becker:Joachim" pid="30/6301">Joachim Becker</na></co>
+<co c="0"><na f="b/Becker_0001:J=uuml=rgen" pid="b/JurgenBecker">J&#252;rgen Becker 0001</na></co>
+<co c="0"><na f="b/Becker_0001:Markus" pid="63/4934-1">Markus Becker 0001</na></co>
+<co c="0"><na f="b/Behrend:J=ouml=rg" pid="36/2078">J&#246;rg Behrend</na></co>
+<co c="0"><na f="b/Benz:Joscha" pid="218/1192">Joscha Benz</na></co>
+<co c="0"><na f="b/Bernardo:Paul_Palomero" pid="278/9119">Paul Palomero Bernardo</na></co>
+<co c="0"><na f="b/Bernauer:Andreas" pid="80/3411">Andreas Bernauer</na></co>
+<co c="0"><na f="b/Bernuth:Alexander_von" pid="228/4600">Alexander von Bernuth</na></co>
+<co c="1"><na f="b/Bethge:Matthias" pid="77/3005">Matthias Bethge</na></co>
+<co c="1"><na f="b/Bitterwolf:Julian" pid="232/1887">Julian Bitterwolf</na></co>
+<co c="0"><na f="b/Bloeck:Alexander" pid="303/9054">Alexander Bloeck</na></co>
+<co c="0"><na f="b/Boekle:Yannick" pid="214/9864">Yannick Boekle</na></co>
+<co c="0"><na f="b/Bolchini:Cristiana" pid="b/CristianaBolchini">Cristiana Bolchini</na></co>
+<co c="0"><na f="b/Bormann:J=ouml=rg" pid="93/4823">J&#246;rg Bormann</na></co>
+<co c="0"><na f="b/Borrmann:Jan_Micha" pid="123/8152">Jan Micha Borrmann</na></co>
+<co c="0"><na f="b/Bouajila:Abdelmajid" pid="71/656">Abdelmajid Bouajila</na></co>
+<co c="0"><na f="b/Braatz:Yannick" pid="352/3529">Yannick Braatz</na></co>
+<co c="0"><na f="b/Braun:Andreas" pid="31/1363">Andreas Braun</na></co>
+<co c="0"><na f="b/Braun:Axel_G=" pid="27/3402">Axel G. Braun</na></co>
+<co c="1"><na f="b/Brendel:Wieland" pid="37/11107">Wieland Brendel</na></co>
+<co c="0"><na f="b/Brinkschulte:Uwe" pid="05/3396">Uwe Brinkschulte</na></co>
+<co c="0"><na f="b/Broertjes:Kevin" pid="360/4639">Kevin Broertjes</na></co>
+<co c="0" n="2"><na f="b/Burg:Sebastian" pid="115/4376">Sebastian Burg</na><na>Sebastian Matthias Burg</na></co>
+<co c="0"><na f="b/Burger:Andreas" pid="60/7211">Andreas Burger</na></co>
+<co c="0"><na f="b/Burton:Mark" pid="29/3452">Mark Burton</na></co>
+<co c="0"><na f="c/Camposano:Ra=uacute=l" pid="51/1501">Ra&#250;l Camposano</na></co>
+<co c="0"><na f="c/Chaari:Moomen" pid="163/3632">Moomen Chaari</na></co>
+<co c="0"><na f="c/Chakraborty:Samarjit" pid="c/SamarjitChakraborty">Samarjit Chakraborty</na></co>
+<co c="0"><na f="c/Channakeshava:Pranav" pid="180/7351">Pranav Channakeshava</na></co>
+<co c="0"><na f="c/Chevallaz:C=" pid="32/10053">C. Chevallaz</na></co>
+<co c="0"><na f="c/Cornaglia:Alessandro" pid="167/0248">Alessandro Cornaglia</na></co>
+<co c="0"><na f="c/Crone:Allan" pid="80/6600">Allan Crone</na></co>
+<co c="0"><na f="c/Cullmann:Christoph" pid="34/5800">Christoph Cullmann</na></co>
+<co c="0"><na f="d/Damian:Mihaela" pid="320/9836">Mihaela Damian</na></co>
+<co c="0"><na f="d/Dang_0002:Thao" pid="04/21-2">Thao Dang 0002</na></co>
+<co c="0"><na f="d/Delooz:Quentin" pid="231/2329">Quentin Delooz</na></co>
+<co c="0"><na f="d/Dhondt:Thomas" pid="231/5650">Thomas Dhondt</na></co>
+<co c="0"><na f="d/Dickman:B=" pid="07/10053">B. Dickman</na></co>
+<co c="0"><na f="d/D=ouml=lling:Rolando" pid="78/359">Rolando D&#246;lling</na></co>
+<co c="0"><na f="d/Drechsler:Rolf" pid="d/RolfDrechsler">Rolf Drechsler</na></co>
+<co c="0"><na f="d/D=uuml=lling:Rolando" pid="289/2987">Rolando D&#252;lling</na></co>
+<co c="1"><na f="e/Eck:Luisa" pid="268/6652">Luisa Eck</na></co>
+<co c="1"><na f="e/Ecker:Alexander_S=" pid="26/7228">Alexander S. Ecker</na></co>
+<co c="0"><na f="e/Ecker:Wolfgang" pid="e/WolfgangEcker">Wolfgang Ecker</na></co>
+<co c="0"><na f="e/Eichelberger:Hanno" pid="121/4267">Hanno Eichelberger</na></co>
+<co c="0"><na f="e/Eisenmann:Harald" pid="153/0971">Harald Eisenmann</na></co>
+<co c="0"><na f="e/Eldar:Yonina_C=" pid="e/YoninaCEldar">Yonina C. Eldar</na></co>
+<co c="0"><na f="e/Emrich:Karsten" pid="321/0396">Karsten Emrich</na></co>
+<co c="0"><na f="e/Engel:Michael" pid="49/887">Michael Engel</na></co>
+<co c="0"><na f="e/Englert:Dominik" pid="21/2573">Dominik Englert</na></co>
+<co c="0"><na f="e/Ernst:Rolf" pid="e/RolfErnst">Rolf Ernst</na></co>
+<co c="0"><na f="e/Esen:Volkan" pid="92/4282">Volkan Esen</na></co>
+<co c="0"><na f="f/Fandrey:Tiemo" pid="150/8274">Tiemo Fandrey</na></co>
+<co c="0"><na f="f/F=auml=rber:Georg" pid="31/2660">Georg F&#228;rber</na></co>
+<co c="0"><na f="f/Feldner:Ingo" pid="251/9140">Ingo Feldner</na></co>
+<co c="0"><na f="f/Festag:Andreas" pid="20/3246">Andreas Festag</na></co>
+<co c="0"><na f="f/Fleck:Tobias" pid="136/5816">Tobias Fleck</na></co>
+<co c="0"><na f="f/Freier:Marvin" pid="115/8508">Marvin Freier</na></co>
+<co c="0"><na f="f/Frischknecht:Adrian" pid="278/8684">Adrian Frischknecht</na></co>
+<co c="0"><na f="f/Fritz:Dirk" pid="67/3816">Dirk Fritz</na></co>
+<co c="0"><na f="f/Fr=ouml=ning:Holger" pid="56/3662">Holger Fr&#246;ning</na></co>
+<co c="0"><na f="f/Frueh:Marcel" pid="223/7092">Marcel Frueh</na></co>
+<co c="0"><na f="g/Gamerdinger:J=ouml=rg" pid="283/0185">J&#246;rg Gamerdinger</na></co>
+<co c="-1"><na f="g/Garhofer:Simon" pid="343/3202">Simon Garhofer</na></co>
+<co c="2"><na f="g/Gauterin:Frank" pid="120/0644">Frank Gauterin</na></co>
+<co c="0"><na f="g/Gebhard:Gernot" pid="52/4082">Gernot Gebhard</na></co>
+<co c="1" n="2"><na f="g/Gehler:Peter_V=" pid="78/1502">Peter V. Gehler</na><na>Peter Vincent Gehler</na></co>
+<co c="0"><na f="g/Gehring:Florian" pid="353/4212">Florian Gehring</na></co>
+<co c="1"><na f="g/Geirhos:Robert" pid="176/0076">Robert Geirhos</na></co>
+<co c="0"><na f="g/Gerlach:Joachim" pid="61/5225">Joachim Gerlach</na></co>
+<co c="0"><na f="g/Gerstlauer:Andreas" pid="96/2951">Andreas Gerstlauer</na></co>
+<co c="0"><na f="g/Gerum:Christoph" pid="161/0144">Christoph Gerum</na></co>
+<co c="0"><na f="g/Gizopoulos:Dimitris" pid="79/1691">Dimitris Gizopoulos</na></co>
+<co c="0"><na f="g/Goyal:Ajay" pid="125/2351">Ajay Goyal</na></co>
+<co c="0"><na f="g/Gro=szlig=:Christoph" pid="274/6118">Christoph Gro&#223;</na></co>
+<co c="0"><na f="g/Gro=szlig=e:Daniel" pid="68/758">Daniel Gro&#223;e</na></co>
+<co c="0"><na f="g/Gr=uuml=ttner:Kim" pid="76/1329">Kim Gr&#252;ttner</na></co>
+<co c="0"><na f="g/Gumpp:Thomas" pid="17/410">Thomas Gumpp</na></co>
+<co c="0"><na f="g/G=uuml=nzel:Robert" pid="84/6518">Robert G&#252;nzel</na></co>
+<co c="0"><na f="h/Haedicke:Finn" pid="75/8857">Finn Haedicke</na></co>
+<co c="0"><na f="h/Hald:Tobias" pid="329/5428">Tobias Hald</na></co>
+<co c="0"><na f="h/H=auml=m=auml=l=auml=inen_0001:Timo" pid="h/TimoHamalainen">Timo H&#228;m&#228;l&#228;inen 0001</na></co>
+<co c="0"><na f="h/Hamdioui:Said" pid="75/4940">Said Hamdioui</na></co>
+<co c="0"><na f="h/Hanif:Muhammad_Abdullah" pid="191/2451">Muhammad Abdullah Hanif</na></co>
+<co c="0"><na f="h/Harrant:Manuel" pid="65/11158">Manuel Harrant</na></co>
+<co c="0"><na f="h/H=auml=rtig:Hermann" pid="h/HHartig">Hermann H&#228;rtig</na></co>
+<co c="0"><na f="h/Hartmann:Philipp_A=" pid="12/5769">Philipp A. Hartmann</na></co>
+<co c="0"><na f="h/Hasan:Md=_Shakib" pid="261/7890">Md. Shakib Hasan</na></co>
+<co c="0"><na f="h/Haubelt:Christian" pid="37/6859">Christian Haubelt</na></co>
+<co c="0" n="2"><na f="h/Hauck=Stattelmann:Stefan" pid="58/8937">Stefan Hauck-Stattelmann</na><na>Stefan Stattelmann</na></co>
+<co c="0"><na f="h/Haxel:Frederik" pid="189/9637">Frederik Haxel</na></co>
+<co c="0"><na f="h/Heckeler:Patrick" pid="13/3839">Patrick Heckeler</na></co>
+<co c="0"><na f="h/Heckmann:Reinhold" pid="h/ReinholdHeckmann">Reinhold Heckmann</na></co>
+<co c="0"><na f="h/Hedrich:Lars" pid="50/392">Lars Hedrich</na></co>
+<co c="0"><na f="h/Henkel:J=ouml=rg" pid="h/JorgHenkel">J&#246;rg Henkel</na></co>
+<co c="0"><na f="h/Hennig:Christian" pid="67/1113">Christian Hennig</na></co>
+<co c="2"><na f="h/Herberth:Roland" pid="221/0339">Roland Herberth</na></co>
+<co c="0"><na f="h/Herdt:Vladimir" pid="130/1375">Vladimir Herdt</na></co>
+<co c="0"><na f="h/Hergenhan:Andr=eacute=" pid="37/96">Andr&#233; Hergenhan</na></co>
+<co c="0"><na f="h/Herkersdorf:Andreas" pid="62/5988">Andreas Herkersdorf</na></co>
+<co c="0"><na f="h/Hielscher:Leon" pid="253/6112">Leon Hielscher</na></co>
+<co c="0"><na f="h/Hipp:Jochen" pid="98/1046">Jochen Hipp</na></co>
+<co c="0"><na f="h/H=ouml=fig:Kai" pid="05/8783">Kai H&#246;fig</na></co>
+<co c="0"><na f="h/Hofmann:Richard" pid="96/613">Richard Hofmann</na></co>
+<co c="0"><na f="h/Holder:Martin" pid="194/2698">Martin Holder</na></co>
+<co c="0"><na f="h/Hong_0005:Wei" pid="82/5918-5">Wei Hong 0005</na></co>
+<co c="0"><na f="h/Hoppe:Tobias" pid="09/5756">Tobias Hoppe</na></co>
+<co c="0"><na f="h/Hospach:Dennis" pid="166/4938">Dennis Hospach</na></co>
+<co c="0"><na f="h/Hucke:Otto" pid="167/3374">Otto Hucke</na></co>
+<co c="0"><na f="h/Huss:Arno" pid="54/11158">Arno Huss</na></co>
+<co c="0"><na f="h/Huster:Stefan" pid="116/1744">Stefan Huster</na></co>
+<co c="0"><na f="h/Hylla:Kai" pid="71/6641">Kai Hylla</na></co>
+<co c="0"><na f="i/Izosimov:Viacheslav" pid="59/4837">Viacheslav Izosimov</na></co>
+<co c="0"><na f="j/Jentzsch:Eyck" pid="49/1027">Eyck Jentzsch</na></co>
+<co c="0"><na f="j/Jones:Stephen" pid="89/1488">Stephen Jones</na></co>
+<co c="0"><na f="j/Joshi:Jyoti" pid="119/0280">Jyoti Joshi</na></co>
+<co c="0"><na f="j/Jung:Alexander" pid="91/7866">Alexander Jung</na></co>
+<co c="0"><na f="j/Jung:Alexander_Louis=Ferdinand" pid="333/3981">Alexander Louis-Ferdinand Jung</na></co>
+<co c="0"><na f="k/Kapitza:R=uuml=diger" pid="27/2697">R&#252;diger Kapitza</na></co>
+<co c="0"><na f="k/Kayatas:Zafer" pid="315/4690">Zafer Kayatas</na></co>
+<co c="0"><na f="k/Kirchner:Aljoscha" pid="229/8791">Aljoscha Kirchner</na></co>
+<co c="0"><na f="k/Klaiber:Michael_J=" pid="120/7218">Michael J. Klaiber</na></co>
+<co c="0"><na f="k/Klingauf:Wolfgang" pid="43/4290">Wolfgang Klingauf</na></co>
+<co c="0"><na f="k/Knoedler:Kosmas" pid="09/11158">Kosmas Knoedler</na></co>
+<co c="0"><na f="k/Koch_0003:Alexander" pid="45/2101-3">Alexander Koch 0003</na></co>
+<co c="0"><na f="k/Koch_0001:Andreas" pid="84/1948-1">Andreas Koch 0001</na></co>
+<co c="0"><na f="k/Koehler:Stefan" pid="135/8907">Stefan Koehler</na></co>
+<co c="0"><na f="k/Kohler:Michael" pid="97/3780">Michael Kohler</na></co>
+<co c="0"><na f="k/Kohlhaas:Ralf" pid="99/11061">Ralf Kohlhaas</na></co>
+<co c="2"><na f="k/K=ouml=rper:Sidney" pid="237/7483">Sidney K&#246;rper</na></co>
+<co c="0"><na f="k/Kramer:Angela" pid="137/4306">Angela Kramer</na></co>
+<co c="0"><na f="k/Krause_0002:Matthias" pid="90/2046-2">Matthias Krause 0002</na></co>
+<co c="0"><na f="k/Kropf:Thomas" pid="89/6634">Thomas Kropf</na></co>
+<co c="0"><na f="k/Krstic:Milos" pid="33/1954">Milos Krstic</na></co>
+<co c="0"><na f="k/Kruse:Thomas" pid="31/2413">Thomas Kruse</na></co>
+<co c="0"><na f="k/K=uuml=hlwein:Arthur" pid="166/4454">Arthur K&#252;hlwein</na></co>
+<co c="0"><na f="k/K=uuml=hn:Johannes_Maximilian" pid="149/4772">Johannes Maximilian K&#252;hn</na></co>
+<co c="0"><na f="k/Kunz:Wolfgang" pid="69/4734">Wolfgang Kunz</na></co>
+<co c="0"><na f="k/Kural:Emre" pid="56/8742">Emre Kural</na></co>
+<co c="0"><na f="k/Kuznik:Christoph" pid="63/8120">Christoph Kuznik</na></co>
+<co c="0"><na f="l/Laufenberg:Jo" pid="167/1659">Jo Laufenberg</na></co>
+<co c="0"><na f="l/Laversanne:Sylvain" pid="60/11157">Sylvain Laversanne</na></co>
+<co c="0"><na f="l/Le_0001:Hoang_Minh" pid="10/1634-1">Hoang Minh Le 0001</na></co>
+<co c="0"><na f="l/Lettnin:Djones" pid="21/3398">Djones Lettnin</na></co>
+<co c="0"><na f="l/Lewis_0003:Matthew" pid="267/2241-3">Matthew Lewis 0003</na></co>
+<co c="0"><na f="l/Lin:Juguang" pid="184/2605">Juguang Lin</na></co>
+<co c="0" n="2"><na f="l/Lipsa:Gabriel_M=" pid="30/1900">Gabriel M. Lipsa</na><na>Gabriel Mihai Lipsa</na></co>
+<co c="0"><na f="l/Lohmann:Daniel" pid="57/863">Daniel Lohmann</na></co>
+<co c="0"><na f="l/Lorenz_0002:Daniel" pid="95/6374-2">Daniel Lorenz 0002</na></co>
+<co c="0"><na f="l/L=uuml=beck:Konstantin" pid="176/2607">Konstantin L&#252;beck</na></co>
+<co c="0"><na f="m/Magosi:Zolt=aacute=n_Ferenc" pid="289/1618">Zolt&#225;n Ferenc Magosi</na></co>
+<co c="0"><na f="m/Mahmoodi:Yasamin" pid="217/2707">Yasamin Mahmoodi</na></co>
+<co c="0"><na f="m/Maier:F=_Michael" pid="223/6146">F. Michael Maier</na></co>
+<co c="0"><na f="m/Makkapati:Vamsi_Prakash" pid="124/0652">Vamsi Prakash Makkapati</na></co>
+<co c="0"><na f="m/Manhaeve:Hans_A=_R=" pid="36/6150">Hans A. R. Manhaeve</na></co>
+<co c="0"><na f="m/Marwedel:Peter" pid="m/PeterMarwedel">Peter Marwedel</na></co>
+<co c="0"><na f="m/Mast:Johannes" pid="238/7776">Johannes Mast</na></co>
+<co c="0"><na f="m/Mauderer:Andreas" pid="115/8576">Andreas Mauderer</na></co>
+<co c="0"><na f="m/Mayr_0001:Christian" pid="44/6754">Christian Mayr 0001</na></co>
+<co c="0"><na f="m/Melendez:Ivan" pid="259/6720">Ivan Melendez</na></co>
+<co c="0"><na f="m/Melendez=Vazquez:Ivan" pid="289/2516">Ivan Melendez-Vazquez</na></co>
+<co c="0"><na f="m/Menn:Carsten" pid="28/3933">Carsten Menn</na></co>
+<co c="0"><na f="m/Meyer:Svea_Marie" pid="309/1959">Svea Marie Meyer</na></co>
+<co c="0"><na f="m/Michael:Maria_K=" pid="10/2633">Maria K. Michael</na></co>
+<co c="1"><na f="m/Michaelis:Claudio" pid="217/2962">Claudio Michaelis</na></co>
+<co c="0"><na f="m/Mishra:Kumar_Vijay" pid="49/8950">Kumar Vijay Mishra</na></co>
+<co c="1"><na f="m/Mitzkus:Benjamin" pid="245/2711">Benjamin Mitzkus</na></co>
+<co c="0"><na f="m/Mohanty:Anwesh" pid="301/5642">Anwesh Mohanty</na></co>
+<co c="0"><na f="m/Morgenstern:David" pid="176/2558">David Morgenstern</na></co>
+<co c="0" n="2"><na f="m/Mueller=Gritschneder:Daniel" pid="96/8188">Daniel Mueller-Gritschneder</na><na>Daniel M&#252;ller-Gritschneder</na></co>
+<co c="0"><na f="m/M=uuml=ller_0004:Matthias" pid="59/650-4">Matthias M&#252;ller 0004</na></co>
+<co c="0"><na f="m/M=uuml=ller:Stefan" pid="26/4817">Stefan M&#252;ller</na></co>
+<co c="0"><na f="m/M=uuml=ller_0003:Wolfgang" pid="m/WMuller3">Wolfgang M&#252;ller 0003</na></co>
+<co c="0"><na f="m/Muth:Annette" pid="76/745">Annette Muth</na></co>
+<co c="0"><na f="n/Nageldinger:Ulrich" pid="75/1465">Ulrich Nageldinger</na></co>
+<co c="0"><na f="n/Nebel:Wolfgang" pid="n/WolfgangNebel">Wolfgang Nebel</na></co>
+<co c="0"><na f="n/Neftci:Emre" pid="62/5283">Emre Neftci</na></co>
+<co c="0" n="2"><na f="n/Nick:Joerg" pid="266/3193">Joerg Nick</na><na>J&#246;rg Nick</na></co>
+<co c="0"><na f="n/Nienh=uuml=ser:Dennis" pid="24/3578">Dennis Nienh&#252;ser</na></co>
+<co c="0"><na f="n/Nirmaier:Thomas" pid="10/10853">Thomas Nirmaier</na></co>
+<co c="0"><na f="n/Nitzsche:Sven" pid="238/1729">Sven Nitzsche</na></co>
+<co c="0"><na f="n/Novacek:Jan" pid="198/2085">Jan Novacek</na></co>
+<co c="0"><na f="o/Oetjens:Jan=Hendrik" pid="78/6545">Jan-Hendrik Oetjens</na></co>
+<co c="0"><na f="o/O=Hagan:Daniel_W=" pid="210/8813">Daniel W. O'Hagan</na></co>
+<co c="0"><na f="o/Okuhara:Hayate" pid="168/6295">Hayate Okuhara</na></co>
+<co c="0"><na f="o/Oppermann:Julian" pid="133/5083">Julian Oppermann</na></co>
+<co c="0"><na f="o/Ottavi:Marco" pid="84/5657">Marco Ottavi</na></co>
+<co c="0"><na f="o/Ottlik:Sebastian" pid="122/3749">Sebastian Ottlik</na></co>
+<co c="0"><na f="p/Pachideh:Brian" pid="238/1725">Brian Pachideh</na></co>
+<co c="1"><na f="p/Pachitariu:George" pid="347/4580">George Pachitariu</na></co>
+<co c="0"><na f="p/Parfuntseu:Pavel" pid="34/1947">Pavel Parfuntseu</na></co>
+<co c="0"><na f="p/Partzsch:Johannes" pid="68/7231">Johannes Partzsch</na></co>
+<co c="0"><na f="p/Paschalis:Antonis_M=" pid="16/6466">Antonis M. Paschalis</na></co>
+<co c="0"><na f="p/Paule:Anton" pid="253/6223">Anton Paule</na></co>
+<co c="0"><na f="p/Pavlitska:Svetlana" pid="253/6191">Svetlana Pavlitska</na></co>
+<co c="0"><na f="p/Peccia:Federico_Nicol=aacute=s" pid="335/2522">Federico Nicol&#225;s Peccia</na></co>
+<co c="0"><na f="p/Pelz:Georg" pid="65/1714">Georg Pelz</na></co>
+<co c="0"><na f="p/Peterson:Dustin" pid="131/4906">Dustin Peterson</na></co>
+<co c="0"><na f="p/Platzner:Marco" pid="68/3728">Marco Platzner</na></co>
+<co c="0"><na f="p/Pontarelli:Salvatore" pid="72/5613">Salvatore Pontarelli</na></co>
+<co c="0"><na f="p/Poppen:Frank" pid="07/2911">Frank Poppen</na></co>
+<co c="0"><na f="p/Post:Hendrik" pid="50/1951">Hendrik Post</na></co>
+<co c="0"><na f="p/Prebeck:Sebastian_Siegfried" pid="306/7035">Sebastian Siegfried Prebeck</na></co>
+<co c="0"><na f="p/Pressler:Michael" pid="98/7358">Michael Pressler</na></co>
+<co c="0"><na f="r/Radetzki:Martin" pid="94/517">Martin Radetzki</na></co>
+<co c="0"><na f="r/R=auml=dle:Stefan" pid="238/7980">Stefan R&#228;dle</na></co>
+<co c="0"><na f="r/Rakitsch:Barbara" pid="18/9780">Barbara Rakitsch</na></co>
+<co c="0"><na f="r/Ranft:Benjamin" pid="66/11146">Benjamin Ranft</na></co>
+<co c="0"><na f="r/Rasch:Maximilian" pid="315/3980">Maximilian Rasch</na></co>
+<co c="0"><na f="r/Reiber:Moritz" pid="321/4276">Moritz Reiber</na></co>
+<co c="0"><na f="r/Reichardt:Dirk" pid="61/3562">Dirk Reichardt</na></co>
+<co c="0"><na f="r/Reichenb=auml=cher:Christian" pid="297/3777">Christian Reichenb&#228;cher</na></co>
+<co c="0"><na f="r/Reiter_0003:Sebastian" pid="64/10499-3">Sebastian Reiter 0003</na></co>
+<co c="0"><na f="r/Reviriego:Pedro" pid="60/2579">Pedro Reviriego</na></co>
+<co c="0"><na f="r/Richter:Mathis" pid="120/7344">Mathis Richter</na></co>
+<co c="0" n="2"><na f="r/Rieber:Dennis" pid="285/1927">Dennis Rieber</na><na>Dennis Sebastian Rieber</na></co>
+<co c="0"><na f="r/Rohleder:M=" pid="38/10052">M. Rohleder</na></co>
+<co c="0"><na f="r/Rosenberger:Philipp" pid="214/7123">Philipp Rosenberger</na></co>
+<co c="0"><na f="r/Rosenstiel:Wolfgang" pid="r/WRosenstiel">Wolfgang Rosenstiel</na></co>
+<co c="0"><na f="r/Roth:S=" pid="07/1267">S. Roth</na></co>
+<co c="0"><na f="r/Rudolf:Jens" pid="244/5961">Jens Rudolf</na></co>
+<co c="0"><na f="r/R=uuml=eck:Anna=Lisa" pid="349/4645">Anna-Lisa R&#252;eck</na></co>
+<co c="0"><na f="r/Ruf:J=uuml=rgen" pid="12/6927">J&#252;rgen Ruf</na></co>
+<co c="1"><na f="r/Rusak:Evgenia" pid="245/2556">Evgenia Rusak</na></co>
+<co c="0"><na f="s/Saam:Alexander" pid="257/2356">Alexander Saam</na></co>
+<co c="0" n="2"><na f="s/S=aacute=nchez:David" pid="145/4311">David S&#225;nchez</na><na>David Sanchez</na></co>
+<co c="0"><na f="s/Sander:Bj=ouml=rn" pid="31/675">Bj&#246;rn Sander</na></co>
+<co c="0"><na f="s/Sasidharan:Prasanth" pid="161/0822">Prasanth Sasidharan</na></co>
+<co c="0"><na f="s/Schaefer:Florian" pid="83/2156">Florian Schaefer</na></co>
+<co c="0"><na f="s/Schamm:Thomas" pid="14/973">Thomas Schamm</na></co>
+<co c="0" n="2"><na f="s/Schiegg:Florian_Alexander" pid="218/4521">Florian Alexander Schiegg</na><na>Florian A. Schiegg</na></co>
+<co c="0"><na f="s/Schlamelcher:Jan" pid="171/7622">Jan Schlamelcher</na></co>
+<co c="0"><na f="s/Schlichtmann:Ulf" pid="07/6841">Ulf Schlichtmann</na></co>
+<co c="0"><na f="s/Schlicker:Philipp" pid="53/10774">Philipp Schlicker</na></co>
+<co c="1"><na f="s/Schneider_0001:Steffen" pid="16/8643-1">Steffen Schneider 0001</na></co>
+<co c="0"><na f="s/Schnerr:J=uuml=rgen" pid="19/2233">J&#252;rgen Schnerr</na></co>
+<co c="0"><na f="s/Scholl:Philipp" pid="31/6987">Philipp Scholl</na></co>
+<co c="0"><na f="s/Sch=ouml=nwald:Timo" pid="87/5279">Timo Sch&#246;nwald</na></co>
+<co c="1"><na f="s/Schott:Lukas" pid="172/1043">Lukas Schott</na></co>
+<co c="0"><na f="s/Schreiber:Helmut" pid="92/7859">Helmut Schreiber</na></co>
+<co c="0"><na f="s/Schulz:Simon" pid="03/6099">Simon Schulz</na></co>
+<co c="0"><na f="s/Schwarz:Markus" pid="27/5418">Markus Schwarz</na></co>
+<co c="0"><na f="s/Schwarz_0010:Michael" pid="08/1117-10">Michael Schwarz 0010</na></co>
+<co c="0"><na f="s/Schwed:Mark" pid="274/5780">Mark Schwed</na></co>
+<co c="0"><na f="s/Schweizer:Thomas" pid="72/6505">Thomas Schweizer</na></co>
+<co c="0"><na f="s/Schwerin:Andreas_von" pid="06/8190">Andreas von Schwerin</na></co>
+<co c="0"><na f="s/Shafique_0001:Muhammad" pid="s/MuhammadShafique">Muhammad Shafique 0001</na></co>
+<co c="0"><na f="s/Siddiqui:Salman" pid="95/9617">Salman Siddiqui</na></co>
+<co c="0"><na f="s/Siebenborn:Axel" pid="18/3528">Axel Siebenborn</na></co>
+<co c="0"><na f="s/Simsek:Murat" pid="29/10350">Murat Simsek</na></co>
+<co c="0"><na f="s/Singh:Simranjit" pid="137/5178">Simranjit Singh</na></co>
+<co c="0"><na f="s/Slavik:Zora" pid="231/5392">Zora Slavik</na></co>
+<co c="0"><na f="s/Slomka:Frank" pid="60/4647">Frank Slomka</na></co>
+<co c="0"><na f="s/Soliman:Taha" pid="252/2274">Taha Soliman</na></co>
+<co c="0"><na f="s/Spinczyk:Olaf" pid="s/OlafSpinczyk">Olaf Spinczyk</na></co>
+<co c="0"><na f="s/Stahl:Rafael" pid="229/8788">Rafael Stahl</na></co>
+<co c="0"><na f="s/Staiger:Marc" pid="303/8534">Marc Staiger</na></co>
+<co c="0"><na f="s/Stechele:Walter" pid="37/3374">Walter Stechele</na></co>
+<co c="0"><na f="s/Steinmann:Jochen" pid="73/11157">Jochen Steinmann</na></co>
+<co c="2"><na f="s/Stiesch:Tim" pid="237/7102">Tim Stiesch</na></co>
+<co c="0"><na f="s/Stoffel:Dominik" pid="95/2383">Dominik Stoffel</na></co>
+<co c="0"><na f="s/Strand:Marcus" pid="15/7860">Marcus Strand</na></co>
+<co c="0"><na f="s/Strobel:Manuel" pid="146/6745">Manuel Strobel</na></co>
+<co c="0"><na f="s/Strydis:Christos" pid="23/1111">Christos Strydis</na></co>
+<co c="0"><na f="t/Tabacaru:Bogdan=Andrei" pid="163/3707">Bogdan-Andrei Tabacaru</na></co>
+<co c="0"><na f="t/Tabanoglu:G=ouml=khan" pid="89/6535">G&#246;khan Tabanoglu</na></co>
+<co c="0"><na f="t/Tahoori:Mehdi_Baradaran" pid="55/3589">Mehdi Baradaran Tahoori</na></co>
+<co c="0"><na f="t/Teich:J=uuml=rgen" pid="t/JurgenTeich">J&#252;rgen Teich</na></co>
+<co c="0"><na f="t/Teufel:Sven" pid="327/9187">Sven Teufel</na></co>
+<co c="0"><na f="t/Throner:Susanne" pid="353/5815">Susanne Throner</na></co>
+<co c="0"><na f="v/Valentina:Rhea" pid="139/8821">Rhea Valentina</na></co>
+<co c="0"><na f="v/Viehl:Alexander" pid="76/4280">Alexander Viehl</na></co>
+<co c="0"><na f="v/Volk:Georg" pid="228/4766">Georg Volk</na></co>
+<co c="0"><na f="w/Wedlich:Felix" pid="333/2756">Felix Wedlich</na></co>
+<co c="0"><na f="w/Wegner:David" pid="313/0651">David Wegner</na></co>
+<co c="0"><na f="w/Wehn:Norbert" pid="48/6980">Norbert Wehn</na></co>
+<co c="0"><na f="w/Weinmann:Ulrich" pid="78/2431">Ulrich Weinmann</na></co>
+<co c="0"><na f="w/Weiss:Matthias" pid="24/1957">Matthias Weiss</na></co>
+<co c="0"><na f="w/Werner:Julia" pid="10/6122">Julia Werner</na></co>
+<co c="0"><na f="w/Wimmer_0001:Ralf" pid="80/5500">Ralf Wimmer 0001</na></co>
+<co c="0"><na f="w/Winner:Hermann" pid="38/5748">Hermann Winner</na></co>
+<co c="0" n="2"><na f="w/Wirthmueller:Florian" pid="167/3703">Florian Wirthmueller</na><na>Florian Wirthm&#252;ller</na></co>
+<co c="0"><na f="w/Worms:Josef" pid="257/2362">Josef Worms</na></co>
+<co c="0"><na f="w/Wunderlich:Hans=Joachim" pid="02/1297">Hans-Joachim Wunderlich</na></co>
+<co c="0"><na f="z/Zeller:Marc" pid="35/7128">Marc Zeller</na></co>
+<co c="0"><na f="z/Zeppenfeld:Johannes" pid="92/278">Johannes Zeppenfeld</na></co>
+<co c="0"><na f="z/Zhou:Yumin" pid="122/4575">Yumin Zhou</na></co>
+<co c="0"><na f="z/Zimmermann:Jochen" pid="07/3752">Jochen Zimmermann</na></co>
+<co c="1"><na f="z/Zimmermann:Roland_S=" pid="227/2603">Roland S. Zimmermann</na></co>
+<co c="0" n="2"><na f="z/Z=ouml=llner:Johann_Marius" pid="97/3452">Johann Marius Z&#246;llner</na><na>J. Marius Z&#246;llner</na></co>
+</coauthors>
+</dblpperson>
+

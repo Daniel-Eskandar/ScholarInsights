@@ -1,0 +1,1060 @@
+<?xml version="1.0"?>
+<dblpperson name="Jakob H. Macke" pid="97/11106" n="61">
+<person key="homepages/97/11106" mdate="2023-02-24">
+<author pid="97/11106">Jakob H. Macke</author>
+<note type="affiliation">University of T&#252;bingen, Germany</note>
+<note type="affiliation" label="former">Technical University Munich, Germany</note>
+<note type="affiliation" label="former">Eberhard Karls University of T&#252;bingen, Bernstein Center for Computational Neuroscience</note>
+<note type="affiliation" label="former">Max Planck Institute for Biological Cybernetics</note>
+<url>https://www.ei.tum.de/struktur-und-profil/personen/professoren/macke/</url>
+<url>https://orcid.org/0000-0001-5154-8912</url>
+<url>https://www.wikidata.org/entity/Q66368482</url>
+<url>https://d-nb.info/gnd/140963219</url>
+<url>https://scholar.google.com/citations?user=FKOqtF8AAAAJ</url>
+</person>
+<r><article key="journals/ploscb/BoeltsHGUYBHOM23" mdate="2023-10-14">
+<author orcid="0000-0003-4979-7092" pid="162/9546">Jan Boelts</author>
+<author orcid="0000-0001-8831-3893" pid="333/0351">Philipp Harth</author>
+<author pid="211/3796">Richard Gao</author>
+<author orcid="0000-0002-8697-3975" pid="332/9733">Daniel Udvary</author>
+<author pid="357/9094">Felipe Y&#225;&#241;ez</author>
+<author orcid="0000-0003-1550-7245" pid="b/DanielBaum">Daniel Baum</author>
+<author pid="49/283">Hans-Christian Hege</author>
+<author pid="74/7980">Marcel Oberl&#228;nder</author>
+<author pid="97/11106">Jakob H. Macke</author>
+<title>Simulation-based inference for efficient identification of generative models in computational connectomics.</title>
+<year>2023</year>
+<volume>19</volume>
+<journal>PLoS Comput. Biol.</journal>
+<number>9</number>
+<ee type="oa">https://doi.org/10.1371/journal.pcbi.1011406</ee>
+<url>db/journals/ploscb/ploscb19.html#BoeltsHGUYBHOM23</url>
+</article>
+</r>
+<r><inproceedings key="conf/icml/GlocklerDM23" mdate="2023-08-28">
+<author pid="315/4161">Manuel Gl&#246;ckler</author>
+<author pid="243/5747">Michael Deistler</author>
+<author pid="97/11106">Jakob H. Macke</author>
+<title>Adversarial robustness of amortized Bayesian inference.</title>
+<pages>11493-11524</pages>
+<year>2023</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">https://proceedings.mlr.press/v202/gloeckler23a.html</ee>
+<crossref>conf/icml/2023</crossref>
+<url>db/conf/icml/icml2023.html#GlocklerDM23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2301-03588" mdate="2023-01-19">
+<author pid="203/8123">Jaivardhan Kapoor</author>
+<author pid="97/11106">Jakob H. Macke</author>
+<author pid="131/4782">Christian F. Baumgartner</author>
+<title>Multiscale Metamorphic VAE for 3D Brain MRI Synthesis.</title>
+<year>2023</year>
+<volume>abs/2301.03588</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2301.03588</ee>
+<url>db/journals/corr/corr2301.html#abs-2301-03588</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2305-14984" mdate="2023-06-06">
+<author pid="315/4161">Manuel Gl&#246;ckler</author>
+<author pid="243/5747">Michael Deistler</author>
+<author pid="97/11106">Jakob H. Macke</author>
+<title>Adversarial robustness of amortized Bayesian inference.</title>
+<year>2023</year>
+<volume>abs/2305.14984</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2305.14984</ee>
+<url>db/journals/corr/corr2305.html#abs-2305-14984</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2305-15174" mdate="2023-06-06">
+<author pid="255/6950">Cornelius Schr&#246;der</author>
+<author pid="97/11106">Jakob H. Macke</author>
+<title>Simultaneous identification of models and parameters of scientific simulators.</title>
+<year>2023</year>
+<volume>abs/2305.15174</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2305.15174</ee>
+<url>db/journals/corr/corr2305.html#abs-2305-15174</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2305-15208" mdate="2023-06-06">
+<author pid="211/3796">Richard Gao</author>
+<author pid="243/5747">Michael Deistler</author>
+<author pid="97/11106">Jakob H. Macke</author>
+<title>Generalized Bayesian Inference for Scientific Simulators via Amortized Cost Estimation.</title>
+<year>2023</year>
+<volume>abs/2305.15208</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2305.15208</ee>
+<url>db/journals/corr/corr2305.html#abs-2305-15208</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2305-17161" mdate="2023-06-07">
+<author pid="249/8145">Maximilian Dax</author>
+<author pid="309/6792">Jonas Wildberger</author>
+<author pid="207/9068">Simon Buchholz</author>
+<author pid="259/3011">Stephen R. Green</author>
+<author pid="97/11106">Jakob H. Macke</author>
+<author pid="97/119">Bernhard Sch&#246;lkopf</author>
+<title>Flow Matching for Scalable Simulation-Based Inference.</title>
+<year>2023</year>
+<volume>abs/2305.17161</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2305.17161</ee>
+<url>db/journals/corr/corr2305.html#abs-2305-17161</url>
+</article>
+</r>
+<r><inproceedings key="conf/iclr/DaxGGDSM22" mdate="2022-08-20">
+<author pid="249/8145">Maximilian Dax</author>
+<author pid="259/3011">Stephen R. Green</author>
+<author pid="259/3062">Jonathan Gair</author>
+<author pid="243/5747">Michael Deistler</author>
+<author pid="97/119">Bernhard Sch&#246;lkopf</author>
+<author pid="97/11106">Jakob H. Macke</author>
+<title>Group equivariant neural posterior estimation.</title>
+<year>2022</year>
+<booktitle>ICLR</booktitle>
+<ee type="oa">https://openreview.net/forum?id=u6s8dSporO8</ee>
+<crossref>conf/iclr/2022</crossref>
+<url>db/conf/iclr/iclr2022.html#DaxGGDSM22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclr/GlocklerDM22" mdate="2022-08-20">
+<author pid="315/4161">Manuel Gl&#246;ckler</author>
+<author pid="243/5747">Michael Deistler</author>
+<author pid="97/11106">Jakob H. Macke</author>
+<title>Variational methods for simulation-based inference.</title>
+<year>2022</year>
+<booktitle>ICLR</booktitle>
+<ee type="oa">https://openreview.net/forum?id=kZ0UYdhqkNY</ee>
+<crossref>conf/iclr/2022</crossref>
+<url>db/conf/iclr/iclr2022.html#GlocklerDM22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclr/RameshLBTGGM22" mdate="2022-10-02">
+<author pid="315/9697">Poornima Ramesh</author>
+<author pid="209/4852">Jan-Matthis Lueckmann</author>
+<author orcid="0000-0003-4979-7092" pid="162/9546">Jan Boelts</author>
+<author pid="125/3431">&#193;lvaro Tejero-Cantero</author>
+<author pid="92/2024">David S. Greenberg</author>
+<author pid="209/4971">Pedro J. Gon&#231;alves</author>
+<author pid="97/11106">Jakob H. Macke</author>
+<title>GATSBI: Generative Adversarial Training for Simulation-Based Inference.</title>
+<year>2022</year>
+<booktitle>ICLR</booktitle>
+<ee type="oa">https://openreview.net/forum?id=kR1hC6j48Tp</ee>
+<crossref>conf/iclr/2022</crossref>
+<url>db/conf/iclr/iclr2022.html#RameshLBTGGM22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/BeckDBMB22" mdate="2023-05-11">
+<author pid="331/5676">Jonas Beck</author>
+<author pid="243/5747">Michael Deistler</author>
+<author pid="267/9852">Yves Bernaerts</author>
+<author pid="97/11106">Jakob H. Macke</author>
+<author pid="78/3560">Philipp Berens</author>
+<title>Efficient identification of informative features in simulation-based inference.</title>
+<year>2022</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">http://papers.nips.cc/paper_files/paper/2022/hash/7a7f6cc5dc2a84fb4edf0feb8e5cfd50-Abstract-Conference.html</ee>
+<url>db/conf/nips/neurips2022.html#BeckDBMB22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/DeistlerGM22" mdate="2023-05-11">
+<author pid="243/5747">Michael Deistler</author>
+<author pid="209/4971">Pedro J. Gon&#231;alves</author>
+<author pid="97/11106">Jakob H. Macke</author>
+<title>Truncated proposals for scalable and hassle-free simulation-based inference.</title>
+<year>2022</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">http://papers.nips.cc/paper_files/paper/2022/hash/9278abf072b58caf21d48dd670b4c721-Abstract-Conference.html</ee>
+<url>db/conf/nips/neurips2022.html#DeistlerGM22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2203-04176" mdate="2022-03-16">
+<author pid="315/4161">Manuel Gl&#246;ckler</author>
+<author pid="243/5747">Michael Deistler</author>
+<author pid="97/11106">Jakob H. Macke</author>
+<title>Variational methods for simulation-based inference.</title>
+<year>2022</year>
+<volume>abs/2203.04176</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2203.04176</ee>
+<url>db/journals/corr/corr2203.html#abs-2203-04176</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2203-06481" mdate="2022-03-16">
+<author pid="315/9697">Poornima Ramesh</author>
+<author pid="209/4852">Jan-Matthis Lueckmann</author>
+<author pid="162/9546">Jan Boelts</author>
+<author pid="125/3431">&#193;lvaro Tejero-Cantero</author>
+<author pid="92/2024">David S. Greenberg</author>
+<author pid="209/4971">Pedro J. Gon&#231;alves</author>
+<author pid="97/11106">Jakob H. Macke</author>
+<title>GATSBI: Generative Adversarial Training for Simulation-Based Inference.</title>
+<year>2022</year>
+<volume>abs/2203.06481</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2203.06481</ee>
+<url>db/journals/corr/corr2203.html#abs-2203-06481</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2210-04815" mdate="2022-10-13">
+<author pid="243/5747">Michael Deistler</author>
+<author pid="209/4971">Pedro J. Gon&#231;alves</author>
+<author pid="97/11106">Jakob H. Macke</author>
+<title>Truncated proposals for scalable and hassle-free simulation-based inference.</title>
+<year>2022</year>
+<volume>abs/2210.04815</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2210.04815</ee>
+<url>db/journals/corr/corr2210.html#abs-2210-04815</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2210-05686" mdate="2023-09-30">
+<author pid="249/8145">Maximilian Dax</author>
+<author pid="259/3011">Stephen R. Green</author>
+<author pid="259/3062">Jonathan Gair</author>
+<author orcid="0000-0002-3329-9788" pid="296/6334">Michael P&#252;rrer</author>
+<author pid="309/6792">Jonas Wildberger</author>
+<author pid="97/11106">Jakob H. Macke</author>
+<author pid="296/0082">Alessandra Buonanno</author>
+<author pid="97/119">Bernhard Sch&#246;lkopf</author>
+<title>Neural Importance Sampling for Rapid and Reliable Gravitational-Wave Inference.</title>
+<year>2022</year>
+<volume>abs/2210.05686</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2210.05686</ee>
+<url>db/journals/corr/corr2210.html#abs-2210-05686</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2210-11915" mdate="2022-10-25">
+<author pid="331/5676">Jonas Beck</author>
+<author pid="243/5747">Michael Deistler</author>
+<author pid="267/9852">Yves Bernaerts</author>
+<author pid="97/11106">Jakob H. Macke</author>
+<author pid="78/3560">Philipp Berens</author>
+<title>Efficient identification of informative features in simulation-based inference.</title>
+<year>2022</year>
+<volume>abs/2210.11915</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2210.11915</ee>
+<url>db/journals/corr/corr2210.html#abs-2210-11915</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2211-08801" mdate="2023-09-30">
+<author pid="309/6792">Jonas Wildberger</author>
+<author pid="249/8145">Maximilian Dax</author>
+<author pid="259/3011">Stephen R. Green</author>
+<author pid="259/3062">Jonathan Gair</author>
+<author orcid="0000-0002-3329-9788" pid="296/6334">Michael P&#252;rrer</author>
+<author pid="97/11106">Jakob H. Macke</author>
+<author pid="296/0082">Alessandra Buonanno</author>
+<author pid="97/119">Bernhard Sch&#246;lkopf</author>
+<title>Adapting to noise distribution shifts in flow-based gravitational-wave inference.</title>
+<year>2022</year>
+<volume>abs/2211.08801</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2211.08801</ee>
+<url>db/journals/corr/corr2211.html#abs-2211-08801</url>
+</article>
+</r>
+<r><inproceedings key="conf/aistats/LueckmannBGGM21" mdate="2021-10-14">
+<author pid="209/4852">Jan-Matthis Lueckmann</author>
+<author pid="162/9546">Jan Boelts</author>
+<author pid="92/2024">David S. Greenberg</author>
+<author orcid="0000-0002-6987-4836" pid="209/4971">Pedro J. Gon&#231;alves</author>
+<author pid="97/11106">Jakob H. Macke</author>
+<title>Benchmarking Simulation-Based Inference.</title>
+<pages>343-351</pages>
+<year>2021</year>
+<booktitle>AISTATS</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v130/lueckmann21a.html</ee>
+<crossref>conf/aistats/2021</crossref>
+<url>db/conf/aistats/aistats2021.html#LueckmannBGGM21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2101-04653" mdate="2021-01-26">
+<author pid="209/4852">Jan-Matthis Lueckmann</author>
+<author pid="162/9546">Jan Boelts</author>
+<author pid="92/2024">David S. Greenberg</author>
+<author pid="209/4971">Pedro J. Gon&#231;alves</author>
+<author pid="97/11106">Jakob H. Macke</author>
+<title>Benchmarking Simulation-Based Inference.</title>
+<year>2021</year>
+<volume>abs/2101.04653</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2101.04653</ee>
+<url>db/journals/corr/corr2101.html#abs-2101-04653</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2106-12594" mdate="2021-07-01">
+<author pid="249/8145">Maximilian Dax</author>
+<author pid="259/3011">Stephen R. Green</author>
+<author pid="259/3062">Jonathan Gair</author>
+<author pid="97/11106">Jakob H. Macke</author>
+<author pid="296/0082">Alessandra Buonanno</author>
+<author pid="97/119">Bernhard Sch&#246;lkopf</author>
+<title>Real-time gravitational-wave science with neural posterior estimation.</title>
+<year>2021</year>
+<volume>abs/2106.12594</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2106.12594</ee>
+<url>db/journals/corr/corr2106.html#abs-2106-12594</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2111-13139" mdate="2021-12-01">
+<author pid="249/8145">Maximilian Dax</author>
+<author pid="259/3011">Stephen R. Green</author>
+<author pid="259/3062">Jonathan Gair</author>
+<author pid="243/5747">Michael Deistler</author>
+<author pid="97/119">Bernhard Sch&#246;lkopf</author>
+<author pid="97/11106">Jakob H. Macke</author>
+<title>Group equivariant neural posterior estimation.</title>
+<year>2021</year>
+<volume>abs/2111.13139</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2111.13139</ee>
+<url>db/journals/corr/corr2111.html#abs-2111-13139</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2112-03235" mdate="2022-12-17">
+<author pid="163/1808">Alexander Lavin</author>
+<author pid="z/HectorZenilChavez">Hector Zenil</author>
+<author pid="143/7344">Brooks Paige</author>
+<author pid="308/2403">David Krakauer</author>
+<author pid="56/2013">Justin Gottschlich</author>
+<author pid="56/794">Tim Mattson</author>
+<author pid="25/1529">Anima Anandkumar</author>
+<author pid="308/2807">Sanjay Choudry</author>
+<author pid="47/8296">Kamil Rocki</author>
+<author pid="37/3258">Atilim G&#252;nes Baydin</author>
+<author pid="256/5084">Carina Prunkl</author>
+<author pid="34/4930">Olexandr Isayev</author>
+<author pid="39/5992">Erik Peterson</author>
+<author pid="94/8121">Peter L. McMahon</author>
+<author pid="97/11106">Jakob H. Macke</author>
+<author pid="26/3292">Kyle Cranmer</author>
+<author pid="32/7698-5">Jiaxin Zhang 0005</author>
+<author pid="143/5403">Haruko M. Wainwright</author>
+<author pid="272/8018">Adi Hanuka</author>
+<author pid="v/ManuelaMVeloso">Manuela Veloso</author>
+<author pid="88/7250">Samuel Assefa</author>
+<author pid="179/2433">Stephan Zheng</author>
+<author pid="p/AviPfeffer">Avi Pfeffer</author>
+<title>Simulation Intelligence: Towards a New Generation of Scientific Methods.</title>
+<year>2021</year>
+<volume>abs/2112.03235</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2112.03235</ee>
+<url>db/journals/corr/corr2112.html#abs-2112-03235</url>
+</article>
+</r>
+<r><article publtype="software" key="journals/jossw/Tejero-CanteroB20" mdate="2022-08-16">
+<author orcid="0000-0002-8768-4227" pid="125/3431">&#193;lvaro Tejero-Cantero</author>
+<author orcid="0000-0003-4979-7092" pid="162/9546">Jan Boelts</author>
+<author orcid="0000-0002-3573-0404" pid="243/5747">Michael Deistler</author>
+<author orcid="0000-0003-4320-4663" pid="209/4852">Jan-Matthis Lueckmann</author>
+<author orcid="0000-0001-9333-7777" pid="230/4513">Conor Durkan</author>
+<author orcid="0000-0002-6987-4836" pid="209/4971">Pedro J. Gon&#231;alves</author>
+<author orcid="0000-0002-8515-0459" pid="92/2024">David S. Greenberg</author>
+<author orcid="0000-0001-5154-8912" pid="97/11106">Jakob H. Macke</author>
+<title>sbi: A toolkit for simulation-based inference.</title>
+<pages>2505</pages>
+<year>2020</year>
+<volume>5</volume>
+<journal>J. Open Source Softw.</journal>
+<number>52</number>
+<ee type="oa">https://doi.org/10.21105/joss.02505</ee>
+<ee>https://www.wikidata.org/entity/Q113307461</ee>
+<url>db/journals/jossw/jossw5.html#Tejero-CanteroB20</url>
+</article>
+</r>
+<r><article key="journals/neco/ReneLM20" mdate="2023-09-30">
+<author pid="249/9330">Alexandre Ren&#233;</author>
+<author pid="56/4192">Andr&#233; Longtin</author>
+<author orcid="0000-0001-5154-8912" pid="97/11106">Jakob H. Macke</author>
+<title>Inference of a Mesoscopic Population Model from Population Spike Trains.</title>
+<pages>1448-1498</pages>
+<year>2020</year>
+<volume>32</volume>
+<journal>Neural Comput.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1162/neco_a_01292</ee>
+<ee>https://www.wikidata.org/entity/Q96293560</ee>
+<url>db/journals/neco/neco32.html#ReneLM20</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2007-09114" mdate="2020-07-28">
+<author pid="125/3431">&#193;lvaro Tejero-Cantero</author>
+<author pid="162/9546">Jan Boelts</author>
+<author pid="243/5747">Michael Deistler</author>
+<author pid="209/4852">Jan-Matthis Lueckmann</author>
+<author pid="230/4513">Conor Durkan</author>
+<author pid="209/4971">Pedro J. Gon&#231;alves</author>
+<author pid="92/2024">David S. Greenberg</author>
+<author pid="97/11106">Jakob H. Macke</author>
+<title>SBI - A toolkit for simulation-based inference.</title>
+<year>2020</year>
+<volume>abs/2007.09114</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2007.09114</ee>
+<url>db/journals/corr/corr2007.html#abs-2007-09114</url>
+</article>
+</r>
+<r><inproceedings key="conf/icml/GreenbergNM19" mdate="2019-06-11">
+<author pid="92/2024">David S. Greenberg</author>
+<author pid="209/4911">Marcel Nonnenmacher</author>
+<author pid="97/11106">Jakob H. Macke</author>
+<title>Automatic Posterior Transformation for Likelihood-Free Inference.</title>
+<pages>2404-2414</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/greenberg19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#GreenbergNM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/AnsuiniLMZ19" mdate="2021-01-21">
+<author pid="232/2196">Alessio Ansuini</author>
+<author pid="00/2597">Alessandro Laio</author>
+<author pid="97/11106">Jakob H. Macke</author>
+<author pid="155/2403">Davide Zoccolan</author>
+<title>Intrinsic dimension of data representations in deep neural networks.</title>
+<pages>6109-6119</pages>
+<year>2019</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2019/hash/cfcce0621b49c983991ead4c3d4d3b6b-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/8843-intrinsic-dimension-of-data-representations-in-deep-neural-networks</ee>
+<crossref>conf/nips/2019</crossref>
+<url>db/conf/nips/nips2019.html#AnsuiniLMZ19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-07488" mdate="2019-05-28">
+<author pid="92/2024">David S. Greenberg</author>
+<author pid="209/4911">Marcel Nonnenmacher</author>
+<author pid="97/11106">Jakob H. Macke</author>
+<title>Automatic Posterior Transformation for Likelihood-Free Inference.</title>
+<year>2019</year>
+<volume>abs/1905.07488</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.07488</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-07488</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-12784" mdate="2019-06-03">
+<author pid="232/2196">Alessio Ansuini</author>
+<author pid="00/2597">Alessandro Laio</author>
+<author pid="97/11106">Jakob H. Macke</author>
+<author pid="155/2403">Davide Zoccolan</author>
+<title>Intrinsic dimension of data representations in deep neural networks.</title>
+<year>2019</year>
+<volume>abs/1905.12784</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.12784</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-12784</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1907-00770" mdate="2019-07-08">
+<author pid="209/4957">Artur Speiser</author>
+<author pid="91/747">Srinivas C. Turaga</author>
+<author pid="97/11106">Jakob H. Macke</author>
+<title>Teaching deep neural networks to localize sources in super-resolution microscopy by combining simulation-based learning and unsupervised learning.</title>
+<year>2019</year>
+<volume>abs/1907.00770</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1907.00770</ee>
+<url>db/journals/corr/corr1907.html#abs-1907-00770</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1910-01618" mdate="2019-10-04">
+<author pid="249/9330">Alexandre Ren&#233;</author>
+<author pid="56/4192">Andr&#233; Longtin</author>
+<author pid="97/11106">Jakob H. Macke</author>
+<title>Inference of a mesoscopic population model from population spike trains.</title>
+<year>2019</year>
+<volume>abs/1910.01618</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1910.01618</ee>
+<url>db/journals/corr/corr1910.html#abs-1910-01618</url>
+</article>
+</r>
+<r><article key="journals/ploscb/BerensFDCMSMTMR18" mdate="2022-04-29">
+<author pid="78/3560">Philipp Berens</author>
+<author pid="163/2081">Jeremy Freeman</author>
+<author pid="38/5763">Thomas Deneux</author>
+<author pid="221/2256">Nicolay Chenkov</author>
+<author pid="221/2500">Thomas McColgan</author>
+<author pid="209/4957">Artur Speiser</author>
+<author pid="97/11106">Jakob H. Macke</author>
+<author orcid="0000-0003-3247-6487" pid="91/747">Srinivas C. Turaga</author>
+<author orcid="0000-0001-5519-842X" pid="155/6081">Patrick J. Mineault</author>
+<author pid="221/2582">Peter Rupprecht</author>
+<author pid="124/7551">Stephan Gerhard</author>
+<author pid="61/8535">Rainer W. Friedrich</author>
+<author pid="02/8536">Johannes Friedrich</author>
+<author pid="94/2691">Liam Paninski</author>
+<author pid="125/2296">Marius Pachitariu</author>
+<author orcid="0000-0002-5930-6456" pid="78/1932">Kenneth D. Harris</author>
+<author pid="221/2374">Ben Bolte</author>
+<author pid="155/1934">Timothy A. Machado</author>
+<author pid="221/2286">Dario Ringach</author>
+<author pid="221/2700">Jasmine Stone</author>
+<author pid="221/2267">Luke E. Rogerson</author>
+<author pid="221/2670">Nicolas J. Sofroniew</author>
+<author pid="155/2031">Jacob Reimer</author>
+<author pid="161/4141">Emmanouil Froudarakis</author>
+<author pid="196/3259">Thomas Euler</author>
+<author pid="196/3268">Miroslav Rom&#225;n Ros&#243;n</author>
+<author pid="28/8772">Lucas Theis</author>
+<author pid="32/3057">Andreas S. Tolias</author>
+<author pid="77/3005">Matthias Bethge</author>
+<title>Community-based benchmarking improves spike rate inference from two-photon calcium imaging data.</title>
+<year>2018</year>
+<volume>14</volume>
+<journal>PLoS Comput. Biol.</journal>
+<number>5</number>
+<ee type="oa">https://doi.org/10.1371/journal.pcbi.1006157</ee>
+<ee>https://www.wikidata.org/entity/Q55342498</ee>
+<url>db/journals/ploscb/ploscb14.html#BerensFDCMSMTMR18</url>
+</article>
+</r>
+<r><inproceedings key="conf/aabi/LueckmannBKM18" mdate="2019-07-12">
+<author pid="209/4852">Jan-Matthis Lueckmann</author>
+<author pid="155/1936">Giacomo Bassetto</author>
+<author pid="31/11191">Theofanis Karaletsos</author>
+<author pid="97/11106">Jakob H. Macke</author>
+<title>Likelihood-free inference with emulator networks.</title>
+<pages>32-53</pages>
+<year>2018</year>
+<booktitle>AABI</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v96/lueckmann19a.html</ee>
+<crossref>conf/aabi/2018</crossref>
+<url>db/conf/aabi/aabi2018.html#LueckmannBKM18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1805-09294" mdate="2018-08-13">
+<author pid="209/4852">Jan-Matthis Lueckmann</author>
+<author pid="155/1936">Giacomo Bassetto</author>
+<author pid="31/11191">Theofanis Karaletsos</author>
+<author pid="97/11106">Jakob H. Macke</author>
+<title>Likelihood-free inference with emulator networks.</title>
+<year>2018</year>
+<volume>abs/1805.09294</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1805.09294</ee>
+<url>db/journals/corr/corr1805.html#abs-1805-09294</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1810-13373" mdate="2018-11-08">
+<author pid="126/1690">David G. T. Barrett</author>
+<author pid="217/3720">Ari S. Morcos</author>
+<author pid="97/11106">Jakob H. Macke</author>
+<title>Analyzing biological and artificial neural networks: challenges with opportunities for synergy?</title>
+<year>2018</year>
+<volume>abs/1810.13373</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1810.13373</ee>
+<url>db/journals/corr/corr1810.html#abs-1810-13373</url>
+</article>
+</r>
+<r><article key="journals/ploscb/NonnenmacherBBB17" mdate="2023-09-30">
+<author orcid="0000-0001-6044-6627" pid="209/4911">Marcel Nonnenmacher</author>
+<author orcid="0000-0003-3623-352X" pid="72/4681">Christian Behrens</author>
+<author orcid="0000-0002-0199-4727" pid="78/3560">Philipp Berens</author>
+<author pid="77/3005">Matthias Bethge</author>
+<author orcid="0000-0001-5154-8912" pid="97/11106">Jakob H. Macke</author>
+<title>Signatures of criticality arise from random subsampling in simple population models.</title>
+<year>2017</year>
+<volume>13</volume>
+<journal>PLoS Comput. Biol.</journal>
+<number>10</number>
+<ee type="oa">https://doi.org/10.1371/journal.pcbi.1005718</ee>
+<ee>https://www.wikidata.org/entity/Q42701683</ee>
+<url>db/journals/ploscb/ploscb13.html#NonnenmacherBBB17</url>
+</article>
+</r>
+<r><inproceedings key="conf/nips/LueckmannGBONM17" mdate="2021-01-21">
+<author pid="209/4852">Jan-Matthis Lueckmann</author>
+<author pid="209/4971">Pedro J. Gon&#231;alves</author>
+<author pid="155/1936">Giacomo Bassetto</author>
+<author pid="209/4955">Kaan &#214;cal</author>
+<author pid="209/4911">Marcel Nonnenmacher</author>
+<author pid="97/11106">Jakob H. Macke</author>
+<title>Flexible statistical inference for mechanistic models of neural dynamics.</title>
+<pages>1289-1299</pages>
+<year>2017</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2017/hash/addfa9b7e234254d26e9c7f2af1005cb-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/6728-flexible-statistical-inference-for-mechanistic-models-of-neural-dynamics</ee>
+<crossref>conf/nips/2017</crossref>
+<url>db/conf/nips/nips2017.html#LueckmannGBONM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/SpeiserYABTM17" mdate="2021-01-21">
+<author pid="209/4957">Artur Speiser</author>
+<author pid="12/977">Jinyao Yan</author>
+<author pid="126/1706">Evan W. Archer</author>
+<author pid="16/4453">Lars Buesing</author>
+<author pid="91/747">Srinivas C. Turaga</author>
+<author pid="97/11106">Jakob H. Macke</author>
+<title>Fast amortized inference of neural activity from calcium imaging data with variational autoencoders.</title>
+<pages>4024-4034</pages>
+<year>2017</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2017/hash/5d6646aad9bcc0be55b2c82f69750387-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/6991-fast-amortized-inference-of-neural-activity-from-calcium-imaging-data-with-variational-autoencoders</ee>
+<crossref>conf/nips/2017</crossref>
+<url>db/conf/nips/nips2017.html#SpeiserYABTM17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/NonnenmacherTM17" mdate="2021-01-21">
+<author pid="209/4911">Marcel Nonnenmacher</author>
+<author pid="91/747">Srinivas C. Turaga</author>
+<author pid="97/11106">Jakob H. Macke</author>
+<title>Extracting low-dimensional dynamics from multiple large-scale neural population recordings by learning to predict correlations.</title>
+<pages>5702-5712</pages>
+<year>2017</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2017/hash/c7558e9d1f956b016d1fdba7ea132378-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/7153-extracting-low-dimensional-dynamics-from-multiple-large-scale-neural-population-recordings-by-learning-to-predict-correlations</ee>
+<crossref>conf/nips/2017</crossref>
+<url>db/conf/nips/nips2017.html#NonnenmacherTM17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1711-01846" mdate="2018-08-13">
+<author pid="209/4957">Artur Speiser</author>
+<author pid="12/977">Jinyao Yan</author>
+<author pid="126/1706">Evan Archer</author>
+<author pid="16/4453">Lars Buesing</author>
+<author pid="91/747">Srinivas C. Turaga</author>
+<author pid="97/11106">Jakob H. Macke</author>
+<title>Fast amortized inference of neural activity from calcium imaging data with variational autoencoders.</title>
+<year>2017</year>
+<volume>abs/1711.01846</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1711.01846</ee>
+<url>db/journals/corr/corr1711.html#abs-1711-01846</url>
+</article>
+</r>
+<r><inproceedings key="conf/nips/ParkBM15" mdate="2021-01-21">
+<author pid="20/10800">Mijung Park</author>
+<author pid="178/3266">Gergo Bohner</author>
+<author pid="97/11106">Jakob H. Macke</author>
+<title>Unlocking neural population non-stationarities using hierarchical dynamics models.</title>
+<pages>145-153</pages>
+<year>2015</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2015/hash/28dd2c7955ce926456240b2ff0100bde-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/5790-unlocking-neural-population-non-stationarities-using-hierarchical-dynamics-models</ee>
+<crossref>conf/nips/2015</crossref>
+<url>db/conf/nips/nips2015.html#ParkBM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/ArcherKPM14" mdate="2021-01-21">
+<author pid="126/1706">Evan W. Archer</author>
+<author pid="63/5270">Urs K&#246;ster</author>
+<author pid="06/3460">Jonathan W. Pillow</author>
+<author pid="97/11106">Jakob H. Macke</author>
+<title>Low-dimensional models of neural population activity in sensory cortical circuits.</title>
+<pages>343-351</pages>
+<year>2014</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2014/hash/cb70ab375662576bd1ac5aaf16b3fca4-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/5263-low-dimensional-models-of-neural-population-activity-in-sensory-cortical-circuits</ee>
+<crossref>conf/nips/2014</crossref>
+<url>db/conf/nips/nips2014.html#ArcherKPM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/PutzkyFBM14" mdate="2021-01-21">
+<author pid="155/1919">Patrick Putzky</author>
+<author pid="155/1890">Florian Franzen</author>
+<author pid="155/1936">Giacomo Bassetto</author>
+<author pid="97/11106">Jakob H. Macke</author>
+<title>A Bayesian model for identifying hierarchically organised states in neural population activity.</title>
+<pages>3095-3103</pages>
+<year>2014</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2014/hash/1bc0249a6412ef49b07fe6f62e6dc8de-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/5338-a-bayesian-model-for-identifying-hierarchically-organised-states-in-neural-population-activity</ee>
+<crossref>conf/nips/2014</crossref>
+<url>db/conf/nips/nips2014.html#PutzkyFBM14</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/cn/Macke14" mdate="2017-07-12">
+<author pid="97/11106">Jakob H. Macke</author>
+<title>Electrophysiology Analysis, Bayesian.</title>
+<year>2014</year>
+<booktitle>Encyclopedia of Computational Neuroscience</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-7320-6_448-1</ee>
+<crossref>reference/cn/2014</crossref>
+<url>db/reference/cn/cn2014.html#Macke14</url>
+</incollection>
+</r>
+<r><article key="journals/entropy/MackeML13" mdate="2023-09-30">
+<author orcid="0000-0001-5154-8912" pid="97/11106">Jakob H. Macke</author>
+<author pid="82/384">Iain Murray 0001</author>
+<author pid="18/4059">Peter E. Latham</author>
+<title>Estimation Bias in Maximum Entropy Models.</title>
+<pages>3109-3119</pages>
+<year>2013</year>
+<volume>15</volume>
+<journal>Entropy</journal>
+<number>8</number>
+<ee type="oa">https://doi.org/10.3390/e15083109</ee>
+<url>db/journals/entropy/entropy15.html#MackeML13</url>
+</article>
+</r>
+<r><inproceedings key="conf/nips/TuragaBPDPHM13" mdate="2021-01-21">
+<author pid="91/747">Srinivas C. Turaga</author>
+<author pid="16/4453">Lars Buesing</author>
+<author pid="139/1386">Adam M. Packer</author>
+<author pid="139/1421">Henry Dalgleish</author>
+<author pid="139/1333">Noah Pettit</author>
+<author pid="14/735">Michael H&#228;usser</author>
+<author pid="97/11106">Jakob H. Macke</author>
+<title>Inferring neural population dynamics from multiple partial recordings of the same neural circuit.</title>
+<pages>539-547</pages>
+<year>2013</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2013/hash/01386bd6d8e091c2ab4c7c7de644d37b-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/4874-inferring-neural-population-dynamics-from-multiple-partial-recordings-of-the-same-neural-circuit</ee>
+<crossref>conf/nips/2013</crossref>
+<url>db/conf/nips/nips2013.html#TuragaBPDPHM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/BuesingMS12" mdate="2021-01-21">
+<author pid="16/4453">Lars Buesing</author>
+<author pid="97/11106">Jakob H. Macke</author>
+<author pid="44/3197">Maneesh Sahani</author>
+<title>Spectral learning of linear dynamics from generalised-linear observations with application to neural population data.</title>
+<pages>1691-1699</pages>
+<year>2012</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2012/hash/d58072be2820e8682c0a27c0518e805e-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/4836-spectral-learning-of-linear-dynamics-from-generalised-linear-observations-with-application-to-neural-population-data</ee>
+<crossref>conf/nips/2012</crossref>
+<url>db/conf/nips/nips2012.html#BuesingMS12</url>
+</inproceedings>
+</r>
+<r><article key="journals/ficn/MackeBB11" mdate="2020-05-23">
+<author pid="97/11106">Jakob H. Macke</author>
+<author orcid="0000-0002-0199-4727" pid="78/3560">Philipp Berens</author>
+<author pid="77/3005">Matthias Bethge</author>
+<title>Statistical Analysis of Multi-Cell Recordings: Linking Population Coding Models to Experimental Data.</title>
+<year>2011</year>
+<volume>5</volume>
+<journal>Frontiers Comput. Neurosci.</journal>
+<ee type="oa">https://doi.org/10.3389/fncom.2011.00035</ee>
+<ee>https://www.wikidata.org/entity/Q33994620</ee>
+<url>db/journals/ficn/ficn5.html#MackeBB11</url>
+<pages>35</pages>
+</article>
+</r>
+<r><article key="journals/neuroimage/MackeGWKB11" mdate="2023-09-30">
+<author orcid="0000-0001-5154-8912" pid="97/11106">Jakob H. Macke</author>
+<author pid="85/4613">Sebastian Gerwinn</author>
+<author pid="78/7490">Leonard E. White</author>
+<author pid="53/919">Matthias Kaschube</author>
+<author pid="77/3005">Matthias Bethge</author>
+<title>Gaussian process methods for estimating cortical maps.</title>
+<pages>570-581</pages>
+<year>2011</year>
+<volume>56</volume>
+<journal>NeuroImage</journal>
+<number>2</number>
+<ee>https://doi.org/10.1016/j.neuroimage.2010.04.272</ee>
+<ee>https://www.wikidata.org/entity/Q48197253</ee>
+<url>db/journals/neuroimage/neuroimage56.html#MackeGWKB11</url>
+</article>
+</r>
+<r><inproceedings key="conf/nips/MackeBCYSS11" mdate="2021-01-21">
+<author pid="97/11106">Jakob H. Macke</author>
+<author pid="16/4453">Lars Buesing</author>
+<author pid="51/4077">John P. Cunningham</author>
+<author pid="96/194">Byron M. Yu</author>
+<author pid="93/2791">Krishna V. Shenoy</author>
+<author pid="44/3197">Maneesh Sahani</author>
+<title>Empirical models of spiking in neural populations.</title>
+<pages>1350-1358</pages>
+<year>2011</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2011/hash/7143d7fbadfa4693b9eec507d9d37443-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/4289-empirical-models-of-spiking-in-neural-populations</ee>
+<crossref>conf/nips/2011</crossref>
+<url>db/conf/nips/nips2011.html#MackeBCYSS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/MackeML11" mdate="2021-01-21">
+<author pid="97/11106">Jakob H. Macke</author>
+<author pid="82/384">Iain Murray 0001</author>
+<author pid="18/4059">Peter E. Latham</author>
+<title>How biased are maximum entropy models?</title>
+<pages>2034-2042</pages>
+<year>2011</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2011/hash/feab05aa91085b7a8012516bc3533958-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/4357-how-biased-are-maximum-entropy-models</ee>
+<crossref>conf/nips/2011</crossref>
+<url>db/conf/nips/nips2011.html#MackeML11</url>
+</inproceedings>
+</r>
+<r><article key="journals/ficn/GerwinnMB10" mdate="2023-09-30">
+<author pid="85/4613">Sebastian Gerwinn</author>
+<author orcid="0000-0001-5154-8912" pid="97/11106">Jakob H. Macke</author>
+<author pid="77/3005">Matthias Bethge</author>
+<title>Bayesian inference for generalized linear models for spiking neurons.</title>
+<year>2010</year>
+<volume>4</volume>
+<journal>Frontiers Comput. Neurosci.</journal>
+<ee type="oa">https://doi.org/10.3389/fncom.2010.00012</ee>
+<ee>https://www.wikidata.org/entity/Q41276496</ee>
+<url>db/journals/ficn/ficn4.html#GerwinnMB10</url>
+<pages>12</pages>
+</article>
+</r>
+<r><article key="journals/ficn/LyamzinML10" mdate="2023-09-30">
+<author orcid="0000-0002-7082-2902" pid="155/7951">Dmitry R. Lyamzin</author>
+<author orcid="0000-0001-5154-8912" pid="97/11106">Jakob H. Macke</author>
+<author orcid="0000-0001-5238-4462" pid="16/8442">Nicholas A. Lesica</author>
+<title>Modeling Population Spike Trains with Specified Time-Varying Spike Rates, Trial-to-Trial Variability, and Pairwise Signal and Noise Correlations.</title>
+<year>2010</year>
+<volume>4</volume>
+<journal>Frontiers Comput. Neurosci.</journal>
+<ee type="oa">https://doi.org/10.3389/fncom.2010.00144</ee>
+<ee>https://www.wikidata.org/entity/Q41178860</ee>
+<url>db/journals/ficn/ficn4.html#LyamzinML10</url>
+<pages>144</pages>
+</article>
+</r>
+<r><article key="journals/ficn/GerwinnMB09" mdate="2023-09-30">
+<author pid="85/4613">Sebastian Gerwinn</author>
+<author orcid="0000-0001-5154-8912" pid="97/11106">Jakob H. Macke</author>
+<author pid="77/3005">Matthias Bethge</author>
+<title>Bayesian population decoding of spiking neurons.</title>
+<year>2009</year>
+<volume>3</volume>
+<journal>Frontiers Comput. Neurosci.</journal>
+<ee type="oa">https://doi.org/10.3389/neuro.10.021.2009</ee>
+<ee>https://www.wikidata.org/entity/Q42957679</ee>
+<url>db/journals/ficn/ficn3.html#GerwinnMB09</url>
+<pages>21</pages>
+</article>
+</r>
+<r><article key="journals/neco/MackeBETB09" mdate="2023-09-30">
+<author orcid="0000-0001-5154-8912" pid="97/11106">Jakob H. Macke</author>
+<author orcid="0000-0002-0199-4727" pid="78/3560">Philipp Berens</author>
+<author pid="26/7228">Alexander S. Ecker</author>
+<author pid="32/3057">Andreas S. Tolias</author>
+<author pid="77/3005">Matthias Bethge</author>
+<title>Generating Spike Trains with Specified Correlation Coefficients.</title>
+<pages>397-423</pages>
+<year>2009</year>
+<volume>21</volume>
+<journal>Neural Comput.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1162/neco.2008.02-08-713</ee>
+<ee>https://www.wikidata.org/entity/Q48765902</ee>
+<url>db/journals/neco/neco21.html#MackeBETB09</url>
+</article>
+</r>
+<r><inproceedings key="conf/nips/MackeGWKB09" mdate="2021-01-21">
+<author pid="97/11106">Jakob H. Macke</author>
+<author pid="85/4613">Sebastian Gerwinn</author>
+<author pid="78/7490">Leonard E. White</author>
+<author pid="53/919">Matthias Kaschube</author>
+<author pid="77/3005">Matthias Bethge</author>
+<title>Bayesian estimation of orientation preference maps.</title>
+<pages>1195-1203</pages>
+<year>2009</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2009/hash/ef0d3930a7b6c95bd2b32ed45989c61f-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/3645-bayesian-estimation-of-orientation-preference-maps</ee>
+<crossref>conf/nips/2009</crossref>
+<url>db/conf/nips/nips2009.html#MackeGWKB09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hvei/BethgeGM07" mdate="2023-09-30">
+<author pid="77/3005">Matthias Bethge</author>
+<author pid="85/4613">Sebastian Gerwinn</author>
+<author orcid="0000-0001-5154-8912" pid="97/11106">Jakob H. Macke</author>
+<title>Unsupervised learning of a steerable basis for invariant image representations.</title>
+<pages>64920C</pages>
+<year>2007</year>
+<booktitle>Human Vision and Electronic Imaging</booktitle>
+<ee>https://doi.org/10.1117/12.711119</ee>
+<crossref>conf/hvei/2007</crossref>
+<url>db/conf/hvei/hvei2007.html#BethgeGM07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/GerwinnMSB07" mdate="2021-01-21">
+<author pid="85/4613">Sebastian Gerwinn</author>
+<author pid="97/11106">Jakob H. Macke</author>
+<author pid="43/5832">Matthias W. Seeger</author>
+<author pid="77/3005">Matthias Bethge</author>
+<title>Bayesian Inference for Spiking Neuron Models with a Sparsity Prior.</title>
+<year>2007</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2007/hash/46ba9f2a6976570b0353203ec4474217-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/3300-bayesian-inference-for-spiking-neuron-models-with-a-sparsity-prior</ee>
+<crossref>conf/nips/2007</crossref>
+<url>db/conf/nips/nips2007.html#GerwinnMSB07</url>
+<pages>529-536</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/MackeZB07" mdate="2021-01-21">
+<author pid="97/11106">Jakob H. Macke</author>
+<author pid="45/6392">Guenther Zeck</author>
+<author pid="77/3005">Matthias Bethge</author>
+<title>Receptive Fields without Spike-Triggering.</title>
+<year>2007</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2007/hash/289dff07669d7a23de0ef88d2f7129e7-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/3220-receptive-fields-without-spike-triggering</ee>
+<crossref>conf/nips/2007</crossref>
+<url>db/conf/nips/nips2007.html#MackeZB07</url>
+<pages>969-976</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/LaubMMW06" mdate="2021-01-21">
+<author pid="93/2862">Julian Laub</author>
+<author pid="97/11106">Jakob H. Macke</author>
+<author pid="m/KRMuller">Klaus-Robert M&#252;ller</author>
+<author pid="42/5049">Felix A. Wichmann</author>
+<title>Inducing Metric Violations in Human Similarity Judgements.</title>
+<pages>777-784</pages>
+<year>2006</year>
+<crossref>conf/nips/2006</crossref>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2006/hash/748d6b6ed8e13f857ceaa6cfbdca14b8-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/3090-inducing-metric-violations-in-human-similarity-judgements</ee>
+<url>db/conf/nips/nips2006.html#LaubMMW06</url>
+</inproceedings>
+</r>
+<coauthors n="121" nc="5">
+<co c="0"><na f="a/Anandkumar:Anima" pid="25/1529">Anima Anandkumar</na></co>
+<co c="1"><na f="a/Ansuini:Alessio" pid="232/2196">Alessio Ansuini</na></co>
+<co c="0" n="2"><na f="a/Archer:Evan" pid="126/1706">Evan Archer</na><na>Evan W. Archer</na></co>
+<co c="0" n="2"><na f="a/Assefa:Samuel_A=" pid="88/7250">Samuel A. Assefa</na><na>Samuel Assefa</na></co>
+<co c="2"><na f="b/Barrett:David_G=_T=" pid="126/1690">David G. T. Barrett</na></co>
+<co c="0"><na f="b/Bassetto:Giacomo" pid="155/1936">Giacomo Bassetto</na></co>
+<co c="0"><na f="b/Baum:Daniel" pid="b/DanielBaum">Daniel Baum</na></co>
+<co c="0"><na f="b/Baumgartner:Christian_F=" pid="131/4782">Christian F. Baumgartner</na></co>
+<co c="0"><na f="b/Baydin:Atilim_G=uuml=nes" pid="37/3258">Atilim G&#252;nes Baydin</na></co>
+<co c="0"><na f="b/Beck:Jonas" pid="331/5676">Jonas Beck</na></co>
+<co c="0"><na f="b/Behrens:Christian" pid="72/4681">Christian Behrens</na></co>
+<co c="0"><na f="b/Berens:Philipp" pid="78/3560">Philipp Berens</na></co>
+<co c="0"><na f="b/Bernaerts:Yves" pid="267/9852">Yves Bernaerts</na></co>
+<co c="0"><na f="b/Bethge:Matthias" pid="77/3005">Matthias Bethge</na></co>
+<co c="0"><na f="b/Boelts:Jan" pid="162/9546">Jan Boelts</na></co>
+<co c="0"><na f="b/Bohner:Gergo" pid="178/3266">Gergo Bohner</na></co>
+<co c="0"><na f="b/Bolte:Ben" pid="221/2374">Ben Bolte</na></co>
+<co c="0"><na f="b/Buchholz:Simon" pid="207/9068">Simon Buchholz</na></co>
+<co c="0"><na f="b/Buesing:Lars" pid="16/4453">Lars Buesing</na></co>
+<co c="0"><na f="b/Buonanno:Alessandra" pid="296/0082">Alessandra Buonanno</na></co>
+<co c="0"><na f="c/Chenkov:Nicolay" pid="221/2256">Nicolay Chenkov</na></co>
+<co c="0"><na f="c/Choudry:Sanjay" pid="308/2807">Sanjay Choudry</na></co>
+<co c="0"><na f="c/Cranmer:Kyle" pid="26/3292">Kyle Cranmer</na></co>
+<co c="0"><na f="c/Cunningham:John_P=" pid="51/4077">John P. Cunningham</na></co>
+<co c="0"><na f="d/Dalgleish:Henry" pid="139/1421">Henry Dalgleish</na></co>
+<co c="0"><na f="d/Dax:Maximilian" pid="249/8145">Maximilian Dax</na></co>
+<co c="0"><na f="d/Deistler:Michael" pid="243/5747">Michael Deistler</na></co>
+<co c="0"><na f="d/Deneux:Thomas" pid="38/5763">Thomas Deneux</na></co>
+<co c="0"><na f="d/Durkan:Conor" pid="230/4513">Conor Durkan</na></co>
+<co c="0"><na f="e/Ecker:Alexander_S=" pid="26/7228">Alexander S. Ecker</na></co>
+<co c="0"><na f="e/Euler:Thomas" pid="196/3259">Thomas Euler</na></co>
+<co c="0"><na f="f/Franzen:Florian" pid="155/1890">Florian Franzen</na></co>
+<co c="0"><na f="f/Freeman:Jeremy" pid="163/2081">Jeremy Freeman</na></co>
+<co c="0"><na f="f/Friedrich:Johannes" pid="02/8536">Johannes Friedrich</na></co>
+<co c="0"><na f="f/Friedrich:Rainer_W=" pid="61/8535">Rainer W. Friedrich</na></co>
+<co c="0"><na f="f/Froudarakis:Emmanouil" pid="161/4141">Emmanouil Froudarakis</na></co>
+<co c="0"><na f="g/Gair:Jonathan" pid="259/3062">Jonathan Gair</na></co>
+<co c="0"><na f="g/Gao:Richard" pid="211/3796">Richard Gao</na></co>
+<co c="0"><na f="g/Gerhard:Stephan" pid="124/7551">Stephan Gerhard</na></co>
+<co c="0"><na f="g/Gerwinn:Sebastian" pid="85/4613">Sebastian Gerwinn</na></co>
+<co c="0"><na f="g/Gl=ouml=ckler:Manuel" pid="315/4161">Manuel Gl&#246;ckler</na></co>
+<co c="0"><na f="g/Gon=ccedil=alves:Pedro_J=" pid="209/4971">Pedro J. Gon&#231;alves</na></co>
+<co c="0" n="2"><na f="g/Gottschlich:Justin_Emile" pid="56/2013">Justin Emile Gottschlich</na><na>Justin Gottschlich</na></co>
+<co c="0"><na f="g/Green:Stephen_R=" pid="259/3011">Stephen R. Green</na></co>
+<co c="0"><na f="g/Greenberg:David_S=" pid="92/2024">David S. Greenberg</na></co>
+<co c="0"><na f="h/Hanuka:Adi" pid="272/8018">Adi Hanuka</na></co>
+<co c="0"><na f="h/Harris:Kenneth_D=" pid="78/1932">Kenneth D. Harris</na></co>
+<co c="0"><na f="h/Harth:Philipp" pid="333/0351">Philipp Harth</na></co>
+<co c="0"><na f="h/H=auml=usser:Michael" pid="14/735">Michael H&#228;usser</na></co>
+<co c="0"><na f="h/Hege:Hans=Christian" pid="49/283">Hans-Christian Hege</na></co>
+<co c="0"><na f="i/Isayev:Olexandr" pid="34/4930">Olexandr Isayev</na></co>
+<co c="0"><na f="k/Kapoor:Jaivardhan" pid="203/8123">Jaivardhan Kapoor</na></co>
+<co c="0"><na f="k/Karaletsos:Theofanis" pid="31/11191">Theofanis Karaletsos</na></co>
+<co c="0"><na f="k/Kaschube:Matthias" pid="53/919">Matthias Kaschube</na></co>
+<co c="0"><na f="k/K=ouml=ster:Urs" pid="63/5270">Urs K&#246;ster</na></co>
+<co c="0"><na f="k/Krakauer:David" pid="308/2403">David Krakauer</na></co>
+<co c="1"><na f="l/Laio:Alessandro" pid="00/2597">Alessandro Laio</na></co>
+<co c="0"><na f="l/Latham:Peter_E=" pid="18/4059">Peter E. Latham</na></co>
+<co c="0"><na f="l/Laub:Julian" pid="93/2862">Julian Laub</na></co>
+<co c="0"><na f="l/Lavin:Alexander" pid="163/1808">Alexander Lavin</na></co>
+<co c="4"><na f="l/Lesica:Nicholas_A=" pid="16/8442">Nicholas A. Lesica</na></co>
+<co c="3"><na f="l/Longtin:Andr=eacute=" pid="56/4192">Andr&#233; Longtin</na></co>
+<co c="0"><na f="l/Lueckmann:Jan=Matthis" pid="209/4852">Jan-Matthis Lueckmann</na></co>
+<co c="4"><na f="l/Lyamzin:Dmitry_R=" pid="155/7951">Dmitry R. Lyamzin</na></co>
+<co c="0"><na f="m/Machado:Timothy_A=" pid="155/1934">Timothy A. Machado</na></co>
+<co c="0" n="2"><na f="m/Mattson:Timothy_G=" pid="56/794">Timothy G. Mattson</na><na>Tim Mattson</na></co>
+<co c="0"><na f="m/McColgan:Thomas" pid="221/2500">Thomas McColgan</na></co>
+<co c="0"><na f="m/McMahon:Peter_L=" pid="94/8121">Peter L. McMahon</na></co>
+<co c="0"><na f="m/Mineault:Patrick_J=" pid="155/6081">Patrick J. Mineault</na></co>
+<co c="2"><na f="m/Morcos:Ari_S=" pid="217/3720">Ari S. Morcos</na></co>
+<co c="0"><na f="m/M=uuml=ller:Klaus=Robert" pid="m/KRMuller">Klaus-Robert M&#252;ller</na></co>
+<co c="0"><na f="m/Murray_0001:Iain" pid="82/384">Iain Murray 0001</na></co>
+<co c="0"><na f="n/Nonnenmacher:Marcel" pid="209/4911">Marcel Nonnenmacher</na></co>
+<co c="0"><na f="o/Oberl=auml=nder:Marcel" pid="74/7980">Marcel Oberl&#228;nder</na></co>
+<co c="0"><na f="=/=Ouml=cal:Kaan" pid="209/4955">Kaan &#214;cal</na></co>
+<co c="0"><na f="p/Pachitariu:Marius" pid="125/2296">Marius Pachitariu</na></co>
+<co c="0"><na f="p/Packer:Adam_M=" pid="139/1386">Adam M. Packer</na></co>
+<co c="0"><na f="p/Paige:Brooks" pid="143/7344">Brooks Paige</na></co>
+<co c="0"><na f="p/Paninski:Liam" pid="94/2691">Liam Paninski</na></co>
+<co c="0"><na f="p/Park:Mijung" pid="20/10800">Mijung Park</na></co>
+<co c="0"><na f="p/Peterson:Erik" pid="39/5992">Erik Peterson</na></co>
+<co c="0"><na f="p/Pettit:Noah" pid="139/1333">Noah Pettit</na></co>
+<co c="0"><na f="p/Pfeffer:Avi" pid="p/AviPfeffer">Avi Pfeffer</na></co>
+<co c="0"><na f="p/Pillow:Jonathan_W=" pid="06/3460">Jonathan W. Pillow</na></co>
+<co c="0"><na f="p/Prunkl:Carina" pid="256/5084">Carina Prunkl</na></co>
+<co c="0"><na f="p/P=uuml=rrer:Michael" pid="296/6334">Michael P&#252;rrer</na></co>
+<co c="0"><na f="p/Putzky:Patrick" pid="155/1919">Patrick Putzky</na></co>
+<co c="0"><na f="r/Ramesh:Poornima" pid="315/9697">Poornima Ramesh</na></co>
+<co c="0"><na f="r/Reimer:Jacob" pid="155/2031">Jacob Reimer</na></co>
+<co c="3"><na f="r/Ren=eacute=:Alexandre" pid="249/9330">Alexandre Ren&#233;</na></co>
+<co c="0"><na f="r/Ringach:Dario" pid="221/2286">Dario Ringach</na></co>
+<co c="0"><na f="r/Rocki:Kamil" pid="47/8296">Kamil Rocki</na></co>
+<co c="0"><na f="r/Rogerson:Luke_E=" pid="221/2267">Luke E. Rogerson</na></co>
+<co c="0"><na f="r/Ros=oacute=n:Miroslav_Rom=aacute=n" pid="196/3268">Miroslav Rom&#225;n Ros&#243;n</na></co>
+<co c="0"><na f="r/Rupprecht:Peter" pid="221/2582">Peter Rupprecht</na></co>
+<co c="0"><na f="s/Sahani:Maneesh" pid="44/3197">Maneesh Sahani</na></co>
+<co c="0"><na f="s/Sch=ouml=lkopf:Bernhard" pid="97/119">Bernhard Sch&#246;lkopf</na></co>
+<co c="0"><na f="s/Schr=ouml=der:Cornelius" pid="255/6950">Cornelius Schr&#246;der</na></co>
+<co c="0"><na f="s/Seeger:Matthias_W=" pid="43/5832">Matthias W. Seeger</na></co>
+<co c="0"><na f="s/Shenoy:Krishna_V=" pid="93/2791">Krishna V. Shenoy</na></co>
+<co c="0"><na f="s/Sofroniew:Nicolas_J=" pid="221/2670">Nicolas J. Sofroniew</na></co>
+<co c="0"><na f="s/Speiser:Artur" pid="209/4957">Artur Speiser</na></co>
+<co c="0"><na f="s/Stone:Jasmine" pid="221/2700">Jasmine Stone</na></co>
+<co c="0"><na f="t/Tejero=Cantero:=Aacute=lvaro" pid="125/3431">&#193;lvaro Tejero-Cantero</na></co>
+<co c="0"><na f="t/Theis:Lucas" pid="28/8772">Lucas Theis</na></co>
+<co c="0"><na f="t/Tolias:Andreas_S=" pid="32/3057">Andreas S. Tolias</na></co>
+<co c="0"><na f="t/Turaga:Srinivas_C=" pid="91/747">Srinivas C. Turaga</na></co>
+<co c="0"><na f="u/Udvary:Daniel" pid="332/9733">Daniel Udvary</na></co>
+<co c="0" n="2"><na f="v/Veloso:Manuela_M=" pid="v/ManuelaMVeloso">Manuela M. Veloso</na><na>Manuela Veloso</na></co>
+<co c="0"><na f="w/Wainwright:Haruko_M=" pid="143/5403">Haruko M. Wainwright</na></co>
+<co c="0"><na f="w/White:Leonard_E=" pid="78/7490">Leonard E. White</na></co>
+<co c="0"><na f="w/Wichmann:Felix_A=" pid="42/5049">Felix A. Wichmann</na></co>
+<co c="0"><na f="w/Wildberger:Jonas" pid="309/6792">Jonas Wildberger</na></co>
+<co c="0"><na f="y/Yan:Jinyao" pid="12/977">Jinyao Yan</na></co>
+<co c="0"><na f="y/Y=aacute==ntilde=ez:Felipe" pid="357/9094">Felipe Y&#225;&#241;ez</na></co>
+<co c="0"><na f="y/Yu:Byron_M=" pid="96/194">Byron M. Yu</na></co>
+<co c="0"><na f="z/Zeck:Guenther" pid="45/6392">Guenther Zeck</na></co>
+<co c="0"><na f="z/Zenil:Hector" pid="z/HectorZenilChavez">Hector Zenil</na></co>
+<co c="0"><na f="z/Zhang_0005:Jiaxin" pid="32/7698-5">Jiaxin Zhang 0005</na></co>
+<co c="0"><na f="z/Zheng:Stephan" pid="179/2433">Stephan Zheng</na></co>
+<co c="1"><na f="z/Zoccolan:Davide" pid="155/2403">Davide Zoccolan</na></co>
+</coauthors>
+</dblpperson>
+

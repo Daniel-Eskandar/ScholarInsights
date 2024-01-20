@@ -1,0 +1,2173 @@
+<?xml version="1.0"?>
+<dblpperson name="Georg Martius" pid="47/2706" n="139">
+<person key="homepages/47/2706" mdate="2009-06-09">
+<author pid="47/2706">Georg Martius</author>
+</person>
+<r><article key="journals/aisy/AndrussowSKM23" mdate="2023-10-14">
+<author orcid="0000-0001-6343-2925" pid="345/7712">Iris Andrussow</author>
+<author orcid="0000-0002-2363-5776" pid="234/2538">Huanbo Sun</author>
+<author orcid="0000-0002-5004-0313" pid="k/KatherineJKuchenbecker">Katherine J. Kuchenbecker</author>
+<author orcid="0000-0002-8963-7627" pid="47/2706">Georg Martius</author>
+<title>Minsight: A Fingertip-Sized Vision-Based Tactile Sensor for Robotic Manipulation.</title>
+<year>2023</year>
+<month>August</month>
+<volume>5</volume>
+<journal>Adv. Intell. Syst.</journal>
+<number>8</number>
+<ee type="oa">https://doi.org/10.1002/aisy.202370035</ee>
+<url>db/journals/aisy/aisy5.html#AndrussowSKM23</url>
+</article>
+</r>
+<r><article key="journals/aisy/AndrussowSKM23a" mdate="2023-10-14">
+<author orcid="0000-0001-6343-2925" pid="345/7712">Iris Andrussow</author>
+<author orcid="0000-0002-2363-5776" pid="234/2538">Huanbo Sun</author>
+<author orcid="0000-0002-5004-0313" pid="k/KatherineJKuchenbecker">Katherine J. Kuchenbecker</author>
+<author orcid="0000-0002-8963-7627" pid="47/2706">Georg Martius</author>
+<title>Minsight: A Fingertip-Sized Vision-Based Tactile Sensor for Robotic Manipulation.</title>
+<year>2023</year>
+<month>August</month>
+<volume>5</volume>
+<journal>Adv. Intell. Syst.</journal>
+<number>8</number>
+<ee type="oa">https://doi.org/10.1002/aisy.202300042</ee>
+<url>db/journals/aisy/aisy5.html#AndrussowSKM23a</url>
+</article>
+</r>
+<r><article key="journals/tase/LeeSPSJMK23" mdate="2023-07-27">
+<author orcid="0000-0001-8984-7870" pid="25/9969">Hyosang Lee</author>
+<author orcid="0000-0002-2363-5776" pid="234/2538">Huanbo Sun</author>
+<author orcid="0000-0001-5121-2917" pid="145/0643">Hyunkyu Park</author>
+<author orcid="0000-0001-9928-0521" pid="274/9606">Gokhan Serhat</author>
+<author orcid="0000-0002-9153-7350" pid="320/7431">Bernard Javot</author>
+<author orcid="0000-0002-8963-7627" pid="47/2706">Georg Martius</author>
+<author orcid="0000-0002-5004-0313" pid="k/KatherineJKuchenbecker">Katherine J. Kuchenbecker</author>
+<title>Predicting the Force Map of an ERT-Based Tactile Sensor Using Simulation and Deep Networks.</title>
+<pages>425-439</pages>
+<year>2023</year>
+<volume>20</volume>
+<journal>IEEE Trans Autom. Sci. Eng.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1109/TASE.2022.3156184</ee>
+<url>db/journals/tase/tase20.html#LeeSPSJMK23</url>
+</article>
+</r>
+<r><inproceedings key="conf/iclr/EberhardHPM23" mdate="2023-06-30">
+<author pid="284/9076">Onno Eberhard</author>
+<author pid="350/4125">Jakob Hollenstein</author>
+<author pid="272/8724">Cristina Pinneri</author>
+<author pid="47/2706">Georg Martius</author>
+<title>Pink Noise Is All You Need: Colored Noise Exploration in Deep Reinforcement Learning.</title>
+<year>2023</year>
+<booktitle>ICLR</booktitle>
+<ee type="oa">https://openreview.net/pdf?id=hQ9V5QN27eS</ee>
+<crossref>conf/iclr/2023</crossref>
+<url>db/conf/iclr/iclr2023.html#EberhardHPM23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclr/GurtlerBKWWBSM23" mdate="2023-06-30">
+<author pid="223/4063">Nico G&#252;rtler</author>
+<author pid="163/8117">Sebastian Blaes</author>
+<author pid="153/5818">Pavel Kolev</author>
+<author pid="168/3133">Felix Widmaier</author>
+<author pid="117/2243">Manuel Wuthrich</author>
+<author pid="45/9110">Stefan Bauer</author>
+<author pid="97/119">Bernhard Sch&#246;lkopf</author>
+<author pid="47/2706">Georg Martius</author>
+<title>Benchmarking Offline Reinforcement Learning on Real-Robot Hardware.</title>
+<year>2023</year>
+<booktitle>ICLR</booktitle>
+<ee type="oa">https://openreview.net/pdf?id=3k5CUGDLNdd</ee>
+<crossref>conf/iclr/2023</crossref>
+<url>db/conf/iclr/iclr2023.html#GurtlerBKWWBSM23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclr/SahooPVMKM23" mdate="2023-06-30">
+<author pid="268/6867">Subham Sekhar Sahoo</author>
+<author pid="255/5245">Anselm Paulus</author>
+<author pid="226/9727">Marin Vlastelica</author>
+<author pid="255/4994">V&#237;t Musil</author>
+<author pid="81/8612">Volodymyr Kuleshov</author>
+<author pid="47/2706">Georg Martius</author>
+<title>Backpropagation through Combinatorial Algorithms: Identity with Projection Works.</title>
+<year>2023</year>
+<booktitle>ICLR</booktitle>
+<ee type="oa">https://openreview.net/pdf?id=JZMR727O29</ee>
+<crossref>conf/iclr/2023</crossref>
+<url>db/conf/iclr/iclr2023.html#SahooPVMKM23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclr/SchumacherHBSM23" mdate="2023-06-30">
+<author pid="321/9919">Pierre Schumacher</author>
+<author pid="50/11082">Daniel F. B. Haeufle</author>
+<author pid="181/4076">Dieter B&#252;chler</author>
+<author pid="04/3129">Syn Schmitt</author>
+<author pid="47/2706">Georg Martius</author>
+<title>DEP-RL: Embodied Exploration for Reinforcement Learning in Overactuated and Musculoskeletal Systems.</title>
+<year>2023</year>
+<booktitle>ICLR</booktitle>
+<ee type="oa">https://openreview.net/pdf?id=C-xa_D3oTj6</ee>
+<crossref>conf/iclr/2023</crossref>
+<url>db/conf/iclr/iclr2023.html#SchumacherHBSM23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/LiBKVFM23" mdate="2023-08-08">
+<author pid="186/9145">Chenhao Li</author>
+<author pid="163/8117">Sebastian Blaes</author>
+<author pid="153/5818">Pavel Kolev</author>
+<author pid="226/9727">Marin Vlastelica</author>
+<author pid="154/9370">Jonas Frey</author>
+<author pid="47/2706">Georg Martius</author>
+<title>Versatile Skill Control via Self-supervised Adversarial Imitation of Unlabeled Mixed Motions.</title>
+<pages>2944-2950</pages>
+<year>2023</year>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ICRA48891.2023.10160421</ee>
+<crossref>conf/icra/2023</crossref>
+<url>db/conf/icra/icra2023.html#LiBKVFM23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/UrpiBHMC23" mdate="2023-08-08">
+<author pid="241/7966">N&#250;ria Armengol Urp&#237;</author>
+<author pid="304/3195">Marco Bagatella</author>
+<author pid="82/2289">Otmar Hilliges</author>
+<author pid="47/2706">Georg Martius</author>
+<author pid="49/1270">Stelian Coros</author>
+<title>Efficient Learning of High Level Plans from Play.</title>
+<pages>10189-10196</pages>
+<year>2023</year>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ICRA48891.2023.10161415</ee>
+<crossref>conf/icra/2023</crossref>
+<url>db/conf/icra/icra2023.html#UrpiBHMC23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2303-09628" mdate="2023-03-21">
+<author pid="241/7966">N&#250;ria Armengol Urp&#237;</author>
+<author pid="304/3195">Marco Bagatella</author>
+<author pid="82/2289">Otmar Hilliges</author>
+<author pid="47/2706">Georg Martius</author>
+<author pid="49/1270">Stelian Coros</author>
+<title>Efficient Learning of High Level Plans from Play.</title>
+<year>2023</year>
+<volume>abs/2303.09628</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2303.09628</ee>
+<url>db/journals/corr/corr2303.html#abs-2303-09628</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2303-16195" mdate="2023-04-14">
+<author pid="242/6913">Sina Khajehabdollahi</author>
+<author pid="289/0143">Jan Prosi</author>
+<author pid="47/2706">Georg Martius</author>
+<author pid="82/2964">Anna Levina</author>
+<title>When to be critical? Performance and evolvability in different regimes of neural Ising agents.</title>
+<year>2023</year>
+<volume>abs/2303.16195</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2303.16195</ee>
+<url>db/journals/corr/corr2303.html#abs-2303-16195</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2304-04664" mdate="2023-04-20">
+<author pid="321/1610">Jannik Th&#252;mmel</author>
+<author pid="255/5840">Matthias Karlbauer</author>
+<author pid="95/10151">Sebastian Otte</author>
+<author pid="344/7461">Christiane Zarfl</author>
+<author pid="47/2706">Georg Martius</author>
+<author pid="43/5514-2">Nicole Ludwig 0002</author>
+<author pid="255/5762">Thomas Scholten</author>
+<author pid="150/2076">Ulrich Friedrich</author>
+<author pid="133/9685">Volker Wulfmeyer</author>
+<author pid="315/9397">Bedartha Goswami</author>
+<author pid="b/MartinVButz">Martin V. Butz</author>
+<title>Inductive biases in deep learning models for weather prediction.</title>
+<year>2023</year>
+<volume>abs/2304.04664</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2304.04664</ee>
+<url>db/journals/corr/corr2304.html#abs-2304-04664</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2304-10990" mdate="2023-05-02">
+<author pid="345/7712">Iris Andrussow</author>
+<author pid="234/2538">Huanbo Sun</author>
+<author pid="k/KatherineJKuchenbecker">Katherine J. Kuchenbecker</author>
+<author pid="47/2706">Georg Martius</author>
+<title>Minsight: A Fingertip-Sized Vision-Based Tactile Sensor for Robotic Manipulation.</title>
+<year>2023</year>
+<volume>abs/2304.10990</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2304.10990</ee>
+<url>db/journals/corr/corr2304.html#abs-2304-10990</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2305-13341" mdate="2023-05-24">
+<author pid="32/5293">Gustau Camps-Valls</author>
+<author pid="270/3028">Andreas Gerhardus</author>
+<author pid="346/1025">Urmi Ninad</author>
+<author pid="150/6914">Gherardo Varando</author>
+<author pid="47/2706">Georg Martius</author>
+<author pid="65/6136">Emili Balaguer-Ballester</author>
+<author pid="239/8261">Ricardo Vinuesa</author>
+<author pid="199/1995">Emiliano Diaz</author>
+<author pid="307/2910">Laure Zanna</author>
+<author pid="120/7695">Jakob Runge</author>
+<title>Discovering Causal Relations and Equations from Data.</title>
+<year>2023</year>
+<volume>abs/2305.13341</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2305.13341</ee>
+<url>db/journals/corr/corr2305.html#abs-2305-13341</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2306-03655" mdate="2023-06-13">
+<author pid="153/5818">Pavel Kolev</author>
+<author pid="47/2706">Georg Martius</author>
+<author pid="142/1129">Michael Muehlebach</author>
+<title>Online Learning under Adversarial Nonlinear Constraints.</title>
+<year>2023</year>
+<volume>abs/2306.03655</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2306.03655</ee>
+<url>db/journals/corr/corr2306.html#abs-2306-03655</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2306-04829" mdate="2023-06-14">
+<author pid="274/9441">Andrii Zadaianchuk</author>
+<author pid="169/2264">Maximilian Seitzer</author>
+<author pid="47/2706">Georg Martius</author>
+<title>Object-Centric Learning for Real-World Videos by Predicting Temporal Feature Similarities.</title>
+<year>2023</year>
+<volume>abs/2306.04829</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2306.04829</ee>
+<url>db/journals/corr/corr2306.html#abs-2306-04829</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2306-07067" mdate="2023-06-16">
+<author pid="242/6913">Sina Khajehabdollahi</author>
+<author pid="277/1170">Emmanouil Giannakakis</author>
+<author pid="349/3468">Victor Buendia</author>
+<author pid="47/2706">Georg Martius</author>
+<author pid="82/2964">Anna Levina</author>
+<title>Locally adaptive cellular automata for goal-oriented self-organization.</title>
+<year>2023</year>
+<volume>abs/2306.07067</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2306.07067</ee>
+<url>db/journals/corr/corr2306.html#abs-2306-07067</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2306-16922" mdate="2023-07-03">
+<author pid="350/4663">Aaron Spieler</author>
+<author pid="222/3165">Nasim Rahaman</author>
+<author pid="47/2706">Georg Martius</author>
+<author pid="97/119">Bernhard Sch&#246;lkopf</author>
+<author pid="82/2964">Anna Levina</author>
+<title>The ELM Neuron: an Efficient and Expressive Cortical Neuron Model Can Solve Long-Horizon Tasks.</title>
+<year>2023</year>
+<volume>abs/2306.16922</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2306.16922</ee>
+<url>db/journals/corr/corr2306.html#abs-2306-16922</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2307-11373" mdate="2023-10-31">
+<author pid="226/9727">Marin Vlastelica</author>
+<author pid="153/5818">Pavel Kolev</author>
+<author pid="230/9055-2">Jin Cheng 0002</author>
+<author pid="47/2706">Georg Martius</author>
+<title>Diverse Offline Imitation via Fenchel Duality.</title>
+<year>2023</year>
+<volume>abs/2307.11373</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2307.11373</ee>
+<url>db/journals/corr/corr2307.html#abs-2307-11373</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2307-15690" mdate="2023-08-02">
+<author pid="223/4063">Nico G&#252;rtler</author>
+<author pid="163/8117">Sebastian Blaes</author>
+<author pid="153/5818">Pavel Kolev</author>
+<author pid="168/3133">Felix Widmaier</author>
+<author pid="117/2243">Manuel W&#252;thrich</author>
+<author pid="45/9110">Stefan Bauer</author>
+<author pid="97/119">Bernhard Sch&#246;lkopf</author>
+<author pid="47/2706">Georg Martius</author>
+<title>Benchmarking Offline Reinforcement Learning on Real-Robot Hardware.</title>
+<year>2023</year>
+<volume>abs/2307.15690</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2307.15690</ee>
+<url>db/journals/corr/corr2307.html#abs-2307-15690</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2308-07741" mdate="2023-12-01">
+<author pid="223/4063">Nico G&#252;rtler</author>
+<author pid="168/3133">Felix Widmaier</author>
+<author pid="256/5345">Cansu Sancaktar</author>
+<author pid="163/8117">Sebastian Blaes</author>
+<author pid="153/5818">Pavel Kolev</author>
+<author pid="45/9110">Stefan Bauer</author>
+<author pid="117/2243">Manuel W&#252;thrich</author>
+<author pid="166/1552">Markus Wulfmeier</author>
+<author pid="r/MartinARiedmiller">Martin A. Riedmiller</author>
+<author pid="289/1639">Arthur Allshire</author>
+<author pid="64/5630">Qiang Wang</author>
+<author pid="303/0250">Robert McCarthy</author>
+<author pid="124/2698">Hangyeol Kim</author>
+<author pid="202/0675">Jongchan Baek</author>
+<author pid="202/5963">Wookyong Kwon</author>
+<author pid="347/7135">Shanliang Qian</author>
+<author pid="242/0658">Yasunori Toshimitsu</author>
+<author pid="292/3712">Mike Yan Michelis</author>
+<author pid="302/3897">Amirhossein Kazemipour</author>
+<author pid="315/4023">Arman Raayatsanati</author>
+<author pid="232/3287">Hehui Zheng</author>
+<author pid="274/2250">Barnabas Gavin Cangan</author>
+<author pid="97/119">Bernhard Sch&#246;lkopf</author>
+<author pid="47/2706">Georg Martius</author>
+<title>Real Robot Challenge 2022: Learning Dexterous Manipulation from Offline Data in the Real World.</title>
+<year>2023</year>
+<volume>abs/2308.07741</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2308.07741</ee>
+<url>db/journals/corr/corr2308.html#abs-2308-07741</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2309-02976" mdate="2023-09-12">
+<author pid="321/9919">Pierre Schumacher</author>
+<author pid="39/8671">Thomas Geijtenbeek</author>
+<author pid="70/2682">Vittorio Caggiano</author>
+<author pid="82/7475">Vikash Kumar</author>
+<author pid="04/3129">Syn Schmitt</author>
+<author pid="47/2706">Georg Martius</author>
+<author pid="50/11082">Daniel F. B. Haeufle</author>
+<title>Natural and Robust Walking using Reinforcement Learning without Demonstrations in High-Dimensional Musculoskeletal Models.</title>
+<year>2023</year>
+<volume>abs/2309.02976</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2309.02976</ee>
+<url>db/journals/corr/corr2309.html#abs-2309-02976</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2309-05582" mdate="2023-09-15">
+<author pid="226/9727">Marin Vlastelica</author>
+<author pid="163/8117">Sebastian Blaes</author>
+<author pid="272/8724">Cristina Pinneri</author>
+<author pid="47/2706">Georg Martius</author>
+<title>Mind the Uncertainty: Risk-Aware and Actively Exploring Model-Based Reinforcement Learning.</title>
+<year>2023</year>
+<volume>abs/2309.05582</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2309.05582</ee>
+<url>db/journals/corr/corr2309.html#abs-2309-05582</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2309-12927" mdate="2023-09-27">
+<author pid="242/6913">Sina Khajehabdollahi</author>
+<author pid="357/4865">Roxana Zeraati</author>
+<author pid="277/1170">Emmanouil Giannakakis</author>
+<author pid="357/5194">Tim Jakob Sch&#228;fer</author>
+<author pid="47/2706">Georg Martius</author>
+<author pid="82/2964">Anna Levina</author>
+<title>Emergent mechanisms for long timescales depend on training curriculum and affect performance in memory tasks.</title>
+<year>2023</year>
+<volume>abs/2309.12927</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2309.12927</ee>
+<url>db/journals/corr/corr2309.html#abs-2309-12927</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2310-02440" mdate="2023-10-31">
+<author pid="230/9055-2">Jin Cheng 0002</author>
+<author pid="226/9727">Marin Vlastelica</author>
+<author pid="153/5818">Pavel Kolev</author>
+<author pid="186/9145">Chenhao Li</author>
+<author pid="47/2706">Georg Martius</author>
+<title>Learning Diverse Skills for Local Navigation under Multi-constraint Optimality.</title>
+<year>2023</year>
+<volume>abs/2310.02440</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2310.02440</ee>
+<url>db/journals/corr/corr2310.html#abs-2310-02440</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2311-04056" mdate="2023-11-14">
+<author pid="298/8057">Dingling Yao</author>
+<author pid="329/7671">Danru Xu</author>
+<author pid="224/0080">S&#233;bastien Lachapelle</author>
+<author pid="120/5256">Sara Magliacane</author>
+<author pid="52/1849">Perouz Taslakian</author>
+<author pid="47/2706">Georg Martius</author>
+<author pid="223/5666">Julius von K&#252;gelgen</author>
+<author pid="195/6074">Francesco Locatello</author>
+<title>Multi-View Causal Representation Learning with Partial Observability.</title>
+<year>2023</year>
+<volume>abs/2311.04056</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2311.04056</ee>
+<url>db/journals/corr/corr2311.html#abs-2311-04056</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2311-16996" mdate="2023-12-04">
+<author pid="304/3195">Marco Bagatella</author>
+<author pid="47/2706">Georg Martius</author>
+<title>Goal-conditioned Offline Planning from Curious Exploration.</title>
+<year>2023</year>
+<volume>abs/2311.16996</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2311.16996</ee>
+<url>db/journals/corr/corr2311.html#abs-2311-16996</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2312-01473" mdate="2023-12-08">
+<author pid="256/5345">Cansu Sancaktar</author>
+<author pid="p/JustusHPiater">Justus H. Piater</author>
+<author pid="47/2706">Georg Martius</author>
+<title>Regularity as Intrinsic Reward for Free Play.</title>
+<year>2023</year>
+<volume>abs/2312.01473</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2312.01473</ee>
+<url>db/journals/corr/corr2312.html#abs-2312-01473</url>
+</article>
+</r>
+<r><article key="journals/alife/Khajehabdollahi22" mdate="2022-11-28">
+<author pid="242/6913">Sina Khajehabdollahi</author>
+<author pid="289/0143">Jan Prosi</author>
+<author pid="277/1170">Emmanouil Giannakakis</author>
+<author pid="47/2706">Georg Martius</author>
+<author pid="82/2964">Anna Levina</author>
+<title>When to Be Critical? Performance and Evolvability in Different Regimes of Neural Ising Agents.</title>
+<pages>458-478</pages>
+<year>2022</year>
+<volume>28</volume>
+<journal>Artif. Life</journal>
+<number>4</number>
+<ee>https://doi.org/10.1162/artl_a_00383</ee>
+<url>db/journals/alife/alife28.html#Khajehabdollahi22</url>
+</article>
+</r>
+<r><article key="journals/natmi/SunKM22" mdate="2023-01-05">
+<author orcid="0000-0002-2363-5776" pid="234/2538">Huanbo Sun</author>
+<author orcid="0000-0002-5004-0313" pid="k/KatherineJKuchenbecker">Katherine J. Kuchenbecker</author>
+<author orcid="0000-0002-8963-7627" pid="47/2706">Georg Martius</author>
+<title>A soft thumb-sized vision-based sensor with accurate all-round force perception.</title>
+<pages>135-145</pages>
+<year>2022</year>
+<volume>4</volume>
+<journal>Nat. Mach. Intell.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.1038/s42256-021-00439-3</ee>
+<url>db/journals/natmi/natmi4.html#SunKM22</url>
+</article>
+</r>
+<r><article key="journals/scirobotics/SunM22" mdate="2022-03-15">
+<author orcid="0000-0002-2363-5776" pid="234/2538">Huanbo Sun</author>
+<author orcid="0000-0002-8963-7627" pid="47/2706">Georg Martius</author>
+<title>Guiding the design of superresolution tactile skins with taxel value isolines theory.</title>
+<year>2022</year>
+<volume>7</volume>
+<journal>Sci. Robotics</journal>
+<number>63</number>
+<ee>https://doi.org/10.1126/scirobotics.abm0608</ee>
+<url>db/journals/scirobotics/scirobotics7.html#SunM22</url>
+</article>
+</r>
+<r><inproceedings key="conf/corl/LiVBFGM22" mdate="2023-03-15">
+<author pid="186/9145">Chenhao Li</author>
+<author pid="226/9727">Marin Vlastelica</author>
+<author pid="163/8117">Sebastian Blaes</author>
+<author pid="154/9370">Jonas Frey</author>
+<author pid="89/7742">Felix Grimminger</author>
+<author pid="47/2706">Georg Martius</author>
+<title>Learning Agile Skills via Adversarial Imitation of Rough Partial Demonstrations.</title>
+<pages>342-352</pages>
+<year>2022</year>
+<booktitle>CoRL</booktitle>
+<ee type="oa">https://proceedings.mlr.press/v205/li23b.html</ee>
+<crossref>conf/corl/2022</crossref>
+<url>db/conf/corl/corl2022.html#LiVBFGM22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/corl/WochnerSMBSH22" mdate="2023-03-15">
+<author pid="265/6701">Isabell Wochner</author>
+<author pid="321/9919">Pierre Schumacher</author>
+<author pid="47/2706">Georg Martius</author>
+<author pid="181/4076">Dieter B&#252;chler</author>
+<author pid="04/3129">Syn Schmitt</author>
+<author pid="50/11082">Daniel F. B. Haeufle</author>
+<title>Learning with Muscles: Benefits for Data-Efficiency and Robustness in Anthropomorphic Tasks.</title>
+<pages>1178-1188</pages>
+<year>2022</year>
+<booktitle>CoRL</booktitle>
+<ee type="oa">https://proceedings.mlr.press/v205/wochner23a.html</ee>
+<crossref>conf/corl/2022</crossref>
+<url>db/conf/corl/corl2022.html#WochnerSMBSH22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gecco/WernerJHM22" mdate="2022-07-21">
+<author pid="221/6875">Matthias Werner</author>
+<author pid="206/6810">Andrej Junginger</author>
+<author pid="08/9077">Philipp Hennig</author>
+<author pid="47/2706">Georg Martius</author>
+<title>Uncertainty in equation learning.</title>
+<pages>2298-2305</pages>
+<year>2022</year>
+<booktitle>GECCO Companion</booktitle>
+<ee>https://doi.org/10.1145/3520304.3533964</ee>
+<crossref>conf/gecco/2022c</crossref>
+<url>db/conf/gecco/gecco2022c.html#WernerJHM22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdl/GumbschAEMB22" mdate="2023-11-12">
+<author pid="212/4217">Christian Gumbsch</author>
+<author pid="286/3520">Maurits Adam</author>
+<author orcid="0000-0003-3441-2436" pid="73/2440">Birgit Elsner</author>
+<author pid="47/2706">Georg Martius</author>
+<author pid="b/MartinVButz">Martin V. Butz</author>
+<title>Developing hierarchical anticipations via neural network-based event segmentation.</title>
+<pages>1-8</pages>
+<year>2022</year>
+<booktitle>ICDL</booktitle>
+<ee>https://doi.org/10.1109/ICDL53763.2022.9962224</ee>
+<crossref>conf/icdl/2022</crossref>
+<url>db/conf/icdl/icdl2022.html#GumbschAEMB22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclr/SeitzerTAM22" mdate="2022-08-20">
+<author pid="169/2264">Maximilian Seitzer</author>
+<author pid="177/8682">Arash Tavakoli</author>
+<author pid="316/9873">Dimitrije Antic</author>
+<author pid="47/2706">Georg Martius</author>
+<title>On the Pitfalls of Heteroscedastic Uncertainty Estimation with Probabilistic Neural Networks.</title>
+<year>2022</year>
+<booktitle>ICLR</booktitle>
+<ee type="oa">https://openreview.net/forum?id=aPOpXlnV1T</ee>
+<crossref>conf/iclr/2022</crossref>
+<url>db/conf/iclr/iclr2022.html#SeitzerTAM22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/ReizingerGBKZSM22" mdate="2023-05-11">
+<author pid="249/5412">Patrik Reizinger</author>
+<author pid="211/6114">Luigi Gresele</author>
+<author pid="322/2181">Jack Brady</author>
+<author pid="223/5666">Julius von K&#252;gelgen</author>
+<author pid="232/2075">Dominik Zietlow</author>
+<author pid="97/119">Bernhard Sch&#246;lkopf</author>
+<author pid="47/2706">Georg Martius</author>
+<author pid="37/11107">Wieland Brendel</author>
+<author pid="71/511">Michel Besserve</author>
+<title>Embrace the Gap: VAEs Perform Independent Mechanism Analysis.</title>
+<year>2022</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">http://papers.nips.cc/paper_files/paper/2022/hash/4eb91efe090f72f7cf42c69aab03fe85-Abstract-Conference.html</ee>
+<url>db/conf/nips/neurips2022.html#ReizingerGBKZSM22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/SancaktarBM22" mdate="2023-05-11">
+<author pid="256/5345">Cansu Sancaktar</author>
+<author pid="163/8117">Sebastian Blaes</author>
+<author pid="47/2706">Georg Martius</author>
+<title>Curious Exploration via Structured World Models Yields Zero-Shot Object Manipulation.</title>
+<year>2022</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">http://papers.nips.cc/paper_files/paper/2022/hash/98ecdc722006c2959babbdbdeb22eb75-Abstract-Conference.html</ee>
+<url>db/conf/nips/neurips2022.html#SancaktarBM22</url>
+</inproceedings>
+</r>
+<r><data key="data/10/ReizingerGBZKBMBS22" mdate="2023-07-13">
+<author orcid="0000-0001-9861-0293" pid="249/5412">Patrik Reizinger</author>
+<author orcid="0000-0001-8837-6720" pid="211/6114">Luigi Gresele</author>
+<author pid="322/2181">Jack Brady</author>
+<author pid="232/2075">Dominik Zietlow</author>
+<author orcid="0000-0001-6469-4118" pid="223/5666">Julius von K&#252;gelgen</author>
+<author pid="71/511">Michel Besserve</author>
+<author orcid="0000-0002-8963-7627" pid="47/2706">Georg Martius</author>
+<author orcid="0000-0003-0982-552X" pid="37/11107">Wieland Brendel</author>
+<author orcid="0000-0002-8177-0925" pid="97/119">Bernhard Sch&#246;lkopf</author>
+<title>ima-vae.</title>
+<year>2022</year>
+<month>June</month>
+<rel sort="0" label="Version 0.1.0" uri="https://doi.org/10.5281/zenodo.6606840" type="versionOf"></rel>
+<ee type="oa">https://doi.org/10.5281/zenodo.6606841</ee>
+<publisher>Zenodo</publisher>
+</data>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2203-09168" mdate="2022-03-28">
+<author pid="169/2264">Maximilian Seitzer</author>
+<author pid="177/8682">Arash Tavakoli</author>
+<author pid="316/9873">Dimitrije Antic</author>
+<author pid="47/2706">Georg Martius</author>
+<title>On the Pitfalls of Heteroscedastic Uncertainty Estimation with Probabilistic Neural Networks.</title>
+<year>2022</year>
+<volume>abs/2203.09168</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2203.09168</ee>
+<url>db/journals/corr/corr2203.html#abs-2203-09168</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2205-15213" mdate="2022-06-01">
+<author pid="268/6867">Subham Sekhar Sahoo</author>
+<author pid="226/9727">Marin Vlastelica</author>
+<author pid="255/5245">Anselm Paulus</author>
+<author pid="255/4994">V&#237;t Musil</author>
+<author pid="81/8612">Volodymyr Kuleshov</author>
+<author pid="47/2706">Georg Martius</author>
+<title>Gradient Backpropagation Through Combinatorial Algorithms: Identity with Projection Works.</title>
+<year>2022</year>
+<volume>abs/2205.15213</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2205.15213</ee>
+<url>db/journals/corr/corr2205.html#abs-2205-15213</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2206-00484" mdate="2022-06-13">
+<author pid="321/9919">Pierre Schumacher</author>
+<author pid="50/11082">Daniel F. B. H&#228;ufle</author>
+<author pid="181/4076">Dieter B&#252;chler</author>
+<author pid="04/3129">Syn Schmitt</author>
+<author pid="47/2706">Georg Martius</author>
+<title>DEP-RL: Embodied Exploration for Reinforcement Learning in Overactuated and Musculoskeletal Systems.</title>
+<year>2022</year>
+<volume>abs/2206.00484</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2206.00484</ee>
+<url>db/journals/corr/corr2206.html#abs-2206-00484</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2206-02042" mdate="2022-06-13">
+<author pid="212/4217">Christian Gumbsch</author>
+<author pid="286/3520">Maurits Adam</author>
+<author pid="73/2440">Birgit Elsner</author>
+<author pid="47/2706">Georg Martius</author>
+<author pid="b/MartinVButz">Martin V. Butz</author>
+<title>Developing hierarchical anticipations via neural network-based event segmentation.</title>
+<year>2022</year>
+<volume>abs/2206.02042</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2206.02042</ee>
+<url>db/journals/corr/corr2206.html#abs-2206-02042</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2206-02416" mdate="2022-06-15">
+<author pid="249/5412">Patrik Reizinger</author>
+<author pid="211/6114">Luigi Gresele</author>
+<author pid="322/2181">Jack Brady</author>
+<author pid="223/5666">Julius von K&#252;gelgen</author>
+<author pid="232/2075">Dominik Zietlow</author>
+<author pid="97/119">Bernhard Sch&#246;lkopf</author>
+<author pid="47/2706">Georg Martius</author>
+<author pid="37/11107">Wieland Brendel</author>
+<author pid="71/511">Michel Besserve</author>
+<title>Embrace the Gap: VAEs Perform Independent Mechanism Analysis.</title>
+<year>2022</year>
+<volume>abs/2206.02416</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2206.02416</ee>
+<url>db/journals/corr/corr2206.html#abs-2206-02416</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2206-11403" mdate="2022-06-27">
+<author pid="256/5345">Cansu Sancaktar</author>
+<author pid="163/8117">Sebastian Blaes</author>
+<author pid="47/2706">Georg Martius</author>
+<title>Curious Exploration via Structured World Models Yields Zero-Shot Object Manipulation.</title>
+<year>2022</year>
+<volume>abs/2206.11403</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2206.11403</ee>
+<url>db/journals/corr/corr2206.html#abs-2206-11403</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2206-11693" mdate="2022-06-27">
+<author pid="186/9145">Chenhao Li</author>
+<author pid="226/9727">Marin Vlastelica</author>
+<author pid="163/8117">Sebastian Blaes</author>
+<author pid="154/9370">Jonas Frey</author>
+<author pid="89/7742">Felix Grimminger</author>
+<author pid="47/2706">Georg Martius</author>
+<title>Learning Agile Skills via Adversarial Imitation of Rough Partial Demonstrations.</title>
+<year>2022</year>
+<volume>abs/2206.11693</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2206.11693</ee>
+<url>db/journals/corr/corr2206.html#abs-2206-11693</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2207-03952" mdate="2023-09-30">
+<author pid="265/6701">Isabell Wochner</author>
+<author pid="321/9919">Pierre Schumacher</author>
+<author pid="47/2706">Georg Martius</author>
+<author pid="181/4076">Dieter B&#252;chler</author>
+<author pid="04/3129">Syn Schmitt</author>
+<author orcid="0000-0002-3480-6892" pid="50/11082">Daniel F. B. Haeufle</author>
+<title>Learning with Muscles: Benefits for Data-Efficiency and Robustness in Anthropomorphic Tasks.</title>
+<year>2022</year>
+<volume>abs/2207.03952</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2207.03952</ee>
+<url>db/journals/corr/corr2207.html#abs-2207-03952</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2209-07899" mdate="2022-09-27">
+<author pid="186/9145">Chenhao Li</author>
+<author pid="163/8117">Sebastian Blaes</author>
+<author pid="153/5818">Pavel Kolev</author>
+<author pid="226/9727">Marin Vlastelica</author>
+<author pid="154/9370">Jonas Frey</author>
+<author pid="47/2706">Georg Martius</author>
+<title>Versatile Skill Control via Self-supervised Adversarial Imitation of Unlabeled Mixed Motions.</title>
+<year>2022</year>
+<volume>abs/2209.07899</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2209.07899</ee>
+<url>db/journals/corr/corr2209.html#abs-2209-07899</url>
+</article>
+</r>
+<r><article key="journals/arobots/KlossMB21" mdate="2021-07-29">
+<author orcid="0000-0001-5793-1875" pid="139/6625">Alina Kloss</author>
+<author pid="47/2706">Georg Martius</author>
+<author orcid="0000-0002-4921-7193" pid="52/7377">Jeannette Bohg</author>
+<title>How to train your differentiable filter.</title>
+<pages>561-578</pages>
+<year>2021</year>
+<volume>45</volume>
+<journal>Auton. Robots</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.1007/s10514-021-09990-9</ee>
+<url>db/journals/arobots/arobots45.html#KlossMB21</url>
+</article>
+</r>
+<r><article key="journals/firai/GershensonPM21" mdate="2021-04-06">
+<author pid="g/CarlosGershenson">Carlos Gershenson</author>
+<author pid="76/5904">Daniel Polani</author>
+<author pid="47/2706">Georg Martius</author>
+<title>Editorial: Complexity and Self-Organization.</title>
+<pages>668305</pages>
+<year>2021</year>
+<volume>8</volume>
+<journal>Frontiers Robotics AI</journal>
+<ee type="oa">https://doi.org/10.3389/frobt.2021.668305</ee>
+<url>db/journals/firai/firai8.html#GershensonPM21</url>
+</article>
+</r>
+<r><article key="journals/sensors/LandgrafMPMH21" mdate="2021-04-29">
+<author orcid="0000-0002-9398-8788" pid="255/5599">Christian Landgraf</author>
+<author orcid="0000-0002-1413-8321" pid="289/1339">Bernd Meese</author>
+<author pid="01/826">Michael Pabst</author>
+<author orcid="0000-0002-8963-7627" pid="47/2706">Georg Martius</author>
+<author orcid="0000-0002-8250-2092" pid="76/4332">Marco F. Huber</author>
+<title>A Reinforcement Learning Approach to View Planning for Automated Inspection Tasks.</title>
+<pages>2030</pages>
+<year>2021</year>
+<volume>21</volume>
+<journal>Sensors</journal>
+<number>6</number>
+<ee type="oa">https://doi.org/10.3390/s21062030</ee>
+<url>db/journals/sensors/sensors21.html#LandgrafMPMH21</url>
+</article>
+</r>
+<r><article key="journals/tamd/GumbschBM21" mdate="2021-06-15">
+<author orcid="0000-0003-2741-6551" pid="212/4217">Christian Gumbsch</author>
+<author orcid="0000-0002-8120-8537" pid="b/MartinVButz">Martin V. Butz</author>
+<author orcid="0000-0002-8963-7627" pid="47/2706">Georg Martius</author>
+<title>Autonomous Identification and Goal-Directed Invocation of Event-Predictive Behavioral Primitives.</title>
+<pages>298-311</pages>
+<year>2021</year>
+<volume>13</volume>
+<journal>IEEE Trans. Cogn. Dev. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TCDS.2019.2925890</ee>
+<url>db/journals/tamd/tamd13.html#GumbschBM21</url>
+</article>
+</r>
+<r><inproceedings key="conf/corl/ZadaianchukMY21" mdate="2022-01-19">
+<author pid="274/9441">Andrii Zadaianchuk</author>
+<author pid="47/2706">Georg Martius</author>
+<author pid="126/4852">Fanny Yang</author>
+<title>Self-supervised Reinforcement Learning with Independently Controllable Subgoals.</title>
+<pages>384-394</pages>
+<year>2021</year>
+<booktitle>CoRL</booktitle>
+<ee type="oa">https://proceedings.mlr.press/v164/zadaianchuk22a.html</ee>
+<crossref>conf/corl/2021</crossref>
+<url>db/conf/corl/corl2021.html#ZadaianchukMY21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/corl/PBPM21" mdate="2022-01-19">
+<author pid="226/9727">Marin Vlastelica P.</author>
+<author pid="163/8117">Sebastian Blaes</author>
+<author pid="272/8724">Cristina Pinneri</author>
+<author pid="47/2706">Georg Martius</author>
+<title>Risk-Averse Zero-Order Trajectory Optimization.</title>
+<pages>444-454</pages>
+<year>2021</year>
+<booktitle>CoRL</booktitle>
+<ee type="oa">https://proceedings.mlr.press/v164/vlastelica22a.html</ee>
+<crossref>conf/corl/2021</crossref>
+<url>db/conf/corl/corl2021.html#PBPM21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclr/PinneriSBM21" mdate="2021-06-23">
+<author pid="272/8724">Cristina Pinneri</author>
+<author pid="272/8914">Shambhuraj Sawant</author>
+<author pid="163/8117">Sebastian Blaes</author>
+<author pid="47/2706">Georg Martius</author>
+<title>Extracting Strong Policies for Robotics Tasks from Zero-Order Trajectory Optimizers.</title>
+<year>2021</year>
+<booktitle>ICLR</booktitle>
+<ee type="oa">https://openreview.net/forum?id=Nc3TJqbcl3</ee>
+<crossref>conf/iclr/2021</crossref>
+<url>db/conf/iclr/iclr2021.html#PinneriSBM21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclr/ZadaianchukSM21" mdate="2021-06-23">
+<author pid="274/9441">Andrii Zadaianchuk</author>
+<author pid="169/2264">Maximilian Seitzer</author>
+<author pid="47/2706">Georg Martius</author>
+<title>Self-supervised Visual Reinforcement Learning with Object-centric Representations.</title>
+<year>2021</year>
+<booktitle>ICLR</booktitle>
+<ee type="oa">https://openreview.net/forum?id=xppLmXCbOw1</ee>
+<crossref>conf/iclr/2021</crossref>
+<url>db/conf/iclr/iclr2021.html#ZadaianchukSM21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/PaulusRMAM21" mdate="2022-04-29">
+<author pid="255/5245">Anselm Paulus</author>
+<author pid="159/1618">Michal Rol&#237;nek</author>
+<author pid="255/4994">V&#237;t Musil</author>
+<author pid="133/4801">Brandon Amos</author>
+<author pid="47/2706">Georg Martius</author>
+<title>CombOptNet: Fit the Right NP-Hard Problem by Learning Integer Programming Constraints.</title>
+<pages>8443-8453</pages>
+<year>2021</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v139/paulus21a.html</ee>
+<crossref>conf/icml/2021</crossref>
+<url>db/conf/icml/icml2021.html#PaulusRMAM21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/PRM21" mdate="2022-04-29">
+<author pid="226/9727">Marin Vlastelica P.</author>
+<author pid="159/1618">Michal Rol&#237;nek</author>
+<author pid="47/2706">Georg Martius</author>
+<title>Neuro-algorithmic Policies Enable Fast Combinatorial Generalization.</title>
+<pages>10575-10585</pages>
+<year>2021</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v139/vlastelica21a.html</ee>
+<crossref>conf/icml/2021</crossref>
+<url>db/conf/icml/icml2021.html#PRM21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/ZietlowRM21" mdate="2022-04-29">
+<author pid="232/2075">Dominik Zietlow</author>
+<author pid="159/1618">Michal Rol&#237;nek</author>
+<author pid="47/2706">Georg Martius</author>
+<title>Demystifying Inductive Biases for (Beta-)VAE Based Architectures.</title>
+<pages>12945-12954</pages>
+<year>2021</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v139/zietlow21a.html</ee>
+<crossref>conf/icml/2021</crossref>
+<url>db/conf/icml/icml2021.html#ZietlowRM21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isalalife/ProsiKGML21" mdate="2022-07-20">
+<author pid="289/0143">Jan Prosi</author>
+<author pid="242/6913">Sina Khajehabdollahi</author>
+<author pid="277/1170">Emmanouil Giannakakis</author>
+<author pid="47/2706">Georg Martius</author>
+<author pid="82/2964">Anna Levina</author>
+<title>The dynamical regime and its importance for evolvability, task performance and generalization.</title>
+<pages>79</pages>
+<year>2021</year>
+<booktitle>ALIFE</booktitle>
+<ee>https://doi.org/10.1162/isal_a_00412</ee>
+<crossref>conf/isalalife/2021</crossref>
+<url>db/conf/isalalife/isalalife2021.html#ProsiKGML21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/GurtlerWSBKBWWRAWMKBKQTMKRZCSM21" mdate="2023-12-04">
+<author pid="223/4063">Nico G&#252;rtler</author>
+<author pid="168/3133">Felix Widmaier</author>
+<author pid="256/5345">Cansu Sancaktar</author>
+<author pid="163/8117">Sebastian Blaes</author>
+<author pid="153/5818">Pavel Kolev</author>
+<author pid="45/9110">Stefan Bauer</author>
+<author pid="117/2243">Manuel W&#252;thrich</author>
+<author pid="166/1552">Markus Wulfmeier</author>
+<author pid="r/MartinARiedmiller">Martin A. Riedmiller</author>
+<author pid="289/1639">Arthur Allshire</author>
+<author pid="64/5630">Qiang Wang</author>
+<author pid="303/0250">Robert McCarthy</author>
+<author pid="124/2698">Hangyeol Kim</author>
+<author pid="202/0675">Jongchan Baek</author>
+<author pid="202/5963">Wookyong Kwon</author>
+<author pid="347/7135">Shanliang Qian</author>
+<author pid="242/0658">Yasunori Toshimitsu</author>
+<author pid="292/3712">Mike Yan Michelis</author>
+<author pid="302/3897">Amirhossein Kazemipour</author>
+<author pid="315/4023">Arman Raayatsanati</author>
+<author pid="232/3287">Hehui Zheng</author>
+<author pid="274/2250">Barnabas Gavin Cangan</author>
+<author pid="97/119">Bernhard Sch&#246;lkopf</author>
+<author pid="47/2706">Georg Martius</author>
+<title>Real Robot Challenge 2022: Learning Dexterous Manipulation from Offline Data in the Real World.</title>
+<pages>133-150</pages>
+<year>2021</year>
+<booktitle>NeurIPS (Competition and Demos)</booktitle>
+<ee type="oa">https://proceedings.mlr.press/v220/gurtler22a.html</ee>
+<crossref>conf/nips/2022demo</crossref>
+<url>db/conf/nips/demo2022.html#GurtlerWSBKBWWRAWMKBKQTMKRZCSM21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/CaggianoDWCMTPPSMHGAZJCDYSDKPHTMSSSK21" mdate="2023-12-04">
+<author pid="70/2682">Vittorio Caggiano</author>
+<author pid="145/7633">Guillaume Durandau</author>
+<author pid="45/1058-3">Huawei Wang 0003</author>
+<author pid="269/4002">Alberto Silvio Chiappa</author>
+<author pid="117/7258">Alexander Mathis</author>
+<author pid="220/3837">Pablo Tano</author>
+<author pid="280/1322">Nisheet Patel</author>
+<author pid="10/2659">Alexandre Pouget</author>
+<author pid="321/9919">Pierre Schumacher</author>
+<author pid="47/2706">Georg Martius</author>
+<author pid="50/11082">Daniel F. B. Haeufle</author>
+<author pid="315/0588">Yiran Geng</author>
+<author pid="330/2184">Boshi An</author>
+<author pid="227/0726">Yifan Zhong</author>
+<author pid="313/9356">Jiaming Ji</author>
+<author pid="173/0446">Yuanpei Chen</author>
+<author pid="14/1525">Hao Dong</author>
+<author pid="170/1496-1">Yaodong Yang 0001</author>
+<author pid="226/5934">Rahul Siripurapu</author>
+<author pid="362/1631">Luis Eduardo Ferro Diez</author>
+<author pid="150/2685-1">Michael Kopp 0001</author>
+<author pid="275/2942">Vihang Patil</author>
+<author pid="h/SeppHochreiter">Sepp Hochreiter</author>
+<author pid="20/4415">Yuval Tassa</author>
+<author pid="139/1361">Josh Merel</author>
+<author pid="362/1524">Randy Schultheis</author>
+<author pid="04/519">Seungmoon Song</author>
+<author pid="99/5524">Massimo Sartori</author>
+<author pid="82/7475">Vikash Kumar</author>
+<title>MyoChallenge 2022: Learning contact-rich manipulation using a musculoskeletal hand.</title>
+<pages>233-250</pages>
+<year>2021</year>
+<booktitle>NeurIPS (Competition and Demos)</booktitle>
+<ee type="oa">https://proceedings.mlr.press/v220/caggiano22a.html</ee>
+<crossref>conf/nips/2022demo</crossref>
+<url>db/conf/nips/demo2022.html#CaggianoDWCMTPPSMHGAZJCDYSDKPHTMSSSK21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/GumbschBM21" mdate="2022-05-03">
+<author pid="212/4217">Christian Gumbsch</author>
+<author pid="b/MartinVButz">Martin V. Butz</author>
+<author pid="47/2706">Georg Martius</author>
+<title>Sparsely Changing Latent States for Prediction and Planning in Partially Observable Domains.</title>
+<pages>17518-17531</pages>
+<year>2021</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2021/hash/927b028cfa24b23a09ff20c1a7f9b398-Abstract.html</ee>
+<crossref>conf/nips/2021</crossref>
+<url>db/conf/nips/neurips2021.html#GumbschBM21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/GurtlerBM21" mdate="2022-05-03">
+<author pid="223/4063">Nico G&#252;rtler</author>
+<author pid="181/4076">Dieter B&#252;chler</author>
+<author pid="47/2706">Georg Martius</author>
+<title>Hierarchical Reinforcement Learning with Timed Subgoals.</title>
+<pages>21732-21743</pages>
+<year>2021</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2021/hash/b59c21a078fde074a6750e91ed19fb21-Abstract.html</ee>
+<crossref>conf/nips/2021</crossref>
+<url>db/conf/nips/neurips2021.html#GurtlerBM21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/SeitzerSM21" mdate="2022-05-03">
+<author pid="169/2264">Maximilian Seitzer</author>
+<author pid="97/119">Bernhard Sch&#246;lkopf</author>
+<author pid="47/2706">Georg Martius</author>
+<title>Causal Influence Detection for Improving Efficiency in Reinforcement Learning.</title>
+<pages>22905-22918</pages>
+<year>2021</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2021/hash/c1722a7941d61aad6e651a35b65a9c3e-Abstract.html</ee>
+<crossref>conf/nips/2021</crossref>
+<url>db/conf/nips/neurips2021.html#SeitzerSM21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/BagatellaORM21" mdate="2022-05-03">
+<author pid="304/3195">Marco Bagatella</author>
+<author pid="192/1864">Miroslav Ols&#225;k</author>
+<author pid="159/1618">Michal Rol&#237;nek</author>
+<author pid="47/2706">Georg Martius</author>
+<title>Planning from Pixels in Environments with Combinatorially Hard Search Spaces.</title>
+<pages>24707-24718</pages>
+<year>2021</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2021/hash/cf708fc1decf0337aded484f8f4519ae-Abstract.html</ee>
+<crossref>conf/nips/2021</crossref>
+<url>db/conf/nips/neurips2021.html#BagatellaORM21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2102-06822" mdate="2022-04-29">
+<author pid="232/2075">Dominik Zietlow</author>
+<author pid="159/1618">Michal Rol&#237;nek</author>
+<author pid="47/2706">Georg Martius</author>
+<title>Demystifying Inductive Biases for &#946;-VAE Based Architectures.</title>
+<year>2021</year>
+<volume>abs/2102.06822</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2102.06822</ee>
+<url>db/journals/corr/corr2102.html#abs-2102-06822</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2102-07456" mdate="2021-02-18">
+<author pid="226/9727">Marin Vlastelica Pogancic</author>
+<author pid="159/1618">Michal Rol&#237;nek</author>
+<author pid="47/2706">Georg Martius</author>
+<title>Neuro-algorithmic Policies enable Fast Combinatorial Generalization.</title>
+<year>2021</year>
+<volume>abs/2102.07456</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2102.07456</ee>
+<url>db/journals/corr/corr2102.html#abs-2102-07456</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2103-12184" mdate="2021-04-06">
+<author pid="289/0143">Jan Prosi</author>
+<author pid="242/6913">Sina Khajehabdollahi</author>
+<author pid="277/1170">Emmanouil Giannakakis</author>
+<author pid="47/2706">Georg Martius</author>
+<author pid="82/2964">Anna Levina</author>
+<title>The dynamical regime and its importance for evolvability, task performance and generalization.</title>
+<year>2021</year>
+<volume>abs/2103.12184</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.12184</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-12184</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2105-02343" mdate="2021-05-12">
+<author pid="255/5245">Anselm Paulus</author>
+<author pid="159/1618">Michal Rol&#237;nek</author>
+<author pid="255/4994">V&#237;t Musil</author>
+<author pid="133/4801">Brandon Amos</author>
+<author pid="47/2706">Georg Martius</author>
+<title>CombOptNet: Fit the Right NP-Hard Problem by Learning Integer Programming Constraints.</title>
+<year>2021</year>
+<volume>abs/2105.02343</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2105.02343</ee>
+<url>db/journals/corr/corr2105.html#abs-2105-02343</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2105-06331" mdate="2021-05-18">
+<author pid="221/6875">Matthias Werner</author>
+<author pid="206/6810">Andrej Junginger</author>
+<author pid="08/9077">Philipp Hennig</author>
+<author pid="47/2706">Georg Martius</author>
+<title>Informed Equation Learning.</title>
+<year>2021</year>
+<volume>abs/2105.06331</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2105.06331</ee>
+<url>db/journals/corr/corr2105.html#abs-2105-06331</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2105-08635" mdate="2021-05-31">
+<author pid="242/6913">Sina Khajehabdollahi</author>
+<author pid="47/2706">Georg Martius</author>
+<author pid="82/2964">Anna Levina</author>
+<title>Assessing aesthetics of generated abstract images using correlation structure.</title>
+<year>2021</year>
+<volume>abs/2105.08635</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2105.08635</ee>
+<url>db/journals/corr/corr2105.html#abs-2105-08635</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2105-11914" mdate="2021-06-01">
+<author pid="234/2538">Huanbo Sun</author>
+<author pid="47/2706">Georg Martius</author>
+<title>Theory of Geometric Super-resolution for Haptic Sensor Design.</title>
+<year>2021</year>
+<volume>abs/2105.11914</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2105.11914</ee>
+<url>db/journals/corr/corr2105.html#abs-2105-11914</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2106-03443" mdate="2021-06-10">
+<author pid="169/2264">Maximilian Seitzer</author>
+<author pid="97/119">Bernhard Sch&#246;lkopf</author>
+<author pid="47/2706">Georg Martius</author>
+<title>Causal Influence Detection for Improving Efficiency in Reinforcement Learning.</title>
+<year>2021</year>
+<volume>abs/2106.03443</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2106.03443</ee>
+<url>db/journals/corr/corr2106.html#abs-2106-03443</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2109-04150" mdate="2021-09-21">
+<author pid="274/9441">Andrii Zadaianchuk</author>
+<author pid="47/2706">Georg Martius</author>
+<author pid="126/4852">Fanny Yang</author>
+<title>Self-supervised Reinforcement Learning with Independently Controllable Subgoals.</title>
+<year>2021</year>
+<volume>abs/2109.04150</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2109.04150</ee>
+<url>db/journals/corr/corr2109.html#abs-2109-04150</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2110-06149" mdate="2021-10-22">
+<author pid="304/3195">Marco Bagatella</author>
+<author pid="192/1864">Mirek Ols&#225;k</author>
+<author pid="159/1618">Michal Rol&#237;nek</author>
+<author pid="47/2706">Georg Martius</author>
+<title>Planning from Pixels in Environments with Combinatorially Hard Search Spaces.</title>
+<year>2021</year>
+<volume>abs/2110.06149</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2110.06149</ee>
+<url>db/journals/corr/corr2110.html#abs-2110-06149</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2110-15949" mdate="2021-11-02">
+<author pid="212/4217">Christian Gumbsch</author>
+<author pid="b/MartinVButz">Martin V. Butz</author>
+<author pid="47/2706">Georg Martius</author>
+<title>Sparsely Changing Latent States for Prediction and Planning in Partially Observable Domains.</title>
+<year>2021</year>
+<volume>abs/2110.15949</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2110.15949</ee>
+<url>db/journals/corr/corr2110.html#abs-2110-15949</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2111-05934" mdate="2021-11-16">
+<author pid="234/2538">Huanbo Sun</author>
+<author pid="k/KatherineJKuchenbecker">Katherine J. Kuchenbecker</author>
+<author pid="47/2706">Georg Martius</author>
+<title>A soft thumb-sized vision-based sensor with accurate all-round force perception.</title>
+<year>2021</year>
+<volume>abs/2111.05934</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2111.05934</ee>
+<url>db/journals/corr/corr2111.html#abs-2111-05934</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2112-03100" mdate="2021-12-08">
+<author pid="223/4063">Nico G&#252;rtler</author>
+<author pid="181/4076">Dieter B&#252;chler</author>
+<author pid="47/2706">Georg Martius</author>
+<title>Hierarchical Reinforcement Learning with Timed Subgoals.</title>
+<year>2021</year>
+<volume>abs/2112.03100</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2112.03100</ee>
+<url>db/journals/corr/corr2112.html#abs-2112-03100</url>
+</article>
+</r>
+<r><inproceedings key="conf/corl/PinneriSBASRM20" mdate="2022-04-29">
+<author pid="272/8724">Cristina Pinneri</author>
+<author pid="272/8914">Shambhuraj Sawant</author>
+<author pid="163/8117">Sebastian Blaes</author>
+<author pid="238/2740">Jan Achterhold</author>
+<author pid="99/3327">Joerg Stueckler</author>
+<author pid="159/1618">Michal Rol&#237;nek</author>
+<author pid="47/2706">Georg Martius</author>
+<title>Sample-efficient Cross-Entropy Method for Real-time Planning.</title>
+<pages>1049-1065</pages>
+<year>2020</year>
+<booktitle>CoRL</booktitle>
+<ee type="oa">https://proceedings.mlr.press/v155/pinneri21a.html</ee>
+<crossref>conf/corl/2020</crossref>
+<url>db/conf/corl/corl2020.html#PinneriSBASRM20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/RolinekMPPMM20" mdate="2021-08-30">
+<author pid="159/1618">Michal Rol&#237;nek</author>
+<author pid="255/4994">V&#237;t Musil</author>
+<author pid="255/5245">Anselm Paulus</author>
+<author pid="226/9727">Marin Vlastelica P.</author>
+<author pid="217/2962">Claudio Michaelis</author>
+<author pid="47/2706">Georg Martius</author>
+<title>Optimizing Rank-Based Metrics With Blackbox Differentiation.</title>
+<pages>7617-7627</pages>
+<year>2020</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">https://openaccess.thecvf.com/content_CVPR_2020/html/Rolinek_Optimizing_Rank-Based_Metrics_With_Blackbox_Differentiation_CVPR_2020_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR42600.2020.00764</ee>
+<crossref>conf/cvpr/2020</crossref>
+<url>db/conf/cvpr/cvpr2020.html#RolinekMPPMM20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/RolinekSZPMM20" mdate="2020-11-03">
+<author pid="159/1618">Michal Rol&#237;nek</author>
+<author pid="17/3730">Paul Swoboda</author>
+<author pid="232/2075">Dominik Zietlow</author>
+<author pid="255/5245">Anselm Paulus</author>
+<author pid="255/4994">V&#237;t Musil</author>
+<author pid="47/2706">Georg Martius</author>
+<title>Deep Graph Matching via Blackbox Differentiation of Combinatorial Solvers.</title>
+<pages>407-424</pages>
+<year>2020</year>
+<booktitle>ECCV (28)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58604-1_25</ee>
+<crossref>conf/eccv/2020-28</crossref>
+<url>db/conf/eccv/eccv2020-28.html#RolinekSZPMM20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclr/PogancicPMMR20" mdate="2022-04-29">
+<author pid="226/9727">Marin Vlastelica Pogancic</author>
+<author pid="255/5245">Anselm Paulus</author>
+<author pid="255/4994">V&#237;t Musil</author>
+<author orcid="0000-0002-8963-7627" pid="47/2706">Georg Martius</author>
+<author pid="159/1618">Michal Rol&#237;nek</author>
+<title>Differentiation of Blackbox Combinatorial Solvers.</title>
+<year>2020</year>
+<booktitle>ICLR</booktitle>
+<ee type="oa">https://openreview.net/forum?id=BkevoJSYPB</ee>
+<crossref>conf/iclr/2020</crossref>
+<url>db/conf/iclr/iclr2020.html#PogancicPMMR20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icra/Agudelo-EspanaZ20" mdate="2020-12-29">
+<author pid="195/0888">Diego Agudelo-Espa&#241;a</author>
+<author pid="274/9441">Andrii Zadaianchuk</author>
+<author pid="218/6763">Philippe Wenk</author>
+<author pid="82/6786">Aditya Garg</author>
+<author pid="242/9245">Joel Akpo</author>
+<author pid="89/7742">Felix Grimminger</author>
+<author pid="207/7825">Julian Viereck</author>
+<author pid="181/4093">Maximilien Naveau</author>
+<author orcid="0000-0002-6458-9112" pid="79/579">Ludovic Righetti</author>
+<author pid="47/2706">Georg Martius</author>
+<author pid="87/1831-1">Andreas Krause 0001</author>
+<author pid="97/119">Bernhard Sch&#246;lkopf</author>
+<author pid="45/9110">Stefan Bauer</author>
+<author pid="117/2243">Manuel W&#252;thrich</author>
+<title>A Real-Robot Dataset for Assessing Transferability of Learned Dynamics Models.</title>
+<pages>8151-8157</pages>
+<year>2020</year>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ICRA40945.2020.9197392</ee>
+<crossref>conf/icra/2020</crossref>
+<url>db/conf/icra/icra2020.html#Agudelo-EspanaZ20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2003-11657" mdate="2020-04-01">
+<author pid="159/1618">Michal Rol&#237;nek</author>
+<author pid="17/3730">Paul Swoboda</author>
+<author pid="232/2075">Dominik Zietlow</author>
+<author pid="255/5245">Anselm Paulus</author>
+<author pid="255/4994">V&#237;t Musil</author>
+<author pid="47/2706">Georg Martius</author>
+<title>Deep Graph Matching via Blackbox Differentiation of Combinatorial Solvers.</title>
+<year>2020</year>
+<volume>abs/2003.11657</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2003.11657</ee>
+<url>db/journals/corr/corr2003.html#abs-2003-11657</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2008-06389" mdate="2022-04-29">
+<author pid="272/8724">Cristina Pinneri</author>
+<author pid="272/8914">Shambhuraj Sawant</author>
+<author pid="163/8117">Sebastian Blaes</author>
+<author pid="238/2740">Jan Achterhold</author>
+<author pid="99/3327">J&#246;rg St&#252;ckler</author>
+<author pid="159/1618">Michal Rol&#237;nek</author>
+<author pid="47/2706">Georg Martius</author>
+<title>Sample-efficient Cross-Entropy Method for Real-time Planning.</title>
+<year>2020</year>
+<volume>abs/2008.06389</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2008.06389</ee>
+<url>db/journals/corr/corr2008.html#abs-2008-06389</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2011-14381" mdate="2020-12-01">
+<author pid="274/9441">Andrii Zadaianchuk</author>
+<author pid="169/2264">Maximilian Seitzer</author>
+<author pid="47/2706">Georg Martius</author>
+<title>Self-supervised Visual Reinforcement Learning with Object-centric Representations.</title>
+<year>2020</year>
+<volume>abs/2011.14381</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2011.14381</ee>
+<url>db/journals/corr/corr2011.html#abs-2011-14381</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2012-14313" mdate="2021-01-05">
+<author pid="139/6625">Alina Kloss</author>
+<author pid="47/2706">Georg Martius</author>
+<author pid="52/7377">Jeannette Bohg</author>
+<title>How to Train Your Differentiable Filter.</title>
+<year>2020</year>
+<volume>abs/2012.14313</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2012.14313</ee>
+<url>db/journals/corr/corr2012.html#abs-2012-14313</url>
+</article>
+</r>
+<r><article key="journals/finr/SunM19" mdate="2020-10-26">
+<author pid="234/2538">Huanbo Sun</author>
+<author orcid="0000-0002-8963-7627" pid="47/2706">Georg Martius</author>
+<title>Machine Learning for Haptics: Inferring Multi-Contact Stimulation From Sparse Sensor Configuration.</title>
+<year>2019</year>
+<volume>13</volume>
+<journal>Frontiers Neurorobotics</journal>
+<ee type="oa">https://doi.org/10.3389/fnbot.2019.00051</ee>
+<ee>https://www.wikidata.org/entity/Q92237856</ee>
+<url>db/journals/finr/finr13.html#SunM19</url>
+<pages>51</pages>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/RolinekZM19" mdate="2022-04-29">
+<author pid="159/1618">Michal Rol&#237;nek</author>
+<author pid="232/2075">Dominik Zietlow</author>
+<author pid="47/2706">Georg Martius</author>
+<title>Variational Autoencoders Pursue PCA Directions (by Accident).</title>
+<pages>12406-12415</pages>
+<year>2019</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_CVPR_2019/html/Rolinek_Variational_Autoencoders_Pursue_PCA_Directions_by_Accident_CVPR_2019_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR.2019.01269</ee>
+<crossref>conf/cvpr/2019</crossref>
+<url>db/conf/cvpr/cvpr2019.html#RolinekZM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hybrid/BogomolovFGLM019" mdate="2020-12-29">
+<author orcid="0000-0002-0686-0365" pid="90/8556">Sergiy Bogomolov</author>
+<author orcid="0000-0002-5441-0481" pid="95/3625">Goran Frehse</author>
+<author pid="162/5522">Amit Gurung</author>
+<author pid="15/1408">Dongxu Li</author>
+<author pid="47/2706">Georg Martius</author>
+<author pid="33/9703">Rajarshi Ray 0001</author>
+<title>Falsification of hybrid systems using symbolic reachability and trajectory splicing.</title>
+<pages>1-10</pages>
+<year>2019</year>
+<booktitle>HSCC</booktitle>
+<ee>https://doi.org/10.1145/3302504.3311813</ee>
+<crossref>conf/hybrid/2019</crossref>
+<url>db/conf/hybrid/hscc2019.html#BogomolovFGLM019</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/BlaesPZM19" mdate="2021-01-21">
+<author pid="163/8117">Sebastian Blaes</author>
+<author pid="226/9727">Marin Vlastelica Pogancic</author>
+<author pid="195/5802">Jia-Jie Zhu</author>
+<author pid="47/2706">Georg Martius</author>
+<title>Control What You Can: Intrinsically Motivated Task-Planning Agent.</title>
+<pages>12520-12531</pages>
+<year>2019</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2019/hash/b6f97e6f0fd175613910d613d574d0cb-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/9418-control-what-you-can-intrinsically-motivated-task-planning-agent</ee>
+<crossref>conf/nips/2019</crossref>
+<url>db/conf/nips/nips2019.html#BlaesPZM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssci/Khajehabdollahi19" mdate="2020-02-26">
+<author pid="242/6913">Sina Khajehabdollahi</author>
+<author pid="47/2706">Georg Martius</author>
+<author pid="82/2964">Anna Levina</author>
+<title>Assessing Aesthetics of Generated Abstract Images Using Correlation Structure.</title>
+<pages>306-313</pages>
+<year>2019</year>
+<booktitle>SSCI</booktitle>
+<ee>https://doi.org/10.1109/SSCI44817.2019.9002779</ee>
+<crossref>conf/ssci/2019</crossref>
+<url>db/conf/ssci/ssci2019.html#Khajehabdollahi19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1902-09241" mdate="2019-09-18">
+<author pid="234/2538">Huanbo Sun</author>
+<author pid="47/2706">Georg Martius</author>
+<title>Robust Affordable 3D Haptic Sensation via Learning Deformation Patterns.</title>
+<year>2019</year>
+<volume>abs/1902.09241</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1902.09241</ee>
+<url>db/journals/corr/corr1902.html#abs-1902-09241</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1902-09948" mdate="2019-05-21">
+<author pid="212/4217">Christian Gumbsch</author>
+<author pid="b/MartinVButz">Martin V. Butz</author>
+<author pid="47/2706">Georg Martius</author>
+<title>Autonomous Identification and Goal-Directed Invocation of Event-Predictive Behavioral Primitives.</title>
+<year>2019</year>
+<volume>abs/1902.09948</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1902.09948</ee>
+<url>db/journals/corr/corr1902.html#abs-1902-09948</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1906-08190" mdate="2019-06-24">
+<author pid="163/8117">Sebastian Blaes</author>
+<author pid="226/9727">Marin Vlastelica Pogancic</author>
+<author pid="195/5802">Jia-Jie Zhu</author>
+<author pid="47/2706">Georg Martius</author>
+<title>Control What You Can: Intrinsically Motivated Task-Planning Agent.</title>
+<year>2019</year>
+<volume>abs/1906.08190</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1906.08190</ee>
+<url>db/journals/corr/corr1906.html#abs-1906-08190</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1910-12752" mdate="2019-10-31">
+<author pid="218/9634">Shang-Chun Lin</author>
+<author pid="47/2706">Georg Martius</author>
+<author pid="251/8435">Martin Oettel</author>
+<title>Analytical classical density functionals from an equation learning network.</title>
+<year>2019</year>
+<volume>abs/1910.12752</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1910.12752</ee>
+<url>db/journals/corr/corr1910.html#abs-1910-12752</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1911-09214" mdate="2019-12-04">
+<author pid="195/5802">Jia-Jie Zhu</author>
+<author pid="47/2706">Georg Martius</author>
+<title>Fast Non-Parametric Learning to Accelerate Mixed-Integer Programming for Online Hybrid Model Predictive Control.</title>
+<year>2019</year>
+<volume>abs/1911.09214</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1911.09214</ee>
+<url>db/journals/corr/corr1911.html#abs-1911-09214</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1912-02175" mdate="2020-01-02">
+<author pid="226/9727">Marin Vlastelica P.</author>
+<author pid="255/5245">Anselm Paulus</author>
+<author pid="255/4994">V&#237;t Musil</author>
+<author pid="47/2706">Georg Martius</author>
+<author pid="159/1618">Michal Rol&#237;nek</author>
+<title>Differentiation of Blackbox Combinatorial Solvers.</title>
+<year>2019</year>
+<volume>abs/1912.02175</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1912.02175</ee>
+<url>db/journals/corr/corr1912.html#abs-1912-02175</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1912-03500" mdate="2020-01-03">
+<author pid="159/1618">Michal Rol&#237;nek</author>
+<author pid="255/4994">V&#237;t Musil</author>
+<author pid="255/5245">Anselm Paulus</author>
+<author pid="226/9727">Marin Vlastelica P.</author>
+<author pid="217/2962">Claudio Michaelis</author>
+<author pid="47/2706">Georg Martius</author>
+<title>Optimizing Rank-based Metrics with Blackbox Differentiation.</title>
+<year>2019</year>
+<volume>abs/1912.03500</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1912.03500</ee>
+<url>db/journals/corr/corr1912.html#abs-1912-03500</url>
+</article>
+</r>
+<r><article key="journals/ploscb/Botella-SolerDM18" mdate="2020-10-26">
+<author orcid="0000-0002-8790-1914" pid="166/8594">Vicente Botella-Soler</author>
+<author pid="221/2219">St&#233;phane Deny</author>
+<author orcid="0000-0002-8963-7627" pid="47/2706">Georg Martius</author>
+<author orcid="0000-0002-0090-6190" pid="61/11015">Olivier Marre</author>
+<author orcid="0000-0002-6699-1455" pid="17/3734">Gasper Tkacik</author>
+<title>Nonlinear decoding of a complex movie from the mammalian retina.</title>
+<year>2018</year>
+<volume>14</volume>
+<journal>PLoS Comput. Biol.</journal>
+<number>5</number>
+<ee type="oa">https://doi.org/10.1371/journal.pcbi.1006057</ee>
+<ee>https://www.wikidata.org/entity/Q55031911</ee>
+<url>db/journals/ploscb/ploscb14.html#Botella-SolerDM18</url>
+</article>
+</r>
+<r><inproceedings key="conf/cdc/BaumannTZM18" mdate="2020-10-25">
+<author pid="215/4492">Dominik Baumann</author>
+<author pid="15/8135">Sebastian Trimpe</author>
+<author pid="195/5802">Jia-Jie Zhu</author>
+<author orcid="0000-0002-8963-7627" pid="47/2706">Georg Martius</author>
+<title>Deep Reinforcement Learning for Event-Triggered Control.</title>
+<pages>943-950</pages>
+<year>2018</year>
+<booktitle>CDC</booktitle>
+<ee>https://doi.org/10.1109/CDC.2018.8619335</ee>
+<crossref>conf/cdc/2018</crossref>
+<url>db/conf/cdc/cdc2018.html#BaumannTZM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/humanoids/SunM18" mdate="2019-01-25">
+<author pid="234/2538">Huanbo Sun</author>
+<author pid="47/2706">Georg Martius</author>
+<title>Robust Affordable 3D Haptic Sensation via Learning Deformation Patterns.</title>
+<pages>846-853</pages>
+<year>2018</year>
+<booktitle>Humanoids</booktitle>
+<ee>https://doi.org/10.1109/HUMANOIDS.2018.8625064</ee>
+<crossref>conf/humanoids/2018</crossref>
+<url>db/conf/humanoids/humanoids2018.html#SunM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/SahooLM18" mdate="2021-01-21">
+<author pid="268/6867">Subham S. Sahoo</author>
+<author pid="67/2136">Christoph H. Lampert</author>
+<author orcid="0000-0002-8963-7627" pid="47/2706">Georg Martius</author>
+<title>Learning Equations for Extrapolation and Control.</title>
+<pages>4439-4447</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/sahoo18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#SahooLM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isalalife/PinneriM18" mdate="2022-07-26">
+<author pid="272/8724">Cristina Pinneri</author>
+<author pid="47/2706">Georg Martius</author>
+<title>Systematic self-exploration of behaviors for robots in a dynamical systems framework.</title>
+<pages>319-326</pages>
+<year>2018</year>
+<booktitle>ALIFE</booktitle>
+<ee>https://doi.org/10.1162/isal_a_00062</ee>
+<crossref>conf/isalalife/2018</crossref>
+<url>db/conf/isalalife/isalalife2018.html#PinneriM18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/RolinekM18" mdate="2022-04-29">
+<author pid="159/1618">Michal Rol&#237;nek</author>
+<author pid="47/2706">Georg Martius</author>
+<title>L4: Practical loss-based stepsize adaptation for deep learning.</title>
+<pages>6434-6444</pages>
+<year>2018</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2018/hash/98b17f068d5d9b7668e19fb8ae470841-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/7879-l4-practical-loss-based-stepsize-adaptation-for-deep-learning</ee>
+<crossref>conf/nips/2018</crossref>
+<url>db/conf/nips/nips2018.html#RolinekM18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1802-05074" mdate="2022-04-29">
+<author pid="159/1618">Michal Rol&#237;nek</author>
+<author pid="47/2706">Georg Martius</author>
+<title>L4: Practical loss-based stepsize adaptation for deep learning.</title>
+<year>2018</year>
+<volume>abs/1802.05074</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1802.05074</ee>
+<url>db/journals/corr/corr1802.html#abs-1802-05074</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1806-07259" mdate="2018-08-13">
+<author pid="268/6867">Subham S. Sahoo</author>
+<author pid="67/2136">Christoph H. Lampert</author>
+<author pid="47/2706">Georg Martius</author>
+<title>Learning Equations for Extrapolation and Control.</title>
+<year>2018</year>
+<volume>abs/1806.07259</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1806.07259</ee>
+<url>db/journals/corr/corr1806.html#abs-1806-07259</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1809-05152" mdate="2018-10-05">
+<author pid="215/4492">Dominik Baumann</author>
+<author pid="195/5802">Jia-Jie Zhu</author>
+<author pid="47/2706">Georg Martius</author>
+<author pid="15/8135">Sebastian Trimpe</author>
+<title>Deep Reinforcement Learning for Event-Triggered Control.</title>
+<year>2018</year>
+<volume>abs/1809.05152</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1809.05152</ee>
+<url>db/journals/corr/corr1809.html#abs-1809-05152</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1812-06775" mdate="2022-04-29">
+<author pid="159/1618">Michal Rol&#237;nek</author>
+<author pid="232/2075">Dominik Zietlow</author>
+<author pid="47/2706">Georg Martius</author>
+<title>Variational Autoencoders Pursue PCA Directions (by Accident).</title>
+<year>2018</year>
+<volume>abs/1812.06775</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1812.06775</ee>
+<url>db/journals/corr/corr1812.html#abs-1812-06775</url>
+</article>
+</r>
+<r><article key="journals/finr/DerM17" mdate="2020-10-26">
+<author pid="70/5694">Ralf Der</author>
+<author orcid="0000-0002-8963-7627" pid="47/2706">Georg Martius</author>
+<title>Self-Organized Behavior Generation for Musculoskeletal Robots.</title>
+<year>2017</year>
+<volume>11</volume>
+<journal>Frontiers Neurorobotics</journal>
+<ee type="oa">https://doi.org/10.3389/fnbot.2017.00008</ee>
+<ee>https://www.wikidata.org/entity/Q30841970</ee>
+<url>db/journals/finr/finr11.html#DerM17</url>
+<pages>8</pages>
+</article>
+</r>
+<r><inproceedings key="conf/iclr/MartiusL17" mdate="2019-04-04">
+<author pid="47/2706">Georg Martius</author>
+<author pid="67/2136">Christoph H. Lampert</author>
+<title>Extrapolation and learning equations.</title>
+<year>2017</year>
+<booktitle>ICLR (Workshop)</booktitle>
+<ee type="oa">https://openreview.net/forum?id=BkgRp0FYe</ee>
+<crossref>conf/iclr/2017w</crossref>
+<url>db/conf/iclr/iclr2017w.html#MartiusL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/alife/DerKHM16" mdate="2023-12-03">
+<author pid="70/5694">Ralf Der</author>
+<author pid="k/AloisKnoll">Alois C. Knoll</author>
+<author pid="169/7629">Rafael Hostettler</author>
+<author pid="47/2706">Georg Martius</author>
+<title>Self-organized control of an tendon driven arm by differential extrinsic plasticity.</title>
+<pages>142-143</pages>
+<year>2016</year>
+<booktitle>ALIFE</booktitle>
+<ee>https://doi.org/10.7551/978-0-262-33936-0-ch029</ee>
+<ee type="archive">https://doi.org/10.1162/978-0-262-33936-0-ch029</ee>
+<crossref>conf/alife/2016</crossref>
+<url>db/conf/alife/alife2016.html#DerKHM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdl-epirob/DerM16" mdate="2020-10-25">
+<author pid="70/5694">Ralf Der</author>
+<author orcid="0000-0002-8963-7627" pid="47/2706">Georg Martius</author>
+<title>Dynamical self-consistency leads to behavioral development and emergent social interactions in robots.</title>
+<pages>49-56</pages>
+<year>2016</year>
+<booktitle>ICDL-EPIROB</booktitle>
+<ee>https://doi.org/10.1109/DEVLRN.2016.7846789</ee>
+<crossref>conf/icdl-epirob/2016</crossref>
+<url>db/conf/icdl-epirob/icdl-epirob2016.html#DerM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/MartiusHKD16" mdate="2021-05-19">
+<author orcid="0000-0002-8963-7627" pid="47/2706">Georg Martius</author>
+<author pid="169/7629">Rafael Hostettler</author>
+<author orcid="0000-0003-4840-076X" pid="k/AloisKnoll">Alois C. Knoll</author>
+<author pid="70/5694">Ralf Der</author>
+<title>Compliant control for soft robots: Emergent behavior of a tendon driven anthropomorphic arm.</title>
+<pages>767-773</pages>
+<year>2016</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.2016.7759138</ee>
+<crossref>conf/iros/2016</crossref>
+<url>db/conf/iros/iros2016.html#MartiusHKD16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/DerM16" mdate="2018-08-13">
+<author pid="70/5694">Ralf Der</author>
+<author pid="47/2706">Georg Martius</author>
+<title>The world as its own best controller: a case study with anthropomimetic robots.</title>
+<year>2016</year>
+<volume>abs/1602.02990</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1602.02990</ee>
+<url>db/journals/corr/corr1602.html#DerM16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/MartiusL16" mdate="2018-08-13">
+<author pid="47/2706">Georg Martius</author>
+<author pid="67/2136">Christoph H. Lampert</author>
+<title>Extrapolation and learning equations.</title>
+<year>2016</year>
+<volume>abs/1610.02995</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1610.02995</ee>
+<url>db/journals/corr/corr1610.html#MartiusL16</url>
+</article>
+</r>
+<r><article key="journals/entropy/MartiusO15" mdate="2023-06-26">
+<author orcid="0000-0002-8963-7627" pid="47/2706">Georg Martius</author>
+<author orcid="0000-0002-3987-1271" pid="72/8095">Eckehard Olbrich</author>
+<title>Quantifying Emergent Behavior of Autonomous Robots.</title>
+<pages>7266-7297</pages>
+<year>2015</year>
+<volume>17</volume>
+<journal>Entropy</journal>
+<number>10</number>
+<ee type="oa">https://doi.org/10.3390/e17107266</ee>
+<url>db/journals/entropy/entropy17.html#MartiusO15</url>
+</article>
+</r>
+<r><article key="journals/pnas/DerM15" mdate="2020-10-26">
+<author pid="70/5694">Ralf Der</author>
+<author orcid="0000-0002-8963-7627" pid="47/2706">Georg Martius</author>
+<title>Novel plasticity rule can explain the development of sensorimotor intelligence.</title>
+<pages>E6224-E6232</pages>
+<year>2015</year>
+<volume>112</volume>
+<journal>Proc. Natl. Acad. Sci. USA</journal>
+<number>45</number>
+<ee>https://doi.org/10.1073/pnas.1508400112</ee>
+<ee>https://www.wikidata.org/entity/Q27322028</ee>
+<url>db/journals/pnas/pnas112.html#DerM15</url>
+</article>
+</r>
+<r><inproceedings key="conf/ecal/MartiusO15" mdate="2021-02-09">
+<author pid="47/2706">Georg Martius</author>
+<author pid="72/8095">Eckehard Olbrich</author>
+<title>Quantifying Self-Organizing Behavior of Autonomous Robots.</title>
+<pages>78</pages>
+<year>2015</year>
+<booktitle>ECAL</booktitle>
+<ee type="oa">https://doi.org/10.7551/978-0-262-33027-5-ch018</ee>
+<crossref>conf/ecal/2015</crossref>
+<url>db/conf/ecal/ecal2015.html#MartiusO15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/DerM15" mdate="2018-08-13">
+<author pid="70/5694">Ralf Der</author>
+<author pid="47/2706">Georg Martius</author>
+<title>A novel plasticity rule can explain the development of sensorimotor intelligence.</title>
+<year>2015</year>
+<volume>abs/1505.00835</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1505.00835</ee>
+<url>db/journals/corr/corr1505.html#DerM15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/MartiusO15" mdate="2018-08-13">
+<author pid="47/2706">Georg Martius</author>
+<author pid="72/8095">Eckehard Olbrich</author>
+<title>Quantifying Emergent Behavior of Autonomous Robots.</title>
+<year>2015</year>
+<volume>abs/1510.01495</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1510.01495</ee>
+<url>db/journals/corr/corr1510.html#MartiusO15</url>
+</article>
+</r>
+<r><inproceedings key="conf/sab/MartiusJHH14" mdate="2019-09-25">
+<author pid="47/2706">Georg Martius</author>
+<author pid="147/9614">Luisa Jahn</author>
+<author orcid="0000-0001-5634-7298" pid="24/8028">Helmut Hauser</author>
+<author pid="33/5345">Verena V. Hafner</author>
+<title>Self-exploration of the Stumpy Robot with Predictive Information Maximization.</title>
+<pages>32-42</pages>
+<year>2014</year>
+<booktitle>SAB</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-08864-8_4</ee>
+<crossref>conf/sab/2014</crossref>
+<url>db/conf/sab/sab2014.html#MartiusJHH14</url>
+</inproceedings>
+</r>
+<r><article key="journals/advcs/Martius13" mdate="2020-10-26">
+<author orcid="0000-0002-8963-7627" pid="47/2706">Georg Martius</author>
+<title>Robustness of Guided Self-Organization against Sensorimotor disruptions.</title>
+<year>2013</year>
+<volume>16</volume>
+<journal>Adv. Complex Syst.</journal>
+<number>2-3</number>
+<ee>https://doi.org/10.1142/S021952591350001X</ee>
+<url>db/journals/advcs/advcs16.html#Martius13</url>
+</article>
+</r>
+<r><inproceedings key="conf/ecal/DerM13" mdate="2021-02-09">
+<author pid="70/5694">Ralf Der</author>
+<author pid="47/2706">Georg Martius</author>
+<title>Behavior as broken symmetry in embodied self-organizing robots.</title>
+<pages>601-608</pages>
+<year>2013</year>
+<booktitle>ECAL</booktitle>
+<ee type="oa">https://doi.org/10.7551/978-0-262-31709-2-ch086</ee>
+<crossref>conf/ecal/2013</crossref>
+<url>db/conf/ecal/ecal2013.html#DerM13</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1301-7473" mdate="2018-08-13">
+<author pid="47/2706">Georg Martius</author>
+<author pid="70/5694">Ralf Der</author>
+<author pid="77/240">Nihat Ay</author>
+<title>Information driven self-organization of complex robotic behaviors</title>
+<ee type="oa">http://arxiv.org/abs/1301.7473</ee>
+<year>2013</year>
+<journal>CoRR</journal>
+<volume>abs/1301.7473</volume>
+<url>db/journals/corr/corr1301.html#abs-1301-7473</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/ZahediMA13" mdate="2018-08-13">
+<author pid="77/6929">Keyan Zahedi</author>
+<author pid="47/2706">Georg Martius</author>
+<author pid="77/240">Nihat Ay</author>
+<title>Linear combination of one-step predictive information with an external reward in an episodic policy gradient setting: a critical analysis.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1309.6989</ee>
+<volume>abs/1309.6989</volume>
+<url>db/journals/corr/corr1309.html#ZahediMA13</url>
+</article>
+</r>
+<r><book key="series/csm/DerM12" mdate="2017-05-16">
+<author pid="70/5694">Ralf Der</author>
+<author pid="47/2706">Georg Martius</author>
+<title>The Playful Machine - Theoretical Foundation and Practical Realization of Self-Organizing Robots.</title>
+<pages>1-312</pages>
+<publisher>Springer</publisher>
+<year>2012</year>
+<series href="db/series/csm/index.html">Cognitive Systems Monographs</series>
+<volume>15</volume>
+<isbn>978-3-642-20252-0</isbn>
+<isbn>978-3-642-20253-7</isbn>
+<ee>https://doi.org/10.1007/978-3-642-20253-7</ee>
+</book>
+</r>
+<r><article key="journals/tib/MartiusH12" mdate="2020-10-26">
+<author orcid="0000-0002-8963-7627" pid="47/2706">Georg Martius</author>
+<author pid="01/7007">J. Michael Herrmann</author>
+<title>Variants of guided self-organization for robot control.</title>
+<pages>129-137</pages>
+<year>2012</year>
+<volume>131</volume>
+<journal>Theory Biosci.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s12064-011-0141-0</ee>
+<ee>https://www.wikidata.org/entity/Q51489466</ee>
+<url>db/journals/tib/tib131.html#MartiusH12</url>
+</article>
+</r>
+<r><inproceedings key="conf/ecal/MartiusH11" mdate="2022-07-07">
+<author pid="47/2706">Georg Martius</author>
+<author pid="01/7007">J. Michael Herrmann</author>
+<title>Tipping the scales: guidance and intrinsically motivated behavior.</title>
+<pages>506-513</pages>
+<year>2011</year>
+<booktitle>ECAL</booktitle>
+<ee type="archive">http://mitpress.mit.edu/sites/default/files/titles/alife/0262297140chap78.pdf</ee>
+<crossref>conf/ecal/2011</crossref>
+<url>db/conf/ecal/ecal2011.html#MartiusH11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sab/MartiusH10" mdate="2020-10-25">
+<author orcid="0000-0002-8963-7627" pid="47/2706">Georg Martius</author>
+<author pid="01/7007">J. Michael Herrmann</author>
+<title>Taming the Beast: Guided Self-organization of Behavior in Autonomous Robots.</title>
+<pages>50-61</pages>
+<year>2010</year>
+<booktitle>SAB</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15193-4_5</ee>
+<crossref>conf/sab/2010</crossref>
+<url>db/conf/sab/sab2010.html#MartiusH10</url>
+</inproceedings>
+</r>
+<r><article key="journals/algorithms/HesseMDH09" mdate="2018-08-14">
+<author pid="33/127">Frank Hesse</author>
+<author pid="47/2706">Georg Martius</author>
+<author pid="70/5694">Ralf Der</author>
+<author pid="01/7007">J. Michael Herrmann</author>
+<title>A Sensor-Based Learning Algorithm for the Self-Organization of Robot Behavior.</title>
+<pages>398-409</pages>
+<year>2009</year>
+<volume>2</volume>
+<journal>Algorithms</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.3390/a2010398</ee>
+<url>db/journals/algorithms/algorithms2.html#HesseMDH09</url>
+</article>
+</r>
+<r><inproceedings key="conf/gcb/IngallsMMPH09" mdate="2023-07-04">
+<author pid="99/1465">Todd Ingalls</author>
+<author pid="47/2706">Georg Martius</author>
+<author pid="03/1787">Manja Marz</author>
+<author pid="31/7705">Sonja J. Proshaka</author>
+<author pid="59/7705">Marc Hellmuth</author>
+<title>Converting DNA to Music: ComposAlign.</title>
+<pages>93-103</pages>
+<year>2009</year>
+<booktitle>GCB</booktitle>
+<crossref>conf/gcb/2009</crossref>
+<url>db/conf/gcb/gcb2009.html#IngallsMMPH09</url>
+<ee type="oa">https://dl.gi.de/handle/20.500.12116/20313</ee>
+<ee>http://subs.emis.de/LNI/Proceedings/Proceedings157/article5374.html</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/MartiusFH08" mdate="2020-10-25">
+<author orcid="0000-0002-8963-7627" pid="47/2706">Georg Martius</author>
+<author pid="32/822">Katja Fiedler</author>
+<author pid="01/7007">J. Michael Herrmann</author>
+<title>Structure from behavior in autonomous agents.</title>
+<pages>858-862</pages>
+<year>2008</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.2008.4651231</ee>
+<crossref>conf/iros/2008</crossref>
+<url>db/conf/iros/iros2008.html#MartiusFH08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sab/MartiusNH08" mdate="2017-05-25">
+<author pid="47/2706">Georg Martius</author>
+<author pid="33/3695">Stefano Nolfi</author>
+<author pid="01/7007">J. Michael Herrmann</author>
+<title>Emergence of Interaction among Adaptive Agents.</title>
+<pages>457-466</pages>
+<year>2008</year>
+<booktitle>SAB</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-69134-1_45</ee>
+<crossref>conf/sab/2008</crossref>
+<url>db/conf/sab/sab2008.html#MartiusNH08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecal/MartiusHD07" mdate="2017-05-21">
+<author pid="47/2706">Georg Martius</author>
+<author pid="01/7007">J. Michael Herrmann</author>
+<author pid="70/5694">Ralf Der</author>
+<title>Guided Self-organisation for Autonomous Robot Development.</title>
+<pages>766-775</pages>
+<year>2007</year>
+<crossref>conf/ecal/2007</crossref>
+<booktitle>ECAL</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74913-4_77</ee>
+<url>db/conf/ecal/ecal2007.html#MartiusHD07</url>
+</inproceedings>
+</r>
+<r><article key="journals/adb/DerHM06" mdate="2020-10-26">
+<author pid="70/5694">Ralf Der</author>
+<author pid="33/127">Frank Hesse</author>
+<author orcid="0000-0002-8963-7627" pid="47/2706">Georg Martius</author>
+<title>Rocking Stamper and Jumping Snakes from a Dynamical Systems Approach to Artificial Life.</title>
+<pages>105-115</pages>
+<year>2006</year>
+<volume>14</volume>
+<journal>Adapt. Behav.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1177/105971230601400202</ee>
+<url>db/journals/adb/adb14.html#DerHM06</url>
+</article>
+</r>
+<r><inproceedings key="conf/sab/DerM06" mdate="2017-05-25">
+<author pid="70/5694">Ralf Der</author>
+<author pid="47/2706">Georg Martius</author>
+<title>From Motor Babbling to Purposive Actions: Emerging Self-exploration in a Dynamical Systems Approach to Early Robot Development.</title>
+<pages>406-421</pages>
+<year>2006</year>
+<crossref>conf/sab/2006</crossref>
+<booktitle>SAB</booktitle>
+<ee>https://doi.org/10.1007/11840541_34</ee>
+<url>db/conf/sab/sab2006.html#DerM06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cimca/DerHM05" mdate="2023-03-23">
+<author pid="70/5694">Ralf Der</author>
+<author pid="33/127">Frank Hesse</author>
+<author pid="47/2706">Georg Martius</author>
+<title>Learning to feel the physics of a body.</title>
+<pages>252-257</pages>
+<year>2005</year>
+<crossref>conf/cimca/2005</crossref>
+<booktitle>CIMCA/IAWTIC</booktitle>
+<url>db/conf/cimca/cimca2005-2.html#DerHM05</url>
+<ee>https://doi.org/10.1109/CIMCA.2005.1631477</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CIMCA.2005.1631477</ee>
+</inproceedings>
+</r>
+<coauthors n="188" nc="6">
+<co c="0"><na f="a/Achterhold:Jan" pid="238/2740">Jan Achterhold</na></co>
+<co c="0"><na f="a/Adam:Maurits" pid="286/3520">Maurits Adam</na></co>
+<co c="0"><na f="a/Agudelo=Espa=ntilde=a:Diego" pid="195/0888">Diego Agudelo-Espa&#241;a</na></co>
+<co c="0"><na f="a/Akpo:Joel" pid="242/9245">Joel Akpo</na></co>
+<co c="0"><na f="a/Allshire:Arthur" pid="289/1639">Arthur Allshire</na></co>
+<co c="0"><na f="a/Amos:Brandon" pid="133/4801">Brandon Amos</na></co>
+<co c="0"><na f="a/An:Boshi" pid="330/2184">Boshi An</na></co>
+<co c="0"><na f="a/Andrussow:Iris" pid="345/7712">Iris Andrussow</na></co>
+<co c="0"><na f="a/Antic:Dimitrije" pid="316/9873">Dimitrije Antic</na></co>
+<co c="0"><na f="a/Ay:Nihat" pid="77/240">Nihat Ay</na></co>
+<co c="0"><na f="b/Baek:Jongchan" pid="202/0675">Jongchan Baek</na></co>
+<co c="0"><na f="b/Bagatella:Marco" pid="304/3195">Marco Bagatella</na></co>
+<co c="0"><na f="b/Balaguer=Ballester:Emili" pid="65/6136">Emili Balaguer-Ballester</na></co>
+<co c="0"><na f="b/Bauer:Stefan" pid="45/9110">Stefan Bauer</na></co>
+<co c="0"><na f="b/Baumann:Dominik" pid="215/4492">Dominik Baumann</na></co>
+<co c="0"><na f="b/Besserve:Michel" pid="71/511">Michel Besserve</na></co>
+<co c="0"><na f="b/Blaes:Sebastian" pid="163/8117">Sebastian Blaes</na></co>
+<co c="1"><na f="b/Bogomolov:Sergiy" pid="90/8556">Sergiy Bogomolov</na></co>
+<co c="0"><na f="b/Bohg:Jeannette" pid="52/7377">Jeannette Bohg</na></co>
+<co c="2"><na f="b/Botella=Soler:Vicente" pid="166/8594">Vicente Botella-Soler</na></co>
+<co c="0"><na f="b/Brady:Jack" pid="322/2181">Jack Brady</na></co>
+<co c="0"><na f="b/Brendel:Wieland" pid="37/11107">Wieland Brendel</na></co>
+<co c="0"><na f="b/B=uuml=chler:Dieter" pid="181/4076">Dieter B&#252;chler</na></co>
+<co c="0"><na f="b/Buendia:Victor" pid="349/3468">Victor Buendia</na></co>
+<co c="0"><na f="b/Butz:Martin_V=" pid="b/MartinVButz">Martin V. Butz</na></co>
+<co c="0"><na f="c/Caggiano:Vittorio" pid="70/2682">Vittorio Caggiano</na></co>
+<co c="0"><na f="c/Camps=Valls:Gustau" pid="32/5293">Gustau Camps-Valls</na></co>
+<co c="0"><na f="c/Cangan:Barnabas_Gavin" pid="274/2250">Barnabas Gavin Cangan</na></co>
+<co c="0"><na f="c/Chen:Yuanpei" pid="173/0446">Yuanpei Chen</na></co>
+<co c="0"><na f="c/Cheng_0002:Jin" pid="230/9055-2">Jin Cheng 0002</na></co>
+<co c="0"><na f="c/Chiappa:Alberto_Silvio" pid="269/4002">Alberto Silvio Chiappa</na></co>
+<co c="0"><na f="c/Coros:Stelian" pid="49/1270">Stelian Coros</na></co>
+<co c="2"><na f="d/Deny:St=eacute=phane" pid="221/2219">St&#233;phane Deny</na></co>
+<co c="0"><na f="d/Der:Ralf" pid="70/5694">Ralf Der</na></co>
+<co c="0"><na f="d/Diaz:Emiliano" pid="199/1995">Emiliano Diaz</na></co>
+<co c="0"><na f="d/Diez:Luis_Eduardo_Ferro" pid="362/1631">Luis Eduardo Ferro Diez</na></co>
+<co c="0"><na f="d/Dong:Hao" pid="14/1525">Hao Dong</na></co>
+<co c="0"><na f="d/Durandau:Guillaume" pid="145/7633">Guillaume Durandau</na></co>
+<co c="0"><na f="e/Eberhard:Onno" pid="284/9076">Onno Eberhard</na></co>
+<co c="0"><na f="e/Elsner:Birgit" pid="73/2440">Birgit Elsner</na></co>
+<co c="0"><na f="f/Fiedler:Katja" pid="32/822">Katja Fiedler</na></co>
+<co c="1"><na f="f/Frehse:Goran" pid="95/3625">Goran Frehse</na></co>
+<co c="0"><na f="f/Frey:Jonas" pid="154/9370">Jonas Frey</na></co>
+<co c="0"><na f="f/Friedrich:Ulrich" pid="150/2076">Ulrich Friedrich</na></co>
+<co c="0"><na f="g/Garg:Aditya" pid="82/6786">Aditya Garg</na></co>
+<co c="0"><na f="g/Geijtenbeek:Thomas" pid="39/8671">Thomas Geijtenbeek</na></co>
+<co c="0"><na f="g/Geng:Yiran" pid="315/0588">Yiran Geng</na></co>
+<co c="0"><na f="g/Gerhardus:Andreas" pid="270/3028">Andreas Gerhardus</na></co>
+<co c="0"><na f="g/Gershenson:Carlos" pid="g/CarlosGershenson">Carlos Gershenson</na></co>
+<co c="0"><na f="g/Giannakakis:Emmanouil" pid="277/1170">Emmanouil Giannakakis</na></co>
+<co c="0"><na f="g/Goswami:Bedartha" pid="315/9397">Bedartha Goswami</na></co>
+<co c="0"><na f="g/Gresele:Luigi" pid="211/6114">Luigi Gresele</na></co>
+<co c="0"><na f="g/Grimminger:Felix" pid="89/7742">Felix Grimminger</na></co>
+<co c="0"><na f="g/Gumbsch:Christian" pid="212/4217">Christian Gumbsch</na></co>
+<co c="0"><na f="g/G=uuml=rtler:Nico" pid="223/4063">Nico G&#252;rtler</na></co>
+<co c="1"><na f="g/Gurung:Amit" pid="162/5522">Amit Gurung</na></co>
+<co c="0" n="2"><na f="h/Haeufle:Daniel_F=_B=" pid="50/11082">Daniel F. B. Haeufle</na><na>Daniel F. B. H&#228;ufle</na></co>
+<co c="0"><na f="h/Hafner:Verena_V=" pid="33/5345">Verena V. Hafner</na></co>
+<co c="0"><na f="h/Hauser:Helmut" pid="24/8028">Helmut Hauser</na></co>
+<co c="4"><na f="h/Hellmuth:Marc" pid="59/7705">Marc Hellmuth</na></co>
+<co c="0"><na f="h/Hennig:Philipp" pid="08/9077">Philipp Hennig</na></co>
+<co c="0"><na f="h/Herrmann:J=_Michael" pid="01/7007">J. Michael Herrmann</na></co>
+<co c="0"><na f="h/Hesse:Frank" pid="33/127">Frank Hesse</na></co>
+<co c="0"><na f="h/Hilliges:Otmar" pid="82/2289">Otmar Hilliges</na></co>
+<co c="0"><na f="h/Hochreiter:Sepp" pid="h/SeppHochreiter">Sepp Hochreiter</na></co>
+<co c="0"><na f="h/Hollenstein:Jakob" pid="350/4125">Jakob Hollenstein</na></co>
+<co c="0"><na f="h/Hostettler:Rafael" pid="169/7629">Rafael Hostettler</na></co>
+<co c="3"><na f="h/Huber:Marco_F=" pid="76/4332">Marco F. Huber</na></co>
+<co c="4"><na f="i/Ingalls:Todd" pid="99/1465">Todd Ingalls</na></co>
+<co c="0"><na f="j/Jahn:Luisa" pid="147/9614">Luisa Jahn</na></co>
+<co c="0"><na f="j/Javot:Bernard" pid="320/7431">Bernard Javot</na></co>
+<co c="0"><na f="j/Ji:Jiaming" pid="313/9356">Jiaming Ji</na></co>
+<co c="0"><na f="j/Junginger:Andrej" pid="206/6810">Andrej Junginger</na></co>
+<co c="0"><na f="k/Karlbauer:Matthias" pid="255/5840">Matthias Karlbauer</na></co>
+<co c="0"><na f="k/Kazemipour:Amirhossein" pid="302/3897">Amirhossein Kazemipour</na></co>
+<co c="0"><na f="k/Khajehabdollahi:Sina" pid="242/6913">Sina Khajehabdollahi</na></co>
+<co c="0"><na f="k/Kim:Hangyeol" pid="124/2698">Hangyeol Kim</na></co>
+<co c="0"><na f="k/Kloss:Alina" pid="139/6625">Alina Kloss</na></co>
+<co c="0"><na f="k/Knoll:Alois_C=" pid="k/AloisKnoll">Alois C. Knoll</na></co>
+<co c="0"><na f="k/Kolev:Pavel" pid="153/5818">Pavel Kolev</na></co>
+<co c="0"><na f="k/Kopp_0001:Michael" pid="150/2685-1">Michael Kopp 0001</na></co>
+<co c="0"><na f="k/Krause_0001:Andreas" pid="87/1831-1">Andreas Krause 0001</na></co>
+<co c="0"><na f="k/Kuchenbecker:Katherine_J=" pid="k/KatherineJKuchenbecker">Katherine J. Kuchenbecker</na></co>
+<co c="0"><na f="k/K=uuml=gelgen:Julius_von" pid="223/5666">Julius von K&#252;gelgen</na></co>
+<co c="0"><na f="k/Kuleshov:Volodymyr" pid="81/8612">Volodymyr Kuleshov</na></co>
+<co c="0"><na f="k/Kumar:Vikash" pid="82/7475">Vikash Kumar</na></co>
+<co c="0"><na f="k/Kwon:Wookyong" pid="202/5963">Wookyong Kwon</na></co>
+<co c="0"><na f="l/Lachapelle:S=eacute=bastien" pid="224/0080">S&#233;bastien Lachapelle</na></co>
+<co c="0"><na f="l/Lampert:Christoph_H=" pid="67/2136">Christoph H. Lampert</na></co>
+<co c="3"><na f="l/Landgraf:Christian" pid="255/5599">Christian Landgraf</na></co>
+<co c="0"><na f="l/Lee:Hyosang" pid="25/9969">Hyosang Lee</na></co>
+<co c="0"><na f="l/Levina:Anna" pid="82/2964">Anna Levina</na></co>
+<co c="0"><na f="l/Li:Chenhao" pid="186/9145">Chenhao Li</na></co>
+<co c="1"><na f="l/Li:Dongxu" pid="15/1408">Dongxu Li</na></co>
+<co c="5"><na f="l/Lin:Shang=Chun" pid="218/9634">Shang-Chun Lin</na></co>
+<co c="0"><na f="l/Locatello:Francesco" pid="195/6074">Francesco Locatello</na></co>
+<co c="0"><na f="l/Ludwig_0002:Nicole" pid="43/5514-2">Nicole Ludwig 0002</na></co>
+<co c="0"><na f="m/Magliacane:Sara" pid="120/5256">Sara Magliacane</na></co>
+<co c="2"><na f="m/Marre:Olivier" pid="61/11015">Olivier Marre</na></co>
+<co c="4"><na f="m/Marz:Manja" pid="03/1787">Manja Marz</na></co>
+<co c="0"><na f="m/Mathis:Alexander" pid="117/7258">Alexander Mathis</na></co>
+<co c="0"><na f="m/McCarthy:Robert" pid="303/0250">Robert McCarthy</na></co>
+<co c="3"><na f="m/Meese:Bernd" pid="289/1339">Bernd Meese</na></co>
+<co c="0"><na f="m/Merel:Josh" pid="139/1361">Josh Merel</na></co>
+<co c="0"><na f="m/Michaelis:Claudio" pid="217/2962">Claudio Michaelis</na></co>
+<co c="0"><na f="m/Michelis:Mike_Yan" pid="292/3712">Mike Yan Michelis</na></co>
+<co c="0"><na f="m/Muehlebach:Michael" pid="142/1129">Michael Muehlebach</na></co>
+<co c="0"><na f="m/Musil:V=iacute=t" pid="255/4994">V&#237;t Musil</na></co>
+<co c="0"><na f="n/Naveau:Maximilien" pid="181/4093">Maximilien Naveau</na></co>
+<co c="0"><na f="n/Ninad:Urmi" pid="346/1025">Urmi Ninad</na></co>
+<co c="0"><na f="n/Nolfi:Stefano" pid="33/3695">Stefano Nolfi</na></co>
+<co c="5"><na f="o/Oettel:Martin" pid="251/8435">Martin Oettel</na></co>
+<co c="0"><na f="o/Olbrich:Eckehard" pid="72/8095">Eckehard Olbrich</na></co>
+<co c="0" n="2"><na f="o/Ols=aacute=k:Miroslav" pid="192/1864">Miroslav Ols&#225;k</na><na>Mirek Ols&#225;k</na></co>
+<co c="0"><na f="o/Otte:Sebastian" pid="95/10151">Sebastian Otte</na></co>
+<co c="3"><na f="p/Pabst:Michael" pid="01/826">Michael Pabst</na></co>
+<co c="0"><na f="p/Park:Hyunkyu" pid="145/0643">Hyunkyu Park</na></co>
+<co c="0"><na f="p/Patel:Nisheet" pid="280/1322">Nisheet Patel</na></co>
+<co c="0"><na f="p/Patil:Vihang" pid="275/2942">Vihang Patil</na></co>
+<co c="0"><na f="p/Paulus:Anselm" pid="255/5245">Anselm Paulus</na></co>
+<co c="0"><na f="p/Piater:Justus_H=" pid="p/JustusHPiater">Justus H. Piater</na></co>
+<co c="0"><na f="p/Pinneri:Cristina" pid="272/8724">Cristina Pinneri</na></co>
+<co c="0" n="3"><na f="p/Pogancic:Marin_Vlastelica" pid="226/9727">Marin Vlastelica Pogancic</na><na>Marin Vlastelica P.</na><na>Marin Vlastelica</na></co>
+<co c="0"><na f="p/Polani:Daniel" pid="76/5904">Daniel Polani</na></co>
+<co c="0"><na f="p/Pouget:Alexandre" pid="10/2659">Alexandre Pouget</na></co>
+<co c="4"><na f="p/Proshaka:Sonja_J=" pid="31/7705">Sonja J. Proshaka</na></co>
+<co c="0"><na f="p/Prosi:Jan" pid="289/0143">Jan Prosi</na></co>
+<co c="0"><na f="q/Qian:Shanliang" pid="347/7135">Shanliang Qian</na></co>
+<co c="0"><na f="r/Raayatsanati:Arman" pid="315/4023">Arman Raayatsanati</na></co>
+<co c="0"><na f="r/Rahaman:Nasim" pid="222/3165">Nasim Rahaman</na></co>
+<co c="1"><na f="r/Ray_0001:Rajarshi" pid="33/9703">Rajarshi Ray 0001</na></co>
+<co c="0"><na f="r/Reizinger:Patrik" pid="249/5412">Patrik Reizinger</na></co>
+<co c="0"><na f="r/Riedmiller:Martin_A=" pid="r/MartinARiedmiller">Martin A. Riedmiller</na></co>
+<co c="0"><na f="r/Righetti:Ludovic" pid="79/579">Ludovic Righetti</na></co>
+<co c="0"><na f="r/Rol=iacute=nek:Michal" pid="159/1618">Michal Rol&#237;nek</na></co>
+<co c="0"><na f="r/Runge:Jakob" pid="120/7695">Jakob Runge</na></co>
+<co c="0" n="2"><na f="s/Sahoo:Subham_Sekhar" pid="268/6867">Subham Sekhar Sahoo</na><na>Subham S. Sahoo</na></co>
+<co c="0"><na f="s/Sancaktar:Cansu" pid="256/5345">Cansu Sancaktar</na></co>
+<co c="0"><na f="s/Sartori:Massimo" pid="99/5524">Massimo Sartori</na></co>
+<co c="0"><na f="s/Sawant:Shambhuraj" pid="272/8914">Shambhuraj Sawant</na></co>
+<co c="0"><na f="s/Sch=auml=fer:Tim_Jakob" pid="357/5194">Tim Jakob Sch&#228;fer</na></co>
+<co c="0"><na f="s/Schmitt:Syn" pid="04/3129">Syn Schmitt</na></co>
+<co c="0"><na f="s/Sch=ouml=lkopf:Bernhard" pid="97/119">Bernhard Sch&#246;lkopf</na></co>
+<co c="0"><na f="s/Scholten:Thomas" pid="255/5762">Thomas Scholten</na></co>
+<co c="0"><na f="s/Schultheis:Randy" pid="362/1524">Randy Schultheis</na></co>
+<co c="0"><na f="s/Schumacher:Pierre" pid="321/9919">Pierre Schumacher</na></co>
+<co c="0"><na f="s/Seitzer:Maximilian" pid="169/2264">Maximilian Seitzer</na></co>
+<co c="0"><na f="s/Serhat:Gokhan" pid="274/9606">Gokhan Serhat</na></co>
+<co c="0"><na f="s/Siripurapu:Rahul" pid="226/5934">Rahul Siripurapu</na></co>
+<co c="0"><na f="s/Song:Seungmoon" pid="04/519">Seungmoon Song</na></co>
+<co c="0"><na f="s/Spieler:Aaron" pid="350/4663">Aaron Spieler</na></co>
+<co c="0" n="2"><na f="s/St=uuml=ckler:J=ouml=rg" pid="99/3327">J&#246;rg St&#252;ckler</na><na>Joerg Stueckler</na></co>
+<co c="0"><na f="s/Sun:Huanbo" pid="234/2538">Huanbo Sun</na></co>
+<co c="0"><na f="s/Swoboda:Paul" pid="17/3730">Paul Swoboda</na></co>
+<co c="0"><na f="t/Tano:Pablo" pid="220/3837">Pablo Tano</na></co>
+<co c="0"><na f="t/Taslakian:Perouz" pid="52/1849">Perouz Taslakian</na></co>
+<co c="0"><na f="t/Tassa:Yuval" pid="20/4415">Yuval Tassa</na></co>
+<co c="0"><na f="t/Tavakoli:Arash" pid="177/8682">Arash Tavakoli</na></co>
+<co c="0"><na f="t/Th=uuml=mmel:Jannik" pid="321/1610">Jannik Th&#252;mmel</na></co>
+<co c="2"><na f="t/Tkacik:Gasper" pid="17/3734">Gasper Tkacik</na></co>
+<co c="0"><na f="t/Toshimitsu:Yasunori" pid="242/0658">Yasunori Toshimitsu</na></co>
+<co c="0"><na f="t/Trimpe:Sebastian" pid="15/8135">Sebastian Trimpe</na></co>
+<co c="0" n="2"><na f="u/Urpi:N=uacute=ria_Armengol" pid="241/7966">N&#250;ria Armengol Urpi</na><na>N&#250;ria Armengol Urp&#237;</na></co>
+<co c="0"><na f="v/Varando:Gherardo" pid="150/6914">Gherardo Varando</na></co>
+<co c="0"><na f="v/Viereck:Julian" pid="207/7825">Julian Viereck</na></co>
+<co c="0"><na f="v/Vinuesa:Ricardo" pid="239/8261">Ricardo Vinuesa</na></co>
+<co c="0"><na f="w/Wang_0003:Huawei" pid="45/1058-3">Huawei Wang 0003</na></co>
+<co c="0"><na f="w/Wang:Qiang" pid="64/5630">Qiang Wang</na></co>
+<co c="0"><na f="w/Wenk:Philippe" pid="218/6763">Philippe Wenk</na></co>
+<co c="0"><na f="w/Werner:Matthias" pid="221/6875">Matthias Werner</na></co>
+<co c="0"><na f="w/Widmaier:Felix" pid="168/3133">Felix Widmaier</na></co>
+<co c="0"><na f="w/Wochner:Isabell" pid="265/6701">Isabell Wochner</na></co>
+<co c="0"><na f="w/Wulfmeier:Markus" pid="166/1552">Markus Wulfmeier</na></co>
+<co c="0"><na f="w/Wulfmeyer:Volker" pid="133/9685">Volker Wulfmeyer</na></co>
+<co c="0" n="2"><na f="w/W=uuml=thrich:Manuel" pid="117/2243">Manuel W&#252;thrich</na><na>Manuel Wuthrich</na></co>
+<co c="0"><na f="x/Xu:Danru" pid="329/7671">Danru Xu</na></co>
+<co c="0"><na f="y/Yang:Fanny" pid="126/4852">Fanny Yang</na></co>
+<co c="0"><na f="y/Yang_0001:Yaodong" pid="170/1496-1">Yaodong Yang 0001</na></co>
+<co c="0"><na f="y/Yao:Dingling" pid="298/8057">Dingling Yao</na></co>
+<co c="0"><na f="z/Zadaianchuk:Andrii" pid="274/9441">Andrii Zadaianchuk</na></co>
+<co c="0"><na f="z/Zahedi:Keyan" pid="77/6929">Keyan Zahedi</na></co>
+<co c="0"><na f="z/Zanna:Laure" pid="307/2910">Laure Zanna</na></co>
+<co c="0"><na f="z/Zarfl:Christiane" pid="344/7461">Christiane Zarfl</na></co>
+<co c="0"><na f="z/Zeraati:Roxana" pid="357/4865">Roxana Zeraati</na></co>
+<co c="0"><na f="z/Zheng:Hehui" pid="232/3287">Hehui Zheng</na></co>
+<co c="0"><na f="z/Zhong:Yifan" pid="227/0726">Yifan Zhong</na></co>
+<co c="0"><na f="z/Zhu:Jia=Jie" pid="195/5802">Jia-Jie Zhu</na></co>
+<co c="0"><na f="z/Zietlow:Dominik" pid="232/2075">Dominik Zietlow</na></co>
+</coauthors>
+</dblpperson>
+

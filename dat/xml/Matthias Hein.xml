@@ -1,0 +1,2804 @@
+<?xml version="1.0"?>
+<dblpperson name="Matthias Hein 0001" pid="97/1213-1" n="204">
+<person key="homepages/97/1213-1" mdate="2018-08-13">
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<url>http://www.ml.uni-saarland.de/people/hein/Hein.shtml</url>
+<note type="affiliation">Max Planck Institute for Intelligent Systems, T&#252;bingen, Germany</note>
+<note type="affiliation">Faculty of Mathematics and Computer Science, Saarland University</note>
+<note type="affiliation">Max Planck Institute for Biological Cybernetics, T&#252;bingen, Germany</note>
+</person>
+<homonyms n="3">
+<h f="h/Hein:Matthias"><name>Matthias Hein</name>
+</h>
+<h f="h/Hein_0002:Matthias"><person key="homepages/97/1213-2" mdate="2023-07-04">
+<author pid="97/1213-2">Matthias Hein 0002</author>
+<author pid="97/1213-2">Matthias A. Hein</author>
+<url>http://www.tu-ilmenau.de/gs-mobicom/members/professors/?staff_id=6</url>
+<url>https://orcid.org/0000-0002-8751-7760</url>
+<url>https://www.wikidata.org/entity/Q89422600</url>
+<url>https://ieeexplore.ieee.org/author/37301123400</url>
+<url>https://d-nb.info/gnd/121270033</url>
+<note type="affiliation">Technische Universit&#228;t Ilmenau, Faculty of Computer Science and Automation, Germany</note>
+</person>
+</h>
+<h f="h/Hein_0003:Matthias"><person key="homepages/245/2476" mdate="2019-07-24">
+<author pid="245/2476">Matthias Hein 0003</author>
+<note type="affiliation">University of Wuppertal, Department of Physics, Germany</note>
+</person>
+</h>
+</homonyms>
+<r><article key="journals/pami/StutzCHS23" mdate="2023-02-25">
+<author orcid="0000-0002-6286-1805" pid="17/9394">David Stutz</author>
+<author pid="29/11469">Nandhini Chandramoorthy</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author orcid="0000-0001-9683-5237" pid="s/BerntSchiele">Bernt Schiele</author>
+<title>Random and Adversarial Bit Error Robustness: Energy-Efficient and Secure DNN Accelerators.</title>
+<pages>3632-3647</pages>
+<year>2023</year>
+<month>March</month>
+<volume>45</volume>
+<journal>IEEE Trans. Pattern Anal. Mach. Intell.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TPAMI.2022.3181972</ee>
+<url>db/journals/pami/pami45.html#StutzCHS23</url>
+</article>
+</r>
+<r><article key="journals/siamrev/GautierTH23" mdate="2023-10-22">
+<author pid="06/5632-1">Antoine Gautier 0001</author>
+<author orcid="0000-0002-8150-4475" pid="136/5777">Francesco Tudisco</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Nonlinear Perron-Frobenius Theorems for Nonnegative Tensors.</title>
+<pages>495-536</pages>
+<year>2023</year>
+<month>May</month>
+<volume>65</volume>
+<journal>SIAM Rev.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1137/23m1557489</ee>
+<ee>https://www.wikidata.org/entity/Q122169705</ee>
+<url>db/journals/siamrev/siamrev65.html#GautierTH23</url>
+</article>
+</r>
+<r><inproceedings key="conf/iclr/Voracek023" mdate="2023-06-30">
+<author pid="292/8831">V&#225;clav Vor&#225;cek</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Sound Randomized Smoothing in Floating-Point Arithmetic.</title>
+<year>2023</year>
+<booktitle>ICLR</booktitle>
+<ee type="oa">https://openreview.net/pdf?id=HaHCoGcpV9</ee>
+<crossref>conf/iclr/2023</crossref>
+<url>db/conf/iclr/iclr2023.html#Voracek023</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclr/YatsuraSH0M23" mdate="2023-06-30">
+<author pid="284/8781">Maksym Yatsura</author>
+<author pid="177/0713">Kaspar Sakmann</author>
+<author pid="329/5797">N. Grace Hua</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="93/1712">Jan Hendrik Metzen</author>
+<title>Certified Defences Against Adversarial Patch Attacks on Semantic Segmentation.</title>
+<year>2023</year>
+<booktitle>ICLR</booktitle>
+<ee type="oa">https://openreview.net/pdf?id=b0JxQC7JLWh</ee>
+<crossref>conf/iclr/2023</crossref>
+<url>db/conf/iclr/iclr2023.html#YatsuraSH0M23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/AndriushchenkoC23" mdate="2023-08-28">
+<author pid="200/8865">Maksym Andriushchenko</author>
+<author pid="52/4288">Francesco Croce</author>
+<author pid="150/1874">Maximilian M&#252;ller</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="164/7417">Nicolas Flammarion</author>
+<title>A Modern Look at the Relationship between Sharpness and Generalization.</title>
+<pages>840-902</pages>
+<year>2023</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">https://proceedings.mlr.press/v202/andriushchenko23a.html</ee>
+<crossref>conf/icml/2023</crossref>
+<url>db/conf/icml/icml2023.html#AndriushchenkoC23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/BitterwolfM023" mdate="2023-08-28">
+<author pid="232/1887">Julian Bitterwolf</author>
+<author pid="150/1874">Maximilian M&#252;ller</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>In or Out? Fixing ImageNet Out-of-Distribution Detection Evaluation.</title>
+<pages>2471-2506</pages>
+<year>2023</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">https://proceedings.mlr.press/v202/bitterwolf23a.html</ee>
+<crossref>conf/icml/2023</crossref>
+<url>db/conf/icml/icml2023.html#BitterwolfM023</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/Voracek023" mdate="2023-08-28">
+<author pid="292/8831">V&#225;clav Vor&#225;cek</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Improving l1-Certified Robustness via Randomized Smoothing by Leveraging Box Constraints.</title>
+<pages>35198-35222</pages>
+<year>2023</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">https://proceedings.mlr.press/v202/voracek23a.html</ee>
+<crossref>conf/icml/2023</crossref>
+<url>db/conf/icml/icml2023.html#Voracek023</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2302-07011" mdate="2023-02-20">
+<author pid="200/8865">Maksym Andriushchenko</author>
+<author pid="52/4288">Francesco Croce</author>
+<author pid="150/1874">Maximilian M&#252;ller</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="164/7417">Nicolas Flammarion</author>
+<title>A modern look at the relationship between sharpness and generalization.</title>
+<year>2023</year>
+<volume>abs/2302.07011</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2302.07011</ee>
+<url>db/journals/corr/corr2302.html#abs-2302-07011</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2303-01870" mdate="2023-03-06">
+<author pid="230/3694">Naman D. Singh</author>
+<author pid="52/4288">Francesco Croce</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Revisiting Adversarial Training for ImageNet: Architectures, Training and Generalization across Threat Models.</title>
+<year>2023</year>
+<volume>abs/2303.01870</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2303.01870</ee>
+<url>db/journals/corr/corr2303.html#abs-2303-01870</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2306-00826" mdate="2023-06-12">
+<author pid="232/1887">Julian Bitterwolf</author>
+<author pid="150/1874">Maximilian M&#252;ller</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>In or Out? Fixing ImageNet Out-of-Distribution Detection Evaluation.</title>
+<year>2023</year>
+<volume>abs/2306.00826</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2306.00826</ee>
+<url>db/journals/corr/corr2306.html#abs-2306-00826</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2306-04226" mdate="2023-06-13">
+<author pid="150/1874">Maximilian M&#252;ller</author>
+<author pid="248/2062">Tiffany Vlaar</author>
+<author pid="37/10718">David Rolnick</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Normalization Layers Are All That Sharpness-Aware Minimization Needs.</title>
+<year>2023</year>
+<volume>abs/2306.04226</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2306.04226</ee>
+<url>db/journals/corr/corr2306.html#abs-2306-04226</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2306-12941" mdate="2023-06-27">
+<author pid="52/4288">Francesco Croce</author>
+<author pid="230/3694">Naman D. Singh</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Robust Semantic Segmentation: Strong Adversarial Attacks and Fast Training of Robust Models.</title>
+<year>2023</year>
+<volume>abs/2306.12941</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2306.12941</ee>
+<url>db/journals/corr/corr2306.html#abs-2306-12941</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2308-10741" mdate="2023-08-30">
+<author pid="355/2229">Christian Schlarmann</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>On the Adversarial Robustness of Multi-Modal Foundation Models.</title>
+<year>2023</year>
+<volume>abs/2308.10741</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2308.10741</ee>
+<url>db/journals/corr/corr2308.html#abs-2308-10741</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2309-13489" mdate="2023-09-27">
+<author pid="320/7840">Valentyn Boreiko</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="93/1712">Jan Hendrik Metzen</author>
+<title>Identifying Systematic Errors in Object Detectors with the SCROD Pipeline.</title>
+<year>2023</year>
+<volume>abs/2309.13489</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2309.13489</ee>
+<url>db/journals/corr/corr2309.html#abs-2309-13489</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2311-11629" mdate="2023-11-23">
+<author pid="242/0824">Indu Ilanchezian</author>
+<author pid="320/7840">Valentyn Boreiko</author>
+<author pid="271/8987">Laura K&#252;hlewein</author>
+<author pid="247/5059">Ziwei Huang</author>
+<author pid="17/9078">Murat Se&#231;kin Ayhan</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="150/7030">Lisa M. Koch</author>
+<author pid="78/3560">Philipp Berens</author>
+<title>Generating Realistic Counterfactuals for Retinal Fundus and OCT Images using Diffusion Models.</title>
+<year>2023</year>
+<volume>abs/2311.11629</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2311.11629</ee>
+<url>db/journals/corr/corr2311.html#abs-2311-11629</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2311-14450" mdate="2023-11-30">
+<author pid="52/4288">Francesco Croce</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Segment (Almost) Nothing: Prompt-Agnostic Adversarial Attacks on Segmentation Models.</title>
+<year>2023</year>
+<volume>abs/2311.14450</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2311.14450</ee>
+<url>db/journals/corr/corr2311.html#abs-2311-14450</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2311-17833" mdate="2023-12-05">
+<author pid="210/2432">Maximilian Augustin</author>
+<author pid="336/2784">Yannic Neuhaus</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Analyzing and Explaining Image Classifiers via Diffusion Guidance.</title>
+<year>2023</year>
+<volume>abs/2311.17833</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2311.17833</ee>
+<url>db/journals/corr/corr2311.html#abs-2311-17833</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/CroceASF022" mdate="2023-09-04">
+<author pid="52/4288">Francesco Croce</author>
+<author pid="200/8865">Maksym Andriushchenko</author>
+<author pid="230/3694">Naman D. Singh</author>
+<author pid="164/7417">Nicolas Flammarion</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Sparse-RS: A Versatile Framework for Query-Efficient Sparse Black-Box Adversarial Attacks.</title>
+<pages>6437-6445</pages>
+<year>2022</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v36i6.20595</ee>
+<crossref>conf/aaai/2022</crossref>
+<url>db/conf/aaai/aaai2022.html#CroceASF022</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aistats/Kristiadi0H22" mdate="2022-05-20">
+<author pid="215/3954">Agustinus Kristiadi</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="08/9077">Philipp Hennig</author>
+<title>Being a Bit Frequentist Improves Bayesian Neural Networks.</title>
+<pages>529-545</pages>
+<year>2022</year>
+<booktitle>AISTATS</booktitle>
+<ee type="oa">https://proceedings.mlr.press/v151/kristiadi22a.html</ee>
+<crossref>conf/aistats/2022</crossref>
+<url>db/conf/aistats/aistats2022.html#Kristiadi0H22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dagm/BoreikoACBH22" mdate="2022-09-27">
+<author pid="320/7840">Valentyn Boreiko</author>
+<author pid="210/2432">Maximilian Augustin</author>
+<author pid="52/4288">Francesco Croce</author>
+<author pid="78/3560">Philipp Berens</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Sparse Visual Counterfactual Explanations in Image Space.</title>
+<pages>133-148</pages>
+<year>2022</year>
+<booktitle>GCPR</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-16788-1_9</ee>
+<crossref>conf/dagm/2022</crossref>
+<url>db/conf/dagm/gcpr2022.html#BoreikoACBH22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/BitterwolfMA022" mdate="2022-07-12">
+<author pid="232/1887">Julian Bitterwolf</author>
+<author pid="249/5767">Alexander Meinke</author>
+<author pid="210/2432">Maximilian Augustin</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Breaking Down Out-of-Distribution Detection: Many Methods Based on OOD Training Data Estimate a Combination of the Same Core Quantities.</title>
+<pages>2041-2074</pages>
+<year>2022</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">https://proceedings.mlr.press/v162/bitterwolf22a.html</ee>
+<crossref>conf/icml/2022</crossref>
+<url>db/conf/icml/icml2022.html#BitterwolfMA022</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/CroceGBS0C22" mdate="2022-07-12">
+<author pid="52/4288">Francesco Croce</author>
+<author pid="75/8368">Sven Gowal</author>
+<author pid="28/1307">Thomas Brunner</author>
+<author pid="150/6541">Evan Shelhamer</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="41/6613">A. Taylan Cemgil</author>
+<title>Evaluating the Adversarial Robustness of Adaptive Test-time Defenses.</title>
+<pages>4421-4435</pages>
+<year>2022</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">https://proceedings.mlr.press/v162/croce22a.html</ee>
+<crossref>conf/icml/2022</crossref>
+<url>db/conf/icml/icml2022.html#CroceGBS0C22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/Croce022" mdate="2022-07-12">
+<author pid="52/4288">Francesco Croce</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Adversarial Robustness against Multiple and Single l<sub>p</sub>-Threat Models via Quick Fine-Tuning of Robust Classifiers.</title>
+<pages>4436-4454</pages>
+<year>2022</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">https://proceedings.mlr.press/v162/croce22b.html</ee>
+<crossref>conf/icml/2022</crossref>
+<url>db/conf/icml/icml2022.html#Croce022</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/VoracekH22" mdate="2022-07-13">
+<author pid="292/8831">V&#225;clav Vor&#225;cek</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Provably Adversarially Robust Nearest Prototype Classifiers.</title>
+<pages>22361-22383</pages>
+<year>2022</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">https://proceedings.mlr.press/v162/voracek22a.html</ee>
+<crossref>conf/icml/2022</crossref>
+<url>db/conf/icml/icml2022.html#VoracekH22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/miccai/MorshuisGHB22" mdate="2022-09-27">
+<author pid="326/2241">Jan Nikolas Morshuis</author>
+<author pid="180/2882">Sergios Gatidis</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="131/4782">Christian F. Baumgartner</author>
+<title>Adversarial Robustness of MR Image Reconstruction Under Realistic Perturbations.</title>
+<pages>24-33</pages>
+<year>2022</year>
+<booktitle>MLMIR@MICCAI</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-17247-2_3</ee>
+<crossref>conf/miccai/2022mlmir</crossref>
+<url>db/conf/miccai/mlmir2022.html#MorshuisGHB22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/miccai/BoreikoIAMKFBH22" mdate="2022-09-19">
+<author pid="320/7840">Valentyn Boreiko</author>
+<author pid="242/0824">Indu Ilanchezian</author>
+<author pid="17/9078">Murat Se&#231;kin Ayhan</author>
+<author pid="155/1280">Sarah M&#252;ller</author>
+<author pid="150/7030">Lisa M. Koch</author>
+<author pid="302/5437">Hanna Faber</author>
+<author pid="78/3560">Philipp Berens</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Visual Explanations for the Detection of Diabetic Retinopathy from Retinal Fundus Images.</title>
+<pages>539-549</pages>
+<year>2022</year>
+<booktitle>MICCAI (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-16434-7_52</ee>
+<crossref>conf/miccai/2022-2</crossref>
+<url>db/conf/miccai/miccai2022-2.html#BoreikoIAMKFBH22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/AugustinBC022" mdate="2023-05-11">
+<author pid="210/2432">Maximilian Augustin</author>
+<author pid="320/7840">Valentyn Boreiko</author>
+<author pid="52/4288">Francesco Croce</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Diffusion Visual Counterfactual Explanations.</title>
+<year>2022</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">http://papers.nips.cc/paper_files/paper/2022/hash/025f7165a452e7d0b57f1397fed3b0fd-Abstract-Conference.html</ee>
+<url>db/conf/nips/neurips2022.html#AugustinBC022</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/MeinkeB022" mdate="2023-05-11">
+<author pid="249/5767">Alexander Meinke</author>
+<author pid="232/1887">Julian Bitterwolf</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Provably Adversarially Robust Detection of Out-of-Distribution Data (Almost) for Free.</title>
+<year>2022</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">http://papers.nips.cc/paper_files/paper/2022/hash/c2c62117283dda155db754e54dbe8d71-Abstract-Conference.html</ee>
+<url>db/conf/nips/neurips2022.html#MeinkeB022</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/socs/HellerFB0022" mdate="2022-07-20">
+<author pid="138/4020">Daniel Heller</author>
+<author pid="230/3785">Patrick Ferber</author>
+<author pid="232/1887">Julian Bitterwolf</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="26/836">J&#246;rg Hoffmann 0001</author>
+<title>Neural Network Heuristic Functions: Taking Confidence into Account.</title>
+<pages>223-228</pages>
+<year>2022</year>
+<booktitle>SOCS</booktitle>
+<ee type="oa">https://ojs.aaai.org/index.php/SOCS/article/view/21771</ee>
+<crossref>conf/socs/2022</crossref>
+<url>db/conf/socs/socs2022.html#HellerFB0022</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2202-13711" mdate="2022-03-03">
+<author pid="52/4288">Francesco Croce</author>
+<author pid="75/8368">Sven Gowal</author>
+<author pid="28/1307">Thomas Brunner</author>
+<author pid="150/6541">Evan Shelhamer</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="41/6613">A. Taylan Cemgil</author>
+<title>Evaluating the Adversarial Robustness of Adaptive Test-time Defenses.</title>
+<year>2022</year>
+<volume>abs/2202.13711</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2202.13711</ee>
+<url>db/journals/corr/corr2202.html#abs-2202-13711</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2205-07972" mdate="2022-05-23">
+<author pid="320/7840">Valentyn Boreiko</author>
+<author pid="210/2432">Maximilian Augustin</author>
+<author pid="52/4288">Francesco Croce</author>
+<author pid="78/3560">Philipp Berens</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Sparse Visual Counterfactual Explanations in Image Space.</title>
+<year>2022</year>
+<volume>abs/2205.07972</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2205.07972</ee>
+<url>db/journals/corr/corr2205.html#abs-2205-07972</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2206-09880" mdate="2022-06-27">
+<author pid="232/1887">Julian Bitterwolf</author>
+<author pid="249/5767">Alexander Meinke</author>
+<author pid="210/2432">Maximilian Augustin</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Breaking Down Out-of-Distribution Detection: Many Methods Based on OOD Training Data Estimate a Combination of the Same Core Quantities.</title>
+<year>2022</year>
+<volume>abs/2206.09880</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2206.09880</ee>
+<url>db/journals/corr/corr2206.html#abs-2206-09880</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2207-07208" mdate="2022-07-19">
+<author pid="292/8831">V&#225;clav Vor&#225;cek</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Provably Adversarially Robust Nearest Prototype Classifiers.</title>
+<year>2022</year>
+<volume>abs/2207.07208</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2207.07208</ee>
+<url>db/journals/corr/corr2207.html#abs-2207-07208</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2207-07209" mdate="2022-07-20">
+<author pid="292/8831">V&#225;clav Vor&#225;cek</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Sound Randomized Smoothing in Floating-Point Arithmetics.</title>
+<year>2022</year>
+<volume>abs/2207.07209</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2207.07209</ee>
+<url>db/journals/corr/corr2207.html#abs-2207-07209</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2208-03161" mdate="2022-08-15">
+<author pid="326/2241">Jan Nikolas Morshuis</author>
+<author pid="180/2882">Sergios Gatidis</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="131/4782">Christian F. Baumgartner</author>
+<title>Adversarial Robustness of MR Image Reconstruction under Realistic Perturbations.</title>
+<year>2022</year>
+<volume>abs/2208.03161</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2208.03161</ee>
+<url>db/journals/corr/corr2208.html#abs-2208-03161</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2209-05980" mdate="2022-09-27">
+<author pid="284/8781">Maksym Yatsura</author>
+<author pid="177/0713">Kaspar Sakmann</author>
+<author pid="329/5797">N. Grace Hua</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="93/1712">Jan Hendrik Metzen</author>
+<title>Certified Defences Against Adversarial Patch Attacks on Semantic Segmentation.</title>
+<year>2022</year>
+<volume>abs/2209.05980</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2209.05980</ee>
+<url>db/journals/corr/corr2209.html#abs-2209-05980</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2209-06953" mdate="2022-09-27">
+<author pid="52/4288">Francesco Croce</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>On the interplay of adversarial robustness and architecture components: patches, convolution and attention.</title>
+<year>2022</year>
+<volume>abs/2209.06953</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2209.06953</ee>
+<url>db/journals/corr/corr2209.html#abs-2209-06953</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2210-11841" mdate="2022-10-25">
+<author pid="210/2432">Maximilian Augustin</author>
+<author pid="320/7840">Valentyn Boreiko</author>
+<author pid="52/4288">Francesco Croce</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Diffusion Visual Counterfactual Explanations.</title>
+<year>2022</year>
+<volume>abs/2210.11841</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2210.11841</ee>
+<url>db/journals/corr/corr2210.html#abs-2210-11841</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2212-04871" mdate="2023-01-02">
+<author pid="336/2784">Yannic Neuhaus</author>
+<author pid="210/2432">Maximilian Augustin</author>
+<author pid="320/7840">Valentyn Boreiko</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Spurious Features Everywhere - Large-Scale Detection of Harmful Spurious Features in ImageNet.</title>
+<year>2022</year>
+<volume>abs/2212.04871</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2212.04871</ee>
+<url>db/journals/corr/corr2212.html#abs-2212-04871</url>
+</article>
+</r>
+<r><article key="journals/jscic/GautierHT21" mdate="2021-07-23">
+<author pid="06/5632-1">Antoine Gautier 0001</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author orcid="0000-0002-8150-4475" pid="136/5777">Francesco Tudisco</author>
+<title>The Global Convergence of the Nonlinear Power Method for Mixed-Subordinate Matrix Norms.</title>
+<pages>21</pages>
+<year>2021</year>
+<volume>88</volume>
+<journal>J. Sci. Comput.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1007/s10915-021-01524-w</ee>
+<url>db/journals/jscic/jscic88.html#GautierHT21</url>
+</article>
+</r>
+<r><inproceedings key="conf/iccv/Stutz0S21" mdate="2023-09-30">
+<author pid="17/9394">David Stutz</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author orcid="0000-0001-9683-5237" pid="s/BerntSchiele">Bernt Schiele</author>
+<title>Relating Adversarially Robust Generalization to Flat Minima.</title>
+<pages>7787-7797</pages>
+<year>2021</year>
+<booktitle>ICCV</booktitle>
+<ee>https://doi.org/10.1109/ICCV48922.2021.00771</ee>
+<crossref>conf/iccv/2021</crossref>
+<url>db/conf/iccv/iccv2021.html#Stutz0S21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/Croce021" mdate="2021-08-25">
+<author pid="52/4288">Francesco Croce</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Mind the Box: l<sub>1</sub>-APGD for Sparse Adversarial Attacks on Image Classifiers.</title>
+<pages>2201-2211</pages>
+<year>2021</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v139/croce21a.html</ee>
+<crossref>conf/icml/2021</crossref>
+<url>db/conf/icml/icml2021.html#Croce021</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mlsys/StutzC0S21" mdate="2023-09-30">
+<author pid="17/9394">David Stutz</author>
+<author pid="29/11469">Nandhini Chandramoorthy</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author orcid="0000-0001-9683-5237" pid="s/BerntSchiele">Bernt Schiele</author>
+<title>Bit Error Robustness for Energy-Efficient DNN Accelerators.</title>
+<year>2021</year>
+<booktitle>MLSys</booktitle>
+<ee>https://proceedings.mlsys.org/paper/2021/hash/a684eceee76fc522773286a895bc8436-Abstract.html</ee>
+<crossref>conf/mlsys/2021</crossref>
+<url>db/conf/mlsys/mlsys2021.html#StutzC0S21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/CroceASDFCM021" mdate="2022-05-05">
+<author pid="52/4288">Francesco Croce</author>
+<author pid="200/8865">Maksym Andriushchenko</author>
+<author pid="187/5613">Vikash Sehwag</author>
+<author pid="319/7073">Edoardo Debenedetti</author>
+<author pid="164/7417">Nicolas Flammarion</author>
+<author pid="61/5309">Mung Chiang</author>
+<author pid="39/6266">Prateek Mittal</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>RobustBench: a standardized adversarial robustness benchmark.</title>
+<year>2021</year>
+<booktitle>NeurIPS Datasets and Benchmarks</booktitle>
+<ee type="oa">https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/hash/a3c65c2974270fd093ee8a9bf8ae7d0b-Abstract-round2.html</ee>
+<crossref>conf/nips/2021db</crossref>
+<url>db/conf/nips/neurips2021db.html#CroceASDFCM021</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/KristiadiHH21" mdate="2022-05-03">
+<author pid="215/3954">Agustinus Kristiadi</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="08/9077">Philipp Hennig</author>
+<title>An Infinite-Feature Extension for Bayesian ReLU Nets That Fixes Their Asymptotic Overconfidence.</title>
+<pages>18789-18800</pages>
+<year>2021</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2021/hash/9be40cee5b0eee1462c82c6964087ff9-Abstract.html</ee>
+<crossref>conf/nips/2021</crossref>
+<url>db/conf/nips/neurips2021.html#KristiadiHH21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/YatsuraMH21" mdate="2022-05-03">
+<author pid="284/8781">Maksym Yatsura</author>
+<author pid="93/1712">Jan Hendrik Metzen</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Meta-Learning the Search Distribution of Black-Box Random Search Based Adversarial Attacks.</title>
+<pages>30181-30195</pages>
+<year>2021</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2021/hash/fdb55ce855129e05da8374059cc82728-Abstract.html</ee>
+<crossref>conf/nips/2021</crossref>
+<url>db/conf/nips/neurips2021.html#YatsuraMH21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uai/Kristiadi0H21" mdate="2021-12-17">
+<author pid="215/3954">Agustinus Kristiadi</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="08/9077">Philipp Hennig</author>
+<title>Learnable uncertainty under Laplace approximations.</title>
+<pages>344-353</pages>
+<year>2021</year>
+<booktitle>UAI</booktitle>
+<ee type="oa">https://proceedings.mlr.press/v161/kristiadi21a.html</ee>
+<crossref>conf/uai/2021</crossref>
+<url>db/conf/uai/uai2021.html#Kristiadi0H21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2103-01208" mdate="2021-03-04">
+<author pid="52/4288">Francesco Croce</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Mind the box: l<sub>1</sub>-APGD for sparse adversarial attacks on image classifiers.</title>
+<year>2021</year>
+<volume>abs/2103.01208</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.01208</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-01208</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2104-04448" mdate="2022-10-02">
+<author orcid="0000-0002-6286-1805" pid="17/9394">David Stutz</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="s/BerntSchiele">Bernt Schiele</author>
+<title>Relating Adversarially Robust Generalization to Flat Minima.</title>
+<year>2021</year>
+<volume>abs/2104.04448</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2104.04448</ee>
+<url>db/journals/corr/corr2104.html#abs-2104-04448</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2104-08323" mdate="2022-10-02">
+<author orcid="0000-0002-6286-1805" pid="17/9394">David Stutz</author>
+<author pid="29/11469">Nandhini Chandramoorthy</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="s/BerntSchiele">Bernt Schiele</author>
+<title>Random and Adversarial Bit Error Robustness: Energy-Efficient and Secure DNN Accelerators.</title>
+<year>2021</year>
+<volume>abs/2104.08323</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2104.08323</ee>
+<url>db/journals/corr/corr2104.html#abs-2104-08323</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2105-12508" mdate="2021-06-01">
+<author pid="52/4288">Francesco Croce</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Adversarial robustness against multiple l<sub>p</sub>-threat models at the price of one and how to quickly fine-tune robust models to another threat model.</title>
+<year>2021</year>
+<volume>abs/2105.12508</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2105.12508</ee>
+<url>db/journals/corr/corr2105.html#abs-2105-12508</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2106-04260" mdate="2021-06-11">
+<author pid="249/5767">Alexander Meinke</author>
+<author pid="232/1887">Julian Bitterwolf</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Provably Robust Detection of Out-of-distribution Data (almost) for free.</title>
+<year>2021</year>
+<volume>abs/2106.04260</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2106.04260</ee>
+<url>db/journals/corr/corr2106.html#abs-2106-04260</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2106-10065" mdate="2021-06-29">
+<author pid="215/3954">Agustinus Kristiadi</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="08/9077">Philipp Hennig</author>
+<title>Being a Bit Frequentist Improves Bayesian Neural Networks.</title>
+<year>2021</year>
+<volume>abs/2106.10065</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2106.10065</ee>
+<url>db/journals/corr/corr2106.html#abs-2106-10065</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2111-01714" mdate="2021-11-05">
+<author pid="284/8781">Maksym Yatsura</author>
+<author pid="93/1712">Jan Hendrik Metzen</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Meta-Learning the Search Distribution of Black-Box Random Search Based Adversarial Attacks.</title>
+<year>2021</year>
+<volume>abs/2111.01714</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2111.01714</ee>
+<url>db/journals/corr/corr2111.html#abs-2111-01714</url>
+</article>
+</r>
+<r><article key="journals/focm/TrillosGHS20" mdate="2020-08-18">
+<author pid="154/6448">Nicol&#225;s Garc&#237;a Trillos</author>
+<author pid="271/9005">Moritz Gerlach</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="34/9226">Dejan Slepcev</author>
+<title>Error Estimates for Spectral Convergence of the Graph Laplacian on Random Geometric Graphs Toward the Laplace-Beltrami Operator.</title>
+<pages>827-887</pages>
+<year>2020</year>
+<volume>20</volume>
+<journal>Found. Comput. Math.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10208-019-09436-w</ee>
+<url>db/journals/focm/focm20.html#TrillosGHS20</url>
+</article>
+</r>
+<r><article key="journals/ijcv/CroceRH20" mdate="2020-04-24">
+<author pid="52/4288">Francesco Croce</author>
+<author pid="202/2268">Jonas Rauber</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Scaling up the Randomized Gradient-Free Adversarial Attack Reveals Overestimation of Robustness Using Established Attacks.</title>
+<pages>1028-1046</pages>
+<year>2020</year>
+<volume>128</volume>
+<journal>Int. J. Comput. Vis.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s11263-019-01213-0</ee>
+<url>db/journals/ijcv/ijcv128.html#CroceRH20</url>
+</article>
+</r>
+<r><inproceedings key="conf/eccv/AugustinM020" mdate="2020-11-13">
+<author pid="210/2432">Maximilian Augustin</author>
+<author pid="249/5767">Alexander Meinke</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Adversarial Robustness on In- and Out-Distribution Improves Explainability.</title>
+<pages>228-245</pages>
+<year>2020</year>
+<booktitle>ECCV (26)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58574-7_14</ee>
+<crossref>conf/eccv/2020-26</crossref>
+<url>db/conf/eccv/eccv2020-26.html#AugustinM020</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/AndriushchenkoC20" mdate="2020-11-03">
+<author pid="200/8865">Maksym Andriushchenko</author>
+<author pid="52/4288">Francesco Croce</author>
+<author pid="164/7417">Nicolas Flammarion</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Square Attack: A Query-Efficient Black-Box Adversarial Attack via Random Search.</title>
+<pages>484-501</pages>
+<year>2020</year>
+<booktitle>ECCV (23)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58592-1_29</ee>
+<crossref>conf/eccv/2020-23</crossref>
+<url>db/conf/eccv/eccv2020-23.html#AndriushchenkoC20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclr/Croce020" mdate="2020-05-07">
+<author pid="52/4288">Francesco Croce</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Provable robustness against all adversarial $l_p$-perturbations for $p\geq 1$.</title>
+<year>2020</year>
+<booktitle>ICLR</booktitle>
+<ee type="oa">https://openreview.net/forum?id=rklk_ySYPB</ee>
+<crossref>conf/iclr/2020</crossref>
+<url>db/conf/iclr/iclr2020.html#Croce020</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclr/Meinke020" mdate="2020-05-07">
+<author pid="249/5767">Alexander Meinke</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Towards neural networks that provably know when they don't know.</title>
+<year>2020</year>
+<booktitle>ICLR</booktitle>
+<ee type="oa">https://openreview.net/forum?id=ByxGkySKwH</ee>
+<crossref>conf/iclr/2020</crossref>
+<url>db/conf/iclr/iclr2020.html#Meinke020</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/Croce020" mdate="2020-12-15">
+<author pid="52/4288">Francesco Croce</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Minimally distorted Adversarial Examples with a Fast Adaptive Boundary Attack.</title>
+<pages>2196-2205</pages>
+<year>2020</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v119/croce20a.html</ee>
+<crossref>conf/icml/2020</crossref>
+<url>db/conf/icml/icml2020.html#Croce020</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/Croce020a" mdate="2020-12-15">
+<author pid="52/4288">Francesco Croce</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Reliable evaluation of adversarial robustness with an ensemble of diverse parameter-free attacks.</title>
+<pages>2206-2216</pages>
+<year>2020</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v119/croce20b.html</ee>
+<crossref>conf/icml/2020</crossref>
+<url>db/conf/icml/icml2020.html#Croce020a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/Kristiadi0H20" mdate="2020-12-15">
+<author pid="215/3954">Agustinus Kristiadi</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="08/9077">Philipp Hennig</author>
+<title>Being Bayesian, Even Just a Bit, Fixes Overconfidence in ReLU Networks.</title>
+<pages>5436-5446</pages>
+<year>2020</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v119/kristiadi20a.html</ee>
+<crossref>conf/icml/2020</crossref>
+<url>db/conf/icml/icml2020.html#Kristiadi0H20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/Stutz0S20" mdate="2023-09-30">
+<author pid="17/9394">David Stutz</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author orcid="0000-0001-9683-5237" pid="s/BerntSchiele">Bernt Schiele</author>
+<title>Confidence-Calibrated Adversarial Training: Generalizing to Unseen Attacks.</title>
+<pages>9155-9166</pages>
+<year>2020</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v119/stutz20a.html</ee>
+<crossref>conf/icml/2020</crossref>
+<url>db/conf/icml/icml2020.html#Stutz0S20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/BitterwolfM020" mdate="2021-01-19">
+<author pid="232/1887">Julian Bitterwolf</author>
+<author pid="249/5767">Alexander Meinke</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Certifiably Adversarially Robust Detection of Out-of-Distribution Data.</title>
+<year>2020</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2020/hash/b90c46963248e6d7aab1e0f429743ca0-Abstract.html</ee>
+<crossref>conf/nips/2020</crossref>
+<url>db/conf/nips/neurips2020.html#BitterwolfM020</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2002-02447" mdate="2020-02-10">
+<author pid="06/5632-1">Antoine Gautier 0001</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="136/5777">Francesco Tudisco</author>
+<title>Computing the norm of nonnegative matrices and the log-Sobolev constant of Markov chains.</title>
+<year>2020</year>
+<volume>abs/2002.02447</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2002.02447</ee>
+<url>db/journals/corr/corr2002.html#abs-2002-02447</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2002-10118" mdate="2020-03-05">
+<author pid="215/3954">Agustinus Kristiadi</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="08/9077">Philipp Hennig</author>
+<title>Being Bayesian, Even Just a Bit, Fixes Overconfidence in ReLU Networks.</title>
+<year>2020</year>
+<volume>abs/2002.10118</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2002.10118</ee>
+<url>db/journals/corr/corr2002.html#abs-2002-10118</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2003-01690" mdate="2020-03-10">
+<author pid="52/4288">Francesco Croce</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Reliable evaluation of adversarial robustness with an ensemble of diverse parameter-free attacks.</title>
+<year>2020</year>
+<volume>abs/2003.01690</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2003.01690</ee>
+<url>db/journals/corr/corr2003.html#abs-2003-01690</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2003-09461" mdate="2020-03-24">
+<author pid="210/2432">Maximilian Augustin</author>
+<author pid="249/5767">Alexander Meinke</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Adversarial Robustness on In- and Out-Distribution Improves Explainability.</title>
+<year>2020</year>
+<volume>abs/2003.09461</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2003.09461</ee>
+<url>db/journals/corr/corr2003.html#abs-2003-09461</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2006-12834" mdate="2020-07-01">
+<author pid="52/4288">Francesco Croce</author>
+<author pid="200/8865">Maksym Andriushchenko</author>
+<author pid="230/3694">Naman D. Singh</author>
+<author pid="164/7417">Nicolas Flammarion</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Sparse-RS: a versatile framework for query-efficient sparse black-box adversarial attacks.</title>
+<year>2020</year>
+<volume>abs/2006.12834</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2006.12834</ee>
+<url>db/journals/corr/corr2006.html#abs-2006-12834</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2006-13977" mdate="2022-10-02">
+<author orcid="0000-0002-6286-1805" pid="17/9394">David Stutz</author>
+<author pid="29/11469">Nandhini Chandramoorthy</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="s/BerntSchiele">Bernt Schiele</author>
+<title>On Mitigating Random and Adversarial Bit Errors.</title>
+<year>2020</year>
+<volume>abs/2006.13977</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2006.13977</ee>
+<url>db/journals/corr/corr2006.html#abs-2006-13977</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2007-08473" mdate="2020-07-22">
+<author pid="232/1887">Julian Bitterwolf</author>
+<author pid="249/5767">Alexander Meinke</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Provable Worst Case Guarantees for the Detection of Out-of-Distribution Data.</title>
+<year>2020</year>
+<volume>abs/2007.08473</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2007.08473</ee>
+<url>db/journals/corr/corr2007.html#abs-2007-08473</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2010-02709" mdate="2020-10-12">
+<author pid="215/3954">Agustinus Kristiadi</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="08/9077">Philipp Hennig</author>
+<title>Fixing Asymptotic Uncertainty of Bayesian Neural Networks with Infinite ReLU Features.</title>
+<year>2020</year>
+<volume>abs/2010.02709</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2010.02709</ee>
+<url>db/journals/corr/corr2010.html#abs-2010-02709</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2010-02720" mdate="2020-10-12">
+<author pid="215/3954">Agustinus Kristiadi</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="08/9077">Philipp Hennig</author>
+<title>Learnable Uncertainty under Laplace Approximations.</title>
+<year>2020</year>
+<volume>abs/2010.02720</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2010.02720</ee>
+<url>db/journals/corr/corr2010.html#abs-2010-02720</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2010-09670" mdate="2020-10-21">
+<author pid="52/4288">Francesco Croce</author>
+<author pid="200/8865">Maksym Andriushchenko</author>
+<author pid="187/5613">Vikash Sehwag</author>
+<author pid="164/7417">Nicolas Flammarion</author>
+<author pid="61/5309">Mung Chiang</author>
+<author pid="39/6266">Prateek Mittal</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>RobustBench: a standardized adversarial robustness benchmark.</title>
+<year>2020</year>
+<volume>abs/2010.09670</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2010.09670</ee>
+<url>db/journals/corr/corr2010.html#abs-2010-09670</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2012-12372" mdate="2021-01-05">
+<author pid="210/2432">Maximilian Augustin</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Out-distribution aware Self-training in an Open World Setting.</title>
+<year>2020</year>
+<volume>abs/2012.12372</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2012.12372</ee>
+<url>db/journals/corr/corr2012.html#abs-2012-12372</url>
+</article>
+</r>
+<r><article key="journals/siammax/GautierTH19" mdate="2020-05-26">
+<author pid="06/5632-1">Antoine Gautier 0001</author>
+<author orcid="0000-0002-8150-4475" pid="136/5777">Francesco Tudisco</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>The Perron-Frobenius Theorem for Multihomogeneous Mappings.</title>
+<pages>1179-1205</pages>
+<year>2019</year>
+<volume>40</volume>
+<journal>SIAM J. Matrix Anal. Appl.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1137/18M1165037</ee>
+<url>db/journals/siammax/siammax40.html#GautierTH19</url>
+</article>
+</r>
+<r><article key="journals/siammax/GautierTH19a" mdate="2023-08-28">
+<author pid="06/5632-1">Antoine Gautier 0001</author>
+<author orcid="0000-0002-8150-4475" pid="136/5777">Francesco Tudisco</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>A Unifying Perron-Frobenius Theorem for Nonnegative Tensors via Multihomogeneous Maps.</title>
+<pages>1206-1231</pages>
+<year>2019</year>
+<volume>40</volume>
+<journal>SIAM J. Matrix Anal. Appl.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1137/18M1165049</ee>
+<ee>https://www.wikidata.org/entity/Q114074307</ee>
+<url>db/journals/siammax/siammax40.html#GautierTH19a</url>
+</article>
+</r>
+<r><inproceedings key="conf/aistats/CroceA019" mdate="2019-06-07">
+<author pid="52/4288">Francesco Croce</author>
+<author pid="200/8865">Maksym Andriushchenko</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Provable Robustness of ReLU networks via Maximization of Linear Regions.</title>
+<pages>2057-2066</pages>
+<year>2019</year>
+<booktitle>AISTATS</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v89/croce19a.html</ee>
+<crossref>conf/aistats/2019</crossref>
+<url>db/conf/aistats/aistats2019.html#CroceA019</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/0001AB19" mdate="2020-01-20">
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="200/8865">Maksym Andriushchenko</author>
+<author pid="232/1887">Julian Bitterwolf</author>
+<title>Why ReLU Networks Yield High-Confidence Predictions Far Away From the Training Data and How to Mitigate the Problem.</title>
+<pages>41-50</pages>
+<year>2019</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_CVPR_2019/html/Hein_Why_ReLU_Networks_Yield_High-Confidence_Predictions_Far_Away_From_the_CVPR_2019_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR.2019.00013</ee>
+<crossref>conf/cvpr/2019</crossref>
+<url>db/conf/cvpr/cvpr2019.html#0001AB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/0001AB19a" mdate="2019-12-18">
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="200/8865">Maksym Andriushchenko</author>
+<author pid="232/1887">Julian Bitterwolf</author>
+<title>Why ReLU networks yield high-confidence predictions far away from the training data and how to mitigate the problem.</title>
+<pages>58-74</pages>
+<year>2019</year>
+<booktitle>CVPR Workshops</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_CVPRW_2019/html/Uncertainty_and_Robustness_in_Deep_Visual_Learning/Hein_Why_ReLU_networks_yield_high-confidence_predictions_far_away_from_the_CVPRW_2019_paper.html</ee>
+<crossref>conf/cvpr/2019w</crossref>
+<url>db/conf/cvpr/cvprw2019.html#0001AB19a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/Stutz0S19" mdate="2023-09-30">
+<author pid="17/9394">David Stutz</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author orcid="0000-0001-9683-5237" pid="s/BerntSchiele">Bernt Schiele</author>
+<title>Disentangling Adversarial Robustness and Generalization.</title>
+<pages>6976-6987</pages>
+<year>2019</year>
+<booktitle>CVPR</booktitle>
+<ee type="oa">http://openaccess.thecvf.com/content_CVPR_2019/html/Stutz_Disentangling_Adversarial_Robustness_and_Generalization_CVPR_2019_paper.html</ee>
+<ee>https://doi.org/10.1109/CVPR.2019.00714</ee>
+<crossref>conf/cvpr/2019</crossref>
+<url>db/conf/cvpr/cvpr2019.html#Stutz0S19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccv/Croce019" mdate="2020-03-05">
+<author pid="52/4288">Francesco Croce</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Sparse and Imperceivable Adversarial Attacks.</title>
+<pages>4723-4731</pages>
+<year>2019</year>
+<booktitle>ICCV</booktitle>
+<ee>https://doi.org/10.1109/ICCV.2019.00482</ee>
+<crossref>conf/iccv/2019</crossref>
+<url>db/conf/iccv/iccv2019.html#Croce019</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclr/NguyenMH19" mdate="2019-07-25">
+<author pid="159/1133-1">Quynh Nguyen 0001</author>
+<author pid="202/2499">Mahesh Chandra Mukkamala</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>On the loss landscape of a class of deep neural networks with no bad local valleys.</title>
+<year>2019</year>
+<booktitle>ICLR (Poster)</booktitle>
+<ee type="oa">https://openreview.net/forum?id=HJgXsjA5tQ</ee>
+<crossref>conf/iclr/2019</crossref>
+<url>db/conf/iclr/iclr2019.html#NguyenMH19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/MercadoT019" mdate="2019-09-24">
+<author pid="14/9077-1">Pedro Mercado 0001</author>
+<author pid="136/5777">Francesco Tudisco</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Spectral Clustering of Signed Graphs via Matrix Power Means.</title>
+<pages>4526-4536</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/mercado19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#MercadoT019</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/Andriushchenko019" mdate="2021-01-21">
+<author pid="200/8865">Maksym Andriushchenko</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Provably robust boosted decision stumps and trees against adversarial attacks.</title>
+<pages>12997-13008</pages>
+<year>2019</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2019/hash/4206e38996fae4028a26d43b24f68d32-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/9460-provably-robust-boosted-decision-stumps-and-trees-against-adversarial-attacks</ee>
+<crossref>conf/nips/2019</crossref>
+<url>db/conf/nips/nips2019.html#Andriushchenko019</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/0001T019" mdate="2021-01-21">
+<author pid="14/9077-1">Pedro Mercado 0001</author>
+<author pid="136/5777">Francesco Tudisco</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Generalized Matrix Means for Semi-Supervised Learning with Multilayer Graphs.</title>
+<pages>14848-14857</pages>
+<year>2019</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2019/hash/95424358822e753eb993c97ee76a9076-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/9626-generalized-matrix-means-for-semi-supervised-learning-with-multilayer-graphs</ee>
+<crossref>conf/nips/2019</crossref>
+<url>db/conf/nips/nips2019.html#0001T019</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1903-11359" mdate="2019-04-02">
+<author pid="52/4288">Francesco Croce</author>
+<author pid="202/2268">Jonas Rauber</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Scaling up the randomized gradient-free adversarial attack reveals overestimation of robustness using established attacks.</title>
+<year>2019</year>
+<volume>abs/1903.11359</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1903.11359</ee>
+<url>db/journals/corr/corr1903.html#abs-1903-11359</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-06230" mdate="2019-09-24">
+<author pid="14/9077-1">Pedro Mercado 0001</author>
+<author pid="136/5777">Francesco Tudisco</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Spectral Clustering of Signed Graphs via Matrix Power Means.</title>
+<year>2019</year>
+<volume>abs/1905.06230</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.06230</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-06230</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-11213" mdate="2019-06-03">
+<author pid="52/4288">Francesco Croce</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Provable robustness against all adversarial l<sub>p</sub>-perturbations for p&#8805;1.</title>
+<year>2019</year>
+<volume>abs/1905.11213</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.11213</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-11213</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1906-03526" mdate="2019-06-14">
+<author pid="200/8865">Maksym Andriushchenko</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Provably Robust Boosted Decision Stumps and Trees against Adversarial Attacks.</title>
+<year>2019</year>
+<volume>abs/1906.03526</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1906.03526</ee>
+<url>db/journals/corr/corr1906.html#abs-1906-03526</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1907-02044" mdate="2019-07-08">
+<author pid="52/4288">Francesco Croce</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Minimally distorted Adversarial Examples with a Fast Adaptive Boundary Attack.</title>
+<year>2019</year>
+<volume>abs/1907.02044</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1907.02044</ee>
+<url>db/journals/corr/corr1907.html#abs-1907-02044</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1909-05040" mdate="2019-09-17">
+<author pid="52/4288">Francesco Croce</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Sparse and Imperceivable Adversarial Attacks.</title>
+<year>2019</year>
+<volume>abs/1909.05040</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1909.05040</ee>
+<url>db/journals/corr/corr1909.html#abs-1909-05040</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1909-12180" mdate="2019-10-08">
+<author pid="249/5767">Alexander Meinke</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Towards neural networks that provably know when they don't know.</title>
+<year>2019</year>
+<volume>abs/1909.12180</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1909.12180</ee>
+<url>db/journals/corr/corr1909.html#abs-1909-12180</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1910-06259" mdate="2022-10-02">
+<author orcid="0000-0002-6286-1805" pid="17/9394">David Stutz</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="s/BerntSchiele">Bernt Schiele</author>
+<title>Confidence-Calibrated Adversarial Training: Towards Robust Models Generalizing Beyond the Attack Used During Training.</title>
+<year>2019</year>
+<volume>abs/1910.06259</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1910.06259</ee>
+<url>db/journals/corr/corr1910.html#abs-1910-06259</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1910-13951" mdate="2019-10-31">
+<author pid="14/9077-1">Pedro Mercado 0001</author>
+<author pid="136/5777">Francesco Tudisco</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Generalized Matrix Means for Semi-Supervised Learning with Multilayer Graphs.</title>
+<year>2019</year>
+<volume>abs/1910.13951</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1910.13951</ee>
+<url>db/journals/corr/corr1910.html#abs-1910-13951</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1912-00049" mdate="2020-01-02">
+<author pid="200/8865">Maksym Andriushchenko</author>
+<author pid="52/4288">Francesco Croce</author>
+<author pid="164/7417">Nicolas Flammarion</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Square Attack: a query-efficient black-box adversarial attack via random search.</title>
+<year>2019</year>
+<volume>abs/1912.00049</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1912.00049</ee>
+<url>db/journals/corr/corr1912.html#abs-1912-00049</url>
+</article>
+</r>
+<r><article key="journals/pami/LapinHS18" mdate="2023-09-30">
+<author orcid="0000-0001-8875-6002" pid="73/10391">Maksim Lapin</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author orcid="0000-0001-9683-5237" pid="s/BerntSchiele">Bernt Schiele</author>
+<title>Analysis and Optimization of Loss Functions for Multiclass, Top-k, and Multilabel Classification.</title>
+<pages>1533-1554</pages>
+<year>2018</year>
+<volume>40</volume>
+<journal>IEEE Trans. Pattern Anal. Mach. Intell.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1109/TPAMI.2017.2751607</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TPAMI.2017.2751607</ee>
+<ee>https://www.wikidata.org/entity/Q47683892</ee>
+<url>db/journals/pami/pami40.html#LapinHS18</url>
+</article>
+</r>
+<r><article key="journals/siamam/TudiscoMH18" mdate="2020-05-20">
+<author orcid="0000-0002-8150-4475" pid="136/5777">Francesco Tudisco</author>
+<author pid="14/9077-1">Pedro Mercado 0001</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Community Detection in Networks via Nonlinear Modularity Eigenvectors.</title>
+<pages>2393-2419</pages>
+<year>2018</year>
+<volume>78</volume>
+<journal>SIAM J. Appl. Math.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1137/17M1144143</ee>
+<url>db/journals/siamam/siamam78.html#TudiscoMH18</url>
+</article>
+</r>
+<r><inproceedings key="conf/aistats/MercadoGT018" mdate="2019-09-24">
+<author pid="14/9077-1">Pedro Mercado 0001</author>
+<author pid="06/5632-1">Antoine Gautier 0001</author>
+<author pid="136/5777">Francesco Tudisco</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>The Power Mean Laplacian for Multilayer Graph Clustering.</title>
+<pages>1828-1838</pages>
+<year>2018</year>
+<booktitle>AISTATS</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v84/mercado18a.html</ee>
+<crossref>conf/aistats/2018</crossref>
+<url>db/conf/aistats/aistats2018.html#MercadoGT018</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dagm/CroceH18" mdate="2019-02-15">
+<author pid="52/4288">Francesco Croce</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>A Randomized Gradient-Free Attack on ReLU Networks.</title>
+<pages>215-227</pages>
+<year>2018</year>
+<booktitle>GCPR</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-12939-2_16</ee>
+<crossref>conf/dagm/2018</crossref>
+<url>db/conf/dagm/gcpr2018.html#CroceH18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclr/Nguyen018" mdate="2019-07-25">
+<author pid="159/1133-1">Quynh Nguyen 0001</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>The loss surface and expressivity of deep convolutional neural networks.</title>
+<year>2018</year>
+<booktitle>ICLR (Workshop)</booktitle>
+<ee type="oa">https://openreview.net/forum?id=rJJfrm68M</ee>
+<crossref>conf/iclr/2018w</crossref>
+<url>db/conf/iclr/iclr2018w.html#Nguyen018</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/Nguyen018" mdate="2019-07-25">
+<author pid="159/1133-1">Quynh Nguyen 0001</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Optimization Landscape and Expressivity of Deep CNNs.</title>
+<pages>3727-3736</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/nguyen18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#Nguyen018</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/NguyenM018" mdate="2019-07-25">
+<author pid="159/1133-1">Quynh Nguyen 0001</author>
+<author pid="202/2499">Mahesh Chandra Mukkamala</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Neural Networks Should Be Wide Enough to Learn Disconnected Decision Regions.</title>
+<pages>3737-3746</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/nguyen18b.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#NguyenM018</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1801-04215" mdate="2019-02-21">
+<author pid="06/5632-1">Antoine Gautier 0001</author>
+<author pid="136/5777">Francesco Tudisco</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>A unifying Perron-Frobenius theorem for nonnegative tensors via multi-homogeneous maps.</title>
+<year>2018</year>
+<volume>abs/1801.04215</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1801.04215</ee>
+<url>db/journals/corr/corr1801.html#abs-1801-04215</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1803-00094" mdate="2019-07-25">
+<author pid="159/1133-1">Quynh Nguyen 0001</author>
+<author pid="202/2499">Mahesh Chandra Mukkamala</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Neural Networks Should Be Wide Enough to Learn Disconnected Decision Regions.</title>
+<year>2018</year>
+<volume>abs/1803.00094</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1803.00094</ee>
+<url>db/journals/corr/corr1803.html#abs-1803-00094</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1803-00491" mdate="2019-09-24">
+<author pid="14/9077-1">Pedro Mercado 0001</author>
+<author pid="06/5632-1">Antoine Gautier 0001</author>
+<author pid="136/5777">Francesco Tudisco</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>The Power Mean Laplacian for Multilayer Graph Clustering.</title>
+<year>2018</year>
+<volume>abs/1803.00491</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1803.00491</ee>
+<url>db/journals/corr/corr1803.html#abs-1803-00491</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1809-10749" mdate="2019-07-25">
+<author pid="159/1133-1">Quynh Nguyen 0001</author>
+<author pid="202/2499">Mahesh Chandra Mukkamala</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>On the loss landscape of a class of deep neural networks with no bad local valleys.</title>
+<year>2018</year>
+<volume>abs/1809.10749</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1809.10749</ee>
+<url>db/journals/corr/corr1809.html#abs-1809-10749</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1810-07481" mdate="2018-10-30">
+<author pid="52/4288">Francesco Croce</author>
+<author pid="200/8865">Maksym Andriushchenko</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Provable Robustness of ReLU networks via Maximization of Linear Regions.</title>
+<year>2018</year>
+<volume>abs/1810.07481</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1810.07481</ee>
+<url>db/journals/corr/corr1810.html#abs-1810-07481</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1810-12042" mdate="2018-10-31">
+<author pid="228/8380">Marius Mosbach</author>
+<author pid="200/8865">Maksym Andriushchenko</author>
+<author pid="211/9880">Thomas Alexander Trost</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="00/1846">Dietrich Klakow</author>
+<title>Logit Pairing Methods Can Fool Gradient-Based Attacks.</title>
+<year>2018</year>
+<volume>abs/1810.12042</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1810.12042</ee>
+<url>db/journals/corr/corr1810.html#abs-1810-12042</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1811-11493" mdate="2018-11-30">
+<author pid="52/4288">Francesco Croce</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>A randomized gradient-free attack on ReLU networks.</title>
+<year>2018</year>
+<volume>abs/1811.11493</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1811.11493</ee>
+<url>db/journals/corr/corr1811.html#abs-1811-11493</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1812-00740" mdate="2022-10-02">
+<author orcid="0000-0002-6286-1805" pid="17/9394">David Stutz</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="s/BerntSchiele">Bernt Schiele</author>
+<title>Disentangling Adversarial Robustness and Generalization.</title>
+<year>2018</year>
+<volume>abs/1812.00740</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1812.00740</ee>
+<url>db/journals/corr/corr1812.html#abs-1812-00740</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1812-05720" mdate="2019-01-01">
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="200/8865">Maksym Andriushchenko</author>
+<author pid="232/1887">Julian Bitterwolf</author>
+<title>Why ReLU networks yield high-confidence predictions far away from the training data and how to mitigate the problem.</title>
+<year>2018</year>
+<volume>abs/1812.05720</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1812.05720</ee>
+<url>db/journals/corr/corr1812.html#abs-1812-05720</url>
+</article>
+</r>
+<r><article key="journals/pami/NguyenTG017" mdate="2022-05-16">
+<author pid="159/1133-1">Quynh Nguyen 0001</author>
+<author orcid="0000-0002-8150-4475" pid="136/5777">Francesco Tudisco</author>
+<author pid="06/5632-1">Antoine Gautier 0001</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>An Efficient Multilinear Optimization Framework for Hypergraph Matching.</title>
+<pages>1054-1075</pages>
+<year>2017</year>
+<volume>39</volume>
+<journal>IEEE Trans. Pattern Anal. Mach. Intell.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TPAMI.2016.2574706</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TPAMI.2016.2574706</ee>
+<ee>https://www.wikidata.org/entity/Q50634179</ee>
+<url>db/journals/pami/pami39.html#NguyenTG017</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/KhorevaBH0S17" mdate="2023-09-30">
+<author pid="152/5005">Anna Khoreva</author>
+<author pid="89/2011">Rodrigo Benenson</author>
+<author pid="20/451">Jan Hendrik Hosang</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author orcid="0000-0001-9683-5237" pid="s/BerntSchiele">Bernt Schiele</author>
+<title>Simple Does It: Weakly Supervised Instance and Semantic Segmentation.</title>
+<pages>1665-1674</pages>
+<year>2017</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2017.181</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CVPR.2017.181</ee>
+<crossref>conf/cvpr/2017</crossref>
+<url>db/conf/cvpr/cvpr2017.html#KhorevaBH0S17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/MukkamalaH17" mdate="2019-04-03">
+<author pid="202/2499">Mahesh Chandra Mukkamala</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Variants of RMSProp and Adagrad with Logarithmic Regret Bounds.</title>
+<pages>2545-2553</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/mukkamala17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#MukkamalaH17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/NguyenH17" mdate="2019-07-25">
+<author pid="159/1133-1">Quynh Nguyen 0001</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>The Loss Surface of Deep and Wide Neural Networks.</title>
+<pages>2603-2612</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/nguyen17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#NguyenH17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/HeinA17" mdate="2021-01-21">
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="200/8865">Maksym Andriushchenko</author>
+<title>Formal Guarantees on the Robustness of a Classifier against Adversarial Manipulation.</title>
+<pages>2266-2276</pages>
+<year>2017</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2017/hash/e077e1a544eec4f0307cf5c3c721d944-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/6821-formal-guarantees-on-the-robustness-of-a-classifier-against-adversarial-manipulation</ee>
+<crossref>conf/nips/2017</crossref>
+<url>db/conf/nips/nips2017.html#HeinA17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/MercadoT017" mdate="2019-09-24">
+<author pid="14/9077-1">Pedro Mercado 0001</author>
+<author pid="136/5777">Francesco Tudisco</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Clustering Signed Networks with the Geometric Mean of Laplacians.</title>
+<year>2017</year>
+<volume>abs/1701.00757</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1701.00757</ee>
+<url>db/journals/corr/corr1701.html#MercadoT017</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/NguyenH17" mdate="2022-05-16">
+<author pid="159/1133-1">Quynh Nguyen 0001</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>The loss surface of deep and wide neural networks.</title>
+<year>2017</year>
+<volume>abs/1704.08045</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1704.08045</ee>
+<url>db/journals/corr/corr1704.html#NguyenH17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/HeinA17" mdate="2018-08-13">
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="200/8865">Maksym Andriushchenko</author>
+<title>Formal Guarantees on the Robustness of a Classifier against Adversarial Manipulation.</title>
+<year>2017</year>
+<volume>abs/1705.08475</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1705.08475</ee>
+<url>db/journals/corr/corr1705.html#HeinA17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/MukkamalaH17" mdate="2018-08-13">
+<author pid="202/2499">Mahesh Chandra Mukkamala</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Variants of RMSProp and Adagrad with Logarithmic Regret Bounds.</title>
+<year>2017</year>
+<volume>abs/1706.05507</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1706.05507</ee>
+<url>db/journals/corr/corr1706.html#MukkamalaH17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1708-05569" mdate="2019-09-24">
+<author pid="136/5777">Francesco Tudisco</author>
+<author pid="14/9077-1">Pedro Mercado 0001</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Community detection in networks via nonlinear modularity eigenvectors.</title>
+<year>2017</year>
+<volume>abs/1708.05569</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1708.05569</ee>
+<url>db/journals/corr/corr1708.html#abs-1708-05569</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1710-10928" mdate="2019-07-25">
+<author pid="159/1133-1">Quynh Nguyen 0001</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>The loss surface and expressivity of deep convolutional neural networks.</title>
+<year>2017</year>
+<volume>abs/1710.10928</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1710.10928</ee>
+<url>db/journals/corr/corr1710.html#abs-1710-10928</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/XianA0N0S16" mdate="2023-09-30">
+<author pid="177/9313">Yongqin Xian</author>
+<author pid="117/4838">Zeynep Akata</author>
+<author pid="s/GauravSharma4">Gaurav Sharma 0004</author>
+<author pid="159/1133-1">Quynh Nguyen 0001</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author orcid="0000-0001-9683-5237" pid="s/BerntSchiele">Bernt Schiele</author>
+<title>Latent Embeddings for Zero-Shot Classification.</title>
+<pages>69-77</pages>
+<year>2016</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2016.15</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CVPR.2016.15</ee>
+<crossref>conf/cvpr/2016</crossref>
+<url>db/conf/cvpr/cvpr2016.html#XianA0N0S16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/KhorevaBO0S16" mdate="2023-09-30">
+<author pid="152/5005">Anna Khoreva</author>
+<author pid="89/2011">Rodrigo Benenson</author>
+<author pid="154/6713">Mohamed Omran</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author orcid="0000-0001-9683-5237" pid="s/BerntSchiele">Bernt Schiele</author>
+<title>Weakly Supervised Object Boundaries.</title>
+<pages>183-192</pages>
+<year>2016</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2016.27</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CVPR.2016.27</ee>
+<crossref>conf/cvpr/2016</crossref>
+<url>db/conf/cvpr/cvpr2016.html#KhorevaBO0S16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/Lapin0S16" mdate="2023-09-30">
+<author pid="73/10391">Maksim Lapin</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author orcid="0000-0001-9683-5237" pid="s/BerntSchiele">Bernt Schiele</author>
+<title>Loss Functions for Top-k Error: Analysis and Insights.</title>
+<pages>1468-1477</pages>
+<year>2016</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2016.163</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CVPR.2016.163</ee>
+<crossref>conf/cvpr/2016</crossref>
+<url>db/conf/cvpr/cvpr2016.html#Lapin0S16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/KhorevaBG0S16" mdate="2018-11-02">
+<author pid="152/5005">Anna Khoreva</author>
+<author pid="89/2011">Rodrigo Benenson</author>
+<author orcid="0000-0003-1875-7813" pid="48/3897">Fabio Galasso</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="s/BerntSchiele">Bernt Schiele</author>
+<title>Improved Image Boundaries for Better Video Segmentation.</title>
+<pages>773-788</pages>
+<year>2016</year>
+<booktitle>ECCV Workshops (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-49409-8_64</ee>
+<crossref>conf/eccv/2016w3</crossref>
+<url>db/conf/eccv/eccv2016w3.html#KhorevaBG0S16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/GautierN016" mdate="2022-05-16">
+<author pid="06/5632-1">Antoine Gautier 0001</author>
+<author pid="159/1133-1">Quynh Nguyen 0001</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Globally Optimal Training of Generalized Polynomial Neural Networks with Nonlinear Spectral Methods.</title>
+<pages>1687-1695</pages>
+<year>2016</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2016/hash/1f4477bad7af3616c1f933a02bfabe4e-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/6238-globally-optimal-training-of-generalized-polynomial-neural-networks-with-nonlinear-spectral-methods</ee>
+<crossref>conf/nips/2016</crossref>
+<url>db/conf/nips/nips2016.html#GautierN016</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/MercadoT016" mdate="2021-01-21">
+<author pid="14/9077-1">Pedro Mercado 0001</author>
+<author pid="136/5777">Francesco Tudisco</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Clustering Signed Networks with the Geometric Mean of Laplacians.</title>
+<pages>4421-4429</pages>
+<year>2016</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2016/hash/7bc1ec1d9c3426357e69acd5bf320061-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/6164-clustering-signed-networks-with-the-geometric-mean-of-laplacians</ee>
+<crossref>conf/nips/2016</crossref>
+<url>db/conf/nips/nips2016.html#MercadoT016</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/Tudisco016" mdate="2018-08-13">
+<author pid="136/5777">Francesco Tudisco</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Nodal domain theorem for the graph p-Laplacian.</title>
+<year>2016</year>
+<volume>abs/1602.05567</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1602.05567</ee>
+<url>db/journals/corr/corr1602.html#Tudisco016</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/KhorevaBHHS16" mdate="2018-08-13">
+<author pid="152/5005">Anna Khoreva</author>
+<author pid="89/2011">Rodrigo Benenson</author>
+<author pid="20/451">Jan Hendrik Hosang</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="s/BerntSchiele">Bernt Schiele</author>
+<title>Weakly Supervised Semantic Labelling and Instance Segmentation.</title>
+<year>2016</year>
+<volume>abs/1603.07485</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1603.07485</ee>
+<url>db/journals/corr/corr1603.html#KhorevaBHHS16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/XianA0N0S16" mdate="2022-05-16">
+<author pid="177/9313">Yongqin Xian</author>
+<author pid="117/4838">Zeynep Akata</author>
+<author pid="s/GauravSharma4">Gaurav Sharma 0004</author>
+<author pid="159/1133-1">Quynh Nguyen 0001</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="s/BerntSchiele">Bernt Schiele</author>
+<title>Latent Embeddings for Zero-shot Classification.</title>
+<year>2016</year>
+<volume>abs/1603.08895</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1603.08895</ee>
+<url>db/journals/corr/corr1603.html#XianA0N0S16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/KhorevaBG0S16" mdate="2018-08-13">
+<author pid="152/5005">Anna Khoreva</author>
+<author pid="89/2011">Rodrigo Benenson</author>
+<author pid="48/3897">Fabio Galasso</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="s/BerntSchiele">Bernt Schiele</author>
+<title>Improved Image Boundaries for Better Video Segmentation.</title>
+<year>2016</year>
+<volume>abs/1605.03718</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1605.03718</ee>
+<url>db/journals/corr/corr1605.html#KhorevaBG0S16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/GautierN016" mdate="2022-05-16">
+<author pid="06/5632-1">Antoine Gautier 0001</author>
+<author pid="159/1133-1">Quynh Nguyen 0001</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Globally Optimal Training of Generalized Polynomial Neural Networks with Nonlinear Spectral Methods.</title>
+<year>2016</year>
+<volume>abs/1610.09300</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1610.09300</ee>
+<url>db/journals/corr/corr1610.html#GautierN016</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/Lapin0S16" mdate="2018-08-13">
+<author pid="73/10391">Maksim Lapin</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="s/BerntSchiele">Bernt Schiele</author>
+<title>Analysis and Optimization of Loss Functions for Multiclass, Top-k, and Multilabel Classification.</title>
+<year>2016</year>
+<volume>abs/1612.03663</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1612.03663</ee>
+<url>db/journals/corr/corr1612.html#Lapin0S16</url>
+</article>
+</r>
+<r><article key="journals/ijon/BhadraH15" mdate="2017-05-20">
+<author pid="90/2736">Sahely Bhadra</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Correction of noisy labels via mutual consistency check.</title>
+<pages>34-52</pages>
+<year>2015</year>
+<volume>160</volume>
+<journal>Neurocomputing</journal>
+<ee>https://doi.org/10.1016/j.neucom.2014.10.083</ee>
+<url>db/journals/ijon/ijon160.html#BhadraH15</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/KhorevaG0S15" mdate="2023-09-30">
+<author pid="152/5005">Anna Khoreva</author>
+<author orcid="0000-0003-1875-7813" pid="48/3897">Fabio Galasso</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author orcid="0000-0001-9683-5237" pid="s/BerntSchiele">Bernt Schiele</author>
+<title>Classifier based graph construction for video segmentation.</title>
+<pages>951-960</pages>
+<year>2015</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2015.7298697</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CVPR.2015.7298697</ee>
+<crossref>conf/cvpr/2015</crossref>
+<url>db/conf/cvpr/cvpr2015.html#KhorevaG0S15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cvpr/NgocGH15" mdate="2023-03-24">
+<author pid="159/1133-1">Quynh Nguyen Ngoc</author>
+<author pid="06/5632-1">Antoine Gautier 0001</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>A flexible tensor block coordinate ascent scheme for hypergraph matching.</title>
+<pages>5270-5278</pages>
+<year>2015</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2015.7299164</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CVPR.2015.7299164</ee>
+<crossref>conf/cvpr/2015</crossref>
+<url>db/conf/cvpr/cvpr2015.html#NgocGH15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/LapinHS15" mdate="2023-09-30">
+<author pid="73/10391">Maksim Lapin</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author orcid="0000-0001-9683-5237" pid="s/BerntSchiele">Bernt Schiele</author>
+<title>Top-k Multiclass SVM.</title>
+<pages>325-333</pages>
+<year>2015</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2015/hash/0336dcbab05b9d5ad24f4333c7658a0e-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/5742-top-k-multiclass-svm</ee>
+<crossref>conf/nips/2015</crossref>
+<url>db/conf/nips/nips2015.html#LapinHS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/JawanpuriaLHS15" mdate="2023-09-30">
+<author pid="32/9841">Pratik Jawanpuria</author>
+<author pid="73/10391">Maksim Lapin</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author orcid="0000-0001-9683-5237" pid="s/BerntSchiele">Bernt Schiele</author>
+<title>Efficient Output Kernel Learning for Multiple Tasks.</title>
+<pages>1189-1197</pages>
+<year>2015</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2015/hash/a5cdd4aa0048b187f7182f1b9ce7a6a7-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/5898-efficient-output-kernel-learning-for-multiple-tasks</ee>
+<crossref>conf/nips/2015</crossref>
+<url>db/conf/nips/nips2015.html#JawanpuriaLHS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/SlawskiLH15" mdate="2021-01-21">
+<author pid="96/7102">Martin Slawski</author>
+<author pid="62/5860-1">Ping Li 0001</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Regularization-Free Estimation in Trace Regression with Symmetric Positive Semidefinite Matrices.</title>
+<pages>2782-2790</pages>
+<year>2015</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2015/hash/8f19793b2671094e63a15ab883d50137-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/5726-regularization-free-estimation-in-trace-regression-with-symmetric-positive-semidefinite-matrices</ee>
+<crossref>conf/nips/2015</crossref>
+<url>db/conf/nips/nips2015.html#SlawskiLH15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/SlawskiL015" mdate="2018-08-13">
+<author pid="96/7102">Martin Slawski</author>
+<author pid="62/5860-1">Ping Li 0001</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Regularization-free estimation in trace regression with symmetric positive semidefinite matrices.</title>
+<year>2015</year>
+<volume>abs/1504.06305</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1504.06305</ee>
+<url>db/journals/corr/corr1504.html#SlawskiL015</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/NguyenGH15" mdate="2019-02-21">
+<author pid="159/1133-1">Quynh Nguyen Ngoc</author>
+<author pid="06/5632-1">Antoine Gautier 0001</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>A Flexible Tensor Block Coordinate Ascent Scheme for Hypergraph Matching.</title>
+<year>2015</year>
+<volume>abs/1504.07907</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1504.07907</ee>
+<url>db/journals/corr/corr1504.html#NguyenGH15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/RangapuramM015" mdate="2018-08-13">
+<author pid="30/11348">Syama Sundar Rangapuram</author>
+<author pid="155/1876">Pramod Kaushik Mudrakarta</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Tight Continuous Relaxation of the Balanced k-Cut Problem.</title>
+<year>2015</year>
+<volume>abs/1505.06478</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1505.06478</ee>
+<url>db/journals/corr/corr1505.html#RangapuramM015</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/Rangapuram015" mdate="2018-08-13">
+<author pid="30/11348">Syama Sundar Rangapuram</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Constrained 1-Spectral Clustering.</title>
+<year>2015</year>
+<volume>abs/1505.06485</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1505.06485</ee>
+<url>db/journals/corr/corr1505.html#Rangapuram015</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/RangapuramB015" mdate="2018-08-13">
+<author pid="30/11348">Syama Sundar Rangapuram</author>
+<author pid="09/5552">Thomas B&#252;hler</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Towards Realistic Team Formation in Social Networks based on Densest Subgraphs.</title>
+<year>2015</year>
+<volume>abs/1505.06661</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1505.06661</ee>
+<url>db/journals/corr/corr1505.html#RangapuramB015</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/PodosinnikovaS015" mdate="2018-08-13">
+<author pid="152/5033">Anastasia Podosinnikova</author>
+<author pid="13/3835">Simon Setzer</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Robust PCA: Optimization of the Robust Reconstruction Error over the Stiefel Manifold.</title>
+<year>2015</year>
+<volume>abs/1506.00323</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1506.00323</ee>
+<url>db/journals/corr/corr1506.html#PodosinnikovaS015</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/NguyenTG015" mdate="2022-05-16">
+<author pid="159/1133-1">Quynh Nguyen 0001</author>
+<author pid="136/5777">Francesco Tudisco</author>
+<author pid="06/5632-1">Antoine Gautier 0001</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>An Efficient Multilinear Optimization Framework for Hypergraph Matching.</title>
+<year>2015</year>
+<volume>abs/1511.02667</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1511.02667</ee>
+<url>db/journals/corr/corr1511.html#NguyenTG015</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/JawanpuriaL0S15" mdate="2018-08-13">
+<author pid="32/9841">Pratik Jawanpuria</author>
+<author pid="73/10391">Maksim Lapin</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="s/BerntSchiele">Bernt Schiele</author>
+<title>Efficient Output Kernel Learning for Multiple Tasks.</title>
+<year>2015</year>
+<volume>abs/1511.05706</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1511.05706</ee>
+<url>db/journals/corr/corr1511.html#JawanpuriaL0S15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/Lapin0S15" mdate="2018-08-13">
+<author pid="73/10391">Maksim Lapin</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="s/BerntSchiele">Bernt Schiele</author>
+<title>Top-k Multiclass SVM.</title>
+<year>2015</year>
+<volume>abs/1511.06683</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1511.06683</ee>
+<url>db/journals/corr/corr1511.html#Lapin0S15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/KhorevaBO0S15" mdate="2018-08-13">
+<author pid="152/5005">Anna Khoreva</author>
+<author pid="89/2011">Rodrigo Benenson</author>
+<author pid="154/6713">Mohamed Omran</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="s/BerntSchiele">Bernt Schiele</author>
+<title>Weakly Supervised Object Boundaries.</title>
+<year>2015</year>
+<volume>abs/1511.07803</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1511.07803</ee>
+<url>db/journals/corr/corr1511.html#KhorevaBO0S15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/Lapin0S15a" mdate="2018-08-13">
+<author pid="73/10391">Maksim Lapin</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="s/BerntSchiele">Bernt Schiele</author>
+<title>Loss Functions for Top-k Error: Analysis and Insights.</title>
+<year>2015</year>
+<volume>abs/1512.00486</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1512.00486</ee>
+<url>db/journals/corr/corr1512.html#Lapin0S15a</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/dagstuhl-reports/0001LR15" mdate="2017-06-07">
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="70/3715">G&#225;bor Lugosi</author>
+<author pid="01/6788">Lorenzo Rosasco</author>
+<title>Mathematical and Computational Foundations of Learning Theory (Dagstuhl Seminar 15361).</title>
+<pages>54-0</pages>
+<year>2015</year>
+<volume>5</volume>
+<journal>Dagstuhl Reports</journal>
+<number>8</number>
+<ee type="oa">https://doi.org/10.4230/DagRep.5.8.54</ee>
+<url>db/journals/dagstuhl-reports/dagstuhl-reports5.html#0001LR15</url>
+</article>
+</r>
+<r><article key="journals/jmlr/LuxburgRH14" mdate="2022-06-02">
+<author pid="06/1082">Ulrike von Luxburg</author>
+<author pid="36/5759">Agnes Radl</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Hitting and commute times in large random neighborhood graphs.</title>
+<pages>1751-1798</pages>
+<year>2014</year>
+<volume>15</volume>
+<journal>J. Mach. Learn. Res.</journal>
+<number>1</number>
+<ee>https://dl.acm.org/doi/10.5555/2627435.2638591</ee>
+<url>db/journals/jmlr/jmlr15.html#LuxburgRH14</url>
+</article>
+</r>
+<r><article key="journals/nn/LapinHS14" mdate="2023-09-30">
+<author pid="73/10391">Maksim Lapin</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author orcid="0000-0001-9683-5237" pid="s/BerntSchiele">Bernt Schiele</author>
+<title>Learning using privileged information: SV M+ and weighted SVM.</title>
+<pages>95-108</pages>
+<year>2014</year>
+<volume>53</volume>
+<journal>Neural Networks</journal>
+<ee>https://doi.org/10.1016/j.neunet.2014.02.002</ee>
+<ee>https://www.wikidata.org/entity/Q43917564</ee>
+<url>db/journals/nn/nn53.html#LapinHS14</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/LapinSH14" mdate="2023-09-30">
+<author pid="73/10391">Maksim Lapin</author>
+<author orcid="0000-0001-9683-5237" pid="s/BerntSchiele">Bernt Schiele</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Scalable Multitask Representation Learning for Scene Classification.</title>
+<pages>1434-1441</pages>
+<year>2014</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR.2014.186</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CVPR.2014.186</ee>
+<crossref>conf/cvpr/2014</crossref>
+<url>db/conf/cvpr/cvpr2014.html#LapinSH14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dagm/PodosinnikovaSH14" mdate="2017-05-21">
+<author pid="152/5033">Anastasia Podosinnikova</author>
+<author pid="13/3835">Simon Setzer</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Robust PCA: Optimization of the Robust Reconstruction Error Over the Stiefel Manifold.</title>
+<pages>121-131</pages>
+<year>2014</year>
+<booktitle>GCPR</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-11752-2_10</ee>
+<crossref>conf/dagm/2014</crossref>
+<url>db/conf/dagm/gcpr2014.html#PodosinnikovaSH14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dagm/KhorevaGHS14" mdate="2018-11-02">
+<author pid="152/5005">Anna Khoreva</author>
+<author orcid="0000-0003-1875-7813" pid="48/3897">Fabio Galasso</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="s/BerntSchiele">Bernt Schiele</author>
+<title>Learning Must-Link Constraints for Video Segmentation Based on Spectral Clustering.</title>
+<pages>701-712</pages>
+<year>2014</year>
+<booktitle>GCPR</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-11752-2_58</ee>
+<crossref>conf/dagm/2014</crossref>
+<url>db/conf/dagm/gcpr2014.html#KhorevaGHS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/RangapuramM014" mdate="2021-01-21">
+<author pid="30/11348">Syama Sundar Rangapuram</author>
+<author pid="155/1876">Pramod Kaushik Mudrakarta</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Tight Continuous Relaxation of the Balanced k-Cut Problem.</title>
+<pages>3131-3139</pages>
+<year>2014</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2014/hash/f60bb6bb4c96d4df93c51bd69dcc15a0-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/5583-tight-continuous-relaxation-of-the-balanced-k-cut-problem</ee>
+<crossref>conf/nips/2014</crossref>
+<url>db/conf/nips/nips2014.html#RangapuramM014</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/SlawskiHL14" mdate="2021-10-14">
+<author pid="96/7102">Martin Slawski</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author orcid="0000-0001-9383-8555" pid="01/11254">Pavlo Lutsik</author>
+<title>Matrix factorization with Binary Components.</title>
+<year>2014</year>
+<volume>abs/1401.6024</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1401.6024</ee>
+<url>db/journals/corr/corr1401.html#SlawskiHL14</url>
+</article>
+</r>
+<r><inproceedings key="conf/icml/BuhlerRSH13" mdate="2019-05-29">
+<author pid="09/5552">Thomas B&#252;hler</author>
+<author pid="30/11348">Syama Sundar Rangapuram</author>
+<author pid="13/3835">Simon Setzer</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Constrained fractional set programs and their application in local clustering and community detection.</title>
+<pages>624-632</pages>
+<year>2013</year>
+<booktitle>ICML (1)</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v28/buhler13.html</ee>
+<crossref>conf/icml/2013</crossref>
+<url>db/conf/icml/icml2013.html#BuhlerRSH13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/HeinSJR13" mdate="2021-01-21">
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="13/3835">Simon Setzer</author>
+<author pid="139/0912">Leonardo Jost</author>
+<author pid="30/11348">Syama Sundar Rangapuram</author>
+<title>The Total Variation on Hypergraphs - Learning on Hypergraphs Revisited.</title>
+<pages>2427-2435</pages>
+<year>2013</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2013/hash/8a3363abe792db2d8761d6403605aeb7-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/4914-the-total-variation-on-hypergraphs-learning-on-hypergraphs-revisited</ee>
+<crossref>conf/nips/2013</crossref>
+<url>db/conf/nips/nips2013.html#HeinSJR13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/SlawskiHL13" mdate="2021-01-21">
+<author pid="96/7102">Martin Slawski</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="01/11254">Pavlo Lutsik</author>
+<title>Matrix factorization with binary components.</title>
+<pages>3210-3218</pages>
+<year>2013</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2013/hash/226d1f15ecd35f784d2a20c3ecf56d7f-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/4860-matrix-factorization-with-binary-components</ee>
+<crossref>conf/nips/2013</crossref>
+<url>db/conf/nips/nips2013.html#SlawskiHL13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/RangapuramBH13" mdate="2018-11-06">
+<author pid="30/11348">Syama Sundar Rangapuram</author>
+<author pid="09/5552">Thomas B&#252;hler</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Towards realistic team formation in social networks based on densest subgraphs.</title>
+<pages>1077-1088</pages>
+<year>2013</year>
+<booktitle>WWW</booktitle>
+<ee>https://doi.org/10.1145/2488388.2488482</ee>
+<crossref>conf/www/2013</crossref>
+<url>db/conf/www/www2013.html#RangapuramBH13</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/dagm/2013" mdate="2023-09-30">
+<editor pid="w/JoachimWeickert">Joachim Weickert</editor>
+<editor pid="97/1213-1">Matthias Hein 0001</editor>
+<editor orcid="0000-0001-9683-5237" pid="s/BerntSchiele">Bernt Schiele</editor>
+<title>Pattern Recognition - 35th German Conference, GCPR 2013, Saarbr&#252;cken, Germany, September 3-6, 2013. Proceedings</title>
+<year>2013</year>
+<publisher>Springer</publisher>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>8142</volume>
+<ee>https://doi.org/10.1007/978-3-642-40602-7</ee>
+<isbn>978-3-642-40601-0</isbn>
+<booktitle>GCPR</booktitle>
+<url>db/conf/dagm/gcpr2013.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/LapinHS13" mdate="2018-08-13">
+<author pid="73/10391">Maksim Lapin</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="s/BerntSchiele">Bernt Schiele</author>
+<title>Learning Using Privileged Information: SVM+ and Weighted SVM.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1306.3161</ee>
+<volume>abs/1306.3161</volume>
+<url>db/journals/corr/corr1306.html#LapinHS13</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/BuhlerRSH13" mdate="2018-08-13">
+<author pid="09/5552">Thomas B&#252;hler</author>
+<author pid="30/11348">Syama Sundar Rangapuram</author>
+<author pid="13/3835">Simon Setzer</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Constrained fractional set programs and their application in local clustering and community detection.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1306.3409</ee>
+<volume>abs/1306.3409</volume>
+<url>db/journals/corr/corr1306.html#BuhlerRSH13</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/HeinSJR13" mdate="2018-08-13">
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="13/3835">Simon Setzer</author>
+<author pid="139/0912">Leonardo Jost</author>
+<author pid="30/11348">Syama Sundar Rangapuram</author>
+<title>The Total Variation on Hypergraphs - Learning on Hypergraphs Revisited.</title>
+<year>2013</year>
+<volume>abs/1312.5179</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1312.5179</ee>
+<url>db/journals/corr/corr1312.html#HeinSJR13</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/JostSH13" mdate="2018-08-13">
+<author pid="139/0912">Leonardo Jost</author>
+<author pid="13/3835">Simon Setzer</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Nonlinear Eigenproblems in Data Analysis - Balanced Graph Cuts and the RatioDCA-Prox.</title>
+<year>2013</year>
+<volume>abs/1312.5192</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1312.5192</ee>
+<url>db/journals/corr/corr1312.html#JostSH13</url>
+</article>
+</r>
+<r><article key="journals/bmcbi/SlawskiHTJGHH12" mdate="2020-03-15">
+<author pid="96/7102">Martin Slawski</author>
+<author pid="05/5567">Rene Hussong</author>
+<author orcid="0000-0002-8687-6817" pid="05/1476">Andreas Tholey</author>
+<author pid="123/6172">Thomas Jakoby</author>
+<author pid="92/7250">Barbara Gregorius</author>
+<author orcid="0000-0003-2180-6516" pid="39/2195">Andreas Hildebrandt 0001</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Isotope pattern deconvolution for peptide mass spectrometry by non-negative least squares/least absolute deviation template matching.</title>
+<pages>291</pages>
+<year>2012</year>
+<volume>13</volume>
+<journal>BMC Bioinform.</journal>
+<ee type="oa">https://doi.org/10.1186/1471-2105-13-291</ee>
+<ee>https://www.wikidata.org/entity/Q30538058</ee>
+<url>db/journals/bmcbi/bmcbi13.html#SlawskiHTJGHH12</url>
+</article>
+</r>
+<r><inproceedings key="journals/jmlr/RangapuramH12" mdate="2019-05-29">
+<author pid="30/11348">Syama Sundar Rangapuram</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Constrained 1-Spectral Clustering.</title>
+<pages>1143-1151</pages>
+<booktitle>AISTATS</booktitle>
+<year>2012</year>
+<crossref>conf/aistats/2012</crossref>
+<ee type="oa">http://proceedings.mlr.press/v22/sundar12.html</ee>
+<url>db/journals/jmlr/jmlrp22.html#RangapuramH12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/SlawskiH11" mdate="2021-01-21">
+<author pid="96/7102">Martin Slawski</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Sparse recovery by thresholded non-negative least squares.</title>
+<pages>1926-1934</pages>
+<year>2011</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2011/hash/d6723e7cd6735df68d1ce4c704c29a04-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/4231-sparse-recovery-by-thresholded-non-negative-least-squares</ee>
+<crossref>conf/nips/2011</crossref>
+<url>db/conf/nips/nips2011.html#SlawskiH11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/HeinS11" mdate="2021-01-21">
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="13/3835">Simon Setzer</author>
+<title>Beyond Spectral Clustering - Tight Relaxations of Balanced Graph Cuts.</title>
+<pages>2366-2374</pages>
+<year>2011</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2011/hash/193002e668758ea9762904da1a22337c-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/4261-beyond-spectral-clustering-tight-relaxations-of-balanced-graph-cuts</ee>
+<crossref>conf/nips/2011</crossref>
+<url>db/conf/nips/nips2011.html#HeinS11</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1102-2075" mdate="2023-01-30">
+<author pid="00/1321-1">Markus Maier 0001</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>How the result of graph clustering methods depends on the construction of the graph</title>
+<ee type="oa">http://arxiv.org/abs/1102.2075</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1102.2075</volume>
+<url>db/journals/corr/corr1102.html#abs-1102-2075</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/dagstuhl-reports/HeinLRS11" mdate="2017-06-07">
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="70/3715">G&#225;bor Lugosi</author>
+<author pid="01/6788">Lorenzo Rosasco</author>
+<author pid="36/2147">Steve Smale</author>
+<title>Mathematical and Computational Foundations of Learning Theory (Dagstuhl Seminar 11291).</title>
+<pages>53-69</pages>
+<year>2011</year>
+<volume>1</volume>
+<journal>Dagstuhl Reports</journal>
+<number>7</number>
+<ee type="oa">https://doi.org/10.4230/DagRep.1.7.53</ee>
+<url>db/journals/dagstuhl-reports/dagstuhl-reports1.html#HeinLRS11</url>
+</article>
+</r>
+<r><article key="journals/siamis/SteinkeHS10" mdate="2023-08-28">
+<author orcid="0000-0003-3012-9991" pid="66/4662">Florian Steinke</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="97/119">Bernhard Sch&#246;lkopf</author>
+<title>Nonparametric Regression between General Riemannian Manifolds.</title>
+<pages>527-563</pages>
+<year>2010</year>
+<volume>3</volume>
+<journal>SIAM J. Imaging Sci.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1137/080744189</ee>
+<ee>https://www.wikidata.org/entity/Q115247110</ee>
+<url>db/journals/siamis/siamis3.html#SteinkeHS10</url>
+</article>
+</r>
+<r><inproceedings key="conf/nips/HeinB10" mdate="2021-01-21">
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="09/5552">Thomas B&#252;hler</author>
+<title>An Inverse Power Method for Nonlinear Eigenproblems with Applications in 1-Spectral Clustering and Sparse PCA.</title>
+<pages>847-855</pages>
+<year>2010</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2010/hash/fd06b8ea02fe5b1c2496fe1700e9d16c-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/4110-an-inverse-power-method-for-nonlinear-eigenproblems-with-applications-in-1-spectral-clustering-and-sparse-pca</ee>
+<crossref>conf/nips/2010</crossref>
+<url>db/conf/nips/nips2010.html#HeinB10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/LuxburgRH10" mdate="2021-01-21">
+<author pid="06/1082">Ulrike von Luxburg</author>
+<author pid="36/5759">Agnes Radl</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Getting lost in space: Large sample analysis of the resistance distance.</title>
+<pages>2622-2630</pages>
+<year>2010</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2010/hash/0d0871f0806eae32d30983b62252da50-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/3891-getting-lost-in-space-large-sample-analysis-of-the-resistance-distance</ee>
+<crossref>conf/nips/2010</crossref>
+<url>db/conf/nips/nips2010.html#LuxburgRH10</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1003-1266" mdate="2018-08-13">
+<author pid="06/1082">Ulrike von Luxburg</author>
+<author pid="36/5759">Agnes Radl</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Hitting times, commute distances and the spectral gap for large random geometric graphs</title>
+<ee type="oa">http://arxiv.org/abs/1003.1266</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1003.1266</volume>
+<url>db/journals/corr/corr1003.html#abs-1003-1266</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1012-0774" mdate="2018-08-13">
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="09/5552">Thomas B&#252;hler</author>
+<title>An Inverse Power Method for Nonlinear Eigenproblems with Applications in 1-Spectral Clustering and Sparse PCA</title>
+<ee type="oa">http://arxiv.org/abs/1012.0774</ee>
+<year>2010</year>
+<journal>CoRR</journal>
+<volume>abs/1012.0774</volume>
+<url>db/journals/corr/corr1012.html#abs-1012-0774</url>
+</article>
+</r>
+<r><article key="journals/insk/KellerLHLASHBHWML09" mdate="2020-08-13">
+<author orcid="0000-0002-5361-0895" pid="29/6542">Andreas Keller</author>
+<author pid="43/5514">Nicole Ludwig 0001</author>
+<author pid="10/7618">Sabrina Heisel</author>
+<author pid="96/7617">Petra Leidinger</author>
+<author pid="15/7618">Claudia Andres</author>
+<author pid="94/7617">Wolf-Ingo Steudel</author>
+<author pid="42/7618">Hanno Huwer</author>
+<author pid="73/3799">Bernhard Burgeth</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="w/JoachimWeickert">Joachim Weickert</author>
+<author pid="61/6672">Eckart Meese</author>
+<author pid="l/HPLenhof">Hans-Peter Lenhof</author>
+<title>Large-scale antibody profiling of human blood sera: The future of molecular diagnosis.</title>
+<pages>332-338</pages>
+<year>2009</year>
+<volume>32</volume>
+<journal>Inform. Spektrum</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s00287-009-0354-5</ee>
+<url>db/journals/insk/insk32.html#KellerLHLASHBHWML09</url>
+</article>
+</r>
+<r><article key="journals/tcs/MaierHL09" mdate="2023-01-30">
+<author pid="00/1321-1">Markus Maier 0001</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Optimal construction of k-nearest-neighbor graphs for identifying noisy clusters.</title>
+<pages>1749-1764</pages>
+<year>2009</year>
+<volume>410</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>19</number>
+<ee type="oa">https://doi.org/10.1016/j.tcs.2009.01.009</ee>
+<url>db/journals/tcs/tcs410.html#MaierHL09</url>
+</article>
+</r>
+<r><inproceedings key="conf/icml/BuhlerH09" mdate="2018-11-06">
+<author pid="09/5552">Thomas B&#252;hler</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Spectral clustering based on the graph <i>p</i>-Laplacian.</title>
+<pages>81-88</pages>
+<year>2009</year>
+<booktitle>ICML</booktitle>
+<ee>https://doi.org/10.1145/1553374.1553385</ee>
+<crossref>conf/icml/2009</crossref>
+<url>db/conf/icml/icml2009.html#BuhlerH09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/Hein09" mdate="2021-01-21">
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Robust Nonparametric Regression with Metric-Space Valued Output.</title>
+<pages>718-726</pages>
+<year>2009</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2009/hash/92977ae4d2ba21425a59afb269c2a14e-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/3649-robust-nonparametric-regression-with-metric-space-valued-output</ee>
+<crossref>conf/nips/2009</crossref>
+<url>db/conf/nips/nips2009.html#Hein09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/KimSH09" mdate="2021-01-21">
+<author pid="49/1431">Kwang In Kim</author>
+<author pid="66/4662">Florian Steinke</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Semi-supervised Regression using Hessian energy with an application to semi-supervised dimensionality reduction.</title>
+<pages>979-987</pages>
+<year>2009</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2009/hash/f4552671f8909587cf485ea990207f3b-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/3741-semi-supervised-regression-using-hessian-energy-with-an-application-to-semi-supervised-dimensionality-reduction</ee>
+<crossref>conf/nips/2009</crossref>
+<url>db/conf/nips/nips2009.html#KimSH09</url>
+</inproceedings>
+</r>
+<r><article key="journals/cgf/SteinkeHPS08" mdate="2020-10-26">
+<author orcid="0000-0003-3012-9991" pid="66/4662">Florian Steinke</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author orcid="0000-0002-5266-8091" pid="p/JanPeters1">Jan Peters 0001</author>
+<author pid="97/119">Bernhard Sch&#246;lkopf</author>
+<title>Manifold-valued Thin-Plate Splines with Applications in Computer Graphics.</title>
+<pages>437-448</pages>
+<year>2008</year>
+<volume>27</volume>
+<journal>Comput. Graph. Forum</journal>
+<number>2</number>
+<ee>https://doi.org/10.1111/j.1467-8659.2008.01141.x</ee>
+<url>db/journals/cgf/cgf27.html#SteinkeHPS08</url>
+</article>
+</r>
+<r><article key="journals/cgf/DidykMHS08" mdate="2021-04-09">
+<author orcid="0000-0003-0768-8939" pid="55/1484">Piotr Didyk</author>
+<author orcid="0000-0003-2353-0349" pid="41/1369">Rafal Mantiuk</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="s/HansPeterSeidel">Hans-Peter Seidel</author>
+<title>Enhancement of Bright Video Features for HDR Displays.</title>
+<pages>1265-1274</pages>
+<year>2008</year>
+<volume>27</volume>
+<journal>Comput. Graph. Forum</journal>
+<number>4</number>
+<ee>https://doi.org/10.1111/j.1467-8659.2008.01265.x</ee>
+<url>db/journals/cgf/cgf27.html#DidykMHS08</url>
+</article>
+</r>
+<r><inproceedings key="conf/nips/MaierLH08" mdate="2023-01-30">
+<author pid="00/1321-1">Markus Maier 0001</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Influence of graph construction on graph-based clustering measures.</title>
+<pages>1025-1032</pages>
+<year>2008</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2008/hash/0a348ede8ac3768875037baca5de6e26-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/3496-influence-of-graph-construction-on-graph-based-clustering-measures</ee>
+<crossref>conf/nips/2008</crossref>
+<url>db/conf/nips/nips2008.html#MaierLH08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/SteinkeH08" mdate="2021-01-21">
+<author pid="66/4662">Florian Steinke</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Non-parametric Regression Between Manifolds.</title>
+<pages>1561-1568</pages>
+<year>2008</year>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2008/hash/e555ebe0ce426f7f9b2bef0706315e0c-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/3561-non-parametric-regression-between-manifolds</ee>
+<crossref>conf/nips/2008</crossref>
+<url>db/conf/nips/nips2008.html#SteinkeH08</url>
+</inproceedings>
+</r>
+<r><article key="journals/jmlr/HeinAL07" mdate="2022-06-02">
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="01/3781">Jean-Yves Audibert</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Graph Laplacians and their Convergence on Random Neighborhood Graphs.</title>
+<pages>1325-1368</pages>
+<year>2007</year>
+<volume>8</volume>
+<journal>J. Mach. Learn. Res.</journal>
+<ee>https://dl.acm.org/doi/10.5555/1314498.1314544</ee>
+<url>db/journals/jmlr/jmlr8.html#HeinAL07</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/HeinM07" mdate="2023-09-05">
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="00/1321-1">Markus Maier 0001</author>
+<title>Manifold Denoising as Preprocessing for Finding Natural Representations of Data.</title>
+<pages>1646-1649</pages>
+<year>2007</year>
+<crossref>conf/aaai/2007</crossref>
+<booktitle>AAAI</booktitle>
+<url>db/conf/aaai/aaai2007.html#HeinM07</url>
+<ee type="archive">http://www.aaai.org/Library/AAAI/2007/aaai07-264.php</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/alt/MaierHL07" mdate="2023-01-30">
+<author pid="00/1321-1">Markus Maier 0001</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Cluster Identification in Nearest-Neighbor Graphs.</title>
+<pages>196-210</pages>
+<year>2007</year>
+<crossref>conf/alt/2007</crossref>
+<booktitle>ALT</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-75225-7_18</ee>
+<url>db/conf/alt/alt2007.html#MaierHL07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/colt/Hein06" mdate="2017-05-21">
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Uniform Convergence of Adaptive Graph-Based Regularization.</title>
+<pages>50-64</pages>
+<year>2006</year>
+<crossref>conf/colt/2006</crossref>
+<booktitle>COLT</booktitle>
+<ee>https://doi.org/10.1007/11776420_7</ee>
+<url>db/conf/colt/colt2006.html#Hein06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/HeinM06" mdate="2023-01-30">
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="00/1321-1">Markus Maier 0001</author>
+<title>Manifold Denoising.</title>
+<pages>561-568</pages>
+<year>2006</year>
+<crossref>conf/nips/2006</crossref>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2006/hash/a0b83c02d720415dada82e08bc09e9f3-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/2997-manifold-denoising</ee>
+<url>db/conf/nips/nips2006.html#HeinM06</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-math-0608522" mdate="2018-08-13">
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="01/3781">Jean-Yves Audibert</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>Graph Laplacians and their convergence on random neighborhood graphs</title>
+<ee type="oa">http://arxiv.org/abs/math/0608522</ee>
+<year>2006</year>
+<journal>CoRR</journal>
+<volume>abs/math/0608522</volume>
+<url>db/journals/corr/corr0608.html#abs-math-0608522</url>
+</article>
+</r>
+<r><phdthesis key="phd/de/Hein2006" mdate="2021-07-17">
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Geometrical aspects of statistical learning theory.</title>
+<year>2005</year>
+<school>Darmstadt University of Technology, Germany</school>
+<pages>1-153</pages>
+<ee>http://elib.tu-darmstadt.de/diss/000673</ee>
+<ee>https://nbn-resolving.org/urn:nbn:de:tuda-tuprints-6733</ee>
+<ee>https://d-nb.info/979340543</ee>
+<ee>https://d-nb.info/979585090</ee>
+</phdthesis>
+</r>
+<r><article key="journals/jcss/HeinBS05" mdate="2021-02-16">
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="82/2045">Olivier Bousquet</author>
+<author pid="97/119">Bernhard Sch&#246;lkopf</author>
+<title>Maximal margin classification for metric spaces.</title>
+<pages>333-359</pages>
+<year>2005</year>
+<volume>71</volume>
+<journal>J. Comput. Syst. Sci.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.1016/j.jcss.2004.10.013</ee>
+<url>db/journals/jcss/jcss71.html#HeinBS05</url>
+</article>
+</r>
+<r><inproceedings key="conf/aistats/0001B05" mdate="2015-05-06">
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="82/2045">Olivier Bousquet</author>
+<title>Hilbertian Metrics and Positive Definite Kernels on Probability Measures.</title>
+<year>2005</year>
+<booktitle>AISTATS</booktitle>
+<ee>http://www.gatsby.ucl.ac.uk/aistats/fullpapers/142.pdf</ee>
+<crossref>conf/aistats/2005</crossref>
+<url>db/conf/aistats/aistats2005.html#0001B05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/colt/HeinAL05" mdate="2017-05-21">
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="01/3781">Jean-Yves Audibert</author>
+<author pid="06/1082">Ulrike von Luxburg</author>
+<title>From Graphs to Manifolds - Weak and Strong Pointwise Consistency of Graph Laplacians.</title>
+<pages>470-485</pages>
+<year>2005</year>
+<crossref>conf/colt/2005</crossref>
+<booktitle>COLT</booktitle>
+<ee>https://doi.org/10.1007/11503415_32</ee>
+<url>db/conf/colt/colt2005.html#HeinAL05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icml/HeinA05" mdate="2018-11-06">
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="01/3781">Jean-Yves Audibert</author>
+<title>Intrinsic dimensionality estimation of submanifolds in R<sup>d</sup>.</title>
+<pages>289-296</pages>
+<year>2005</year>
+<crossref>conf/icml/2005</crossref>
+<booktitle>ICML</booktitle>
+<ee>https://doi.org/10.1145/1102351.1102388</ee>
+<url>db/conf/icml/icml2005.html#HeinA05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dagm/HeinLB04" mdate="2017-05-21">
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="65/303">Thomas Navin Lal</author>
+<author pid="82/2045">Olivier Bousquet</author>
+<title>Hilbertian Metrics on Probability Measures and Their Application in SVM?s.</title>
+<pages>270-277</pages>
+<ee>https://doi.org/10.1007/978-3-540-28649-3_33</ee>
+<year>2004</year>
+<crossref>conf/dagm/2004</crossref>
+<booktitle>DAGM-Symposium</booktitle>
+<url>db/conf/dagm/dagm2004.html#HeinLB04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/colt/HeinB03" mdate="2017-05-21">
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<author pid="82/2045">Olivier Bousquet</author>
+<title>Maximal Margin Classification for Metric Spaces.</title>
+<pages>72-86</pages>
+<ee>https://doi.org/10.1007/978-3-540-45167-9_7</ee>
+<year>2003</year>
+<crossref>conf/colt/2003</crossref>
+<booktitle>COLT</booktitle>
+<url>db/conf/colt/colt2003.html#HeinB03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/BousquetCH03" mdate="2021-01-21">
+<author pid="82/2045">Olivier Bousquet</author>
+<author pid="05/6290">Olivier Chapelle</author>
+<author pid="97/1213-1">Matthias Hein 0001</author>
+<title>Measure Based Regularization.</title>
+<year>2003</year>
+<crossref>conf/nips/2003</crossref>
+<booktitle>NIPS</booktitle>
+<ee type="oa">https://proceedings.neurips.cc/paper/2003/hash/7884a9652e94555c70f96b6be63be216-Abstract.html</ee>
+<ee type="oa">http://papers.nips.cc/paper/2504-measure-based-regularization</ee>
+<url>db/conf/nips/nips2003.html#BousquetCH03</url>
+<pages>1221-1228</pages>
+</inproceedings>
+</r>
+<coauthors n="110" nc="2">
+<co c="0"><na f="a/Akata:Zeynep" pid="117/4838">Zeynep Akata</na></co>
+<co c="0"><na f="a/Andres:Claudia" pid="15/7618">Claudia Andres</na></co>
+<co c="0"><na f="a/Andriushchenko:Maksym" pid="200/8865">Maksym Andriushchenko</na></co>
+<co c="0"><na f="a/Audibert:Jean=Yves" pid="01/3781">Jean-Yves Audibert</na></co>
+<co c="0"><na f="a/Augustin:Maximilian" pid="210/2432">Maximilian Augustin</na></co>
+<co c="0"><na f="a/Ayhan:Murat_Se=ccedil=kin" pid="17/9078">Murat Se&#231;kin Ayhan</na></co>
+<co c="0"><na f="b/Baumgartner:Christian_F=" pid="131/4782">Christian F. Baumgartner</na></co>
+<co c="0"><na f="b/Benenson:Rodrigo" pid="89/2011">Rodrigo Benenson</na></co>
+<co c="0"><na f="b/Berens:Philipp" pid="78/3560">Philipp Berens</na></co>
+<co c="-1"><na f="b/Bhadra:Sahely" pid="90/2736">Sahely Bhadra</na></co>
+<co c="0"><na f="b/Bitterwolf:Julian" pid="232/1887">Julian Bitterwolf</na></co>
+<co c="0"><na f="b/Boreiko:Valentyn" pid="320/7840">Valentyn Boreiko</na></co>
+<co c="0"><na f="b/Bousquet:Olivier" pid="82/2045">Olivier Bousquet</na></co>
+<co c="0"><na f="b/Brunner:Thomas" pid="28/1307">Thomas Brunner</na></co>
+<co c="0"><na f="b/B=uuml=hler:Thomas" pid="09/5552">Thomas B&#252;hler</na></co>
+<co c="0"><na f="b/Burgeth:Bernhard" pid="73/3799">Bernhard Burgeth</na></co>
+<co c="0"><na f="c/Cemgil:A=_Taylan" pid="41/6613">A. Taylan Cemgil</na></co>
+<co c="0"><na f="c/Chandramoorthy:Nandhini" pid="29/11469">Nandhini Chandramoorthy</na></co>
+<co c="0"><na f="c/Chapelle:Olivier" pid="05/6290">Olivier Chapelle</na></co>
+<co c="0"><na f="c/Chiang:Mung" pid="61/5309">Mung Chiang</na></co>
+<co c="0"><na f="c/Croce:Francesco" pid="52/4288">Francesco Croce</na></co>
+<co c="0"><na f="d/Debenedetti:Edoardo" pid="319/7073">Edoardo Debenedetti</na></co>
+<co c="0"><na f="d/Didyk:Piotr" pid="55/1484">Piotr Didyk</na></co>
+<co c="0"><na f="f/Faber:Hanna" pid="302/5437">Hanna Faber</na></co>
+<co c="0"><na f="f/Ferber:Patrick" pid="230/3785">Patrick Ferber</na></co>
+<co c="0"><na f="f/Flammarion:Nicolas" pid="164/7417">Nicolas Flammarion</na></co>
+<co c="0"><na f="g/Galasso:Fabio" pid="48/3897">Fabio Galasso</na></co>
+<co c="0"><na f="g/Gatidis:Sergios" pid="180/2882">Sergios Gatidis</na></co>
+<co c="0"><na f="g/Gautier_0001:Antoine" pid="06/5632-1">Antoine Gautier 0001</na></co>
+<co c="1"><na f="g/Gerlach:Moritz" pid="271/9005">Moritz Gerlach</na></co>
+<co c="0"><na f="g/Gowal:Sven" pid="75/8368">Sven Gowal</na></co>
+<co c="0"><na f="g/Gregorius:Barbara" pid="92/7250">Barbara Gregorius</na></co>
+<co c="0"><na f="h/Heisel:Sabrina" pid="10/7618">Sabrina Heisel</na></co>
+<co c="0"><na f="h/Heller:Daniel" pid="138/4020">Daniel Heller</na></co>
+<co c="0"><na f="h/Hennig:Philipp" pid="08/9077">Philipp Hennig</na></co>
+<co c="0"><na f="h/Hildebrandt_0001:Andreas" pid="39/2195">Andreas Hildebrandt 0001</na></co>
+<co c="0"><na f="h/Hoffmann_0001:J=ouml=rg" pid="26/836">J&#246;rg Hoffmann 0001</na></co>
+<co c="0" n="2"><na f="h/Hosang:Jan" pid="20/451">Jan Hosang</na><na>Jan Hendrik Hosang</na></co>
+<co c="0"><na f="h/Hua:N=_Grace" pid="329/5797">N. Grace Hua</na></co>
+<co c="0"><na f="h/Huang:Ziwei" pid="247/5059">Ziwei Huang</na></co>
+<co c="0"><na f="h/Hussong:Rene" pid="05/5567">Rene Hussong</na></co>
+<co c="0"><na f="h/Huwer:Hanno" pid="42/7618">Hanno Huwer</na></co>
+<co c="0"><na f="i/Ilanchezian:Indu" pid="242/0824">Indu Ilanchezian</na></co>
+<co c="0"><na f="j/Jakoby:Thomas" pid="123/6172">Thomas Jakoby</na></co>
+<co c="0"><na f="j/Jawanpuria:Pratik" pid="32/9841">Pratik Jawanpuria</na></co>
+<co c="0"><na f="j/Jost:Leonardo" pid="139/0912">Leonardo Jost</na></co>
+<co c="0"><na f="k/Keller:Andreas" pid="29/6542">Andreas Keller</na></co>
+<co c="0"><na f="k/Khoreva:Anna" pid="152/5005">Anna Khoreva</na></co>
+<co c="0"><na f="k/Kim:Kwang_In" pid="49/1431">Kwang In Kim</na></co>
+<co c="0"><na f="k/Klakow:Dietrich" pid="00/1846">Dietrich Klakow</na></co>
+<co c="0"><na f="k/Koch:Lisa_M=" pid="150/7030">Lisa M. Koch</na></co>
+<co c="0"><na f="k/Kristiadi:Agustinus" pid="215/3954">Agustinus Kristiadi</na></co>
+<co c="0"><na f="k/K=uuml=hlewein:Laura" pid="271/8987">Laura K&#252;hlewein</na></co>
+<co c="0"><na f="l/Lal:Thomas_Navin" pid="65/303">Thomas Navin Lal</na></co>
+<co c="0"><na f="l/Lapin:Maksim" pid="73/10391">Maksim Lapin</na></co>
+<co c="0"><na f="l/Leidinger:Petra" pid="96/7617">Petra Leidinger</na></co>
+<co c="0"><na f="l/Lenhof:Hans=Peter" pid="l/HPLenhof">Hans-Peter Lenhof</na></co>
+<co c="0"><na f="l/Li_0001:Ping" pid="62/5860-1">Ping Li 0001</na></co>
+<co c="0"><na f="l/Ludwig_0001:Nicole" pid="43/5514">Nicole Ludwig 0001</na></co>
+<co c="0"><na f="l/Lugosi:G=aacute=bor" pid="70/3715">G&#225;bor Lugosi</na></co>
+<co c="0"><na f="l/Lutsik:Pavlo" pid="01/11254">Pavlo Lutsik</na></co>
+<co c="0"><na f="l/Luxburg:Ulrike_von" pid="06/1082">Ulrike von Luxburg</na></co>
+<co c="0"><na f="m/Maier_0001:Markus" pid="00/1321-1">Markus Maier 0001</na></co>
+<co c="0"><na f="m/Mantiuk:Rafal" pid="41/1369">Rafal Mantiuk</na></co>
+<co c="0"><na f="m/Meese:Eckart" pid="61/6672">Eckart Meese</na></co>
+<co c="0"><na f="m/Meinke:Alexander" pid="249/5767">Alexander Meinke</na></co>
+<co c="0"><na f="m/Mercado_0001:Pedro" pid="14/9077-1">Pedro Mercado 0001</na></co>
+<co c="0"><na f="m/Metzen:Jan_Hendrik" pid="93/1712">Jan Hendrik Metzen</na></co>
+<co c="0"><na f="m/Mittal:Prateek" pid="39/6266">Prateek Mittal</na></co>
+<co c="0"><na f="m/Morshuis:Jan_Nikolas" pid="326/2241">Jan Nikolas Morshuis</na></co>
+<co c="0"><na f="m/Mosbach:Marius" pid="228/8380">Marius Mosbach</na></co>
+<co c="0"><na f="m/Mudrakarta:Pramod_Kaushik" pid="155/1876">Pramod Kaushik Mudrakarta</na></co>
+<co c="0"><na f="m/Mukkamala:Mahesh_Chandra" pid="202/2499">Mahesh Chandra Mukkamala</na></co>
+<co c="0"><na f="m/M=uuml=ller:Maximilian" pid="150/1874">Maximilian M&#252;ller</na></co>
+<co c="0"><na f="m/M=uuml=ller:Sarah" pid="155/1280">Sarah M&#252;ller</na></co>
+<co c="0"><na f="n/Neuhaus:Yannic" pid="336/2784">Yannic Neuhaus</na></co>
+<co c="0" n="2"><na f="n/Nguyen_0001:Quynh" pid="159/1133-1">Quynh Nguyen 0001</na><na>Quynh Nguyen Ngoc</na></co>
+<co c="0"><na f="o/Omran:Mohamed" pid="154/6713">Mohamed Omran</na></co>
+<co c="0"><na f="p/Peters_0001:Jan" pid="p/JanPeters1">Jan Peters 0001</na></co>
+<co c="0"><na f="p/Podosinnikova:Anastasia" pid="152/5033">Anastasia Podosinnikova</na></co>
+<co c="0"><na f="r/Radl:Agnes" pid="36/5759">Agnes Radl</na></co>
+<co c="0"><na f="r/Rangapuram:Syama_Sundar" pid="30/11348">Syama Sundar Rangapuram</na></co>
+<co c="0"><na f="r/Rauber:Jonas" pid="202/2268">Jonas Rauber</na></co>
+<co c="0"><na f="r/Rolnick:David" pid="37/10718">David Rolnick</na></co>
+<co c="0"><na f="r/Rosasco:Lorenzo" pid="01/6788">Lorenzo Rosasco</na></co>
+<co c="0"><na f="s/Sakmann:Kaspar" pid="177/0713">Kaspar Sakmann</na></co>
+<co c="0"><na f="s/Schiele:Bernt" pid="s/BerntSchiele">Bernt Schiele</na></co>
+<co c="-1"><na f="s/Schlarmann:Christian" pid="355/2229">Christian Schlarmann</na></co>
+<co c="0"><na f="s/Sch=ouml=lkopf:Bernhard" pid="97/119">Bernhard Sch&#246;lkopf</na></co>
+<co c="0"><na f="s/Sehwag:Vikash" pid="187/5613">Vikash Sehwag</na></co>
+<co c="0"><na f="s/Seidel:Hans=Peter" pid="s/HansPeterSeidel">Hans-Peter Seidel</na></co>
+<co c="0"><na f="s/Setzer:Simon" pid="13/3835">Simon Setzer</na></co>
+<co c="0"><na f="s/Sharma_0004:Gaurav" pid="s/GauravSharma4">Gaurav Sharma 0004</na></co>
+<co c="0"><na f="s/Shelhamer:Evan" pid="150/6541">Evan Shelhamer</na></co>
+<co c="0"><na f="s/Singh:Naman_D=" pid="230/3694">Naman D. Singh</na></co>
+<co c="0"><na f="s/Slawski:Martin" pid="96/7102">Martin Slawski</na></co>
+<co c="1"><na f="s/Slepcev:Dejan" pid="34/9226">Dejan Slepcev</na></co>
+<co c="0" n="2"><na f="s/Smale:Stephen" pid="36/2147">Stephen Smale</na><na>Steve Smale</na></co>
+<co c="0"><na f="s/Steinke:Florian" pid="66/4662">Florian Steinke</na></co>
+<co c="0"><na f="s/Steudel:Wolf=Ingo" pid="94/7617">Wolf-Ingo Steudel</na></co>
+<co c="0"><na f="s/Stutz:David" pid="17/9394">David Stutz</na></co>
+<co c="0"><na f="t/Tholey:Andreas" pid="05/1476">Andreas Tholey</na></co>
+<co c="1"><na f="t/Trillos:Nicol=aacute=s_Garc=iacute=a" pid="154/6448">Nicol&#225;s Garc&#237;a Trillos</na></co>
+<co c="0"><na f="t/Trost:Thomas_Alexander" pid="211/9880">Thomas Alexander Trost</na></co>
+<co c="0"><na f="t/Tudisco:Francesco" pid="136/5777">Francesco Tudisco</na></co>
+<co c="0"><na f="v/Vlaar:Tiffany" pid="248/2062">Tiffany Vlaar</na></co>
+<co c="-1"><na f="v/Vor=aacute=cek:V=aacute=clav" pid="292/8831">V&#225;clav Vor&#225;cek</na></co>
+<co c="0"><na f="w/Weickert:Joachim" pid="w/JoachimWeickert">Joachim Weickert</na></co>
+<co c="0"><na f="x/Xian:Yongqin" pid="177/9313">Yongqin Xian</na></co>
+<co c="0"><na f="y/Yatsura:Maksym" pid="284/8781">Maksym Yatsura</na></co>
+</coauthors>
+</dblpperson>
+
