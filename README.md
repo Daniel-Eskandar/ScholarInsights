@@ -52,4 +52,4 @@
 
 ## 4.6 Research Space Analysis combined with Professor Cooperation Count
 
-![](analysis/plots/researche_space_network.gif)
+![](analysis/plots/research_space_network.gif)
