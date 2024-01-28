@@ -1,4 +1,0 @@
-id;nodes;padding
-g0;["id0","id1","id8","id9","id15"];8
-g3;["id5","id11"];8
-g8;["id2","id3","id6","id7","id10","id12","id13","id14","id17","id18","id19","id20","id21","id22","id23","id24","id25","id26"];8
