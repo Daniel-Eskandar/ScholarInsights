@@ -10,7 +10,7 @@
 
 ![](plt/PublicationsPerProfessor/PublicationsPerProfessor.gif)
 
-### Number of Publiations by Research Field
+### Number of Publications by Research Field
 
 ![](plt/PublicationsPerProfessorPerResearchFields/PublicationsPerProfessorPerResearchFields.gif)
 
