@@ -1,4 +1,5 @@
-# From Titles to Insights: Uncovering Tübingen's Machine Learning Research Network and Themes
+# Decoding Academic Departments: A Publication-Centric Methodology
+## Uncovering Tübingen's Machine Learning Research Network and Themes
 
 ## Professor Analysis
 
