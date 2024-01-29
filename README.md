@@ -30,6 +30,9 @@ The methodology for the analysis can be summarized as:
 **2. Paper Title Classification & Research Space Visualization**
 - Combining keyword-based classification of paper titles into research fields with the construction of a 2D research space using TF-IDF and t-SNE for dimensionality reduction, to visualize the evolution of research topics.
 
+![](doc/fig/fig_method.pdf)
+
+
 For more detailed information on each step of the methodology, please refer to the full paper available in this repository.
 
 
