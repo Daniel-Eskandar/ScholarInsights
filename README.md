@@ -1,9 +1,5 @@
 # From Titles to Insights: Uncovering Tübingen's Machine Learning Research Network and Themes
 
-## Research Space
-
-![](plt/ResearchSpace/ResearchSpace.gif)
-
 ## Professor Analysis
 
 ### Number of Publications
@@ -14,3 +10,6 @@
 
 ![](plt/PublicationsPerProfessorPerResearchFields/PublicationsPerProfessorPerResearchFields.gif)
 
+## Research Space
+
+![](plt/ResearchSpace/ResearchSpace.gif)
