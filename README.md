@@ -38,7 +38,7 @@ For more detailed information on each step of the methodology, please refer to t
 
 
 
-## Additional Plots Excluded from the Main Report
+## Additional Interesting Plots Excluded from the Main Report
 
 ### Research Space
 This plot represents a timeline-based visualization of the department's research themes, highlighting shifts in academic focus among professors over time.
