@@ -21,6 +21,11 @@ the group.
 
 ## Professor Analysis
 
+### Research Space
+This plot represents a timeline-based visualization of the department's research themes, highlighting shifts in academic focus among professors over time.
+![](plt/ResearchSpace/ResearchSpace.gif)
+
+
 
 ### Number of Publications per scholar
 ![](plt/PublicationsPerProfessor/PublicationsPerProfessor.gif)
@@ -29,6 +34,4 @@ the group.
 
 ![](plt/PublicationsPerProfessorPerResearchFields/PublicationsPerProfessorPerResearchFields.gif)
 
-### Research Space
-This plot represents a timeline-based visualization of the department's research themes, highlighting shifts in academic focus among professors over time.
-![](plt/ResearchSpace/ResearchSpace.gif)
+
