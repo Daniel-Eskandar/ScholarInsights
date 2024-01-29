@@ -19,12 +19,22 @@ the group.
 - `plt`: [Contains figures for visualizations over the time of the department]
 
 
+## Methodology Overview
+
+The methodology for the analysis can be summarized as:
+
+
+**1. Data Metrics & Co-authorship Analysis**
+- Straightforward analysis of publication and co-authorship data to map collaborative networks and academic output.
+
+**2. Paper Title Classification & Research Space Visualization**
+- Combining keyword-based classification of paper titles into research fields with the construction of a 2D research space using TF-IDF and t-SNE for dimensionality reduction, to visualize the evolution of research topics.
+
+For more detailed information on each step of the methodology, please refer to the full paper available in this repository.
+
+
+
 ## Professor Analysis
-
-### Research Space
-This plot represents a timeline-based visualization of the department's research themes, highlighting shifts in academic focus among professors over time.
-![](plt/ResearchSpace/ResearchSpace.gif)
-
 
 
 ### Number of Publications per scholar
@@ -33,5 +43,12 @@ This plot represents a timeline-based visualization of the department's research
 ### Number of Publications by Research Field
 
 ![](plt/PublicationsPerProfessorPerResearchFields/PublicationsPerProfessorPerResearchFields.gif)
+
+### Research Space
+This plot represents a timeline-based visualization of the department's research themes, highlighting shifts in academic focus among professors over time.
+![](plt/ResearchSpace/ResearchSpace.gif)
+
+
+
 
 
