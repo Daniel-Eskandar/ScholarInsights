@@ -1,28 +1,28 @@
 Research Field,id,name
-Computer Vision,id0,Geiger
-Computer Vision,id1,Schilling
-Machine Learning,id2,Zell
-Machine Learning,id3,Schoelkopf
-Web Information Retrieval,id4,Eickhoff
-Human-Computer Interaction,id5,Kasneci
-Machine Learning,id6,Wichmann
-Machine Learning,id7,Martius
-Computer Vision,id8,Pons-Moll
-Computer Vision,id9,Lensch
-Machine Learning,id10,Macke
-Human-Computer Interaction,id11,Kuchenbecker
-Machine Learning,id12,Butz
-Machine Learning,id13,Bethge
-Machine Learning,id14,Hein
-Computer Vision,id15,Black
-Visualization,id16,Krone
-Machine Learning,id17,Pfeifer
-Machine Learning,id18,Bringmann
-Machine Learning,id19,Ochs
-Machine Learning,id20,Berens
-Machine Learning,id21,Hennig
-Machine Learning,id22,Williamson
-Machine Learning,id23,Oh
-Machine Learning,id24,Maghsudi
-Machine Learning,id25,Luxburg
-Machine Learning,id26,Akata
+Computer Vision,id0,Geiger 10%
+Computer Vision,id1,Schilling 2%
+Machine Learning,id2,Zell 2%
+Machine Learning,id3,Schoelkopf 8%
+Web Information Retrieval,id4,Eickhoff 0%
+Human-Computer Interaction,id5,Kasneci 6%
+Machine Learning,id6,Wichmann 70%
+Machine Learning,id7,Martius 15%
+Computer Vision,id8,Pons-Moll 15%
+Computer Vision,id9,Lensch 6%
+Machine Learning,id10,Macke 37%
+Human-Computer Interaction,id11,Kuchenbecker 4%
+Machine Learning,id12,Butz 6%
+Machine Learning,id13,31% Bethge
+Machine Learning,id14,15% Hein
+Computer Vision,id15,10% Black
+Visualization,id16,0% Krone
+Machine Learning,id17,3% Pfeifer
+Machine Learning,id18,3% Bringmann
+Machine Learning,id19,0% Ochs
+Machine Learning,id20,44% Berens
+Machine Learning,id21,15% Hennig
+Machine Learning,id22,8% Williamson
+Machine Learning,id23,14% Oh
+Machine Learning,id24,1% Maghsudi
+Machine Learning,id25,24% Luxburg
+Machine Learning,id26,12% Akata
